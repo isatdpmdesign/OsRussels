@@ -86,15 +86,25 @@ Aurora não respondeu logo. A vela tremeu uma vez. Ela passou o polegar pela man
 
 — Por quê?
 
-— Porque eu queria saber se você ia pegar o livro que eu indiquei. Eu não sabia se ia ou se não ia. Achei que se você pegasse, era um tipo de coisa. Se não pegasse, era outro.
+Josh começou e parou. A boca se mexeu antes da voz sair.
 
-— E quando ouvi você pegar, foi qual tipo?
+— Porque o livro era um teste. Não pra você. Pra mim.
 
-Josh hesitou.
+— Como assim.
 
-— Foi um tipo que eu não soube nomear na hora. Hoje sei.
+— Se você pegasse, eu ia saber que você tinha visto o gesto. O queixo. O capítulo nove. Que não tinha varrido aquilo da cabeça em três segundos. Que eu — a frase travou. Ele recomeçou. — Que eu, de algum jeito, contava. Pouco. Mas contava.
 
-— Por que você não perguntou.
+Aurora não disse nada. Esperou.
+
+— E se eu não pegasse.
+
+— Eu era móvel da casa. Cadeira no canto. Coisa que ninguém precisa olhar pra saber que está ali. — A vela tremeu. — Você não teria visto. Não teria precisado.
+
+— E você ficou no quarto esperando descobrir qual dos dois.
+
+— Eu fiquei.
+
+— Por que você não desceu e perguntou.
 
 — Porque não me cabia perguntar.
 
