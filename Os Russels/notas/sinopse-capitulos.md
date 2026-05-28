@@ -122,9 +122,37 @@ Continuação direta do Cap 18. Sala de estar, madrugada. Josh desce (não dorme
 
 ---
 
-## Cap 20 — manhã seguinte (planejado, não escrito)
+## Cap 20 — A manhã seguinte (Josh)
 
-Consequências do beijo. POV a definir.
+POV Josh. Manhã do dia seguinte ao beijo. **Vergonha interna do Josh** em relação a Raj — Raj não sabe de nada, mas a integridade do Josh sente o peso da Primeira Parede violada. Evita o café. Vai pra biblioteca cedo, no horário canônico dele *("manhãs na biblioteca", Cap 9:13)*, abafado por uma estante. **Raj e Eleonora invadem o espaço:** a discussão começou em outro cômodo (provavelmente o escritório ou o corredor) e foi parar ali — Eleonora confronta Raj sobre as próximas semanas. Visitas vindouras, **dívida do naufrágio**, pressão de **Lindberg**, urgência de tirar Aurora de casa. Cogitam a casa dos **Mortensen** — descartado (Erik afastado desde Cap 16, e ainda assim seria mal falado moça sem compromisso firmado na casa do pretendente). Eleonora levanta a voz. Josh percebe que está ouvindo. Recua eticamente. **Porta range no recuo.** Raj: *"Quem está aí?"* Josh aparece — íntegro, não foge. **Raj transforma a escuta em moeda de troca:** decide ali mandar Aurora pra Sorø com Josh — agora Josh já sabe, não precisa explicar a mais ninguém. Pergunta se Casandra pode receber **duas damas** (Aurora + Vibeke), se o ambiente é seguro (irmãos). Josh: ninguém colocaria a mão em Aurora — pensa em Dylan (o mais atrevido) mas garante. **Eleonora demonstra desconforto a Raj** — sem o que fazer, sem como impedir. A mãe pressente algo que não consegue nomear *(canônico: "atenta mas sem alarme", Cap 9:155; "observação armazenada para uso futuro", Cap 13:99; "informação anotada, plano em revisão", Cap 17:179)*. Raj não capta o motivo do desconforto da esposa.
+
+**Detalhes canônicos novos:** Casa vai receber visitas em razão da dívida e da negociação com Lindberg. Aurora não pode saber da dívida. Faltam ~6 semanas para o início das aulas na universidade (outubro).
+
+---
+
+## Cap 21 — A viagem (Aurora)
+
+POV Aurora. Anúncio da viagem pra Sorø. Raj usa um pretexto inócuo (Casandra convidou, ar de campo depois da temporada). Aurora **adora a notícia** mas **não demonstra** — Aurora de porcelana intacta pra fora. Eleonora observa a filha com a atenção de sempre. Vibeke empolgada. Preparativos. Partida na manhã seguinte. Carruagem até Roskilde, depois charrete até a propriedade dos Russel. Chegada ao fim do dia.
+
+---
+
+## Cap 22 — A fazenda (Aurora)
+
+POV Aurora. **Casandra** recebe — viúva séria, calorosa, simples. **Joseph** assume a cadeira do pai à mesa, braços cruzados, expressão controlada. **Meridiana** — Aurora vira amiga imediata; cheiro de maçã e terra molhada; cuida do pomar; fala com as árvores. **Dylan** (19) diz o que pensa, riso seco como o do pai, chuta a porteira do celeiro. **Matias** (16) caçula, faz perguntas profundas, não disfarça emoções. Aurora bem recebida — tudo simples, tudo com muito amor. Aurora vê **Josh "da terra"** pela primeira vez: pés descalços na grama, calças dobradas, camisa aberta, mãos calejadas, botas surradas, cabelo desgrenhado pelo vento. **Como ele é perfeito no ambiente natural dele** — versão dele que Aurora nunca tinha visto.
+
+---
+
+## Cap 23 — O lago (Aurora)
+
+POV Aurora. Aurora caminhando com Meridiana à beira de um lago na propriedade. Aurora se desequilibra e cai no **lado fundo**. Começa a se afogar, grita por socorro. **Meridiana chama ajuda desesperadamente.** **Josh larga o que está fazendo, pula no lago**, pega Aurora no colo, sai carregando. Os dois molhados, roupas marcando o corpo. Cena sensorial sustentada pelo perigo real. Aurora **resfria** depois. **Casandra faz chás.** Meridiana cede o quarto pra Aurora e Vibeke e dorme com a mãe. **Vibeke ausente do quarto no início da noite.** **Josh leva chá pra Aurora.** Aurora pede pra ele ouvir o coração dela; põe a mão dele entre os seios. **Josh recusa** (Primeira Parede ainda de pé — está na casa da mãe, com Aurora hospedada em confiança do Raj). Mas cede ao **beijo** — agora com **amassos sensoriais**, fisicamente além do Cap 19. **Para antes do limite mais íntimo.** Sai. Aurora fica.
+
+---
+
+## Cap 24 — A carta (Aurora / Josh — POV alternado ou a definir)
+
+Volta a Copenhague. Aurora descobre pelos pais que **vai casar com um homem desconhecido e mais velho** (provavelmente **Lindberg** ou alguém da rede dele — solução desesperada do Raj pra fechar a dívida do naufrágio). Aurora **pede socorro a Josh**. **Josh se declara** — diz que está apaixonado por ela desde a primeira vez que a viu, que **queima por ela** há cinco meses. Decide **abrir a carta selada da Casandra** (canônico — nunca abriu desde a chegada). Descobre o conteúdo: cobrança formal da sociedade comercial entre **Henrik e Raj dos anos 1810**, dinheiro que Raj guardou por mais de uma década, agora cobrado pela Casandra para garantir autonomia financeira de Josh. Tom frio, contábil, com números. **Não menciona Aurora.** Josh autoriza Raj a ler. Raj lê, empalidece, devolve: *"leia você também."* Josh **chama Raj e Eleonora juntos**. Coloca a carta na mesa. **Oferece o dinheiro pra quitar a parte que esse valor cobre.** Pede a mão de Aurora em compromisso público. Raj diz que **não cobre tudo**. **Eleonora, por iniciativa própria, oferece vender as joias Bjerg** (colares, broches, âmbar herdados da mãe) pra cobrir o restante — **pela primeira vez na vida toma uma decisão prática**. Lindberg envia carta cordial de retirada quando recebe a quitação — mas **não esquece** (gancho pro Livro 2). **Aurora e Josh noivam.**
+
+*Observação:* O Cap 24 está denso. Pode acabar virando **dois capítulos** na escrita — corte natural depois da abertura da carta ou depois da declaração do Josh.
 
 ---
 
@@ -138,3 +166,6 @@ Consequências do beijo. POV a definir.
 - **A festa do celeiro na Christianshavn** — senha entre Aurora e Josh para o quase-beijo do Cap 15
 - **Erik Mortensen afastado cordialmente** desde Cap 16 — não tenta mais aproximação
 - **Vibeke Bjerg ingênua** sobre a manobra Karoline-Eleonora
+- **Carta selada da Casandra a Raj** — Josh trouxe na chegada e nunca abriu; cobrança contábil da sociedade Henrik-Raj dos anos 1810; entra em cena no Cap 24
+- **Eleonora atenta mas sem alarme** — registra tudo, armazena pra uso futuro, age tarde (refs Cap 9:155, Cap 13:99, Cap 17:179)
+- **Calendário canônico:** Caps 14-19 acontecem em agosto / aulas na universidade começam em outubro

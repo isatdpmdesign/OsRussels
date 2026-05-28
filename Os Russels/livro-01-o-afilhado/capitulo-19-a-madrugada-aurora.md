@@ -62,8 +62,6 @@ Josh entrou. Não falou. Pousou a vela apagada na mesa lateral, ao lado da que A
 
 Josh ficou em silêncio por um segundo. Aurora viu o canto da boca dele subir só um pouco antes de responder, com aquela cautela de quem está oferecendo uma informação que poderia magoar.
 
-Josh ficou em silêncio por um segundo. Aurora viu o canto da boca dele subir só um pouco antes de responder, com aquela cautela de quem está oferecendo uma informação que poderia magoar.
-
 — Aarav lia Oehlenschläger no jardim. Seu pai me contou uma noite, no começo. Disse que tinha sido o poeta preferido do filho. Me emprestou um volume pra eu ler, do escritório. Eu gostei. Quando devolvi, o seu pai me disse que outro volume do mesmo poeta tinha sumido da estante dele duas semanas depois de a notícia do navio chegar. Não disse quem ele achava que tinha levado. — Josh olhou pro livro no colo de Aurora. — Acho que esse é o que sumiu.
 
 Aurora não respondeu logo. A vela tremeu uma vez. Ela passou o polegar pela mancha de tinta na primeira página, devagar, sem pensar.
@@ -86,25 +84,37 @@ Aurora não respondeu logo. A vela tremeu uma vez. Ela passou o polegar pela man
 
 — Por quê?
 
-— Porque eu queria saber se você ia pegar o livro que eu indiquei. Eu não sabia se ia ou se não ia. Achei que se você pegasse, era um tipo de coisa. Se não pegasse, era outro.
+Josh começou e parou. A boca se mexeu antes da voz sair.
 
-— E quando ouvi você pegar, foi qual tipo?
+— Porque me importava saber se você pegaria o livro que indiquei.
 
-Josh hesitou.
+— É? Porque é relevante eu me interessar pelo livro que você indicou?
 
-— Foi um tipo que eu não soube nomear na hora. Hoje sei.
+— Eu gosto de cuidar das pessoas, Aurora. Sempre cuidei. E te ver chorando me deu vontade de te ajudar. Mas você quase não me olhava naquela época. O livro foi o jeito que eu achei.
 
-— Por que você não perguntou.
+— Se você pegasse, significaria que eu, de algum jeito, era relevante pra você.
 
-— Porque não me cabia perguntar.
+Aurora não disse nada. Esperou.
+
+— E se eu não pegasse?
+
+— Significaria que você não me notava.
+
+— E você não quis saber por que eu chorava?
+
+— Sim, é claro que eu queria saber. Mas não me cabia perguntar. Mesmo que eu já desconfiasse.
 
 Aurora pousou a mão sobre a página trinta e sete, com cuidado, como quem fecha uma janela sem querer fazer barulho. Não fechou o livro. Só pousou.
 
-— Você nunca pergunta o que não te cabe perguntar, Josh.
+— Mas talvez, se perguntasse, eu teria contado.
+
+— Ou teria me dito que não era da minha conta — ele deu uma risadinha curta. — Digo, você não era das mais receptivas naquela época.
+
+— Sim — Aurora riu. — Mas você nunca entra em assuntos que julga não lhe caber, não é?
 
 — É.
 
-— Por isso a gente está nesta sala de estar a essa hora.
+— Você não pergunta o que não te cabe. Mas eu pergunto. Por que você desceu hoje?
 
 Ele encarou-a por um segundo. Não respondeu de imediato. Aurora viu o queixo dele se contrair e relaxar — o gesto pequeno que ele fazia quando estava engolindo uma frase de volta para dentro porque tinha decidido, naquele meio segundo, que ainda não era a hora de soltá-la.
 
