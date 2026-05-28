@@ -234,6 +234,8 @@ Josh ficou olhando para ela. Por uma vez não procurou a saída segura, não des
 
 Foi a coisa mais longa que ele tinha dito desde que ela descera, e Aurora recebeu cada palavra sem interromper. Quando ele terminou, ela assentiu uma vez, devagar. Não era concordância. Era recebimento.
 
+Por um instante nenhum dos dois se mexeu. A vela estava quase no fim, e a cozinha tão silenciosa que dava pra ouvir a cera escorrer. Entre os dois havia menos de um metro de assoalho frio e a madrugada inteira ainda quente no ar. Josh olhou para a boca dela — uma vez, meio segundo, o tempo exato de saber que tinha olhado — e desviou para o ponto seguro acima do ombro dela. Bastava um passo. Ele sabia o número, sabia que era um, e sabia que não ia dar. Aprendeu, ali parado, que querer e não fazer ocupavam o corpo inteiro ao mesmo tempo, e que isso pesava, e que o peso era dele para carregar sozinho.
+
 A porta da frente abriu às seis e dezessete. Helle. Os dois ouviram o ruído. Aurora levantou-se primeiro, pegou a caneca, lavou no balde, virou de boca para baixo no escorredor. Josh fez o mesmo.
 
 — Vou subir — disse Aurora. — Antes de a Helle chegar na cozinha.
@@ -242,7 +244,7 @@ A porta da frente abriu às seis e dezessete. Helle. Os dois ouviram o ruído. A
 
 Ela passou perto dele na saída.
 
-Não o tocou. Mas passou perto o suficiente para o cheiro dela chegar — jasmim e canela, aquele cheiro que não combinava com a Dinamarca, nem com agosto, nem com nada que Josh conhecesse antes de chegar à Bredgade, e que tinha grudado na memória dele desde o primeiro dia como tinta em tecido branco. Naquela manhã o cheiro veio mais fundo, mais quente, misturado ao morno da cama que ela tinha acabado de deixar. Josh fechou os olhos por meio segundo. Foi involuntário. Foi o corpo decidindo antes da cabeça, do mesmo jeito que o corpo dele sempre decidia perto dela. Quando abriu os olhos, ela já tinha passado, e o que sobrava era o rastro do cheiro no ar da cozinha e a certeza, instalada em algum lugar abaixo das costelas, de que duas semanas inteiras sob o mesmo teto que aquele cheiro ia ser a coisa mais difícil que ele já tinha feito.
+Não o tocou. Mas passou perto o suficiente para o cheiro dela chegar — jasmim e canela, aquele cheiro que não combinava com a Dinamarca, nem com agosto, nem com nada que Josh conhecesse antes de chegar à Bredgade, e que tinha grudado na memória dele desde o primeiro dia como tinta em tecido branco. Naquela manhã o cheiro veio mais fundo, mais quente, misturado ao morno da cama que ela tinha acabado de deixar. Josh fechou os olhos por meio segundo. Foi o corpo decidindo antes da cabeça, do jeito que o corpo dele sempre decidia perto dela — e o que o corpo queria, naquele escuro de pálpebra, era simples e inteiro: virar, alcançar o pulso dela antes que cruzasse a porta, puxá-la de volta e recomeçar o que a madrugada tinha começado. Sem a Helle a caminho. Sem caneca, sem mesa, sem um palmo de distância no meio. Ele não virou. Ficou de costas para a porta, as mãos abertas ao longo do corpo, e deixou o cheiro dela esfumar no ar da cozinha. Antes daquela madrugada ele só tinha imaginado a Aurora. Agora tinha provado. E provar, ele estava descobrindo ali, parado, era muito pior do que imaginar — porque o que a gente imagina, a gente ainda consegue negar. O que o corpo já sabe de cor, não.
 
 Aurora saiu.
 
@@ -300,17 +302,17 @@ Josh, no canto da estante, fechou os olhos por um segundo. Estava ouvindo coisas
 
 — Por quê? O Erik visita às quartas. A família é boa. A Ingrid é a coisa mais próxima de uma amiga que a Aurora tem.
 
-— Por isso mesmo. — Eleonora foi paciente, mas firme. — O Erik é pretendente, Raj, e não há nada firmado entre ele e a Aurora. Ele visita, dança, conversa, mas não pediu, e ela não aceitou nada, porque você sabe tão bem quanto eu que a Aurora não vai aceitar o Erik. Se a gente manda a nossa filha solteira pra dormir duas semanas debaixo do mesmo teto que o pretendente, sem compromisso firmado, com os pais dele em Aabenraa metade do tempo, a cidade inteira vai ler de uma das duas formas: ou que estamos empurrando o noivado goela abaixo, ou que houve um motivo urgente pra tirar a Aurora de casa às pressas. As duas leituras são venenosas. Uma humilha a Aurora. A outra te denuncia.
+— Por isso mesmo. — A voz da Eleonora não subiu; afiou. — O Erik é pretendente sem nada firmado. Visita, dança, não pediu, e ela não vai aceitar, e você sabe disso tão bem quanto eu. Manda a nossa filha solteira dormir duas semanas sob o teto do pretendente, com os pais dele em Aabenraa metade do tempo, e a cidade lê de um de dois jeitos: ou estamos enfiando o noivado goela abaixo, ou tiramos a Aurora de casa às pressas por algum motivo. Uma leitura humilha ela. A outra te denuncia. As duas são veneno.
 
 Silêncio. Josh ouviu o Raj absorver aquilo.
 
 — Lundgren — disse ele.
 
-— A Senhora Lundgren me adora desde os oito anos e tem três filhas casadeiras e nenhum espaço pra uma quarta moça na casa. Além disso a casa dos Lundgren fica a vinte minutos da Bredgade. A Aurora estaria a vinte minutos do Lindberg. Não é distância, Raj. É espelho.
+— A Lundgren me adora, mas tem três filhas casadeiras e nenhum canto pra uma quarta moça. E fica a vinte minutos da Bredgade. A Aurora estaria a vinte minutos do Lindberg. Não é distância, Raj. É espelho.
 
 — A Karoline.
 
-— A Karoline. — Eleonora soltou o ar. — A Karoline me mandou a Vibeke não pra eu casar a menina, que a menina já está praticamente comprometida com o tal do Lauritz Brandt. Mandou pra Vibeke conhecer outros rapazes antes de fechar o noivado, porque a Karoline, no fundo, não gosta do Lauritz e tem esperança de que a filha apareça aqui e se encante por outro. Esse é o acordo. Agora, se eu devolvo a Vibeke pra Viborg com a Aurora a tiracolo, no meio da temporada, sem explicação que se sustente, a Karoline vai entender na hora que aconteceu alguma coisa grave nesta casa. E a Karoline, Raj, não guarda segredo nem da própria sombra. Em uma semana metade da Jutlândia está comentando que os Svensson esconderam a filha em algum canto, e a outra metade está tentando adivinhar o motivo.
+— A Karoline. — Eleonora soltou o ar. — A Karoline me mandou a Vibeke pra conhecer outros rapazes antes de fechar o noivado com o tal do Lauritz Brandt, que ela não engole. Esse é o acordo. Se eu devolvo a Vibeke pra Viborg com a Aurora a tiracolo, no meio da temporada, sem explicação que se sustente, a Karoline entende na hora que aconteceu coisa grave aqui. E a Karoline não guarda segredo nem da própria sombra. Em uma semana, metade da Jutlândia está adivinhando o motivo.
 
 — Então — disse Raj, com o tom de quem está chegando perto da última carta — o que sobra.
 
@@ -330,7 +332,7 @@ Quando respondeu, foi com um tom que Josh decifrou na hora, porque cinco meses e
 
 — A propriedade da Casandra. Duas semanas. A Aurora e a Vibeke juntas, a Vibeke como acompanhante natural. A Casandra recebe as duas como sobrinhas. O Josh acompanha. O pretexto se sustenta sozinho: convite de campo da Casandra, minha amiga de longa data, ar puro depois da temporada. A casa fica livre aqui. Eu negocio com o Lindberg sem a Aurora ouvir uma palavra. Em duas semanas elas voltam, e a Aurora não soube de nada.
 
-Pausa.
+Atrás da estante, Josh esqueceu de respirar. As palavras chegaram fora de ordem — duas semanas, o Josh acompanha, a Casandra recebe as duas — e levaram um instante inteiro para se juntarem no sentido que ele não queria que tivessem. A Aurora ia para a Sorø. Para a casa dele. Para debaixo do telhado de palha onde ele era o filho do meio e não o aluno do Raj, onde se andava descalço e se falava alto e não havia uma única parede de cidade atrás da qual se esconder. E ele junto. Duas semanas. A parte dele que devia sentir pavor sentiu na hora, limpa e inteira: era a pior coisa que os dois podiam ter decidido, e tinham decidido sem fazer ideia do que decidiam. Mas debaixo do pavor, no mesmo segundo, antes que ele tivesse tempo de proibir, subiu outra coisa — quente, sem vergonha, viva. A mesma coisa que ele tinha passado a madrugada inteira jurando à Aurora que continuava trancada atrás de paredes de pé. Essa coisa ouviu "duas semanas" e não sentiu pavor nenhum. Essa coisa teve vontade de sorrir, e Josh, no escuro atrás da estante, precisou apertar o maxilar para não deixar.
 
 — Raj.
 
@@ -500,7 +502,7 @@ Escreveu.
 
 *Diga ao Joseph que a casa vai ter visita longa. Diga ao Dylan, da minha parte, que eu vou estar de olho. Diga ao Matias que separe a coleção do papai. E diga à Meridiana que eu já contei pra alguém sobre a Berta — e que essa alguém não riu.*
 
-*Eu não estou bem. Mas estou de pé, e estou indo pra casa, e tem muito tempo que eu não escrevo essas duas coisas na mesma frase.*
+*Não vou mentir pra senhora dizendo que está tudo certo — a senhora leria a mentira daqui mesmo. Vou dizer só o que é verdade inteira: por mais pesado que ande, eu estou de pé, e estou indo pra casa. Faz tempo demais que eu não conseguia pôr essas duas coisas na mesma linha.*
 
 *Do seu filho do meio,*
 
