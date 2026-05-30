@@ -116,7 +116,7 @@ Eleonora olhou para o marido. Raj olhou para a cadeira vazia. Ninguém disse nad
 
 *
 
-O jardim dos Svensson era um retângulo generoso de verde e pedra nos fundos do casarão, protegido por muros altos cobertos de hera que garantiam privacidade em relação aos vizinhos e ao mundo. No centro, um caminho de cascalho branco levava a um banco de ferro sob uma pérgola coberta de glicínias que, naquela época do ano, ainda eram apenas galhos nus e retorcidos como dedos de bruxa. No canto direito, as roseiras de Aarav dormiam sob a última geada do inverno, seus galhos podados esperando a primavera com a paciência que só as coisas que não têm pressa possuem.
+O jardim dos Svensson era um retângulo generoso de verde e pedra nos fundos do casarão, protegido por muros altos cobertos de hera que garantiam privacidade em relação aos vizinhos e ao mundo. No centro, um caminho de cascalho branco levava a um banco de madeira sob uma pérgola coberta de glicínias que, naquela época do ano, ainda eram apenas galhos nus e retorcidos como dedos de bruxa. No canto direito, as roseiras de Aarav dormiam sob a última geada do inverno, seus galhos podados esperando a primavera com a paciência que só as coisas que não têm pressa possuem.
 
 Aurora sentou-se no banco. O frio mordia suas mãos sem luvas e a ponta do nariz, mas ela não se importava. O frio era honesto. O frio não fingia ser outra coisa. O frio não tentava ocupar o lugar de ninguém.
 
