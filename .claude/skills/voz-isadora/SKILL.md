@@ -59,7 +59,7 @@ A voz dela tem assinatura. Identifique e replique:
 ### 1. Emoção pelo corpo, direto e sem floreio
 Ela não substantiva sentimento. Ela põe no corpo do personagem em linguagem física simples:
 - *"meu ar faltou de imediato"*
-- *"meu estômago triturar o café da manhã que ainda estava sendo digerido"*
+- *"meu estômago triturou o café da manhã que ainda estava sendo digerido"*
 - *"perder o juízo"*
 - *"meu mundo começava a ruir"*
 
