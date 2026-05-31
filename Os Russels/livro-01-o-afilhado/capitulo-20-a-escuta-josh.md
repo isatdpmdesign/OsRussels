@@ -104,25 +104,7 @@ Aurora o olhou diferente. Não com a avaliação clínica de sempre — parecia 
 
 A vela na mesa diminuiu de tamanho um centímetro. Eles não notaram.
 
-Aurora ficou um tempo em silêncio antes de falar.
-
-— Eu sempre imaginei que tinha sido a sua mãe que te mandou. — Ela pousou a caneca. — Quinze dias antes de você chegar, papai anunciou no café que tinha recebido carta da Casandra Russel, e que o filho dela vinha pra Copenhague estudar. Disse que era ela que estava arranjando tudo. Eu fechei o garfo no ar e imaginei que ela tinha te empurrado pra cidade — que tinha decidido que era hora de tirar você de casa. Foi um pensamento meu, eu sei. Mas é o que ficou. — Aurora olhou pra Josh. — E hoje, ouvindo você, eu percebo que foi o contrário. Ela esperou. — Pausou. — É uma coisa difícil de uma mãe fazer.
-
-— Então ela mandou uma carta falando de você.
-
-— Mandou uma carta falando de mim. — Josh hesitou meio segundo. — E me deu outra, lacrada, pra entregar ao Raj. Essa eu não entreguei.
-
-Aurora pousou a caneca devagar. Não disse nada por um instante — só ficou olhando para Josh com aquela atenção dela de estrategista que esperou cinco meses por uma peça e acabou de receber duas.
-
-— Você não entregou — repetiu ela.
-
-— Não. — Josh olhou para a caneca. — Fica na segunda gaveta da escrivaninha, em cima das minhas próprias cartas. Eu trouxe porque eu vinha morar na casa do destinatário. Era prático. E desde o primeiro dia eu sei que tinha que entregar e não entrego, e desde o primeiro dia eu acho que sei por quê: aquela carta tem o nome do Raj na frente, mas a minha mãe escreveu pra mim. Pra um dia que eu ainda não cheguei. Pro dia em que eu precisar de uma coragem que ainda não tenho. Enquanto esse dia não chega, a carta espera.
-
-— Você não tem curiosidade do que tem nela?
-
-— Tenho. — Ele deu um meio-sorriso. — Mas curiosidade é o pior motivo pra abrir a correspondência dos outros, e o pior motivo pra abrir cedo demais a coisa que a gente guarda pra um dia certo. Quando esse dia chegar, eu vou abrir, e vou saber por que a minha mãe quis que eu lesse só naquela hora. Antes disso, eu prefiro carregar a coragem sem ainda saber a forma dela.
-
-Aurora ficou um tempo olhando para ele. Depois falou, baixo:
+Aurora ficou um tempo olhando pra ele. Não disse nada por um instante. Depois falou, baixo:
 
 — Você é honesto, Josh.
 
@@ -518,9 +500,7 @@ Josh saiu da biblioteca. Fechou a porta sem fazer barulho. Subiu para o quarto l
 
 O quarto leste estava na luz pálida do meio da manhã.
 
-Josh fechou a porta. Sentou na escrivaninha. Abriu a segunda gaveta, olhou para a carta lacrada da mãe no fundo dela, embaixo das próprias cartas que ele escrevera em cinco meses sem riscar uma frase, e considerou, pela primeira vez desde abril, tirá-la dali. Não tirou. Fechou a gaveta. Aquela carta era pra um dia que ele ainda não tinha precisado — pra uma coragem que ele ainda não tinha sido obrigado a pedir —, e ele preferia mil vezes guardá-la sem usar a abri-la cedo demais.
-
-Pegou papel limpo, pena, tinteiro. Mergulhou a pena. Encostou na folha.
+Josh fechou a porta. Sentou na escrivaninha. Pegou papel limpo, pena, tinteiro. Mergulhou a pena. Encostou na folha.
 
 A pena ficou encostada na folha uns vinte segundos sem produzir letra. O Raj ia escrever a carta de verdade — o convite, os preparativos, a logística de duas damas chegando à Sorø. Aquilo cabia ao padrinho, era assunto entre ele e a Casandra, e seria escrito com a formalidade certa. O que Josh tinha pra escrever era outra coisa, e não cabia em formalidade nenhuma.
 
