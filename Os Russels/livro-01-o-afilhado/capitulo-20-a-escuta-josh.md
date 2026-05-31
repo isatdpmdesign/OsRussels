@@ -86,13 +86,15 @@ Ele ergueu os olhos da caneca.
 
 Josh ficou um tempo sem responder. Não porque não tivesse resposta. Porque era uma pergunta que ninguém tinha feito a ele em cinco meses na Bredgade — e, agora que ele parara para pensar, talvez ninguém nunca o perguntara em lugar nenhum, nunca. Aurora era a primeira.
 
-— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem lê uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar. O Dylan vai ficar com a lida da terra porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o trabalho que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar no mundo onde ele seja necessário.
+— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem lê uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar. O Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o trabalho que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
 
-— E você acha que vai ser necessário numa universidade?
+A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou. Esperou. Ficou esperando que eu percebesse sozinho, porque ela é assim — ela não força as pessoas a chegarem onde ela já chegou. Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
 
-— Eu acho que numa universidade eu posso construir uma coisa que seja minha desde o começo. — Josh girou a caneca. — Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, e a minha mãe dizia pra ele deixar porque o menino ia montar de novo melhor do que estava. Lei, política, filosofia natural — é a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. O Raj acha que a Dinamarca vai ter uma constituição antes de eu virar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
+— E o que você quer estudar? — perguntou Aurora.
 
-Aurora o olhou. Foi um olhar diferente do que ela costumava dar — sem a avaliação clínica de sempre, sem a economia. Era um olhar de quem acabou de ver uma peça do outro encaixar num lugar que estava vazio.
+— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, e a minha mãe dizia pra ele deixar porque o menino ia montar de novo melhor do que estava. Lei, política, filosofia natural — é a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. O Raj acha que a Dinamarca vai ter uma constituição antes de eu virar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
+
+Aurora o olhou diferente. Não com a avaliação clínica de sempre — parecia mais quieta. Como se uma peça do Josh tivesse acabado de encaixar num lugar que estava vazio.
 
 — Você nunca tinha falado assim.
 
@@ -102,9 +104,9 @@ Aurora o olhou. Foi um olhar diferente do que ela costumava dar — sem a avalia
 
 A vela na mesa diminuiu de tamanho um centímetro. Eles não notaram.
 
-— Quinze dias antes de você chegar, papai anunciou no café que tinha recebido uma carta da sua mãe, e que você vinha estudar. Foi ela que escreveu. Foi ela que arranjou tudo. Eu sempre imaginei que a ideia tinha partido dela — que ela te mandou. — Aurora o encarou por cima da caneca. — Mas mandar não é o mesmo que querer. Você queria vir?
+Aurora ficou um tempo em silêncio antes de falar.
 
-— A minha mãe não me mandou exatamente. — Josh escolheu as palavras. — A minha mãe viu antes de mim que eu não tinha lugar na fazenda, e em vez de me empurrar, esperou. Ficou esperando que eu percebesse sozinho, porque ela é assim, ela não força as pessoas a chegarem onde ela já chegou. Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
+— Eu sempre imaginei que tinha sido a sua mãe que te mandou. — Ela pousou a caneca. — Quinze dias antes de você chegar, papai anunciou no café que tinha recebido carta da Casandra Russel, e que o filho dela vinha pra Copenhague estudar. Disse que era ela que estava arranjando tudo. Eu fechei o garfo no ar e imaginei que ela tinha te empurrado pra cidade — que tinha decidido que era hora de tirar você de casa. Foi um pensamento meu, eu sei. Mas é o que ficou. — Aurora olhou pra Josh. — E hoje, ouvindo você, eu percebo que foi o contrário. Ela esperou. — Pausou. — É uma coisa difícil de uma mãe fazer.
 
 — Então ela mandou uma carta falando de você.
 
@@ -124,11 +126,11 @@ Aurora ficou um tempo olhando para ele. Depois falou, baixo:
 
 — Você é honesto, Josh.
 
-Ele sustentou o olhar dela. Não desviou para o lado mais raso, não tentou amaciar o que ela tinha dito, não fingiu que era pouco. Recebeu inteiro.
+Josh sentiu o sangue subir. Não era vergonha. Era a Aurora dizendo a palavra que ele tinha passado a madrugada inteira se acusando de não merecer. Quatro horas antes ele tinha traído a confiança do Raj na sala de estar, ainda estava com a memória disso no corpo, e agora a Aurora estava do outro lado da mesa chamando ele de honesto. Ele teve vontade de corrigir. De dizer *você não sabe o que eu fiz*. Não disse. A frase ficou atravessada na garganta.
 
-— Obrigado.
+— Obrigado. — Saiu mais rouco do que ele queria.
 
-Aurora sorriu. Foi um sorriso curto, de lábios fechados, mas era um sorriso.
+Aurora não desviou os olhos. Sorriu curto, de lábios fechados. Não perguntou pela rouquidão. Josh percebeu que ela tinha visto, e que tinha decidido deixar passar.
 
 *
 
@@ -198,11 +200,21 @@ Aurora ficou olhando para Josh com uma expressão que ele não soube nomear de i
 
 Aurora encheu a caneca dele.
 
-— A minha mãe é a coluna da casa. Não a coluna que aparece — a outra, a que segura o teto sem ninguém ver. Quando o meu pai morreu, ela tinha cinco filhos, uma propriedade, e o luto inteiro de uma família pra carregar, e ela decidiu carregar tudo sem deixar a gente ver o peso. Não porque ela seja fria, Aurora. É o contrário. É porque ela ama a gente do jeito mais limpo que eu conheço — sem deixar o amor dela virar peso pra gente, sem cobrar nada por carregar o que carrega. — Josh girou a caneca devagar. — Ela passa a mão no encosto da cadeira do meu pai todo santo dia antes de sentar do lado. Não é gesto teatral, ninguém vê a não ser quem está prestando atenção. Eu prestava. — Ele olhou pra Aurora. — A minha mãe pode parecer dura por fora, e talvez seja, em algumas paredes. Mas o que ela faz pelos cinco, dia a dia, sem reconhecimento, sem aplauso, sem pedir nada de volta, é a coisa mais terna que eu já vi de perto. Eu cresci entendendo, sem ninguém ter me dito, que ser homem na minha casa era zelar pela minha mãe — porque ela já zelava por todo mundo, e alguém tinha que zelar por ela, e eu sabia que esse alguém ia ser eu antes mesmo de o meu pai morrer.
+— A minha mãe escreve carta pra mim toda semana. Sempre escreveu. Desde que eu cheguei aqui, em março, não passou uma semana sem chegar carta dela. Ela escreve sobre o joelho do Joseph, que está ruim de novo, sobre o Dylan, que ainda não consertou a cerca do pasto norte porque o Dylan nunca faz nada antes da terceira vez que pedem, sobre a Meridiana, que está falando com uma macieira nova esse ano. Conta dos vizinhos, dos preços do trigo, do gato que apareceu na cozinha mês passado e que ninguém teve coragem de tirar. Conta tudo. Menos sobre ela.
 
-Josh pausou. Ficou um tempo olhando para a caneca. Depois falou, mais baixo:
+Josh girou a caneca.
 
-— Você ia gostar dela. E ela ia gostar de você. Disso eu sei.
+— Eu pergunto da minha mãe nas cartas. Como ela está, se a dor nas costas voltou no inverno. Ela responde de lado, ou não responde. Diz *estou bem* e passa pro próximo parágrafo. Eu já cansei de pegar ela pela honestidade. Ela ganha sempre.
+
+Aurora riu pelo nariz, baixo.
+
+— Ela leva tudo pra dentro pra não pôr nos outros. E é a única pessoa daquela casa que sabe puxar a orelha do Dylan na hora certa, e sabe quando o Matias precisa ser deixado em paz, e quando o Joseph precisa de briga e quando precisa de silêncio. Ela não fala muito. Mas quando fala, parece que já ensaiou a frase antes com a Meridiana, ou com a Berta, ou com o gato — ninguém erra dali, e ninguém esquece.
+
+— Eu cresci ouvindo conselho dela disfarçado de comentário sobre outra coisa. Ela nunca dizia *faz isso*. Dizia *olha, o Pedersen pôs o filho mais novo pra cuidar do estábulo da fazenda dele, e o estábulo melhorou* — e era ela me dizendo, na verdade, pra eu tomar conta da minha parte. Eu só entendi com uns dezenove anos. Quando entendi, percebi que ela tinha me criado inteiro daquele jeito, sem eu ver acontecer.
+
+Josh ficou um tempo olhando para a caneca.
+
+— Você ia gostar dela.
 
 *
 
@@ -240,7 +252,15 @@ Aurora segurou o olhar dele. Os olhos embaçaram por um instante. Ela piscou rá
 
 Josh ficou olhando para ela. Por uma vez não procurou a saída segura, não desviou a frase para um lugar mais raso. Deixou a frase dela ficar inteira no ar, e respondeu inteiro.
 
-— Eu também não me arrependo — disse ele. — E é aí que está o meu problema, Aurora, porque seria muito mais fácil pra mim se eu me arrependesse. Se eu pudesse acordar hoje achando que foi um erro, eu sabia o que fazer. A gente conserta erro. Eu sei consertar quase tudo. Mas isso não foi erro, e eu não tenho ferramenta pra uma coisa que não está quebrada e que mesmo assim não pode existir. — Ele pousou a caneca. — Então não, eu não vou desfazer. Eu não consigo. Eu só não sei ainda o que se faz com uma coisa que a gente não desfaz e não pode ter. Quando eu souber, eu te digo. É a única promessa honesta que eu tenho pra te dar nesta cozinha.
+— Eu também não me arrependo — disse ele.
+
+A mão dele estava aberta em cima da mesa de madeira bruta. Ele não tinha decidido pousar ali. Aurora tinha a mão dela em cima da mesa também, do outro lado, e a distância entre as duas era curta. Josh viu a distância. Não fechou a mão.
+
+— E é aí que está o meu problema, Aurora. Porque seria muito mais fácil pra mim se eu me arrependesse. Se eu pudesse acordar hoje achando que foi um erro, eu sabia o que fazer. A gente conserta erro. Eu sei consertar quase tudo. — Ele respirou fundo. — Mas isso não foi erro, e eu não tenho ferramenta pra uma coisa que não está quebrada e que mesmo assim não pode existir.
+
+Josh desviou os olhos da mão dela. Forçou a própria mão a recuar — meio centímetro, só o suficiente pra ele saber que tinha recuado.
+
+— Então não, eu não vou desfazer. Eu não consigo. Eu só não sei ainda o que se faz com uma coisa que a gente não desfaz e não pode ter. Quando eu souber, eu te digo. É a única promessa honesta que eu tenho pra te dar nesta cozinha.
 
 Foi a coisa mais sem filtro que ele tinha dito desde que ela descera — não a mais longa, porque ele já tinha falado da família inteira aquela manhã, mas a mais inteira, a mais sem barreira, a que saiu sem o reflexo de cortar pela metade antes de deixar passar. Aurora recebeu cada palavra sem interromper. Quando ele terminou, ela assentiu uma vez, devagar. Não era concordância. Era recebimento.
 
