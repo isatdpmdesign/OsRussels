@@ -82,39 +82,27 @@ Ele ergueu os olhos da caneca.
 
 — Como assim?
 
-— Você é do campo. Você nasceu no campo, cresceu no campo, sabe fazer as coisas do campo. Eu vi você consertar a pérgola com as próprias mãos, vi você falar de poda como quem fala de gente. — Aurora apoiou o cotovelo na mesa. — A maioria dos homens que eu conheço nasceu pra ficar onde está. O Erik vai herdar as terras do pai. Os filhos dos Frederiksen vão herdar o nome. Você podia ter ficado na fazenda com os seus irmãos e ninguém teria achado estranho. Mas você atravessou a Zelândia inteira pra estudar pra uma prova de ingresso numa universidade. Por quê? O que tem na academia que não tinha lá?
+— Você é do campo. Você nasceu no campo, cresceu no campo, sabe fazer as coisas do campo. Eu vi você consertar a pérgola com as próprias mãos, vi você falar de poda como especialista — Aurora apoiou o cotovelo na mesa. — A maioria dos homens que eu conheço nasceu pra ficar onde está. O Erik vai herdar as terras do pai. Os filhos dos Frederiksen vão herdar o nome. Você podia ter ficado na fazenda com os seus irmãos e ninguém teria achado estranho. Mas você atravessou a Zelândia inteira pra estudar pra uma prova de ingresso numa universidade. Por quê? O que tem na academia que não tinha lá?
 
 Josh ficou um tempo sem responder. Não porque não tivesse resposta. Porque era uma pergunta que ninguém tinha feito a ele em cinco meses na Bredgade. E, agora que ele parara para pensar, talvez ninguém nunca o perguntara em lugar nenhum, nunca. Aurora era a primeira.
 
-— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem faz o cálculo de uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar. O Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o trabalho que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
+— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem faz o cálculo de uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar, junto com a mãe. O Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o lugar que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
 
-A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou. Esperou. Ficou esperando que eu percebesse sozinho, porque ela é assim (ela não força as pessoas a chegarem onde ela já chegou). Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
+— A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou fazer nada. Esperou. Ficou esperando que eu percebesse sozinho que não tinha lugar para mim na fazenda, porque ela é assim (ela não força as pessoas a entenderem o que ela já sabe). Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
 
-— E o que você quer estudar? — perguntou Aurora.
+— Entendi. É realmente ruim quando não pertencemos a um lugar. Eu sei bem como é. – Aurora olhou para o chão, procurando evitar o contato visual com Josh. Ela sabia muito bem o que era não pertencer, afinal, tinha vivido isso a vida toda. Ela era a mestiça, a retinta de lábios carnudos e olhos grandes que se diferenciava de tudo e todos que a Dinamarca estava acostumada a ver. — E o que você quer estudar? — Perguntou, retomando o assunto enquanto tentava se desviar gentilmente do tema que sempre a incomodara.
 
-— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, e a minha mãe dizia pra ele deixar porque o menino ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão, Aurora. O Raj acha que ela vai ter uma constituição antes de eu ficar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
+— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, mas a minha mãe dizia pra ele deixar porque ela sabia que eu ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão. O Raj acha que ela vai ter uma constituição antes de eu ficar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
 
-Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia mais quieta, como se uma peça do Josh tivesse acabado de encaixar num lugar que estava vazio.
+Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia admirá-lo, como se uma peça do Josh tivesse acabado de encaixar num lugar que estava vazio. Quando falou, foi no tom mais baixo do que tinha usado a manhã inteira.
 
-— Você nunca tinha falado assim.
-
-— Você nunca tinha perguntado assim. — Josh deu de ombros, uma vez, com o quase-sorriso de quem estava gostando de se abrir mais do que tinha planejado.
-
-*
-
-A vela na mesa diminuiu de tamanho um centímetro. Eles não notaram.
-
-Aurora ficou um tempo olhando pra ele. Não disse nada por um instante. Quando falou, foi mais baixo do que tinha usado a manhã inteira.
-
-— Você é o primeiro da sua família a fazer faculdade.
+— Você é o primeiro da sua família a fazer faculdade, não é?
 
 — Sou.
 
-— Eu nem tinha parado pra pensar nisso. — Aurora pousou a caneca devagar. — Você atravessou a Zelândia inteira sozinho pra abrir um caminho que ninguém da sua casa abriu antes. Sem ter quem te conte como é. Eu sei que pra você isso pode parecer só uma conta, Josh. Pra mim parece coragem.
+— Você atravessou a Zelândia inteira sozinho pra abrir um caminho que ninguém da sua casa abriu antes. — Aurora pousou a caneca devagar. — Sem ter quem te conte como é. Eu sei que pra você isso pode parecer algo simples, Josh. Mas pra mim parece coragem.
 
-Josh sentiu o sangue subir. Não estava acostumado a ouvir a palavra associada a ele. Na fazenda, sair pra estudar tinha sido o que estava sobrando pra ele fazer, e ele tinha aprendido a chamar isso de cálculo. Que a Aurora, do outro lado da mesa, chamasse de outro jeito mexeu com alguma coisa que ele tinha guardado fundo. E ela dizia isso justo agora, quatro horas depois da madrugada, com a confiança do Raj atravessada entre eles no meio da mesa sem que ela soubesse. Ele teve vontade de corrigir. De dizer *você não sabe o que eu devo ao seu pai*. Não disse. A frase ficou atravessada na garganta.
-
-— Obrigado. — Saiu mais rouco do que ele queria.
+Josh sentiu o sangue subir. Não estava habituado a ouvir a palavra "coragem" associada ao seu nome. Na fazenda, sair pra estudar tinha sido o que lhe restava fazer e ele aprendera a chamar a isso necessidade. Mas Aurora, do outro lado da mesa, chamara de outro jeito que o tocara de uma forma que ele não sabia nomear. Ela elogiara-o de forma aberta e direta, precisamente depois de tudo o que tinham vivido na noite anterior. Um quase-sorriso subiu por sua mandibula. Josh sentiu-se satisfeito por ser admirado por Aurora. — Obrigado. — Ele disse e saiu mais rouco do que ele queria.
 
 Aurora não desviou os olhos. Sorriu curto, de lábios fechados. Não perguntou pela rouquidão. Josh percebeu que ela tinha visto, e que tinha decidido deixar passar.
 
