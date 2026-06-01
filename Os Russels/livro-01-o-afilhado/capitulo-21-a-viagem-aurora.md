@@ -188,55 +188,63 @@ Josh não se mexeu. Aurora não olhou pra ele enquanto cortava. Demorou no corte
 
 — Diferente como?
 
-— O pôr do sol deixa sua pele mais dourada. — Ele inclinou um pouco a cabeça e abriu um sorriso pequeno, sem o pudor que tinha marcado os meses anteriores ao beijo.
+— O pôr do sol deixa sua pele mais dourada.
 
-Aurora sustentou o olhar dele, mas corou. Corou intensamente. O calor percorreu o corpo dela inteiro, dos pés até um ponto central abaixo do quadril, e da cabeça até o topo do umbigo. Aurora não sabia nomear o que era aquilo, mas sentiu irradiar no centro dela como um vulcão prestes a entrar em erupção.
+Ele inclinou meio grau a cabeça e abriu um sorriso pequeno. Olhou pra ela com uma abertura que Aurora não tinha visto nele nos cinco meses anteriores ao beijo. Era a primeira vez que Josh a admirava sem disfarçar.
 
-Josh percebeu o embaraço e subiu meio milímetro o lado esquerdo do lábio sem desviar os olhos dos dela. A expressão dele agora era uma mistura de admiração e desejo contido que Aurora não sabia se a fazia querer aproximar ou recuar.
+Aurora corou. Não foi o rubor que ela tinha aprendido a controlar nos salões. Foi um calor que subiu pelos pés, atravessou a barriga, parou em um ponto abaixo do quadril que ela nunca tinha sentido se acender daquele jeito antes, e voltou pela coluna até a nuca. Aurora não sabia o nome daquilo. Sabia que era novo. Sabia, principalmente, que não tinha como esconder.
 
-— Você poderia me dar uma prévia da fazenda — disse ela, mudando de assunto porque era a única coisa que se podia fazer com o peso daquele momento. — Eu já sei das vacas. Já sei dos pernilongos. O que mais eu preciso saber?
+Josh percebeu. Subiu meio milímetro o lado esquerdo do lábio sem desviar os olhos. Aurora identificou a expressão dele com um atraso pequeno: era admiração e era desejo contido, juntos, e ela não soube no segundo seguinte se aquilo a fazia querer chegar mais perto ou recuar dois passos.
 
-Josh pensou um instante. Um sorriso perspicaz tomou os lábios dele de novo.
+— Você ia me dar uma prévia da fazenda — disse ela, mudando de assunto porque era a única coisa que se podia fazer com o peso daquele momento. — Eu já sei das vacas. Já sei dos pernilongos. O que mais eu preciso saber?
 
-— Calor — disse, estreitando os olhos como quem fala sobre uma coisa mas se refere a outra.
+Josh pensou um instante. Um sorriso esperto subiu pelo canto da boca dele.
 
-*Calor.* A palavra tamborilou no cérebro de Aurora por meio segundo antes da ficha cair. Calor era o que ela tinha sentido dois minutos antes. Calor era o que ela ia sentir por Josh em todo momento em que olhasse para ele e se lembrasse do beijo da madrugada.
+— Calor — disse, estreitando os olhos de um jeito que falava sobre uma coisa e se referia a outra.
 
-— A Zelândia rural em agosto faz um calor que a Bredgade não faz — continuou Josh, como quem comenta um fato. — A casa é de pedra, então o miolo dela é fresco, mas o lado de fora é honesto. Você vai suar.
+*Calor.*
 
-*Suar.* A conversa estava ambígua demais, e Aurora sabia disso porque todos esses anos lendo os romances ardentes da livraria do Herr Møller não a tinham feito inocente, pelo contrário, a tinham feito tão informada que naquele momento ela desejava não ser. Porque o que Josh dizia soava literal, mas a mente dela tripudiava sobre ela mesma.
+A palavra ficou tamborilando na cabeça dela antes da ficha cair. Calor era exatamente o que ela tinha sentido dois minutos antes. E calor era o que ela ia sentir por Josh todas as vezes que olhasse pra ele e se lembrasse do beijo da madrugada.
 
-— Eu suo na Bredgade no verão também — ela respondeu, em desafio.
+— A Zelândia rural em agosto faz um calor que a Bredgade não faz — continuou Josh, no tom de quem comenta um fato. — A casa é de pedra, então o miolo dela é fresco. Mas o lado de fora é honesto. Você vai suar.
 
-— Você sua na Bredgade igual a quem está educadamente desconfortável. Você vai suar em Sorø igual a quem está em Sorø. O calor que vai sentir lá vai ser irremediável. — Ele passou a mão pelo cabelo, devagar.
+*Suar.*
+
+A conversa estava ambígua demais. E Aurora sabia disso porque os anos lendo os romances ardentes que Herr Møller guardava na prateleira de baixo da livraria não a tinham deixado inocente — pelo contrário, a tinham deixado informada demais. Naquele momento ela desejava não ser. Porque o que Josh dizia soava literal, e a cabeça dela traduzia cada palavra pelo avesso.
+
+— Eu suo na Bredgade no verão também — respondeu, em desafio.
+
+— Você sua na Bredgade como quem está educadamente desconfortável. Você vai suar em Sorø como quem está em Sorø. E o calor que vai sentir lá não tem como esconder. — Josh passou a mão pelo cabelo, devagar.
 
 Aurora ergueu uma sobrancelha. Foi um gesto herdado da mãe.
 
 — Continue.
 
-— Terra. Toda parte. A propriedade tem caminho de cascalho perto da casa, mas se você sair da casa, é terra. Terra seca em agosto. Terra que entra na bainha do vestido na primeira meia hora, terra que entra no sapato na primeira hora, terra que vai pra cama com você na primeira noite se você não tomar cuidado de bater bem a roupa. Você vai descobrir uma intimidade com a terra que vai te surpreender.
+— Terra. Em toda parte. A propriedade tem caminho de cascalho perto da casa, mas dali pra frente é terra. Terra seca em agosto. Terra que entra na bainha do vestido na primeira meia hora. Terra que entra no sapato na primeira hora. Terra que vai pra cama com você na primeira noite, se você não tomar cuidado de bater bem a roupa antes de deitar. Você vai descobrir uma intimidade com a terra que vai te surpreender.
 
-*Vai pra cama com você na primeira noite.* Josh falava de terra, mas tudo o que passava na cabeça de Aurora era Josh indo para a cama com ela na primeira noite.
+*Vai pra cama com você na primeira noite.*
 
-— Que delícia. — Aurora tentou soar irônica, mas soou mais sincera do que queria, porque embora estivesse se referindo à terra, pensava em Josh. E Josh sabia que ela pensava.
+Josh estava falando de terra. Mas tudo o que passava na cabeça dela era Josh indo pra cama com ela na primeira noite.
 
-— Vaca. — Josh mudou o tom para um mais divertido. — Eu sei que você já sabe das vacas. Mas eu acho que você não sabe do *cheiro* das vacas. Vaca tem cheiro. Vaca em quantidade tem cheiro em quantidade. O cheiro entra no curral, sai do curral, atravessa o terreiro, e se o vento vier do lado certo entra também pela janela. Você vai acordar de manhã com cheiro de vaca em algum nível.
+— Que delícia — disse ela, e tentou soar irônica, mas a frase saiu mais sincera do que ela queria. Porque embora estivesse se referindo à terra, pensava em Josh. E Josh sabia que ela pensava.
+
+— Vaca — disse Josh, num tom mais divertido agora. — Eu sei que você já sabe das vacas. Mas eu acho que você não sabe do *cheiro* das vacas. Vaca tem cheiro. Vaca em quantidade tem cheiro em quantidade. O cheiro entra no curral, sai do curral, atravessa o terreiro, e se o vento vier do lado certo entra também pela janela. Você vai acordar de manhã com cheiro de vaca em algum nível.
 
 — Josh!
 
-— Sim? — Ele prendeu os lábios segurando o riso.
+— Sim? — ele prendeu os lábios segurando o riso.
 
 — Você está fazendo isso de propósito.
 
 — Estou fazendo o quê?
 
-— Está tentando me desestimular. Está achando que eu vou desistir e dizer ao papai que mudei de ideia.
+— Está tentando me desestimular. Está achando que eu vou desistir e dizer pro papai que mudei de ideia.
 
 — Aurora — disse Josh, e o canto da boca dele subiu meio centímetro, daquele jeito de sorriso torto que Aurora tinha aprendido a reconhecer sem olhar de frente —, eu sei que você não muda de ideia. Eu estou te informando.
 
-— Uhm, certo. Continue informando, então.
+— Certo. Continue informando.
 
-— Pernilongo — disse Josh. — Os pernilongos da Zelândia rural em agosto têm a especialidade de fazer um zumbido que entra no ouvido três segundos antes da picada, e que continua zumbindo na cabeça da pessoa por mais cinco minutos depois da picada. Eu cresci com eles. Você não. Você vai querer matar todos. Não vai conseguir. Vão te picar pelo menos uma vez por dia, e vão te picar nos lugares mais ridículos possíveis, porque é assim que pernilongo do campo opera.
+— Pernilongo. Os pernilongos da Zelândia rural em agosto têm a especialidade de fazer um zumbido que entra no ouvido três segundos antes da picada, e que continua zumbindo na cabeça da pessoa por mais cinco minutos depois da picada. Eu cresci com eles. Você não. Você vai querer matar todos. Não vai conseguir. Vão te picar pelo menos uma vez por dia, e vão te picar nos lugares mais ridículos possíveis, porque é assim que pernilongo do campo opera.
 
 — Você está me preparando pra guerra.
 
