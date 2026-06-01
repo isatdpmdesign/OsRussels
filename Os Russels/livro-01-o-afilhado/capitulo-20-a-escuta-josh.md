@@ -90,7 +90,7 @@ Josh ficou um tempo sem responder. Não porque não tivesse resposta. Porque era
 
 — A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou fazer nada. Esperou. Ficou esperando que eu percebesse sozinho que não tinha lugar para mim na fazenda, porque ela é assim (ela não força as pessoas a entenderem o que ela já sabe). Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
 
-— Entendi. É realmente ruim quando não pertencemos a um lugar. Eu sei bem como é. – Aurora olhou para o chão, procurando evitar o contato visual com Josh. Ela sabia muito bem o que era não pertencer, afinal, tinha vivido isso a vida toda. Ela era a mestiça, a retinta de lábios carnudos e olhos grandes que se diferenciava de tudo e todos que a Dinamarca estava acostumada a ver. — E o que você quer estudar? — Perguntou, retomando o assunto enquanto tentava se desviar gentilmente do tema que sempre a incomodara.
+— Entendi. É realmente ruim quando não pertencemos a um lugar. Eu sei bem como é. — Aurora olhou para o chão, procurando evitar o contato visual com Josh. Ela sabia muito bem o que era não pertencer, afinal, tinha vivido isso a vida toda. Ela era a mestiça, a retinta de lábios carnudos e olhos grandes que se diferenciava de tudo e todos que a Dinamarca estava acostumada a ver. — E o que você quer estudar? — perguntou, retomando o assunto enquanto tentava se desviar gentilmente do tema que sempre a incomodara.
 
 — Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, mas a minha mãe dizia pra ele deixar porque ela sabia que eu ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão. O Raj acha que ela vai ter uma constituição antes de eu ficar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
 
@@ -102,7 +102,9 @@ Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia adm
 
 — Você atravessou a Zelândia inteira sozinho pra abrir um caminho que ninguém da sua casa abriu antes. — Aurora pousou a caneca devagar. — Sem ter quem te conte como é. Eu sei que pra você isso pode parecer algo simples, Josh. Mas pra mim parece coragem.
 
-Josh sentiu o sangue subir. Não estava habituado a ouvir a palavra "coragem" associada ao seu nome. Na fazenda, sair pra estudar tinha sido o que lhe restava fazer e ele aprendera a chamar a isso necessidade. Mas Aurora, do outro lado da mesa, chamara de outro jeito que o tocara de uma forma que ele não sabia nomear. Ela elogiara-o de forma aberta e direta, precisamente depois de tudo o que tinham vivido na noite anterior. Um quase-sorriso subiu por sua mandibula. Josh sentiu-se satisfeito por ser admirado por Aurora. — Obrigado. — Ele disse e saiu mais rouco do que ele queria.
+Josh sentiu o sangue subir. Não estava habituado a ouvir a palavra "coragem" associada ao seu nome. Na fazenda, sair pra estudar tinha sido o que lhe restava fazer, e ele aprendera a chamar isso de necessidade. Mas a Aurora, do outro lado da mesa, chamou aquilo de outro jeito, e aquele jeito o tocou de uma forma que ele não sabia nomear. Ela elogiara-o de forma aberta e direta, precisamente depois de tudo o que tinham vivido na noite anterior. Um quase-sorriso subiu por sua mandíbula. Josh sentiu-se satisfeito por ser admirado por Aurora.
+
+— Obrigado. — disse ele. A palavra saiu mais rouca do que ele queria.
 
 Aurora não desviou os olhos. Sorriu curto, de lábios fechados. Não perguntou pela rouquidão. Josh percebeu que ela tinha visto, e que tinha decidido deixar passar.
 
