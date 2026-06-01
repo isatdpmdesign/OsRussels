@@ -162,7 +162,7 @@ Aurora riu. Foi um riso baixo, curto, mas era um riso.
 
 A frase saiu de Aurora sem ela ter pensado nela, e os dois ouviram o jeito que tinha saído (não como vontade casual, mas como desejo dito por quem já calculou que é improvável). Eles não tinham conversado sobre conhecer a família dele em cinco meses. Não tinha estrutura social para uma moça da Bredgade conhecer a família de um afilhado da Zelândia. Não tinha como.
 
-— Vocês se dariam bem — disse Josh, devagar, escolhendo as palavras como quem escolhe pedra para atravessar um riacho. — Acho até que seriam amigas rápido. A Meridiana ia gostar de você.
+— Vocês se dariam bem — disse Josh, devagar, escolhendo as palavras. — Acho até que seriam amigas rápido. A Meridiana ia gostar de você.
 
 — Você acha? Por quê?
 
@@ -224,7 +224,7 @@ Josh não disse nada de imediato. Não preencheu o silêncio com consolo, porque
 
 — A minha casa soube da morte do meu pai estando do lado da cama dele. Três semanas de febre, a janela aberta de um lado só, e no fim eu segurando a mão dele e sentindo o instante exato em que aquela mão parou de ser mão e virou só peso. A sua casa soube com um oficial e um envelope preto. São formas diferentes de a mesma coisa chegar. Mas a parte que vem depois é igual nas duas, Aurora. A casa que continua arrumada pra um a mais e tem que aprender a se arrumar pra um a menos. O silêncio do quarto vazio virando o som mais alto da casa. A cadeira que ninguém senta. A mão que passa no encosto antes de a mãe sentar do lado, todo santo dia, e que ninguém comenta. O esforço diário de não olhar pra cabeceira e olhar mesmo assim. A mãe carregando o luto da casa inteira nas costas sem deixar ninguém ver o peso, porque deixar ver seria pôr o peso em quem já não consegue mais aguentar. — Ele olhou para ela. — Eu te entendo, Aurora, porque eu carrego a mesma coisa. Não a sua exata — a sua é sua. Mas eu sei como o ar de uma casa muda quando ela passa a ter um lugar que ninguém quer preencher e ninguém pode admitir que vai continuar vazio.
 
-Aurora segurou o olhar dele. Os olhos embaçaram por um instante. Ela piscou rápido, duas vezes, do jeito de quem se recusa a deixar a lágrima cair na frente de alguém que ainda não tinha sido autorizado a ver isso, e respirou fundo. Quando voltou a falar, a voz estava limpa.
+Aurora segurou o olhar dele. Os olhos embaçaram por um instante. Ela piscou rápido, duas vezes, sem deixar a lágrima cair. Não na frente dele. Não ainda. Respirou fundo. Quando voltou a falar, a voz estava limpa.
 
 — Josh.
 
@@ -280,7 +280,7 @@ Não foi um abrir cuidadoso. Foi o abrir de quem entra em um cômodo sem prestar
 
 Josh ficou imóvel.
 
-A reação certa era levantar e se apresentar. Mas ele ainda não tinha se mexido quando entendeu, pelas próximas palavras, que aquilo era a continuação de uma discussão que começara em outro cômodo — provavelmente o escritório, provavelmente o corredor — e que tinha vazado até ali porque ali era simplesmente a porta seguinte. Os dois falavam alto. Não cochichavam. O ânimo tinha passado na frente da prudência, e nenhum dos dois tinha lembrado que a biblioteca, às nove da manhã, não era um cômodo vazio.
+A reação certa era levantar e se apresentar. Mas ele ainda não tinha se mexido quando entendeu, pelas próximas palavras, que aquilo era a continuação de uma discussão que começara em outro cômodo — provavelmente o escritório — e que tinha vazado até ali porque ali era simplesmente a porta seguinte. Os dois falavam alto. Não cochichavam. O ânimo tinha passado na frente da prudência, e nenhum dos dois tinha lembrado que a biblioteca, às nove da manhã, não era um cômodo vazio.
 
 Levantar agora era anunciar que tinha escolhido ficar. Josh ficou imóvel — e, ao ficar imóvel, escolheu de fato, e soube que tinha escolhido.
 
