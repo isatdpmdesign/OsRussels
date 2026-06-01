@@ -92,7 +92,7 @@ A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me man
 
 — E o que você quer estudar? — perguntou Aurora.
 
-— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, e a minha mãe dizia pra ele deixar porque o menino ia montar de novo melhor do que estava. Lei, política, filosofia natural — é a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. O Raj acha que a Dinamarca vai ter uma constituição antes de eu virar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
+— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, e a minha mãe dizia pra ele deixar porque o menino ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão, Aurora. O Raj acha que ela vai ter uma constituição antes de eu virar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
 
 Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia mais quieta, como se uma peça do Josh tivesse acabado de encaixar num lugar que estava vazio.
 
@@ -108,7 +108,7 @@ Aurora ficou um tempo olhando pra ele. Não disse nada por um instante. Depois f
 
 — Você é honesto, Josh.
 
-Josh sentiu o sangue subir. Não era vergonha. Era a Aurora dizendo a palavra que ele tinha passado a madrugada inteira se acusando de não merecer. Quatro horas antes ele tinha traído a confiança do Raj na sala de estar, ainda estava com a memória disso no corpo, e agora a Aurora estava do outro lado da mesa chamando ele de honesto. Ele teve vontade de corrigir. De dizer *você não sabe o que eu fiz*. Não disse. A frase ficou atravessada na garganta.
+Josh sentiu o sangue subir. Não era vergonha. Era a Aurora dizendo a palavra que ele tinha passado a madrugada inteira se acusando de não merecer. Ela sabia o que tinha acontecido na sala de estar, claro que sabia, tinha sido com ela. Mas ela não tinha como saber o que aquilo pesava entre ele e o Raj. Ele teve vontade de corrigir. De dizer *você não sabe o que eu devo ao seu pai*. Não disse. A frase ficou atravessada na garganta.
 
 — Obrigado. — Saiu mais rouco do que ele queria.
 
