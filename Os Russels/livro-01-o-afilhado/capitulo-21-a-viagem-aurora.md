@@ -84,15 +84,15 @@ Depois soltou um riso curto pelo nariz, sem alegria nenhuma, porque o riso era a
 
 *
 
-Vibeke entrou no quarto de Aurora vinte minutos depois sem bater. Com os olhos brilhando e a respiração curta de quem subiu a escada correndo.
+Vibeke entrou no quarto de Aurora vinte minutos depois sem bater. Com os olhos brilhando e a respiração curta de quem subiu a escada correndo. O Raj devia ter acabado de contar a ela — Aurora viu a notícia no rosto inteiro.
 
-— Aurora.
+— Aurora, é sério isso? A gente vai mesmo pra Sorø?
 
-— Vibeke.
+— Sim, é sério.
 
-— A *sério*?
+— Sério sério?
 
-— A sério.
+— Sério, Vibeke.
 
 Vibeke deu um pulinho. Literalmente um pulinho — Aurora viu os dois pés saírem do chão e voltarem ao chão, num gesto que numa moça de quase dezoito anos seria considerado infantil em qualquer sala respeitável de Copenhague mas que em Vibeke era, simplesmente, Vibeke.
 
