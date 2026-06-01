@@ -10,7 +10,7 @@
 
 Josh não dormiu.
 
-Subiu para o quarto leste depois da madrugada na sala de estar e deitou-se de costas, com o braço direito atravessado sobre o rosto, como se o braço fosse capaz de bloquear alguma coisa. Não bloqueou. O peso da própria mão no canto da boca dela continuava ali, intacto, instalado entre os dedos com a mesma precisão com que uma pena de boa qualidade segura a tinta. Josh ficou meia hora tentando esvaziar a cabeça. Não esvaziou.
+Subiu para o quarto leste depois da madrugada na sala de estar e deitou-se de costas, com o braço direito atravessado sobre o rosto, como se o braço fosse capaz de bloquear alguma coisa. Não bloqueou. A boca dela ainda estava nas pontas dos dedos dele. Morna, intacta, como se a Aurora tivesse marcado ali antes de recuar. Josh ficou meia hora tentando esvaziar a cabeça. Não esvaziou.
 
 A cabeça ficou onde tinha estado a noite inteira, em fragmentos que ele não conseguia ordenar: Aurora se inclinando perto demais, quente, o cheiro de jasmim e canela atravessando a distância antes do toque, o modo como o polegar dele tinha encontrado, sem procurar, o ponto exato do pulso dela e parado ali sentindo a batida acelerar de um lado e a sua acelerar do outro, e tendo que decidir, no meio segundo seguinte, se aquela ia ser a noite em que ele apertava ou a noite em que ele recuava. Tinha apertado. Tinha encostado a boca na dela e sentido o primeiro suspiro dela escapar entre os lábios dele como se a Aurora tivesse acabado de descobrir, ao mesmo tempo que ele, que ar e voz podiam ter peso. Quando a língua dele encontrou a dela e a mão direita — a do calo — subiu pela nuca dela por baixo do cabelo solto e fechou nos fios sem decidir fechar, Josh sentiu, com uma clareza assustadora, que a parte dele que queria continuar era infinitamente mais funda do que a parte dele que sabia parar. Tinha parado mesmo assim. Tinha tirado a boca antes que a boca o levasse. Tinha tirado a mão antes que a outra, a da cintura, quisesse subir. Tinha levantado, recuado um passo, e ouvido a própria respiração na sala de estar como se tivesse corrido.
 
@@ -66,13 +66,13 @@ Aurora bebeu um gole. Pousou a caneca.
 
 — Não consegui. Fiquei rolando na cama até desistir, e desci porque o quarto tinha ficado pequeno. — Josh girou a caneca meio grau entre as mãos. — É o que eu faço na fazenda quando não durmo. Desço antes de todo mundo. Lá tem o curral pra olhar, aqui tem a cozinha. Mas é a mesma coisa: sair de um teto que está perto demais.
 
-Aurora considerou aquilo. Depois deu o meio-sorriso pequeno, o de lábios fechados, o que Josh conhecia como o sorriso dela quando uma coincidência ficava grande demais para ser ignorada e pequena demais para ser comentada com seriedade.
+Aurora considerou aquilo. Depois deu o meio-sorriso pequeno, o de lábios fechados, o que Josh conhecia como o sorriso dela quando uma coincidência ficava grande demais para ser ignorada.
 
 — Eu também não dormi. E eu desci porque imaginei que você ia estar aqui.
 
 Josh sentiu uma coisa morna se acomodar entre as costelas. Ela tinha descido porque imaginou que ele estaria ali — porque tinha esperado encontrá-lo, porque quis a presença dele antes de querer qualquer outra coisa daquela manhã. Não comentou. Não deixou aparecer no rosto. Mas guardou internamente para si, no lugar onde reservara para as coisas que importavam.
 
-Aurora bebeu mais um gole. Josh notou que ela não estava com pressa de falar — que estava tomando o café como quem ganha tempo para montar a primeira pergunta de verdade. Era um gesto que ele já tinha visto nela em outras ocasiões e que sempre o desarmava: Aurora pensava nas perguntas antes de fazê-las, e quando as fazia, fazia inteiras.
+Aurora bebeu mais um gole. Josh notou que ela não estava com pressa de falar — que estava tomando o café como quem ganha tempo para montar a primeira pergunta de verdade. Era um gesto que ele já tinha visto nela em outras ocasiões e que sempre o desarmava: Aurora pensava nas perguntas antes de fazê-las.
 
 A primeira veio.
 
@@ -86,7 +86,7 @@ Ele ergueu os olhos da caneca.
 
 Josh ficou um tempo sem responder. Não porque não tivesse resposta. Porque era uma pergunta que ninguém tinha feito a ele em cinco meses na Bredgade — e, agora que ele parara para pensar, talvez ninguém nunca o perguntara em lugar nenhum, nunca. Aurora era a primeira.
 
-— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem lê uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar. O Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o trabalho que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
+— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem faz o cálculo de uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar. O Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o trabalho que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
 
 A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou. Esperou. Ficou esperando que eu percebesse sozinho, porque ela é assim — ela não força as pessoas a chegarem onde ela já chegou. Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
 
