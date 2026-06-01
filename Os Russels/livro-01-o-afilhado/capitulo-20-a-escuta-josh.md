@@ -88,11 +88,11 @@ Josh ficou um tempo sem responder. Não porque não tivesse resposta. Porque era
 
 — Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem faz o cálculo de uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar. O Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o trabalho que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
 
-A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou. Esperou. Ficou esperando que eu percebesse sozinho, porque ela é assim — ela não força as pessoas a chegarem onde ela já chegou. Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
+A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou. Esperou. Ficou esperando que eu percebesse sozinho, porque ela é assim (ela não força as pessoas a chegarem onde ela já chegou). Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
 
 — E o que você quer estudar? — perguntou Aurora.
 
-— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, e a minha mãe dizia pra ele deixar porque o menino ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão, Aurora. O Raj acha que ela vai ter uma constituição antes de eu virar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
+— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, e a minha mãe dizia pra ele deixar porque o menino ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão, Aurora. O Raj acha que ela vai ter uma constituição antes de eu ficar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
 
 Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia mais quieta, como se uma peça do Josh tivesse acabado de encaixar num lugar que estava vazio.
 
@@ -104,11 +104,15 @@ Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia mai
 
 A vela na mesa diminuiu de tamanho um centímetro. Eles não notaram.
 
-Aurora ficou um tempo olhando pra ele. Não disse nada por um instante. Depois falou, baixo:
+Aurora ficou um tempo olhando pra ele. Não disse nada por um instante. Quando falou, foi mais baixo do que tinha usado a manhã inteira.
 
-— Você é honesto, Josh.
+— Você é o primeiro da sua família a fazer faculdade.
 
-Josh sentiu o sangue subir. Não era vergonha. Era a Aurora dizendo a palavra que ele tinha passado a madrugada inteira se acusando de não merecer. Ela sabia o que tinha acontecido na sala de estar, claro que sabia, tinha sido com ela. Mas ela não tinha como saber o que aquilo pesava entre ele e o Raj. Ele teve vontade de corrigir. De dizer *você não sabe o que eu devo ao seu pai*. Não disse. A frase ficou atravessada na garganta.
+— Sou.
+
+— Eu nem tinha parado pra pensar nisso. — Aurora pousou a caneca devagar. — Você atravessou a Zelândia inteira sozinho pra abrir um caminho que ninguém da sua casa abriu antes. Sem ter quem te conte como é. Eu sei que pra você isso pode parecer só uma conta, Josh. Pra mim parece coragem.
+
+Josh sentiu o sangue subir. Não estava acostumado a ouvir a palavra associada a ele. Na fazenda, sair pra estudar tinha sido o que estava sobrando pra ele fazer, e ele tinha aprendido a chamar isso de cálculo. Que a Aurora, do outro lado da mesa, chamasse de outro jeito mexeu com alguma coisa que ele tinha guardado fundo. E ela dizia isso justo agora, quatro horas depois da madrugada, com a confiança do Raj atravessada entre eles no meio da mesa sem que ela soubesse. Ele teve vontade de corrigir. De dizer *você não sabe o que eu devo ao seu pai*. Não disse. A frase ficou atravessada na garganta.
 
 — Obrigado. — Saiu mais rouco do que ele queria.
 
@@ -152,7 +156,7 @@ Os dois ficaram em silêncio um momento, e o silêncio tinha agora uma coisa nov
 
 Aurora riu. Foi um riso baixo, curto, mas era um riso.
 
-— A Meridiana tem vinte. É a filha do meio, e o nome vem disso — a minha mãe achou bonito pôr o nome no meio porque já sabia, antes dela nascer, que a Meridiana ia ser a que segura o equilíbrio da casa. — Josh fez uma pausa. — A Meridiana fala com as árvores.
+— A Meridiana tem vinte. É a filha do meio, e o nome vem disso (a minha mãe achou bonito pôr o nome no meio porque já sabia, antes dela nascer, que a Meridiana ia ser a que segura o equilíbrio da casa). — Josh fez uma pausa. — A Meridiana fala com as árvores.
 
 — Como assim, fala com as árvores?
 
