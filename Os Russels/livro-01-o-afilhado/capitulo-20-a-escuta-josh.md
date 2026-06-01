@@ -128,7 +128,7 @@ Josh sorriu o sorriso abobado, como o Dylan diria. Todas as amarras de Aurora pa
 
 A pergunta saiu da Aurora com um cuidado específico, e Josh entendeu de onde vinha o cuidado antes mesmo de responder: ela estava perguntando pelo Joseph, mas estava pensando na cadeira do Aarav, na cabeceira esquerda da mesa de jantar da Bredgade, e queria saber se aquilo de não ocupar o lugar do morto era só da casa dela ou se acontecia em qualquer casa que ficou aberta em direção a um lugar vazio.
 
-— Não. — Ele balançou a cabeça devagar. — Ninguém senta. A cadeira do meu pai continua na cabeceira, vazia, e ninguém nunca decidiu isso em voz alta, simplesmente ninguém senta. A minha mãe passa a mão no encosto antes de sentar na cadeira dela, todo jantar, todo santo dia. Não é um gesto grande. É quase nada. Mas é a coisa mais constante daquela casa. O Joseph assumiu a propriedade inteira, a lida, as contas, as decisões — assumiu tudo, menos aquela cadeira.
+— Não. — Ele balançou a cabeça devagar. — Ninguém senta. A cadeira do meu pai continua na cabeceira, vazia, e ninguém nunca decidiu isso em voz alta, simplesmente ninguém senta. A minha mãe passa a mão no encosto antes de sentar na cadeira dela, todo jantar, todo santo dia. Não é um gesto grande. É quase nada. Mas é a coisa mais constante daquela casa. O Joseph assumiu a propriedade inteira, a lida, as contas, as decisões. Assumiu tudo, menos aquela cadeira.
 
 Aurora ficou muito quieta.
 
