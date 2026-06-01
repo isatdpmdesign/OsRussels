@@ -188,43 +188,43 @@ Josh não se mexeu. Aurora não olhou pra ele enquanto cortava. Demorou no corte
 
 — Diferente como?
 
-— O por do sol deixa sua pele mais dourada. — Falou tombando a cabeça e abrindo um pqueno sorriso para admira-la sem o menor pudor que marcara os tempos anteriores ao beijo. 
+— O pôr do sol deixa sua pele mais dourada. — Ele inclinou um pouco a cabeça e abriu um sorriso pequeno, sem o pudor que tinha marcado os meses anteriores ao beijo.
 
-Aurora sustentou o olhar dele, mas corou. Corou intensamente. E o calor lhe percorreu o corpo todo saindo dos pés e seguindo para um ponto central bem abaixo do quadril e da cabeça até o topo do umbigo. Aurora não sabia nomear o que era aquilo, mas sentira irradiara em seu centro como um vulcão prestes a entrar em erupção.
+Aurora sustentou o olhar dele, mas corou. Corou intensamente. O calor percorreu o corpo dela inteiro, dos pés até um ponto central abaixo do quadril, e da cabeça até o topo do umbigo. Aurora não sabia nomear o que era aquilo, mas sentiu irradiar no centro dela como um vulcão prestes a entrar em erupção.
 
-Josh percebeu seu embaraço e subiu levemente o lado esquerdo do lábio sem desviar os olhos do dela. A expressão dele agora era uma espécie de admiração misturado de desejo contido que eu aurora não sabia se sentia vontade ou medo.
+Josh percebeu o embaraço e subiu meio milímetro o lado esquerdo do lábio sem desviar os olhos dos dela. A expressão dele agora era uma mistura de admiração e desejo contido que Aurora não sabia se a fazia querer aproximar ou recuar.
 
 — Você poderia me dar uma prévia da fazenda — disse ela, mudando de assunto porque era a única coisa que se podia fazer com o peso daquele momento. — Eu já sei das vacas. Já sei dos pernilongos. O que mais eu preciso saber?
 
-Josh pensou um instante e um sorriso perspicaz lhe tomou os labios novamente. 
+Josh pensou um instante. Um sorriso perspicaz tomou os lábios dele de novo.
 
-— Calor — disse ele estreitando os olhos como quem fala sobre uma coisa mas se refere a outra.
+— Calor — disse, estreitando os olhos como quem fala sobre uma coisa mas se refere a outra.
 
-*Calor* A palavra tamborilou no cerebro de Aurora por meio segundo antes da ficha cair. Calor era o que ela sentira há dois minutos atrás, calor é o que ela sentiria por Josh todos os momentos em olhasse para ele e se lembrasse do beijo na biblioteca. 
+*Calor.* A palavra tamborilou no cérebro de Aurora por meio segundo antes da ficha cair. Calor era o que ela tinha sentido dois minutos antes. Calor era o que ela ia sentir por Josh em todo momento em que olhasse para ele e se lembrasse do beijo da madrugada.
 
-— A Zelândia rural em agosto faz um calor que a Bredgade não faz. — Josh continuou como quem comenta um fato. – A casa é de pedra, então o miolo dela é fresco, mas o lado de fora é honesto. Você vai suar.
+— A Zelândia rural em agosto faz um calor que a Bredgade não faz — continuou Josh, como quem comenta um fato. — A casa é de pedra, então o miolo dela é fresco, mas o lado de fora é honesto. Você vai suar.
 
-*Suar*, a conversa estava ambigua demais e Aurora sabia porque em todos esses anos que lera romances ardentes da livraria de madame soulberg, não lhe fizera inocente, pelo contrário, lhe fizera tão informada que naquele momento desejara não ser. Porque talvez, o que Josh falava soaria literal, mas a mente de aurora tripudiava sobre ela própria.
+*Suar.* A conversa estava ambígua demais, e Aurora sabia disso porque todos esses anos lendo os romances ardentes da livraria do Herr Møller não a tinham feito inocente, pelo contrário, a tinham feito tão informada que naquele momento ela desejava não ser. Porque o que Josh dizia soava literal, mas a mente dela tripudiava sobre ela mesma.
 
-— Eu suo na Bredgade no verão também. — Ela respondeu em desafio.
+— Eu suo na Bredgade no verão também — ela respondeu, em desafio.
 
-— Você sua na Bredgade igual a quem está educadamente desconfortável. Você vai suar mais em Sorø igual a quem está na Sorø. O calor que vai sentir, será irremdiável. — Ele passou as maos pelo cabelo loiro que nequela luz de fim de tarde, exibia mechas vermelhas e quentes.
+— Você sua na Bredgade igual a quem está educadamente desconfortável. Você vai suar em Sorø igual a quem está em Sorø. O calor que vai sentir lá vai ser irremediável. — Ele passou a mão pelo cabelo, devagar.
 
 Aurora ergueu uma sobrancelha. Foi um gesto herdado da mãe.
 
 — Continue.
 
-— Terra. Toda parte. A propriedade tem caminho de cascalho perto da casa, mas se você sair da casa, é terra. Terra seca em agosto. Terra que entra na bainha do vestido na primeira meia hora, terra que entra no sapato na primeira hora, terra que vai pra cama com você na primeira noite se você não tomar cuidado de bater bem a roupa. Você vai descobrir uma intimidade com a terra que vai te surpreender!
+— Terra. Toda parte. A propriedade tem caminho de cascalho perto da casa, mas se você sair da casa, é terra. Terra seca em agosto. Terra que entra na bainha do vestido na primeira meia hora, terra que entra no sapato na primeira hora, terra que vai pra cama com você na primeira noite se você não tomar cuidado de bater bem a roupa. Você vai descobrir uma intimidade com a terra que vai te surpreender.
 
-*vai pra cama com você na primeira noite se você não tomar cuidado* Josh falava de terra, mas tudo o que passava na cabeça dela era Josh indo para a cama com ela na primeira.
+*Vai pra cama com você na primeira noite.* Josh falava de terra, mas tudo o que passava na cabeça de Aurora era Josh indo para a cama com ela na primeira noite.
 
-— Que delícia. — Aurora tentou soar irônica, mas soou muito mais que verdadeira, porque embora estivesse se referindo a terra, pensava em josh. E ele sabia que ela pensava.
+— Que delícia. — Aurora tentou soar irônica, mas soou mais sincera do que queria, porque embora estivesse se referindo à terra, pensava em Josh. E Josh sabia que ela pensava.
 
-— Vaca. — Josh agora mudara o tom para um mais divertido. – Eu sei que você já sabe das vacas. Mas eu acho que você não sabe do *cheiro* das vacas. Vaca tem cheiro. Vaca em quantidade tem cheiro em quantidade. O cheiro entra no curral, sai do curral, atravessa o terreiro, e se o vento vier do lado certo entra também pela janela. Você vai acordar de manhã com cheiro de vaca em algum nível.
+— Vaca. — Josh mudou o tom para um mais divertido. — Eu sei que você já sabe das vacas. Mas eu acho que você não sabe do *cheiro* das vacas. Vaca tem cheiro. Vaca em quantidade tem cheiro em quantidade. O cheiro entra no curral, sai do curral, atravessa o terreiro, e se o vento vier do lado certo entra também pela janela. Você vai acordar de manhã com cheiro de vaca em algum nível.
 
 — Josh!
 
-— Sim? – Ele prendera os labios segurando o riso.
+— Sim? — Ele prendeu os lábios segurando o riso.
 
 — Você está fazendo isso de propósito.
 
@@ -234,13 +234,13 @@ Aurora ergueu uma sobrancelha. Foi um gesto herdado da mãe.
 
 — Aurora — disse Josh, e o canto da boca dele subiu meio centímetro, daquele jeito de sorriso torto que Aurora tinha aprendido a reconhecer sem olhar de frente —, eu sei que você não muda de ideia. Eu estou te informando.
 
-— Uhm, certo. Continue informando então.
+— Uhm, certo. Continue informando, então.
 
 — Pernilongo — disse Josh. — Os pernilongos da Zelândia rural em agosto têm a especialidade de fazer um zumbido que entra no ouvido três segundos antes da picada, e que continua zumbindo na cabeça da pessoa por mais cinco minutos depois da picada. Eu cresci com eles. Você não. Você vai querer matar todos. Não vai conseguir. Vão te picar pelo menos uma vez por dia, e vão te picar nos lugares mais ridículos possíveis, porque é assim que pernilongo do campo opera.
 
 — Você está me preparando pra guerra.
 
-— Estou te preparando para o final de agosto e início de setembro.
+— Estou te preparando pro fim de agosto e o começo de setembro.
 
 Aurora olhou pra ele com a rosa na mão. Estava no fim da tarde e a luz batia de lado no jardim, e o cabelo loiro-ruivo de Josh estava recebendo aquela cor de cobre que ele recebia quando o sol caía. Aurora pensou, sem querer pensar, que se ela continuasse parada ali mais meio minuto ia esquecer pra que tinha descido ao jardim.
 
