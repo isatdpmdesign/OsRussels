@@ -70,7 +70,7 @@ Aurora considerou aquilo. Depois deu o meio-sorriso pequeno, o de lábios fechad
 
 — Eu também não dormi. E eu desci porque imaginei que você ia estar aqui.
 
-Josh sentiu uma coisa morna se acomodar entre as costelas. Ela tinha descido porque imaginou que ele estaria ali — porque tinha esperado encontrá-lo, porque quis a presença dele antes de querer qualquer outra coisa daquela manhã. Não comentou. Não deixou aparecer no rosto. Mas guardou, do jeito que ele guardava as coisas que importavam: inteiras, em silêncio, no lugar de dentro onde nada se perdia.
+Josh sentiu uma coisa morna se acomodar entre as costelas. Ela tinha descido porque imaginou que ele estaria ali — porque tinha esperado encontrá-lo, porque quis a presença dele antes de querer qualquer outra coisa daquela manhã. Não comentou. Não deixou aparecer no rosto. Mas guardou internamente para si, no lugar onde reservara para as coisas que importavam.
 
 Aurora bebeu mais um gole. Josh notou que ela não estava com pressa de falar — que estava tomando o café como quem ganha tempo para montar a primeira pergunta de verdade. Era um gesto que ele já tinha visto nela em outras ocasiões e que sempre o desarmava: Aurora pensava nas perguntas antes de fazê-las, e quando as fazia, fazia inteiras.
 

@@ -50,6 +50,10 @@ A mesma ideia dita em três variantes pra fechar redonda: *"Não a sua exata —
 Personagem nunca faz uma coisa só por fazer. Sempre há significado, peso, gesto-revelação. Vida real não funciona assim.
 **Antídoto:** permita banalidade. Personagem pode coçar a cabeça e não significar nada. O gato pode aparecer e ninguém ter coragem de tirar, e ponto.
 
+### Tique 9 — Repetição parasita da mesma palavra (ou raiz) em curto espaço
+A IA repete o verbo (ou substantivo) que acabou de usar, geralmente colado a uma construção do tique 3 *("do jeito que")*. Exemplos: *"guardou, do jeito que ele guardava as coisas"* / *"olhou, do jeito que ele olhava"* / *"falou, com aquela cara de quem fala"* / *"sabia. Sabia que era. Sabia que..."*. Soa como ecolalia. Humano evita por instinto sonoro — o ouvido reclama antes mesmo da cabeça.
+**Antídoto:** troca uma das ocorrências por sinônimo, ou reescreve a frase de outro ângulo. *"Guardou, do jeito que ele guardava"* vira *"guardou internamente, no lugar que reservava para as coisas que importavam"*. Se a repetição é estilística mesmo (clímax verbal), no máximo três ocorrências e com motivo claro.
+
 ---
 
 ## PARTE 2 — Princípios da voz da Isadora (o que adicionar)
