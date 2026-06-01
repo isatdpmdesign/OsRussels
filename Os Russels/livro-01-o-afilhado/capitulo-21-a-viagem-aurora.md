@@ -134,7 +134,7 @@ Vibeke voltou ao guarda-roupa. Aurora ficou em pé no meio do quarto, com Vibeke
 
 *
 
-No jantar, Josh apareceu como sempre nos últimos cinco meses — no horário, com uma camisa de gola alta, perfeitamente alinhada pelo ferro e grampeada na lapela com o pequeno broche bordado por Casandra. Sentou-se no lugar dele em frente a Aurora. Não olhou pra ela mais do que cumprimentou. A tratou igual, da mesma forma como a tratara no jantar nos ultimos meses, como se o beijo entre eles não tivesse acontecido, ou a conversa profunda que tiveram na cozinha antes da casa se levantar, também não.
+No jantar, Josh apareceu como sempre nos últimos cinco meses (no horário, com uma camisa de gola alta perfeitamente alinhada pelo ferro e o pequeno broche bordado por Casandra na lapela). Sentou-se no lugar dele em frente a Aurora. Cumprimentou e tratou Aurora da mesma forma que tratara em qualquer outro jantar, com cortesia e pouca (quase nula) interação. Tudo saía exatamente calibrado, como se o beijo da madrugada e a conversa da cozinha às cinco e quarenta e cinco não tivessem acontecido. Aurora reconheceu o esforço, porque conhecia o Josh: era o trabalho de alguém forçando a fachada justamente porque tudo tinha mudado.
 
 Mas Aurora percebeu uma coisa.
 
