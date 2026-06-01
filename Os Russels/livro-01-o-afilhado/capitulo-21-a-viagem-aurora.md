@@ -1,4 +1,4 @@
-# OS RUSSELS — Livro I
+    # OS RUSSELS — Livro I
 
 ## O Afilhado
 
@@ -240,7 +240,7 @@ Josh estava falando de terra. Mas tudo o que passava na cabeça dela era Josh in
 
 — Está tentando me desestimular. Está achando que eu vou desistir e dizer pro papai que mudei de ideia.
 
-— Aurora — disse Josh, e o canto da boca dele subiu meio centímetro, daquele jeito de sorriso torto que Aurora tinha aprendido a reconhecer sem olhar de frente —, eu sei que você não muda de ideia. Eu estou te informando.
+— Aurora — disse Josh, e o canto da boca dele subiu meio centímetro outra vez, daquele jeito de sorriso torto que Aurora tinha aprendido a reconhecer sem olhar de frente —, eu sei que você não muda de ideia. Eu estou te informando.
 
 — Certo. Continue informando.
 
