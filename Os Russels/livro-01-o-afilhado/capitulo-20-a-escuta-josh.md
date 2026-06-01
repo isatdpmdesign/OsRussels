@@ -108,7 +108,7 @@ Aurora não desviou os olhos. Sorriu curto, de lábios fechados. Não perguntou 
 
 *
 
-Aurora estendeu a mão para o bule. Não tinha mais café. Levantou-se, foi até o fogão, pôs mais água, pôs mais pó. O ritual de fazer mais café num silêncio que não pesava. Josh, sentado, olhou as costas dela com a abertura que vinha de saber que ninguém ia entrar na cozinha pelos próximos quarenta minutos. Era um luxo que ele não tinha tido em cinco meses, o de olhar para Aurora sem ter que disfarçar o olhar.
+Aurora estendeu a mão para o bule. Não tinha mais café. Levantou-se, foi até o fogão, pôs mais água, pôs mais pó e fez mais um pouco. Josh, sentado, olhou as costas dela com a abertura que vinha de saber que ninguém ia entrar na cozinha pelos próximos quarenta minutos. Era um luxo que ele não tinha tido em cinco meses, o de olhar para Aurora sem ter que disfarçar o olhar.
 
 Olhou. Não disfarçou.
 
