@@ -130,17 +130,15 @@ Vibeke já estava abrindo o guarda-roupa de Aurora. Já estava tirando vestidos.
 
 — Verdade.
 
-Vibeke voltou ao guarda-roupa. Aurora ficou em pé no meio do quarto, com Vibeke conversando consigo mesma sobre vestidos no fundo, e pensou — não pôde não pensar — que cinco meses atrás, em março, quando Raj tinha anunciado no café que o filho da Casandra Russel vinha morar com eles, ela tinha imaginado um rapaz do campo com modos grosseiros que iria tropeçar nos talheres da casa. Tinha imaginado, com aquela certeza de menina cortês de Copenhague, que ela mesma teria que ensinar o rapaz a se portar entre porcelanas. E agora era ela que ia precisar aprender a falar com vacas.
-
-A ironia subiu pela garganta dela como uma risada. Aurora segurou. A Vibeke não precisava saber.
+Vibeke voltou ao guarda-roupa. Aurora ficou em pé no meio do quarto, com Vibeke conversando consigo mesma sobre vestidos no fundo, e pensou (não pôde não pensar) ironicamente que cinco meses atrás, em março, quando Raj tinha anunciado no café que o filho da Casandra Russel vinha morar com eles, ela tinha imaginado um rapaz do campo com modos grosseiros que iria tropeçar nos talheres da casa. Tinha imaginado, com aquela certeza de menina cortês de Copenhague, que ela mesma teria que ensinar o rapaz a se portar entre porcelanas. E agora era ela que ia precisar aprender a falar com vacas e talvez, até mesmo com macieiras. — Sorriu discretamente ao se lembrar de Josh contando que sua irmã Meridiana, conversava com as àrvores.
 
 *
 
-O Josh apareceu no jantar como aparecia todo jantar nos últimos cinco meses — no horário, com a camisa de gola alta e o pequeno bordado da Casandra na lapela, sentando no lugar dele em frente a Aurora. Não olhou pra ela mais do que cumprimentou. Não olhou pra ela menos do que cumprimentou. Foi exatamente o jantar que os dois tinham aprendido a fazer.
+No jantar, Josh apareceu como sempre nos últimos cinco meses — no horário, com uma camisa de gola alta, perfeitamente alinhada pelo ferro e grampeada na lapela com o pequeno broche bordado por Casandra. Sentou-se no lugar dele em frente a Aurora. Não olhou pra ela mais do que cumprimentou. A tratou igual, da mesma forma como a tratara no jantar nos ultimos meses, como se o beijo entre eles não tivesse acontecido, ou a conversa profunda que tiveram na cozinha antes da casa se levantar, também não.
 
 Mas Aurora percebeu uma coisa.
 
-Percebeu que o Josh, ao se sentar, tinha pousado a mão na borda da mesa por meio segundo a mais do que pousava normalmente. E que a mão, naquele meio segundo, estava fechada de um jeito que ela tinha visto de manhã na cozinha — quando ele estava segurando a si mesmo.
+Percebeu que o Josh, ao se sentar, tinha pousado a mão na borda da mesa por meio segundo a mais do que pousava normalmente. E que a mão, naquele meio segundo, estava fechada de um jeito ela desconhecia. Parecia que ele estava segurando uma raiva contiga. Segurando a si mesmo.
 
 Aurora não comentou. Voltou os olhos pro prato. E sentiu, com uma clareza que não pediu, que ia ser uma quinta-feira longa.
 
@@ -158,7 +156,7 @@ O Josh demorou meio segundo a responder essa.
 
 — A Zelândia rural em agosto.
 
-Raj escondeu um sorriso atrás do guardanapo. Eleonora ergueu meio milímetro o canto da boca, o que pra Eleonora era a versão dela de uma gargalhada. Aurora, do outro lado da mesa, levantou os olhos do prato pela primeira vez na noite e encontrou os olhos do Josh por um segundo inteiro.
+Raj escondeu um sorriso atrás do guardanapo. Eleonora ergueu meio milímetro o canto da boca, o que pra Eleonora era a versão dela de uma risada. Aurora, do outro lado da mesa, levantou os olhos do prato pela primeira vez na noite e encontrou os olhos do Josh por um segundo inteiro.
 
 Josh sustentou. Não disfarçou.
 
