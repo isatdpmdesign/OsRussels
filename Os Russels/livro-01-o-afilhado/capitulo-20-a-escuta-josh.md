@@ -24,7 +24,7 @@ A primeira parede não era razão. Era confiança. A confiança de um homem que 
 
 Ele tinha traído.
 
-E o pior, Josh pensou, de costas no escuro, era que o Raj não saberia. Não havia testemunha. Não havia carta, recado, fofoca de criada. O que tinha acontecido na sala de estar ficava entre ele e Aurora, lacrado pela própria natureza do que era. O Raj ia continuar tratando Josh como afilhado, ia continuar emprestando os livros com a própria mão, ia continuar dizendo *meu rapaz* com aquele orgulho contido de padrinho. E Josh ia continuar recebendo tudo isso sabendo o que sabia.
+E o pior, Josh pensou, de costas no escuro, era que o Raj não saberia. Não havia testemunha. Não havia carta, recado, fofoca de criada. O que tinha acontecido na sala de estar ficava entre ele e Aurora, lacrado pela própria natureza do que era. O Raj ia continuar tratando Josh como afilhado, ia continuar emprestando os livros com a própria mão, ia continuar dizendo *meu rapaz* com aquele orgulho contido de padrinho. E Josh ia continuar recebendo tudo isso sabendo o que fez.
 
 Era pior do que ser pego. Ser pego pelo menos acabava com a mentira.
 
