@@ -16,7 +16,7 @@ Fru Dahl ergueu os olhos do bordado. Era uma manhã de quinta-feira em agosto, o
 
 — Pode ir, Aurora. Quando voltar, continuamos no condicional.
 
-Aurora levantou-se. Alisou a saia, devagar, com a mesma precisão com que se alisa um vestido antes de entrar numa sala onde o silêncio importa. Saiu da sala de costura. Atravessou o corredor. Sabia, antes de chegar à porta do escritório, que alguma coisa estava se preparando — porque o pai dela não a chamava ao escritório no meio de uma aula a não ser que fosse alguma coisa.
+Aurora levantou-se. Alisou a saia devagar e saiu da sala de costura. Atravessou o corredor. Sabia, antes de chegar à porta do escritório, que alguma coisa estava acontecendo, porque o pai dela não a chamava ao escritório no meio de uma aula a não ser que fosse alguma coisa.
 
 Bateu. Entrou.
 
@@ -34,7 +34,7 @@ Aurora sentou na poltrona em frente ao pai. Pôs as mãos no colo. Esperou.
 
 Aurora não disse nada de imediato.
 
-Por fora, o rosto dela continuou o mesmo. As mãos no colo continuaram quietas. O queixo continuou no ângulo de sempre, levemente inclinado, da menina que aprendeu desde cedo a receber notícia sem dar à pessoa que entrega a notícia o privilégio de ver o efeito. Por dentro, a notícia caiu como uma pedra dentro de um poço fundo — primeiro o som curto da queda, depois o eco indo e voltando nas paredes, e Aurora teve que prender a primeira pergunta entre os dentes pra ela não escapar antes da hora.
+Por fora, o rosto dela continuou o mesmo. As mãos no colo continuaram quietas. O queixo continuou no ângulo de sempre, levemente inclinado, da menina que aprendeu desde cedo a receber notícia sem dar à pessoa que entrega a notícia o privilégio de ver o efeito. Por dentro, a notícia caiu como uma pedra dentro de um poço fundo. Primeiro o som curto da queda, depois o eco indo e voltando nas paredes, e Aurora teve que prender a primeira pergunta entre os dentes pra ela não escapar antes da hora.
 
 *A casa do Josh.*
 
@@ -54,21 +54,21 @@ Aurora assentiu uma vez. Devagar.
 
 — Não. Vou falar com ela depois. Quis falar com você primeiro porque você é a anfitriã.
 
-— Tem motivo especial pro convite? — perguntou Aurora, e ela mesma percebeu, no meio da pergunta, que a pergunta tinha saído com aquele tom de Aurora que era praticamente uma forma educada de dizer *eu não acredito em coincidência*. — A Casandra costuma convidar a gente?
+— Tem motivo especial pro convite? — perguntou Aurora, e ela mesma percebeu, no meio da pergunta, que a pergunta tinha saído com aquele tom de Aurora que era praticamente uma forma educada de dizer *eu não acredito em coincidência*. — A Casandra já fez esse tipo de convite antes?
 
-— Casandra é educada, Aurora. Ela ofereceu a casa, eu aceitei pelas duas. Ar de campo depois da temporada faz bem. A Vibeke nunca viu a Zelândia rural, você não vai pro campo desde que eu te levei a Helsingør com seis anos. É o tipo de coisa que se faz no fim de agosto.
+— Casandra é educada, Aurora. Quer retribuir a hospedagem de Josh aqui na Bredgade recebendo minha filha em Sorø. Eu não vejo porque não aceitar. Um pouco de ar do campo depois da temporada faz bem. A Vibeke nunca viu a Zelândia rural, você não vai pro campo desde que eu te levei a Helsingør com seis anos. Encare como um passeio que eu, seu pai, resolvi te proporcionar.
 
 Eleonora não disse nada. Continuou ao lado da janela, com as mãos cruzadas, calada, com os olhos no rosto da Aurora o tempo todo.
 
 Aurora sustentou o olhar do pai mais um instante. Não pra desafiar. Pra registrar.
 
-— Está bem, papai. Vou começar a separar as malas.
+— Está bem, papai. Obrigada. Vou começar a separar as malas.
 
 — Boa menina.
 
-Aurora levantou-se. Foi até a porta. E ao chegar à porta — porque ela não conseguiu não — virou meio grau a cabeça pra trás e encontrou os olhos da mãe.
+Aurora levantou-se. Foi até a porta. E ao chegar à porta, virou meio grau a cabeça pra trás e encontrou os olhos da mãe.
 
-Foi meio segundo, talvez menos. Eleonora ergueu uma sobrancelha. Só isso. Aurora reconheceu o gesto porque tinha sido criada com ele: era a sobrancelha que a mãe levantava quando estava registrando alguma coisa que não ia dizer agora, mas que estava anotando pra usar depois. Aurora não devolveu nenhum sinal. Saiu.
+Foi meio segundo, talvez menos. Eleonora ergueu uma sobrancelha. Só isso. Aurora reconheceu o gesto porque tinha sido criada com ele: era a sobrancelha que a mãe levantava quando estava desconfiada de alguma coisa que não ia dizer agora, mas que estava anotando para depois. Aurora não devolveu nenhum sinal. Saiu.
 
 Atravessou o corredor de volta com o passo controlado. Subiu pro quarto dela com a mesma calma. Fechou a porta. Encostou nela.
 
@@ -78,7 +78,7 @@ E foi só ali, com as costas na porta, com o quarto vazio em volta, que ela deix
 
 Disse mais uma vez, devagar, como quem prova a palavra.
 
-— Catorze dias inteiros.
+— Catorze dias inteiros na casa de Josh.
 
 Depois soltou um riso curto pelo nariz, sem alegria nenhuma, porque o riso era a única reação humana possível pra uma notícia que era ótima e era horrível e que não tinha o decoro de escolher uma das duas.
 
