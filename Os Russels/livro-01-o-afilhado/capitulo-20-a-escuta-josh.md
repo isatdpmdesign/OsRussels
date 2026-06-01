@@ -30,7 +30,7 @@ Era pior do que ser pego. Ser pego pelo menos acabava com a mentira.
 
 Levantou-se às quatro e dez.
 
-Lavou o rosto na bacia. Tirou a camisa de gola alta que ainda vestia desde o baile, amassada de uma noite de cama sem sono, e dobrou-a no espaldar da cadeira. Vestiu uma das camisas simples de algodão cru que usava nos dias comuns, a de gola baixa, a que lembrava as camisas da fazenda mais do que qualquer coisa que Eleonora teria aprovado para um jantar. Pôs as calças. Não calçou. Foi até a janela e ficou olhando para o pátio, que àquela hora timha apenas uma mancha da sombra de um céu cinza no telhado da cocheira. A casa estava no silêncio mais fundo do dia, aquele que vem entre as três e as cinco, quando até os ratos da despensa decidem dormir.
+Lavou o rosto na bacia. Tirou a camisa de gola alta que ainda vestia desde o baile, amassada de uma noite de cama sem sono, e dobrou-a no espaldar da cadeira. Vestiu uma das camisas simples de algodão cru que usava nos dias comuns, a de gola baixa, a que lembrava as camisas da fazenda mais do que qualquer coisa que Eleonora teria aprovado para um jantar. Pôs as calças. Não calçou. Foi até a janela e ficou olhando para o pátio, que àquela hora tinha apenas uma mancha da sombra de um céu cinza no telhado da cocheira. A casa estava no silêncio mais fundo do dia, aquele que vem entre as três e as cinco, quando até os ratos da despensa decidem dormir.
 
 Josh desceu descalço.
 
