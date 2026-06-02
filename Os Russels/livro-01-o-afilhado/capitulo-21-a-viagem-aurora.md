@@ -322,9 +322,9 @@ Eleonora pôs a mão na grade da janela. Não tocou em Aurora. Olhou pra ela com
 
 — Sim.
 
-— Você é a minha filha.
+— Não faz nada que eu não tenha te ensinado. Na casa dos Russel, na frente da Casandra, na frente dos irmãos do Josh, na frente do próprio Josh, você é a minha filha. E a minha filha sabe se portar.
 
-Foi só isso. Eleonora não acrescentou nada. Tirou a mão da grade, recuou um passo, e ficou na soleira da casa, com as mãos cruzadas na altura da cintura, com a postura de sempre. Aurora ficou um segundo olhando pra mãe pela janela da carruagem. Não respondeu nada — a mãe não tinha pedido resposta. Tinha pedido outra coisa. Aurora não soube exatamente o quê na hora, mas soube que a frase ia continuar acordando dentro dela ao longo da viagem.
+Eleonora não acrescentou nada. Tirou a mão da grade, recuou um passo, e ficou na soleira da casa, com as mãos cruzadas na altura da cintura, com a postura de sempre. Aurora ficou um segundo olhando pra mãe pela janela da carruagem. Não respondeu — a mãe não tinha pedido resposta. Tinha pedido obediência. E Aurora entendeu cada uma das palavras: a mãe sabia, ou desconfiava o suficiente pra dar o aviso. Tinha alguma coisa entre Aurora e Josh, e a mãe estava dizendo, do jeito dela, que aquela coisa não podia se mostrar nem na Sorø, nem na frente da Casandra, nem na presença de Josh.
 
 A carruagem se mexeu. Aurora encostou a cabeça no espaldar e fechou os olhos por meio segundo.
 

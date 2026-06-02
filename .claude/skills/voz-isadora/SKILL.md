@@ -54,6 +54,28 @@ Personagem nunca faz uma coisa só por fazer. Sempre há significado, peso, gest
 A IA repete o verbo (ou substantivo) que acabou de usar, geralmente colado a uma construção do tique 3 *("do jeito que")*. Exemplos: *"guardou, do jeito que ele guardava as coisas"* / *"olhou, do jeito que ele olhava"* / *"falou, com aquela cara de quem fala"* / *"sabia. Sabia que era. Sabia que..."*. Soa como ecolalia. Humano evita por instinto sonoro — o ouvido reclama antes mesmo da cabeça.
 **Antídoto:** troca uma das ocorrências por sinônimo, ou reescreve a frase de outro ângulo. *"Guardou, do jeito que ele guardava"* vira *"guardou internamente, no lugar que reservava para as coisas que importavam"*. Se a repetição é estilística mesmo (clímax verbal), no máximo três ocorrências e com motivo claro.
 
+### Tique 10 — Subtexto vago que pede ao leitor pra inferir
+Frase que termina com o personagem *"não sabendo ainda exatamente o que aquilo significava"*, *"uma coisa que ele ainda não tinha tido tempo de processar"*, *"tinha pedido outra coisa, ele não soube exatamente o quê"*, *"a frase ia continuar acordando dentro dela ao longo da viagem"*. A IA gosta dessas construções porque parecem profundas e literárias. Na verdade são **trampolins** que pedem ao leitor pra deduzir o significado — e geralmente o leitor deduz errado, ou simplesmente não deduz nada e a cena passa sem ter pousado.
+
+A autora deste projeto prefere **CLARO E ESCANCARADO** ao **SUBJETIVO E ABERTO**. Quando em dúvida entre subtexto literário e clareza explícita, **escolha clareza**. A história ganha em arrasto e em emoção porque o leitor sabe o que está em jogo a cada cena.
+
+**Antídoto:**
+- Se o personagem POV entendeu algo importante, **escreva o que ele entendeu**, em voz interna direta.
+- Se a fala de outro personagem teve um significado específico, **nomeie esse significado** — pela cabeça do POV ou pela própria fala (faça o personagem dizer mais).
+- Quando o aviso/recado/insinuação importa pra o arco, é melhor pecar pelo excesso de clareza do que pela falta.
+
+**Exemplo de antes** (vago, subtexto que ninguém pega):
+> *— Você é a minha filha.*
+>
+> *Aurora não soube exatamente o quê na hora, mas soube que a frase ia continuar acordando dentro dela ao longo da viagem.*
+
+**Exemplo de depois** (claro e escancarado, mas ainda com a voz contida de Eleonora):
+> *— Não faz nada que eu não tenha te ensinado. Na casa dos Russel, na frente da Casandra, na frente do próprio Josh, você é a minha filha. E a minha filha sabe se portar.*
+>
+> *Aurora entendeu cada uma das palavras: a mãe sabia, ou desconfiava o suficiente pra dar o aviso. Tinha alguma coisa entre Aurora e Josh, e a mãe estava dizendo, do jeito dela, que aquela coisa não podia se mostrar nem na Sorø, nem na frente da Casandra, nem na presença de Josh.*
+
+Eleonora **nomeia** o que está avisando. Aurora **entende**. O leitor **entende**. A cena pousa.
+
 ---
 
 ## PARTE 2 — Princípios da voz da Isadora (o que adicionar)
