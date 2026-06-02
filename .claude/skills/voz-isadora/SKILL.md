@@ -70,11 +70,13 @@ A autora deste projeto prefere **CLARO E ESCANCARADO** ao **SUBJETIVO E ABERTO**
 > *Aurora não soube exatamente o quê na hora, mas soube que a frase ia continuar acordando dentro dela ao longo da viagem.*
 
 **Exemplo de depois** (claro e escancarado, mas ainda com a voz contida de Eleonora):
-> *— Não faz nada que eu não tenha te ensinado. Na casa dos Russel, na frente da Casandra, na frente do próprio Josh, você é a minha filha. E a minha filha sabe se portar.*
+> *— Não faz nada que eu não tenha te ensinado. Na casa dos Russel, na frente da Casandra, na frente dos irmãos do Josh, na frente do próprio Josh, você é a minha filha. E a minha filha sabe se portar.*
 >
-> *Aurora entendeu cada uma das palavras: a mãe sabia, ou desconfiava o suficiente pra dar o aviso. Tinha alguma coisa entre Aurora e Josh, e a mãe estava dizendo, do jeito dela, que aquela coisa não podia se mostrar nem na Sorø, nem na frente da Casandra, nem na presença de Josh.*
+> *Aurora entendeu cada uma das palavras. A mãe sabia, ou desconfiava o suficiente pra dar o aviso. E o aviso era um só: na Sorø, Aurora não podia deixar acontecer nada. Nada entre ela e Josh, nada que a Casandra desconfiasse, nada que os irmãos do Josh notassem, nada que ninguém na casa percebesse. Era isso que a mãe estava mandando: não se deixar levar.*
 
-Eleonora **nomeia** o que está avisando. Aurora **entende**. O leitor **entende**. A cena pousa.
+Eleonora **nomeia** o que está avisando. Aurora **entende exatamente o que** — não é "não mostre", é "não deixe acontecer". O leitor **entende**. A cena pousa.
+
+**Cuidado adicional:** quando explicitar, não se contente em dizer *"não deixe transparecer"* ou *"não mostre"*. Isso ainda deixa margem (o leitor lê: tudo bem fazer, só não pode mostrar). O aviso real costuma ser mais forte — *"não deixe acontecer"*. Diga isso.
 
 ---
 
