@@ -136,7 +136,7 @@ Vibeke voltou ao guarda-roupa. Aurora ficou em pé no meio do quarto, com Vibeke
 
 No jantar, Josh apareceu como sempre nos últimos cinco meses (no horário, com uma camisa de gola alta perfeitamente alinhada pelo ferro e o pequeno broche bordado por Casandra na lapela). Sentou-se no lugar dele em frente a Aurora. Cumprimentou e a tratou da mesma forma que tratara em qualquer outro jantar, com cortesia e pouca (quase nula) interação. Tudo saía exatamente calibrado, como se o beijo da madrugada e a conversa da cozinha às cinco e quarenta e cinco não tivessem acontecido. Aurora reconheceu o esforço, porque conhecia Josh: era o trabalho de alguém forçando a fachada justamente porque tudo tinha mudado.
 
-Ninguém desconfiou de nada, porque Josh manteve as aparencias e Vibeke ajudou sem saber que estava ajudando, perguntando sobre absolumentamente tudo que pudesse passar em seu cerebro hiperativo, desfocando desta forma, a atenção de todos.
+Ninguém desconfiou de nada, porque Josh manteve as aparências e Vibeke ajudou sem saber que estava ajudando, perguntando sobre absolutamente tudo que pudesse passar em seu cérebro hiperativo, desfocando, dessa forma, a atenção de todos.
 
 Perguntou a Josh, como havia avisado para Aurora, que perguntaria se Casandra cavalgava (Josh: às vezes, sim, mas mais por necessidade do que por prazer). Perguntou se tinha cachorro (Josh: dois — o Kongen, velho, e a Liv, jovem, mordedora). Perguntou se tinha vaca (Josh: catorze). Perguntou também se tinha ovelha (Josh: não, mas tinha cabra, três). Perguntou se tinha pernilongo.
 
