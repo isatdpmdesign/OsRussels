@@ -130,7 +130,7 @@ Vibeke já estava abrindo o guarda-roupa de Aurora. Já estava tirando vestidos.
 
 — Verdade.
 
-Vibeke voltou ao guarda-roupa. Aurora ficou em pé no meio do quarto, com Vibeke conversando consigo mesma sobre vestidos no fundo, e pensou (não pôde não pensar) ironicamente que cinco meses atrás, em março, quando Raj tinha anunciado no café que o filho da Casandra Russel vinha morar com eles, ela tinha imaginado um rapaz do campo com modos grosseiros que iria tropeçar nos talheres da casa. Tinha imaginado, com aquela certeza de menina cortês de Copenhague, que ela mesma teria que ensinar o rapaz a se portar entre porcelanas. E agora era ela que ia precisar aprender a falar com vacas e talvez, até mesmo com macieiras. — Sorriu discretamente ao se lembrar de Josh contando que sua irmã Meridiana, conversava com as àrvores.
+Vibeke voltou ao guarda-roupa. Aurora ficou em pé no meio do quarto, com Vibeke conversando consigo mesma sobre vestidos no fundo, e pensou (não pôde não pensar) ironicamente que cinco meses atrás, em março, quando Raj tinha anunciado no café que o filho da Casandra Russel vinha morar com eles, ela tinha imaginado um rapaz do campo com modos grosseiros que iria tropeçar nos talheres da casa. Tinha imaginado, com aquela certeza de menina cortês de Copenhague, que ela mesma teria que ensinar o rapaz a se portar entre porcelanas. E agora era ela que ia precisar aprender a falar com vacas e talvez, até mesmo, com macieiras. Sorriu discretamente ao se lembrar de Josh contando que Meridiana conversava com as árvores.
 
 *
 
