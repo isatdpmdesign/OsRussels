@@ -298,7 +298,7 @@ Vibeke já estava no meio de uma história sobre a sua égua predileta em Viborg
 
 A porta da carruagem fechou.
 
-E foi nesse instante, Aurora ia entender depois, que ela percebeu uma coisa que ela ainda não tinha tido tempo de processar: ela estava entrando numa carruagem com Josh Russel pela primeira vez. Em cinco meses na mesma casa, eles tinham dividido cômodos, mesa, biblioteca, jardim, corredor, cozinha, cada lugar imaginável daquela casa. Nunca tinham dividido uma carruagem fechada. Nunca tinham sido obrigados a se sentar a um metro um do outro, sem como sair, por mais de cinco minutos.
+E foi nesse instante, Aurora ia entender depois, que ela percebeu uma coisa que ainda não tinha tido tempo de processar: ela já tinha dividido carruagem com Josh várias vezes nos cinco meses anteriores — pro chá da senhora Mikkelsen, pros bailes da temporada, pra cada compromisso social que a Bredgade exigia. Mas sempre com Raj e Eleonora no banco da frente. Sempre dentro de Copenhague. Sempre por meia hora, no máximo. E sempre lado a lado, com os quarenta centímetros de banco entre os dois que tinha aprendido a medir sem olhar. Nunca os dois sozinhos por oito horas de estrada, com a única acompanhante já dormindo no ombro dela. Nunca frente a frente.
 
 Eles iam ter oito horas.
 
