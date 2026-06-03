@@ -334,23 +334,21 @@ Quando abriu, a Bredgade estava começando a passar do lado de fora da janela.
 
 *
 
-As primeiras duas horas foram quase só Vibeke.
+A primeira hora foi quase só Vibeke.
 
 Vibeke falou da égua, do irmão mais novo dela em Viborg (oito anos, mente em tudo, mas mente bonito), da Karoline, das duas casas da família em Viborg, da diferença entre o pão de Viborg e o pão da Bredgade (o de Viborg ganhava, na opinião dela). Falou pra Aurora, falou pro Josh, falou pra janela quando Aurora e Josh ficavam quietos demais. Aurora ouviu sem interromper, com a meia atenção de quem está deixando a outra metade ocupada em outra coisa.
 
 A outra coisa era o homem sentado em frente a ela.
 
-Josh não falou muito. Quando a Vibeke fazia uma pergunta direta a ele, respondia, breve, com a cortesia padrão. Quando a Vibeke falava sem perguntar, ouvia, com aquela atenção honesta dele que Aurora tinha catalogado ao longo de cinco meses: uma atenção que não fingia interesse e não fingia falta de interesse, que simplesmente estava ali, recebendo. Josh olhou pela janela várias vezes. Olhou pra Vibeke quando ela perguntou. Olhou pro chão da carruagem quando achou que ninguém estava olhando.
+Josh não falou muito. Quando a Vibeke fazia uma pergunta direta a ele, respondia, breve, com a cortesia padrão. Quando a Vibeke falava sem perguntar, ouvia, com aquela atenção honesta dele que Aurora tinha catalogado ao longo de cinco meses: uma atenção que não fingia interesse e não fingia falta de interesse, que simplesmente estava ali, recebendo. Josh olhou pela janela várias vezes. Olhou pra Vibeke quando ela perguntou.
 
-Olhou pra Aurora uma vez.
+Olhou pra Aurora muitas.
 
-Foi quando a carruagem passou pelo portão oeste de Copenhague, o mesmo portão pelo qual ele tinha entrado em março, e Aurora viu, sem ele perceber que ela estava vendo, que ele tinha virado a cabeça meio grau pra olhar o portão por dentro como quem reconhece uma porta que entrou um dia e nunca tinha tido oportunidade de olhar de volta. Aurora viu. E viu também que, depois do portão, Josh virou os olhos pra dentro da carruagem e cruzou com os olhos dela meio segundo antes de baixar pro chão de novo.
+Aurora se permitiu olhar de volta. Foi uma decisão pequena tomada no fim da primeira hora, depois de Vibeke ter dito alguma coisa sobre o pão de Viborg e Aurora ter respondido o mínimo: simplesmente parou de fingir que não estava olhando. Os olhos dela encontraram os de Josh e ficaram. Josh sustentou. Não foi cortesia. Não foi performance pra ninguém (a Vibeke estava entretida com a janela). Foi um olhar.
 
-Aurora não desviou. Esperou.
+Aurora catalogou o que tinha pra catalogar na luz fraca da carruagem em movimento. O cílio loiro-ruivo que escurecia perto da raiz. A unha do polegar direito que ele tinha cortado tão curta na partida que a ponta ainda estava em carne viva. O jeito que o verde do olho dele ficava mais claro quando o sol entrava pela cortina. O veio reto que descia pela lateral do antebraço até o pulso. A mão larga aberta no joelho dele, com o nó dos dedos marcado por arranhão antigo da pérgola de maio.
 
-Josh não devolveu o olhar.
-
-Foi uma resposta. Aurora a recebeu.
+Quando a carruagem passou pelo portão oeste de Copenhague (o mesmo portão pelo qual ele tinha entrado em março), Josh virou a cabeça meio grau pra olhar o portão por dentro como quem reconhece uma porta que entrou um dia e nunca tinha tido oportunidade de olhar de volta. Aurora viu. Depois do portão, Josh devolveu os olhos pra dentro da carruagem e encontrou os dela de novo. Dessa vez nenhum dos dois mediu o tempo.
 
 *
 
@@ -360,13 +358,21 @@ Aurora notou pelo som primeiro. O paralelepípedo da cidade era uma coisa; o cas
 
 Aurora descobriu, ali, que tinha esquecido como soava a Dinamarca fora de Copenhague.
 
-Vibeke, na metade da terceira hora, dormiu. Foi de repente, do jeito que jovens de dezessete anos dormem: uma frase começada e não terminada, a cabeça caindo de leve pro lado, e pronto, dormiu. Encostou no ombro de Aurora. Aurora deixou.
+Vibeke, na metade da segunda hora, dormiu. Foi de repente, do jeito que jovens de dezessete anos dormem: uma frase começada e não terminada, a cabeça caindo de leve pro lado, e pronto, dormiu. Encostou no ombro de Aurora. Aurora deixou.
 
 E aí ficou só Aurora e Josh.
 
-A carruagem rangia. O cascalho corria. Lá fora os campos de centeio estavam começando a aparecer, dourados, mexendo no vento. Aurora olhou pela janela um tempo. Quando voltou os olhos pra dentro, encontrou os olhos de Josh.
+A carruagem rangia. O cascalho corria. Lá fora os campos de centeio estavam começando a aparecer, dourados, mexendo no vento.
 
-Dessa vez ele não desviou.
+Foi nesse momento que Josh, com Vibeke dormindo profundo no ombro de Aurora e a estrada vazia lá fora, abaixou a mão pra coçar o calcanhar. Aurora viu o que ele estava fazendo. Tirou a bota direita. Devolveu o pé descalço pro chão da carruagem, deslizando-o pra frente sem decidir, do jeito que se desliza um pé num cômodo conhecido. O pé de Josh encostou no pé de Aurora.
+
+Aurora não tirou o pé.
+
+Josh esperou um segundo. Depois entendeu que Aurora não ia tirar. Aí Josh também não tirou.
+
+Ficaram assim.
+
+Foi um toque pequeno (um pé descalço encostado no canto de uma bota fina, no chão escuro de uma carruagem que ia rangendo no cascalho), e foi exatamente do tamanho da única coragem que cabia nos dois entre Copenhague e Sorø com Vibeke dormindo no ombro da Aurora. Aurora olhou pra Josh. Josh olhou pra Aurora.
 
 — Você está bem? — perguntou ele, baixo, pra não acordar a Vibeke.
 

@@ -10,7 +10,7 @@
 
 Aurora reconheceu pela mudança do som que estavam chegando. O cascalho que vinha rolando sob a carruagem havia oito horas (com aquela monotonia uniforme de pedrinha pequena espalhada por mãos de empreitada distantes) começou a ralear, depois ficou irregular, depois cedeu lugar à terra batida. O ruído da roda virou um som mais surdo, mais quente. Os pássaros se aproximaram. O cheiro mudou, também: a poeira clara da estrada principal deu lugar a outra coisa, mais funda, com palha, com fumaça leve de fogão a lenha lá longe, com maçã madura que Aurora ainda não enxergava mas que já reconhecia pelo nariz.
 
-Vibeke, que tinha dormido por uma hora e meia no ombro de Aurora e que tinha acordado uma hora atrás com os cabelos do lado esquerdo achatados como se tivessem sido prensados a ferro, sentou-se mais reta. Espreitou pela janela.
+Vibeke, que tinha dormido cinco das oito horas no ombro de Aurora (do começo da segunda hora até quase a chegada, com a única interrupção de dez minutos no fim da quinta hora pra perguntar onde estavam e voltar a dormir antes da resposta), acabou de acordar com os cabelos do lado esquerdo achatados como se tivessem sido prensados a ferro. Sentou-se mais reta. Espreitou pela janela.
 
 — Aurora. — A voz dela era a voz de menina diante de presente. — Aurora, olha.
 
@@ -20,7 +20,7 @@ A casa apareceu numa curva. Pedra na metade de baixo, madeira escurecida na meta
 
 A carruagem parou.
 
-Josh tinha continuado de frente pra Aurora pelas oito horas inteiras (de frente pra ela, e sozinho no banco oposto, com as costas pra direção do movimento) sem nunca devolver pra ela um olhar mais longo do que cortesia permitia, mesmo com a Vibeke dormindo e a estrada vazia. Aurora respeitara. Os dois respeitaram. Mas agora, com a carruagem parada e o ar quente entrando pela janela e a Vibeke já de pé tentando alcançar a porta antes do cocheiro, Josh olhou pra Aurora pela primeira vez desde a partida com a calma de quem chegou em casa.
+Josh tinha continuado de frente pra Aurora pelas oito horas inteiras (de frente pra ela, e sozinho no banco oposto, com as costas pra direção do movimento), e tinham trocado olhares quase a viagem inteira. Aurora tinha catalogado o que tinha pra catalogar na luz fraca da carruagem em movimento: o cílio loiro-ruivo que escurecia perto da raiz; a unha do polegar que ele tinha cortado tão curta na partida que a ponta ainda estava em carne viva; o jeito que os olhos dele ficavam mais verdes quando o sol entrava pela cortina; o veio reto que descia pela lateral do antebraço dele até o pulso; a mão larga aberta no joelho dele com o nó dos dedos ainda marcado por arranhão antigo da pérgola de maio. Josh tinha olhado de volta sem disfarçar. Quando Vibeke dormiu na metade da segunda hora e encostou no ombro de Aurora, Josh tirou uma bota pra coçar o calcanhar, deslizou o pé descalço pelo chão da carruagem como quem fez sem querer, e encostou no pé de Aurora. Aurora não tirou o pé. Josh não tirou o dele. Seguiram assim, com os pés encostados, pelas seis horas seguintes. Mas agora, com a carruagem parada e o ar quente entrando pela janela e Vibeke já de pé tentando alcançar a porta antes do cocheiro, Josh olhou pra Aurora com a calma de quem chegou em casa.
 
 — Eu desço primeiro — disse ele. — Eu te dou a mão.
 
@@ -36,7 +36,7 @@ E Casandra apareceu na soleira.
 
 *
 
-Não era a Casandra que Aurora tinha desenhado na cabeça em cinco meses de cartas vindo toda quarta, daquela Casandra de letra firme e frases curtas que mandava a Josh pelo correio. A Casandra real era menor. Mãos vermelhas de quem tinha acabado de fazer alguma coisa (sopa? massa de pão? Aurora não saberia). Cabelos castanhos presos com um lenço azul-claro lavado mil vezes. Um avental que tinha sido novo um dia.
+Não era a Casandra que Aurora tinha desenhado na cabeça depois daquela madrugada na cozinha das cinco e quarenta e cinco, quando Josh tinha contado dela com a caneca girando entre as duas mãos — uma mulher que levava tudo pra dentro pra não pôr nos outros, que sabia puxar a orelha do Dylan na hora certa e deixar o Matias em paz na hora certa, que falava pouco mas falava sempre certeiro. A Casandra real era menor. Mãos vermelhas de quem tinha acabado de fazer alguma coisa (sopa? massa de pão? Aurora não saberia). Cabelos castanhos presos com um lenço azul-claro lavado mil vezes. Um avental que tinha sido novo um dia.
 
 Casandra desceu os dois degraus do alpendre como se cada degrau pesasse cinco meses.
 
@@ -94,7 +94,7 @@ Por dentro, o desmoronamento. Ele escreveu sobre ela. Toda semana? Algumas? Que 
 
 Meridiana fez a mesma coisa com a Vibeke. A Vibeke abraçou.
 
-Atrás de Meridiana, na sombra do batente da porta da casa, alguém saía agora pra varanda. Era mais alto que Josh, mais quadrado nos ombros, com o cabelo loiro mais escuro, olhos verdes mais sérios. Aurora soube antes do nome.
+Atrás de Meridiana, na sombra do batente da porta da casa, alguém saía agora pra varanda. Era mais alto que Josh, mais quadrado nos ombros, ruivo (mais ruivo do que Josh — ruivo de verdade, cabelo e barba puxados pra cobre), olhos azuis. Aurora soube antes do nome.
 
 — Senhorita Svensson. — Joseph cumprimentou com a reverência discreta de quem tinha sido ensinado a receber uma dama por uma mãe que sabia receber. — Bem-vinda. — Pra Vibeke, com o mesmo tom: — Senhorita Bjerg.
 
@@ -108,7 +108,7 @@ Joseph assentiu. Era tudo que Joseph ia fazer ali.
 
 A pergunta veio do lado oposto. Aurora virou.
 
-Tinha um menino no canto do alpendre, do outro lado da Casandra. Magro, descalço (descalço também), com cabelo loiro desgrenhado e olhos verdes que olhavam Aurora sem nenhum tipo de filtro entre o pensamento e a boca. Treze anos, e Aurora não precisou de Josh pra fazer a apresentação. Matias.
+Tinha um menino no canto do alpendre, do outro lado da Casandra. Magro, descalço (descalço também), loiríssimo (loiro de criança, quase branco no sol), olhos azuis tão claros que de longe pareciam cinza, e que olhavam Aurora sem nenhum tipo de filtro entre o pensamento e a boca. Treze anos, e Aurora não precisou de Josh pra fazer a apresentação. Matias.
 
 — Olá — disse Aurora.
 
@@ -116,7 +116,7 @@ Tinha um menino no canto do alpendre, do outro lado da Casandra. Magro, descalç
 
 — De poesia?
 
-— É. Porque o Josh me disse que você lê. E eu queria saber se você gosta. Porque a Casandra tem uma coleção do papai que ninguém olha mais, e eu queria mostrar.
+— É. Porque o Josh me disse que você lê. E eu queria saber se você gosta. Porque a mãe tem uma coleção do papai que ninguém olha mais, e eu queria mostrar.
 
 Aurora riu. Foi pelo nariz, foi curto, foi a primeira risada do dia, e Aurora pensou (porque era impossível não pensar) que tinha rido pelo nariz pela primeira vez em semanas na quarta de quinze dias atrás, quando a Vibeke tinha contado a história do pai sumido na fazenda. Duas risadas pelo nariz em quinze dias era, pessoalmente, pra Aurora, uma maratona emocional.
 
@@ -174,7 +174,7 @@ A casa entrou em movimento.
 
 O quarto de Meridiana era pequeno e limpo. Cama de casal com colcha de retalhos. Janela única que dava pro pomar. Uma escrivaninha simples encostada na parede com um caderno aberto, uma caneta, dois ramos secos de alguma planta pendurados no batente. Não tinha lustre. Não tinha cortina pesada. Não tinha o cheiro de cera de móveis da Bredgade.
 
-— Vou dormir com a mamãe — disse Meridiana, no batente. — Vocês duas ficam aqui. A cama é grande. A Aurora dorme do lado da janela. A Vibeke dorme do lado de fora. Eu uso essa escrivaninha de manhã, mas eu pego o caderno daqui a pouco e levo pro meu quarto novo. — Sorriu pra Aurora. — Se acomoda. Eu volto em meia hora pra chamar pro jantar.
+— Vou dormir com a mamãe — disse Meridiana, no batente. — Vocês duas ficam aqui. A cama é grande. Eu uso essa escrivaninha de manhã, mas eu pego o caderno daqui a pouco e levo pro meu quarto novo. — Sorriu pra Aurora. — Se acomoda. Eu volto em meia hora pra chamar pro jantar.
 
 Saiu.
 
@@ -190,7 +190,7 @@ O pomar começava ali, a três metros do beiral. As macieiras seguiam pra dentro
 
 O ombro de Josh estava relaxado.
 
-Aurora não tinha medido, nunca, o quanto o ombro de Josh tinha estado tenso na Bredgade. Não tinha tido referência. Mas viu agora, com o ombro relaxado dele no pomar do irmão, que cinco meses inteiros tinham passado com aquele ombro um centímetro mais alto do que precisava. Cinco meses inteiros num teto perto demais. O Josh do pomar era um Josh sem o esforço de caber em algo que não era pra caber.
+Aurora não tinha medido, nunca, o quanto o ombro de Josh tinha estado tenso na Bredgade. Não tinha tido referência. Mas viu agora, com o ombro relaxado dele no pomar do irmão, que cinco meses inteiros tinham passado com aquele ombro um centímetro mais alto do que precisava. Cinco meses inteiros de cuidado: o cuidado de hóspede com a casa do padrinho, o cuidado de afilhado com os modos que não eram dele de origem, o cuidado de não dar passo errado dentro de uma rotina que não era a sua. E (Aurora sabia agora) o cuidado de não olhar mais do que devia pra ela. O Josh do pomar era um Josh sem aquele esforço todo nas costas.
 
 Aurora respirou fundo pela primeira vez no dia. O ar do pomar entrou. Era terra, palha quente, maçã madura, fumaça leve do fogão a lenha. E mais alguma coisa que Aurora reconheceu sem ter consciência de reconhecer — uma coisa que tinha estado no cheiro de Josh durante cinco meses (atrás do tabaco, atrás do sabão de Copenhague, atrás do ar frio que ele trazia da rua) e que Aurora nunca tinha sabido nomear. Era este cheiro. Era de onde ele vinha.
 
@@ -264,23 +264,11 @@ Depois encontrou uma. A palavra era descansar.
 
 Aurora descansou.
 
-Em algum momento (Aurora não saberia precisar quando) ela percebeu que ria. Não a risada de salão. Risada de verdade. Pelo nariz, pela boca, com o ombro pulando uma vez. Olhou pra Josh por reflexo, do outro jeito que se olha quando se ri sem decidir, e Josh estava olhando pra ela. Aurora segurou o olhar.
+Em algum momento (Aurora não saberia precisar quando) ela percebeu que ria. Não a risada de salão. Risada de verdade. Pelo nariz, pela boca, com o ombro pulando uma vez. Olhou pra Josh por reflexo, do outro jeito que se olha quando se ri sem decidir, e Josh estava olhando pra ela.
 
-Josh abriu a boca. Disse, baixo o suficiente pra ninguém ouvir do meio do tumulto:
+Olhando do jeito que ele não tinha olhado nenhuma vez na Bredgade. Sem disfarce. Sem cortesia. Josh tinha a colher parada no meio do caminho entre a tigela e a boca, com a sopa esfriando dentro dela, e tinha esquecido de mastigar. Olhava pra Aurora como se Aurora fosse uma coisa que ele não esperava ver e que ele acabou de ver: Aurora rindo, Aurora leve, Aurora livre, Aurora solta, Aurora feliz. Aurora viu Josh ver. E Aurora soube, com a clareza de quem se reconhece no reflexo do olho do outro mais nítido do que no próprio espelho, que aquela versão dela (a versão que ria pelo nariz e pela boca com o ombro pulando uma vez na mesa de uma fazenda da Zelândia, com sopa de cevada na frente e uma família tumultuada em volta) era a versão que Josh queria pra si.
 
-— Aurora, se eu —
-
-Engoliu.
-
-Não terminou a frase.
-
-Aurora terminou na cabeça. Aurora terminou três versões na cabeça. Aurora soube qual era. Josh tinha olhado pra mesa cheia (a mãe dele bebendo sopa do lado, a irmã rindo do outro lado, os dois moleques disputando o último naco de pão, a casa simples de telhado três vezes reconstruído pelo pai dele, o pomar do outro lado da janela) e tinha querido perguntar se Aurora ia querer viver aquilo. Ali. Com ele. Pelo resto da vida que sobrasse.
-
-Não era uma pergunta que ele podia fazer. Não na casa da mãe dele, não com a Vibeke do lado da Casandra, não com a casa da Bredgade esperando o retorno dele em quatorze dias com uma soma de dívida que ninguém naquela mesa sabia que existia. Aurora também não sabia. Aurora ainda não sabia.
-
-Mas Aurora soube qual era a pergunta. E Josh viu que Aurora soube.
-
-Aurora baixou os olhos pro prato.
+Aurora segurou o olhar um segundo a mais do que devia. Depois baixou os olhos pro prato.
 
 — Vibeke. — A voz dela saiu firme, no automático de uma vida de treino. — Você tem que provar esse queijo. O Josh me disse que era assim que ele queria que eu provasse o queijo da Casandra antes da viagem acabar.
 
@@ -300,7 +288,7 @@ Casandra apertou o ombro de Aurora antes de Aurora sair. Foi um gesto curto. Foi
 
 Saiu.
 
-O pomar à noite era outra criatura. As macieiras viravam silhuetas sem dentro. A lua estava quase cheia. O cheiro era mais forte (maçã se anuncia mais de noite porque o ar esfria), e algum animal pequeno passou correndo na grama atrás da fileira do meio sem aparecer.
+O pomar à noite era outra criatura. As macieiras viravam recortes escuros contra o céu azul-marinho da noite, sem detalhe por dentro, só contorno. A lua estava quase cheia. O cheiro era mais forte (maçã se anuncia mais de noite porque o ar esfria), e algum animal pequeno passou correndo na grama atrás da fileira do meio sem aparecer.
 
 Aurora seguiu o caminho de pedra. Encontrou o meio do pomar. Encontrou uma macieira maior do que as outras, mais velha, com o tronco torto. Não tinha banco. Aurora sentou no chão na grama. A terra era fria. O tecido do vestido absorveu a frieza no segundo. Aurora não se levantou.
 
@@ -318,9 +306,9 @@ Josh estava a três passos. Descalço. As calças dobradas até abaixo do joelho
 
 Aurora assentiu.
 
-Josh sentou no chão a um metro dela. Frente a frente. Joelho de Josh quase tocando o pé de Aurora (não estava descalça — botinhas, mas a barra da saia tinha subido um pouco no movimento e ela sentiu a grama na panturrilha por um segundo).
+Josh sentou no chão ao lado dela. Não colado — uns trinta centímetros entre o ombro dele e o de Aurora, do jeito que dois conhecidos do campo se sentariam debaixo de uma árvore pra olhar o pomar. Os dois de frente pra fileira de macieiras. Aurora não estava descalça (botinhas finas de salão, que não eram pra grama, e que ela ia tirar amanhã, decidiu antes mesmo de saber que tinha decidido). A barra da saia tinha subido meio palmo no movimento de sentar e Aurora sentiu a grama na panturrilha por um segundo.
 
-Aurora reparou no pé descalço dele. O calcanhar tinha terra. O peito do pé tinha um pelo loiro fino, quase ruivo, que pegava a lua. A panturrilha apareceu por causa das calças dobradas. Aurora pensou, com a clareza desonesta de quem já estava cansada demais pra mentir pra si mesma à uma da manhã na grama de um pomar a oito horas da Bredgade, que aquela panturrilha de Josh, daquele jeito específico, naquele exato escuro azulado, era a coisa mais bonita que ela tinha visto na vida.
+Aurora olhou de lado e reparou no pé descalço dele, esticado na grama uns trinta centímetros do dela. O calcanhar tinha terra. O peito do pé tinha um pelo loiro fino, quase ruivo, que pegava a lua. A panturrilha apareceu por causa das calças dobradas. Aurora pensou, com a clareza desonesta de quem já estava cansada demais pra mentir pra si mesma depois de oito horas de cascalho e uma noite inteira sentindo o ombro de Josh perto do dela debaixo de uma macieira velha, que aquela panturrilha de Josh, daquele jeito específico, naquele exato escuro azulado, era a coisa mais bonita que ela tinha visto na vida.
 
 Aurora engoliu.
 
@@ -328,9 +316,23 @@ Josh disse:
 
 — Você está mais à vontade.
 
-— É o cheiro.
+Aurora pensou três segundos antes de responder. Não pensou no que ia dizer. Pensou se ia dizer.
 
-Os dois sabiam que não era só o cheiro. Os dois sabiam que o outro sabia.
+— É a sua família — disse Aurora. — A sua mãe me apertou a mão com as duas mãos dela e falou comigo como se já me conhecesse há cinco meses. O Joseph cortou a batata no meio sem comentar pros seus irmãos. O Matias me pediu poesia. O Dylan me disse que eu era pequena com a tranquilidade de quem comenta o tempo. — Aurora parou. — Eles são exatamente como são, Josh. Nenhum deles montou nada na minha frente. Eu não sabia que existia gente assim.
+
+Josh ficou três segundos sem responder. Aurora viu o lado direito da maçã do rosto dele se mover — o lado que rachava primeiro quando o sorriso era de verdade.
+
+— Existe — disse ele. — Tem essa fazenda inteira de gente assim. E tem mais umas, espalhadas.
+
+— Não em Copenhague.
+
+— Em Copenhague também tem, Aurora. Só que escondem. — Pausa. — Aliás, o seu pai é. O Raj é exatamente isso, quando não está na frente da Eleonora.
+
+Aurora segurou a respiração meio segundo. Não tinha esperado essa frase. E a frase entrou nela como entra uma frase verdadeira: sem precisar de prova.
+
+Os dois sabiam que não era só a família.
+
+Os dois sabiam que o outro sabia.
 
 Aurora disse:
 
@@ -340,29 +342,73 @@ Não era pergunta. Era constatação. Aurora tinha aprendido com Josh, e estava 
 
 — Vinha. — Josh sorriu (o torto). — A Meridiana me arrastava. Ela achava que precisava de companheiro pra conversar com as árvores. Eu não falava nada. Ficava sentado debaixo de uma e escutava ela conversar.
 
-— Hoje foi ela quem te arrastou na varanda. Na frente da Casandra. Quando você desceu, ela já estava lá esperando pra correr.
+— Hoje foi ela quem te arrastou. Você descer da carruagem e ela aparecer correndo do pomar com a cesta. Não teve diferença de meio minuto entre uma coisa e a outra.
 
-— Hoje, sim.
+— Não teve. — Josh sorriu de leve. — Ela ouviu o cascalho e largou tudo. A Meridiana faz isso. Ela sabe a hora exata em que uma carruagem entra na propriedade pelo som da roda.
+
+— E a sua mãe sabe pelos passos da Meridiana.
+
+— Sabe.
+
+— Vocês são uma família que aprende um pelo outro.
+
+— A gente é.
 
 Silêncio. A macieira velha rangeu um galho.
 
 Aurora olhou pra cima. Algumas maçãs balançavam, pesadas.
 
-— Tem um banco — disse Aurora — na pérgola da Bredgade. Cachos roxos, glicínias. Você sabe qual é.
+Foi Aurora quem voltou a falar.
 
-— Sei.
+— Josh.
 
-— Esse banco está dentro de mim, num lugar. Eu não sei se eu acho ele aqui.
+— Hum.
 
-Josh ficou três segundos sem responder. Aurora viu Josh entender pelo movimento da maçã do rosto dele, do lado direito, que era o lado que rachava primeiro quando o sorriso dele era de verdade.
+— Você ainda não me perguntou nada hoje. Nenhuma das suas perguntas. Eu reparei na carruagem. Eu reparei no jantar. Você passou o dia inteiro segurando uma série de perguntas que você não fez.
 
-— Não está aqui — disse ele. — O que tem é a Berta. Eu te apresento amanhã.
+Josh demorou pra responder. Aurora não interrompeu o demorar. Sabia que o demorar era a resposta começando a sair.
 
-Aurora sorriu sem decidir sorrir. A Berta era a senha dele aqui (pomar; Meridiana; árvore; tempo guardado). O banco da pérgola era a senha dela na Bredgade (Aarav; roseiras; verniz; Josh consertando). As duas senhas couberam, sem comentário, num metro de chão.
+— Eu não fiz porque eu não tinha onde fazer — disse ele, por fim. — Não na carruagem com a Vibeke do lado. Não na varanda com o Dylan a três metros. Não no jantar com a minha mãe na frente. — Pausa. — E aqui debaixo da macieira eu também não estou fazendo, Aurora. Porque se eu perguntar uma só agora, eu vou ter que ouvir a sua resposta. E a sua resposta vai entrar em mim e eu não vou conseguir tirar mais.
+
+Aurora ficou parada.
+
+— Quais são as perguntas? — disse ela.
+
+Josh virou meio rosto pra olhar ela. Aurora sentiu o olhar antes de devolver.
+
+— A primeira é se você cabe aqui — disse Josh. — A segunda é se você quer caber aqui. A terceira é o que eu faço com a minha vida inteira se a resposta das duas primeiras for sim.
+
+Aurora não respirou.
+
+— A quarta — continuou Josh — é o que eu faço com a minha vida inteira se a resposta for não.
+
+Silêncio. Aurora viu que ele tinha terminado. As quatro perguntas estavam ali, pousadas na grama entre os dois como se fossem pedras pequenas.
+
+— Você acabou de fazer as quatro — disse Aurora, baixo.
+
+— Não fiz. Eu te disse quais eram. Não é a mesma coisa.
+
+— Pra mim é.
+
+— Não é, Aurora. — Josh balançou a cabeça uma vez. — Eu te disse o que tem dentro de mim. Mas eu não te pedi resposta. Tem espaço. Você não tem que dizer nada agora.
+
+Aurora pensou que era a primeira vez na vida dela que um homem dizia *você não tem que dizer nada agora* sem que a frase fosse uma manipulação. Era a frase mais honesta de cuidado que ela já tinha ouvido em voz humana.
+
+Aurora abriu a boca pra dizer alguma coisa. Não saiu.
+
+Josh sorriu meio canto da boca, sem mostrar dente.
+
+— Aurora, se eu —
+
+Engoliu.
+
+Não terminou a frase.
+
+Aurora terminou na cabeça. Aurora não terminou três versões. Terminou uma só. E a versão única era simples: Josh ia perguntar se podia, agora, encostar. E não tinha perguntado porque encostar com pedido nenhum dos dois conseguia mais sustentar.
 
 A distância encolheu meio metro. Aurora não tinha decidido. Josh não tinha decidido. Encolheu.
 
-Aurora pensou (porque era impossível não pensar à uma da manhã debaixo da macieira velha, com o pé descalço de Josh a quarenta centímetros do dela) que a contenção era a coisa que ela menos vinha conseguindo desde a madrugada do beijo. Tinha pensado isso pela primeira vez no escritório do pai dela na quinta-feira da semana passada. Tinha pensado a mesma frase na carruagem. Estava pensando a mesma frase agora. Frases não decidiam: frases pediam licença pra serem testadas até que alguém as cumprisse.
+Aurora pensou (porque era impossível não pensar debaixo daquela macieira velha, com o pé descalço de Josh a meio palmo do dela) que a contenção era a coisa que ela menos vinha conseguindo desde a madrugada do beijo. Tinha pensado isso pela primeira vez no escritório do pai dela na quinta-feira da semana passada. Tinha pensado a mesma frase na carruagem. Estava pensando a mesma frase agora. Frases não decidiam: frases pediam licença pra serem testadas até que alguém as cumprisse.
 
 Josh inclinou o tronco um centímetro à frente.
 
@@ -390,7 +436,7 @@ Josh recuou. Não correu. Recuou um centímetro antes de Aurora abrir os olhos, 
 
 Aurora se levantou. Sacudiu a saia. Não olhou pra trás.
 
-Voltou pela trilha de pedra. Encontrou a Meridiana no alpendre, com uma vela na mão e nenhum recado urgente nos olhos. Casandra queria saber se Aurora preferia ovo ou pão no café da manhã pra mandar comprar cedo. Aurora respondeu pão. Subiu.
+Voltou pela trilha de pedra. Encontrou Meridiana no alpendre, com uma vela na mão e nenhum recado urgente nos olhos. Casandra queria saber se Aurora preferia ovo ou pão no café da manhã. Meridiana ia recolher os ovos do galinheiro antes do sol; o pão a Casandra fazia ela mesma de madrugada, e era bom saber pra acertar o tamanho. Aurora respondeu pão. Subiu.
 
 A Vibeke já estava dormindo, com a boca meio aberta do jeito que a Vibeke dormia, com o cabelo do lado esquerdo achatado de novo. Aurora deitou no lado da janela sem se trocar inteira (só o vestido grosso saiu; ficou com a anágua). Puxou o cobertor de retalhos até o ombro.
 
