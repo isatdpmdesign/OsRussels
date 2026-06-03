@@ -30,7 +30,7 @@ Aurora sentou na poltrona em frente ao pai. Pôs as mãos no colo. Esperou.
 
 — Lembro.
 
-— A Casandra mandou um convite pra você. Pra você e pra Vibeke. Ela quer que vocês passem duas semanas na propriedade dela, em Sorø. Diz que depois da temporada inteira na cidade, vocês duas merecem um pouco de ar de campo. Eu concordo.
+— A Casandra mandou um convite pra você. Pra você e pra Vibeke. Ela quer que vocês passem duas semanas na propriedade dela, em Sorø. Diz que depois da temporada inteira na cidade, você merece um pouco de ar de campo, e que a Vibeke, já que está hospedada aqui, pode ir junto para conhecer a Zelândia rural. Eu concordo.
 
 Aurora não disse nada de imediato.
 
@@ -56,7 +56,7 @@ Aurora assentiu uma vez. Devagar.
 
 — Tem motivo especial pro convite? — perguntou Aurora, e ela mesma percebeu, no meio da pergunta, que a pergunta tinha saído com aquele tom de Aurora que era praticamente uma forma educada de dizer *eu não acredito em coincidência*. — A Casandra já fez esse tipo de convite antes?
 
-— Casandra é educada, Aurora. Quer retribuir a hospedagem de Josh aqui na Bredgade recebendo minha filha em Sorø. Eu não vejo porque não aceitar. Um pouco de ar do campo depois da temporada faz bem. A Vibeke nunca viu a Zelândia rural, você não vai pro campo desde que eu te levei a Helsingør com seis anos. Encare como um passeio que eu, seu pai, resolvi te proporcionar.
+— Casandra é educada, Aurora. Quer retribuir a hospedagem de Josh aqui na Bredgade recebendo minha filha em Sorø. Eu não vejo porque não aceitar. Um pouco de ar do campo depois da temporada faz bem. A Vibeke é do campo, mas não conhece a Zelândia rural, pode ir junto com você. Você não vai pro campo desde que eu te levei a Helsingør com seis anos. Encare como um passeio que eu, seu pai, resolvi te proporcionar.
 
 Eleonora não disse nada. Continuou ao lado da janela, com as mãos cruzadas, calada, com os olhos no rosto da Aurora o tempo todo.
 
