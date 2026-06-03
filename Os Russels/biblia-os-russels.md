@@ -50,7 +50,7 @@ Quando faltar informação (nome, idade, geografia, costume), **perguntar antes 
 Moram no campo da Zelândia, perto de Sorø. Propriedade rural. Vida simples mas digna. Todos educados, rústicos por contexto, não por ignorância.
 
 ### Casandra Russel (mãe)
-- Viúva há ~4 anos (Henrik morreu de febre quando Matias tinha 12)
+- Viúva há ~4 anos (Henrik morreu de febre quando Matias tinha 9; Josh tinha 17 — Cap 02:39, Cap 20:199)
 - Administra a propriedade sozinha com os filhos
 - Cabelos castanhos, mãos de trabalho, não chora em público
 - Teimosa, prática, lê pessoas como Josh lê paisagens
@@ -63,11 +63,14 @@ Moram no campo da Zelândia, perto de Sorø. Propriedade rural. Vida simples mas
 - Escreveu a Raj quando Josh nasceu: *"Nasceu o do meio. Vai ser o que dá mais trabalho."*
 
 ### Os filhos (ordem de nascimento):
-1. **Joseph** — O mais velho. Assumiu a propriedade. Trabalha sem parar, não se permite sentir. Braços cruzados, expressão controlada. **A cadeira do pai (Henrik) permanece vazia à cabeceira — ninguém senta nela.** Casandra passa a mão no encosto antes de se sentar, todo jantar (Cap 2:49). Espelha a cadeira vazia de Aarav na casa dos Svensson: Joseph assumiu a propriedade inteira, menos aquela cadeira.
+1. **Joseph** — O mais velho, 24 anos. Assumiu a propriedade. Trabalha sem parar, não se permite sentir. Braços cruzados, expressão controlada. **A cadeira do pai (Henrik) permanece vazia à cabeceira — ninguém senta nela.** Casandra passa a mão no encosto antes de se sentar, todo jantar (Cap 2:49). Espelha a cadeira vazia de Aarav na casa dos Svensson: Joseph assumiu a propriedade inteira, menos aquela cadeira.
 2. **Josh** — O do meio, ~21 anos. Protagonista Livro 1. Observador, guardador de detalhes. Educado e de bons modos, sabe caçar, plantar, trabalhar a terra. Corpo desenvolvido pelo trabalho no campo. Dinamarquês clássico: branco, cabelos lisos loiros quase ruivos, olhos verdes que ficam alaranjados refletindo a barba loira-alaranjada. ~1,80m. Quer seguir carreira na academia/política (indeciso). **Veio a Copenhague para se preparar com Raj para a prova de ingresso na universidade — a prova é em outubro (a história está em agosto), por isso ele ainda não cursa nada.** Sorriso torto que Dylan chama de "cara de idiota satisfeito."
-3. **Meridiana** — A filha do meio (nome por ser "do meio"). Cuida do pomar de macieiras, fala com as árvores. Bordou um lenço com iniciais J.R. para Josh. Cheiro de maçã e terra molhada. **Protagonista feminina do Livro 2** (par com Aarav).
+3. **Meridiana** — A filha do meio (nome por ser "do meio"), 20 anos. Cuida do pomar de macieiras, fala com as árvores (a macieira velha que ela chama de **Berta**). Bordou um lenço com iniciais J.R. para Josh. Cheiro de maçã e terra molhada. **Protagonista feminina do Livro 2** (par com Aarav).
 4. **Dylan** — 19 anos. Diz o que todos pensam sem parecer afetado. Riso seco parecido com o do pai. Chuta a porteira do celeiro todo dia. Tem um canivete. Acompanhou Josh até Roskilde.
-5. **Matias** — 16 anos, caçula. Não sabe disfarçar emoções. Faz perguntas profundas à noite.
+5. **Matias** — 13 anos, caçula. Não sabe disfarçar emoções. Faz perguntas profundas à noite.
+
+> **Idades canônicas (1830, presente da história):** Joseph 24, Josh 21, Meridiana 20, Dylan 19, Matias 13. Na morte do Henrik (~4 anos antes): Joseph 20, Josh 17, Meridiana 16, Dylan 15, Matias 9 (Cap 20:199; Cap 02:39).
+> **Propriedade de Sorø:** pomar de macieiras (a velha Berta), 14 vacas, 3 cabras, dois cães — **Kongen** (velho) e **Liv** (jovem, mordedora) (Cap 21:141). ⚠️ *Colisão de nome: o cão **Kongen** da fazenda tem o mesmo nome do gato cinzento de Fru Larsen na Bredgade (Cap 03:163) — provável reuso não intencional; decidir com a autora se renomeia o cão no texto.*
 
 ---
 
@@ -132,7 +135,7 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 
 ## Equipe da Casa Svensson
 
-- **Fru Larsen** — Cozinheira, ~60 anos. Baixa, larga, mãos vermelhas, olhos azuis claríssimos. Governa a cozinha como general. Mesa posta às 7:45 em ponto. Gato chamado **Kongen** ("O Rei") — enorme, cinzento.
+- **Fru Larsen** — Cozinheira, ~60 anos. Baixa, larga, mãos vermelhas, olhos azuis claríssimos. Governa a cozinha como general. Mesa posta às 7:45 em ponto. Gato chamado **Kongen** ("O Rei") — enorme, cinzento. ⚠️ *Mesmo nome do cão velho da fazenda em Sorø (Cap 21:141) — ver alerta na família Russel.*
 - **Helle** — Criada de quarto, ~20 e poucos. Bochechas de maçã, tímida, cora quando Josh olha para ela. Cantarola ao arrumar quartos. Deixa a porta lateral destrancada para Josh à noite por iniciativa própria.
 - **Fru Dahl** — Governanta/professora. Magra, angular, óculos que escorregam pelo nariz. Paciência inesgotável. Ensina francês a Aurora.
 
@@ -286,7 +289,7 @@ Os três motivos que o Josh tem de cor para não ficar com a Aurora. Reveladas i
 | Evento | Quando |
 |--------|--------|
 | Sociedade comercial Henrik–Raj | Anos 1810 |
-| Morte de Henrik Russel | ~4 anos antes (Matias tinha 12) |
+| Morte de Henrik Russel | ~4 anos antes (Matias tinha 9; Josh 17) |
 | Naufrágio do Aarav (suposta morte) | ~18 meses antes do Cap 1 |
 | Casandra escreve a carta selada | Pouco antes da viagem de Josh |
 | Raj anuncia chegada de Josh | Março de 1830 |
@@ -329,7 +332,7 @@ Josh chama Raj **e** Eleonora juntos. Coloca a carta na mesa. Oferece o dinheiro
 
 - Aarav vivo numa ilha remota — onde exatamente? (Maldivas? Andamã? Outra?)
 - Retorno de Aarav durante o Livro 2 — timing exato
-- Meridiana × Aarav — caracterização da Meridiana adulta, ~21 anos no Livro 2
+- Meridiana × Aarav — caracterização da Meridiana adulta, ~22 anos no Livro 2 (tem 20 em 1830)
 - Lindberg como antagonista comercial do Raj (e Aarav) no Livro 2
 - Erik e Ingrid — não retornam ao centro, mas Ingrid pode ser mencionada em carta
 
@@ -392,4 +395,6 @@ Josh chama Raj **e** Eleonora juntos. Coloca a carta na mesa. Oferece o dinheiro
 
 ---
 
-*Última atualização: maio de 2026. Consolidação completa do antigo CONTEXTO-OS-RUSSELS.md + decisões de replanejamento do terceiro ato + gancho do Aarav para Livro 2.*
+*Última atualização: junho de 2026. Consolidação completa do antigo CONTEXTO-OS-RUSSELS.md + decisões de replanejamento do terceiro ato + gancho do Aarav para Livro 2.*
+
+*Auditoria de continuidade (junho/2026, Caps 01–21 contra bíblia e sinopse — texto como fonte suprema): corrigidas as idades dos Russel (Matias 13, não 16; tinha 9 na morte do Henrik, não 12); adicionadas idades faltantes (Joseph 24, Meridiana 20); registrada a propriedade de Sorø (14 vacas, 3 cabras, cães Kongen velho e Liv jovem) e a colisão de nome Kongen (gato Bredgade × cão Sorø). Na sinopse: corrigida a atribuição das aulas de estratégia (são do Josh, não de "Madame Solberg professora" — Solberg é modista; Fru Dahl ensina francês/etiqueta); corrigida a fala da Eleonora na partida ("Você é mais ajuizada do que ela", Cap 21:319, não "mais nova"); corrigida a hora da partida (4:30, não 5h).*
