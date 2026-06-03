@@ -30,7 +30,7 @@ Aurora sentou na poltrona em frente ao pai. Pôs as mãos no colo. Esperou.
 
 — Lembro.
 
-— A Casandra mandou um convite pra você. Pra você e pra Vibeke. Ela quer que vocês passem duas semanas na propriedade dela, em Sorø. Diz que depois da temporada inteira na cidade, você merece um pouco de ar de campo, e que a Vibeke, já que está hospedada aqui, pode ir junto para conhecer a Zelândia rural. Eu concordo.
+— A Casandra mandou um convite pra você. Pra você e pra Vibeke. Ela quer que vocês passem duas semanas na propriedade dela, em Sorø. Diz que depois da temporada inteira na cidade, você merece um pouco de ar do campo, e que a Vibeke, já que está hospedada aqui, pode ir junto para conhecer a Zelândia rural. Eu concordo.
 
 Aurora não disse nada de imediato.
 
@@ -70,7 +70,7 @@ Aurora levantou-se. Foi até a porta. E ao chegar à porta, virou meio grau a ca
 
 Foi meio segundo, talvez menos. Eleonora ergueu uma sobrancelha. Só isso. Aurora reconheceu o gesto porque tinha sido criada com ele: era a sobrancelha que a mãe levantava quando estava desconfiada de alguma coisa que não ia dizer agora, mas que estava anotando para depois. Aurora não devolveu nenhum sinal. Saiu.
 
-Atravessou o corredor de volta com o passo controlado. Subiu pro quarto dela com a mesma calma. Fechou a porta. Encostou nela.
+Atravessou o corredor de volta com o passo controlado. Subiu pro quarto com a mesma calma. Fechou a porta. Encostou nela.
 
 E foi só ali, com as costas na porta, com o quarto vazio em volta, que ela deixou a frase que tinha prendido entre os dentes finalmente subir até a boca, em voz baixa, pra ninguém ouvir:
 
