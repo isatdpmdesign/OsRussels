@@ -76,7 +76,7 @@ Aurora desviou o olhar.
 
 Tarde demais.
 
-Meridiana, ainda no chão depois que Josh tinha posto a irmã no chão (Meridiana ria com a mão no peito de tanto rir e tanto correr), tinha visto. Não estava olhando pro irmão. Estava olhando pra Aurora. Tinha visto Aurora ver.
+Meridiana, que se reordenava ajeitando o vestido no corpo depois que Josh a tinha posto no chão (Meridiana ofegava com a mão no peito de tanto rir e tanto correr), tinha visto. Não estava olhando pro irmão. Estava olhando pra Aurora. Tinha visto Aurora ver.
 
 Meridiana sorriu.
 
