@@ -334,77 +334,67 @@ Os dois sabiam que não era só a família.
 
 Os dois sabiam que o outro sabia.
 
-Aurora disse:
+Aurora ficou muda.
 
-— Você vinha pro pomar quando era menino.
+Não tinha planejado ficar. Tinha aberto a boca em algum momento pra responder o que Josh tinha dito do Raj — uma piada, uma pergunta de volta, qualquer coisa — e o que tinha vindo, em vez da palavra, foi uma vontade aguda de chorar que Aurora não tinha pedido permissão pra sentir. Engoliu. Olhou pra grama entre os joelhos. Ficou um tempo longo sem dizer nada.
 
-Não era pergunta. Era constatação. Aurora tinha aprendido com Josh, e estava devolvendo a ele.
+Josh não preencheu o silêncio. Não perguntou se ela estava bem. Não tentou consertar. Esperou ao lado dela, com o pé descalço apoiado na grama e a mão aberta no joelho dobrado, do jeito que se espera uma pessoa que está atravessando uma coisa por dentro e não precisa de ajuda de fora.
 
-— Vinha. — Josh sorriu (o torto). — A Meridiana me arrastava. Ela achava que precisava de companheiro pra conversar com as árvores. Eu não falava nada. Ficava sentado debaixo de uma e escutava ela conversar.
+Depois Aurora ouviu Josh respirar fundo. Era uma respiração que Aurora tinha aprendido a reconhecer ao longo de cinco meses: a inspiração mais funda do que o costume, a que Josh dava de antes-de-dizer-uma-coisa-difícil.
 
-— Hoje foi ela quem te arrastou. Você descer da carruagem e ela aparecer correndo do pomar com a cesta. Não teve diferença de meio minuto entre uma coisa e a outra.
+— Aurora.
 
-— Não teve. — Josh sorriu de leve. — Ela ouviu o cascalho e largou tudo. A Meridiana faz isso. Ela sabe a hora exata em que uma carruagem entra na propriedade pelo som da roda.
+— Oi.
 
-— E a sua mãe sabe pelos passos da Meridiana.
+— Eu... — Josh parou no meio da palavra. Aurora virou meio rosto pra olhar ele de lado. Josh estava com os olhos pra frente, no escuro do pomar. A mandíbula travada. — Não.
 
-— Sabe.
+— Não o quê.
 
-— Vocês são uma família que aprende um pelo outro.
+— Não é hora.
 
-— A gente é.
+— Hora pra quê.
 
-Silêncio. A macieira velha rangeu um galho.
-
-Aurora olhou pra cima. Algumas maçãs balançavam, pesadas.
-
-Foi Aurora quem voltou a falar.
+Josh não respondeu. Aurora viu o pomo de adão dele subir e descer uma vez. Viu o pulso da têmpora dele bater.
 
 — Josh.
 
-— Hum.
+— Não, Aurora.
 
-— Você ainda não me perguntou nada hoje. Nenhuma das suas perguntas. Eu reparei na carruagem. Eu reparei no jantar. Você passou o dia inteiro segurando uma série de perguntas que você não fez.
+— Fala.
 
-Josh demorou pra responder. Aurora não interrompeu o demorar. Sabia que o demorar era a resposta começando a sair.
+— Eu não posso.
 
-— Eu não fiz porque eu não tinha onde fazer — disse ele, por fim. — Não na carruagem com a Vibeke do lado. Não na varanda com o Dylan a três metros. Não no jantar com a minha mãe na frente. — Pausa. — E aqui debaixo da macieira eu também não estou fazendo, Aurora. Porque se eu perguntar uma só agora, eu vou ter que ouvir a sua resposta. E a sua resposta vai entrar em mim e eu não vou conseguir tirar mais.
+— Fala.
+
+Aurora ouviu, na própria voz dela, uma firmeza que ela não soube de onde tinha vindo. Foi a primeira vez na vida que ela insistia em alguma coisa com Josh sem cobrir a insistência com cortesia.
+
+Josh demorou mais um momento. Aurora não interrompeu o demorar.
+
+— Se eu falar — disse Josh, por fim, e a voz dele saiu mais baixa do que tinha estado a noite inteira — eu vou ter que ouvir uma resposta de você. E você só tem duas possíveis, Aurora. Uma me destrói. — Pausa. — A outra me destrói de outro jeito. Eu não consigo escolher qual é a pior. E enquanto eu não conseguir escolher, eu não consigo perguntar.
 
 Aurora ficou parada.
 
-— Quais são as perguntas? — disse ela.
+— Que pergunta — disse ela, baixo.
 
-Josh virou meio rosto pra olhar ela. Aurora sentiu o olhar antes de devolver.
+Josh balançou a cabeça uma vez, como quem se rende a uma coisa que tinha planejado não fazer.
 
-— A primeira é se você cabe aqui — disse Josh. — A segunda é se você quer caber aqui. A terceira é o que eu faço com a minha vida inteira se a resposta das duas primeiras for sim.
+— É uma pergunta sobre você caber aqui. E sobre você querer caber aqui. E sobre o que eu faço com a vida inteira se a sua resposta for sim. E sobre o que eu faço com a vida inteira se a sua resposta for não. — Ele virou meio rosto. Os olhos verdes dele apareceram na lua. — Não é uma pergunta, Aurora. São quatro. E elas não cabem uma sem a outra.
 
-Aurora não respirou.
+Aurora abriu a boca. Não saiu palavra. Fechou a boca.
 
-— A quarta — continuou Josh — é o que eu faço com a minha vida inteira se a resposta for não.
+E entendeu — não tudo, não em frase fechada, mas o suficiente. Entendeu que era uma pergunta de futuro. Entendeu que era se ela ia ser a vida dele. Entendeu que era se ele ia ter ou perder a vida dele tentando ser a vida dela. Entendeu que era uma pergunta com peso de declaração, e que Josh não estava fazendo ali porque não havia ali (nem essa noite de quinta na fazenda da mãe dele, nem essa Aurora ainda noiva oficial de ninguém, nem nada na Bredgade que ela ainda não sabia que existia) lugar pra ela caber.
 
-Silêncio. Aurora viu que ele tinha terminado. As quatro perguntas estavam ali, pousadas na grama entre os dois como se fossem pedras pequenas.
+— Eu não preciso responder agora — disse Aurora. Não era pergunta. Era confirmação.
 
-— Você acabou de fazer as quatro — disse Aurora, baixo.
+— Não.
 
-— Não fiz. Eu te disse quais eram. Não é a mesma coisa.
+— Tá.
 
-— Pra mim é.
+Silêncio.
 
-— Não é, Aurora. — Josh balançou a cabeça uma vez. — Eu te disse o que tem dentro de mim. Mas eu não te pedi resposta. Tem espaço. Você não tem que dizer nada agora.
+Aurora encostou a mão direita na grama, na altura do quadril dela. A mão dela ficou a um centímetro do lado do pé descalço de Josh. Não tocou. Quase.
 
-Aurora pensou que era a primeira vez na vida dela que um homem dizia *você não tem que dizer nada agora* sem que a frase fosse uma manipulação. Era a frase mais honesta de cuidado que ela já tinha ouvido em voz humana.
-
-Aurora abriu a boca pra dizer alguma coisa. Não saiu.
-
-Josh sorriu meio canto da boca, sem mostrar dente.
-
-— Aurora, se eu —
-
-Engoliu.
-
-Não terminou a frase.
-
-Aurora terminou na cabeça. Aurora não terminou três versões. Terminou uma só. E a versão única era simples: Josh ia perguntar se podia, agora, encostar. E não tinha perguntado porque encostar com pedido nenhum dos dois conseguia mais sustentar.
+Josh olhou pra mão dela.
 
 A distância encolheu meio metro. Aurora não tinha decidido. Josh não tinha decidido. Encolheu.
 

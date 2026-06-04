@@ -35,7 +35,8 @@
 - Dinamarca 1830s: monarquia absoluta — a constituição só vem em 1849. Sociedade ainda estamental.
 - Presença indiana ligada ao período colonial dinamarquês (Tranquebar, Ilhas Nicobar). Raj como nobre indiano em Copenhague é plausível.
 - Ceilão sob domínio britânico no período — expedições eram empreitadas perigosas e prolongadas.
-- Universidade de Copenhague existe desde 1479.
+- Universidade de Copenhague existe desde 1479. **Era a única universidade da Dinamarca em 1830** (Aarhus só abre em 1928) — qualquer dinamarquês com aspiração universitária tinha que ir pra Copenhague.
+- **Academia de Sorø (*Sorø Akademis Skole*):** internato secundário de elite, reaberto em 1822 depois de um incêndio. Em 1830 é o coração do **Romantismo Dinamarquês** — B. S. Ingemann lecionava lá, Oehlenschläger orbitava o círculo. **Não é universidade:** prepara filhos de famílias abastadas pra serviço público ou pra a Universidade de Copenhague. **Josh não estudou lá por três motivos canônicos:** (1) custo — internato pago, fora do orçamento dos Russel viúvos; (2) trabalho na fazenda depois da morte do Henrik; (3) o tutor dele é o padrinho Raj, e Raj está em Copenhague. **A proximidade com Sorø é aroma cultural disponível:** o Henrik tinha uma coleção de poesia que ninguém olha mais (Matias, Cap 20:209; Cap 22), provavelmente romantismo dinamarquês (Oehlenschläger já é canon — Aarav lia em voz alta no jardim, Aurora leu na madrugada do Cap 19); a Casandra conhece a Academia de longe como referência da região.
 - **Regensen** (residência estudantil) ativa desde 1623, no Bairro Latino, regras estritas de visita feminina.
 - **Berlingske Tidende** (jornal) ativo desde 1749 — usado para anúncios sociais.
 
