@@ -296,7 +296,7 @@ Sentou três segundos com os olhos abertos no escuro. Depois fechou os olhos.
 
 Ouviu Josh chegar antes de ver.
 
-Não vinha pra interceptar. Aurora sabia. Vinha porque tinha saído pelo mesmo caminho que ela tinha saído, e a Sorø à noite era um lugar pequeno se você tivesse nascido nela. Os passos eram descalços. Aurora reconheceu pelo som que faltava de bota.
+Aurora sabia que era ele pelo compasso do andar Os passos eram descalços. Aurora reconheceu pelo som que faltava de bota.
 
 Aurora abriu os olhos.
 
