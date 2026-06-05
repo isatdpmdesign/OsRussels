@@ -284,7 +284,7 @@ Casandra disse:
 
 Aurora prometeu.
 
-Casandra apertou o ombro de Aurora antes de Aurora sair. Foi um gesto curto. Foi um gesto que dizia, sem dizer, eu também sei mais do que estou dizendo, e está tudo bem. Aurora aceitou.
+Casandra apertou o ombro de Aurora antes de Aurora sair. Foi um gesto curto. Foi um gesto que dizia, sem dizer, se sinta em casa e fique à vontade. Aurora aceitou se sentindo grata.
 
 Saiu.
 
