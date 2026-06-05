@@ -296,7 +296,7 @@ Sentou três segundos com os olhos abertos no escuro. Depois fechou os olhos.
 
 Ouviu Josh chegar antes de ver.
 
-Aurora sabia que era ele pelo compasso do andar Os passos eram descalços. Aurora reconheceu pelo som que faltava de bota.
+Aurora sabia que era ele pelo compasso do andar. Tinha gravado aqueles passos na memória ao longo de cinco meses ouvindo Josh atravessar a Bredgade — o ritmo dele era diferente do ritmo do Raj, diferente do ritmo da Helle, diferente do ritmo de qualquer um na casa. Aurora reconheceria em qualquer chão. Mas estes passos vinham descalços. Aurora percebeu pelo som que faltava de bota.
 
 Aurora abriu os olhos.
 
@@ -382,7 +382,21 @@ Josh balançou a cabeça uma vez, como quem se rende a uma coisa que tinha plane
 
 Aurora abriu a boca. Não saiu palavra. Fechou a boca.
 
-E entendeu — não tudo, não em frase fechada, mas o suficiente. Entendeu que era uma pergunta de futuro. Entendeu que era se ela ia ser a vida dele. Entendeu que era se ele ia ter ou perder a vida dele tentando ser a vida dela. Entendeu que era uma pergunta com peso de declaração, e que Josh não estava fazendo ali porque não havia ali (nem essa noite de quinta na fazenda da mãe dele, nem essa Aurora ainda noiva oficial de ninguém, nem nada na Bredgade que ela ainda não sabia que existia) lugar pra ela caber.
+E entendeu. Não tudo, não em frase fechada, mas o suficiente.
+
+Entendeu que Josh estava perguntando se ela viveria ali. Nesta fazenda. Com a Casandra fazendo pão de madrugada, com a Meridiana recolhendo ovo antes do sol, com o Dylan dizendo que ela era pequena com a tranquilidade de quem comenta o tempo, com o Matias mostrando poesia do pai. Sem porcelana, sem lustre, sem cinco talheres de prata por pessoa, sem Eleonora medindo cada respiração à direita do marido. A vida inteira que Josh podia oferecer, que era essa, porque ele não tinha outra pra dar.
+
+E entendeu por que Josh não tinha feito a pergunta. Não era medo da resposta. Era certeza. Era a certeza que ele tinha formado em cinco meses do outro lado da mesa da Bredgade, de casaco preto e gola alta com o bordado da mãe na lapela, de que Aurora merecia coisa melhor do que ele podia oferecer no padrão do mundo dela — um homem de Copenhague que mantivesse o que o Raj tinha construído, vestido pago por modista, seda francesa, ronda de bailes de temporada, casa na Bredgade. Josh não tinha nada disso. Josh sabia. E por saber, segurava a pergunta engasgada na garganta como quem segura uma carta sem destinatário.
+
+E entendeu (Aurora, na grama do pomar, com o pé descalço dele a um centímetro da mão dela, com a fazenda inteira escura em volta dos dois) que ela cabia.
+
+Que tinha cabido o dia inteiro.
+
+Que tinha cabido na sopa de cevada, na batata partida ao meio pelo Joseph, na risada do Matias, na zoeira do Dylan, no abraço da Casandra com as duas mãos vermelhas, no silêncio limpo entre a Meridiana e ela. Que tinha caído com tudo na palavra que ela tinha encontrado no meio do jantar — descansar — e que aquela palavra significava, no fundo, ser ela mesma sem ser corrigida. Sem ser medida. Sem ser olhada como peça difícil de classificar. Aurora não tinha sido julgada por ninguém ali em nenhum segundo do dia inteiro.
+
+Era a coisa mais simples do mundo, e era exatamente o que tinha faltado a vida toda.
+
+Aurora não pôs nada disso em palavra. Só sentiu, e o sentir desceu pelo peito como um peso bom que ela não tinha pedido pra carregar.
 
 — Eu não preciso responder agora — disse Aurora. Não era pergunta. Era confirmação.
 
