@@ -348,11 +348,11 @@ Depois Aurora ouviu Josh respirar fundo. Era uma respiração que Aurora tinha a
 
 — Eu... — Josh parou no meio da palavra. Aurora virou meio rosto pra olhar ele de lado. Josh estava com os olhos pra frente, no escuro do pomar. A mandíbula travada. — Não.
 
-— Não o quê.
+— Não o quê?
 
 — Não é hora.
 
-— Hora pra quê.
+— Hora pra quê?
 
 Josh não respondeu. Aurora viu o pomo de adão dele subir e descer uma vez. Viu o pulso da têmpora dele bater.
 
@@ -364,7 +364,7 @@ Josh não respondeu. Aurora viu o pomo de adão dele subir e descer uma vez. Viu
 
 — Eu não posso.
 
-— Fala.
+— Você já começou, agora fala!
 
 Aurora ouviu, na própria voz dela, uma firmeza que ela não soube de onde tinha vindo. Foi a primeira vez na vida que ela insistia em alguma coisa com Josh sem cobrir a insistência com cortesia.
 
@@ -374,7 +374,7 @@ Josh demorou mais um momento. Aurora não interrompeu o demorar.
 
 Aurora ficou parada.
 
-— Que pergunta — disse ela, baixo.
+— Que tipo de pergunta? — disse ela, baixo.
 
 Josh balançou a cabeça uma vez, como quem se rende a uma coisa que tinha planejado não fazer.
 
