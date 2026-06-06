@@ -406,7 +406,7 @@ Aurora ouviu, na própria voz dela, uma firmeza que ela não soube de onde tinha
 
 Josh demorou mais um momento. Aurora não interrompeu o demorar.
 
-— Se eu falar — disse Josh, por fim, e a voz dele saiu mais baixa do que tinha estado a noite inteira — eu vou ter que ouvir uma resposta de você. E você só tem duas possíveis, Aurora. Uma me destrói. — Pausa. — A outra me destrói de outro jeito. Eu não consigo escolher qual é a pior. E enquanto eu não conseguir escolher, eu não consigo perguntar.
+— Se eu falar — disse Josh, por fim, e a voz dele saiu mais baixa do que tinha estado a noite inteira — eu vou ter que ouvir uma resposta de você. E você só tem duas possíveis, Aurora. Uma me destrói de um jeito. — Pausa. — A outra me destrói por inteiro. Eu não consigo escolher qual é a pior. E enquanto eu não conseguir escolher, eu não consigo perguntar.
 
 Aurora ficou parada.
 
@@ -432,11 +432,11 @@ Aurora respirou de leve. Não interrompeu.
 
 Aurora ficou olhando pra ele.
 
-— Você nunca se apaixonou antes. Você não sabe ainda, Aurora, se o que você sente comigo é a paixão da sua vida ou se é a primeira coisa que parece paixão. — Josh balançou a cabeça uma vez. — Eu tenho quase cinco anos a mais que você. Eu sei que tem diferença. Você pode descobrir daqui a dois anos, três, que o que você tem hoje passou. E aí já não vai dar pra desfazer.
+— Você nunca se apaixonou antes. Você não sabe ainda, Aurora, se o que você sente comigo é a paixão da sua vida ou se é a primeira coisa que parece paixão. — Josh balançou a cabeça uma vez. — Eu tenho quase cinco anos a mais que você. Eu sei que tem diferença. Eu sei exatamente o que eu estou sentindo, mas você não. Você pode descobrir daqui a dois anos, três, que o que você tem hoje passou. E aí já não vai dar pra desfazer.
 
 Pausa longa.
 
-— Por isso eu não pergunto. Porque o sim me destrói pelo caminho de te ver perder o que você tinha. E o não me destrói pelo caminho que destrói todo homem que perde o que era. Eu não sei escolher entre os dois. Eu não consigo perguntar.
+— Por isso eu não pergunto. Porque o sim me destrói pelo caminho de te ver perder o que você tinha. E o não me destrói pelo caminho que destrói todo homem que perde o que poderia ter. Eu não sei escolher entre os dois. Eu não consigo perguntar.
 
 Aurora ouviu inteiro sem interromper. Não chorou. Não desviou o olhar.
 
@@ -444,7 +444,7 @@ Aurora abriu a boca. Não saiu palavra. Fechou a boca.
 
 E entendeu. Não tudo, não em frase fechada, mas o suficiente.
 
-Entendeu que Josh estava perguntando se ela viveria ali. Nesta fazenda. Com a Casandra fazendo pão de madrugada, com a Meridiana recolhendo ovo antes do sol, com o Dylan dizendo que ela era pequena com a tranquilidade de quem comenta o tempo, com o Matias mostrando poesia do pai. Sem porcelana, sem lustre, sem cinco talheres de prata por pessoa, sem Eleonora medindo cada respiração à direita do marido. A vida inteira que Josh podia oferecer, que era essa, porque ele não tinha outra pra dar.
+Entendeu que Josh estava perguntando se ela viveria ali. Nesta fazenda. Com a Casandra fazendo pão de madrugada, com a Meridiana recolhendo ovo antes do sol, com o Dylan dizendo que ela era pequena com a tranquilidade de quem considera um estranho, amigo. Com o Matias mostrando poesia do pai. Sem porcelana, sem lustre, sem cinco talheres de prata por pessoa, sem Eleonora medindo cada respiração à direita do marido. A vida inteira que Josh podia oferecer, que era essa, porque ele não tinha outra pra dar.
 
 E entendeu por que Josh não tinha feito a pergunta. Não era medo da resposta. Era certeza. Era a certeza que ele tinha formado em cinco meses do outro lado da mesa da Bredgade, de casaco preto e gola alta com o bordado da mãe na lapela, de que Aurora merecia coisa melhor do que ele podia oferecer no padrão do mundo dela. Era a certeza, também, que ele acabara de dizer em voz alta: que dezesseis anos era jovem demais pra uma decisão sem desfazer.
 
@@ -452,7 +452,7 @@ E entendeu (Aurora, na grama do pomar, com o pé descalço dele a um centímetro
 
 Que tinha cabido o dia inteiro.
 
-Que tinha cabido na sopa de cevada, na batata partida ao meio pelo Joseph, na risada do Matias, na zoeira do Dylan, no abraço da Casandra com as duas mãos vermelhas, no silêncio limpo entre a Meridiana e ela. Que tinha caído com tudo na palavra que ela tinha encontrado no meio do jantar — descansar — e que aquela palavra significava, no fundo, ser ela mesma sem ser corrigida. Sem ser medida. Sem ser olhada como peça difícil de classificar. Aurora não tinha sido julgada por ninguém ali em nenhum segundo do dia inteiro.
+Que tinha cabido na sopa de cevada, na batata partida ao meio pelo Joseph, na risada do Matias, na zoeira do Dylan, no abraço da Casandra com as duas mãos vermelhas, no silêncio limpo entre a Meridiana e ela. Que tinha encaixado com tudo na palavra que ela tinha encontrado no meio do jantar — descansar — e que aquela palavra significava, no fundo, ser ela mesma sem ser corrigida. Sem ser medida. Sem ser olhada como peça difícil de classificar. Aurora não tinha sido julgada por ninguém ali em nenhum segundo do dia inteiro.
 
 Era a coisa mais simples do mundo, e era exatamente o que tinha faltado a vida toda.
 
@@ -460,21 +460,17 @@ E entendeu, por último, uma coisa que Josh tinha errado. Aurora sabia o que sen
 
 Aurora não pôs nada disso em palavra. Só sentiu, e o sentir desceu pelo peito como um peso bom que ela não tinha pedido pra carregar.
 
-— Eu não preciso responder agora — disse Aurora. Não era pergunta. Era confirmação.
-
-— Não.
-
-— Tá.
+— Bom, se você não pode perguntar, eu não posso responder — disse Aurora. – Mas saiba que eu tenho certeza de tudo que sinto e de tudo que quero.
 
 Silêncio.
 
-Aurora encostou a mão direita na grama, na altura do quadril dela. A mão dela ficou a um centímetro do lado do pé descalço de Josh. Não tocou. Quase.
+Aurora encostou a mão direita na grama, na altura do quadril dela. A mão dela ficou a um centímetro do lado da mão de Josh, também repousada no chão. Não tocou. Quase.
 
 Josh olhou pra mão dela.
 
 A distância encolheu meio metro. Aurora não tinha decidido. Josh não tinha decidido. Encolheu.
 
-Aurora pensou (porque era impossível não pensar debaixo daquela macieira velha, com o pé descalço de Josh a meio palmo do dela) que a contenção era a coisa que ela menos vinha conseguindo desde a madrugada do beijo. Tinha pensado isso pela primeira vez no escritório do pai dela na quinta-feira da semana passada. Tinha pensado a mesma frase na carruagem. Estava pensando a mesma frase agora. Frases não decidiam: frases pediam licença pra serem testadas até que alguém as cumprisse.
+Aurora pensou (porque era impossível não pensar debaixo daquela macieira velha, com a mão de Josh a meio palmo da dela) que a contenção era a coisa que ela menos vinha conseguindo desde a madrugada do beijo. Tinha pensado isso pela primeira vez no escritório do pai dela na quinta-feira da semana passada. Tinha pensado a mesma coisa na carruagem. Estava pensando agora. E pensamentos eram como água que contornam obstáculos até chegar onde se deseja: pensamentos pediam licença pra serem testados até que alguém os cumprisse.
 
 Josh inclinou o tronco um centímetro à frente.
 
@@ -482,7 +478,7 @@ Aurora não recuou.
 
 Josh levou a mão à face dela.
 
-Era a mão de trabalho. Mão larga, calo de machado na borda interna da palma, nó dos dedos com arranhão antigo (Aurora viu o arranhão; tinha visto no jardim em maio também, no dia em que ele tinha cortado o cinto pra amarrar as glicínias). O calor da palma encostou na bochecha de Aurora antes do dedo. Aurora sentiu a pele do rosto inteiro arrepiar, e o arrepio desceu pelo pescoço, e o arrepio chegou na cintura onde a outra mão dele não estava (a outra mão estava aberta no joelho dele, parada, mas Aurora sentiu, mesmo sem ela estar ali, o lugar onde ia estar).
+Era a mão de trabalho. Mão larga, calo de machado na borda interna da palma, nó dos dedos com cicatriz de arranhão antigo (Aurora viu o arranhão; tinha visto no jardim em maio também, no dia em que ele tinha cortado o cinto pra amarrar as glicínias). O calor da palma encostou na bochecha de Aurora antes do dedo. Aurora sentiu a pele do rosto inteiro arrepiar, e o arrepio desceu pelo pescoço, e o arrepio chegou na cintura onde a outra mão dele estava prestes a tocar (a outra mão estava aberta no joelho dele, parada, mas Aurora sentiu, mesmo sem ela estar ali, o lugar onde ia estar).
 
 O polegar de Josh encostou no canto da boca de Aurora.
 
