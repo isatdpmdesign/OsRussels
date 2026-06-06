@@ -392,15 +392,13 @@ Aurora ouviu Josh respirar fundo. Era uma respiração que Aurora tinha aprendid
 
 — Oi.
 
-— Eu... — Josh parou no meio da palavra. Aurora virou meio rosto pra olhar ele de lado. Josh estava com os olhos pra frente, no escuro do pomar. A mandíbula travada. — Não.
+— Eu... — Josh parou no meio da palavra. Aurora virou meio rosto pra olhar ele de lado. Josh continuava com os olhos pra frente, fixos no escuro do pomar. A mandíbula travada. — Não.
 
 — Não o quê?
 
 — Não é hora.
 
 — Hora pra quê?
-
-Josh não respondeu. Aurora viu o pomo de adão dele subir e descer uma vez. Viu o pulso da têmpora dele bater.
 
 — Fala. Você já começou.
 
