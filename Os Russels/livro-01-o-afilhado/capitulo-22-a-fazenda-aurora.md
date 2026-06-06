@@ -398,9 +398,7 @@ Aurora ouviu Josh respirar fundo. Era uma respiração que Aurora tinha aprendid
 
 — Não é hora.
 
-— Hora pra quê?
-
-— Fala. Você já começou.
+— Hora pra quê?... Fala. Você já começou.
 
 Aurora ouviu, na própria voz dela, uma firmeza que ela não soube de onde tinha vindo. Foi a primeira vez na vida que ela insistia em alguma coisa com Josh sem cobrir a insistência com cortesia.
 
