@@ -318,25 +318,61 @@ Josh disse:
 
 Aurora pensou três segundos antes de responder. Não pensou no que ia dizer. Pensou se ia dizer.
 
-— É a sua família — disse Aurora. — A sua mãe me apertou a mão com as duas mãos dela e falou comigo como se já me conhecesse há cinco meses. O Joseph cortou a batata no meio sem comentar pros seus irmãos. O Matias me pediu poesia. O Dylan me disse que eu era pequena com a tranquilidade de quem comenta o tempo. — Aurora parou. — Eles são exatamente como são, Josh. Nenhum deles montou nada na minha frente. Eu não sabia que existia gente assim.
+— É a sua família — disse Aurora. — A sua mãe me apertou a mão com as duas mãos dela e falou comigo como se já me conhecesse há cinco meses. O Joseph cortou a batata no meio sem comentar pros seus irmãos. O Matias me pediu poesia. O Dylan me disse que eu era pequena com a tranquilidade de quem comenta o tempo.
+
+Aurora parou. Encarou o escuro do pomar por meio segundo pra organizar a frase que vinha depois.
+
+— Mas não é só a sua família, Josh. É o que a sua família não faz. — Voz mais baixa. — Em Copenhague eu tenho que ser polida o tempo todo. Qualquer movimento meu fora do padrão entra como prova de alguma coisa, e eu nunca consigo decidir do que. Eu entro num salão e os olhos não chegam em mim como filha do Raj Svensson da Bredgade. Chegam em mim como a moça que ninguém sabe encaixar. A pele errada. O olho errado. Os cabelos errados. A altura errada. Cortês todo mundo é. Mas cortesia é distância, Josh. Eu aprendi isso aos onze anos. Cortesia é o jeito que se trata aqueles que entram num lugar sem caber direito nele. E a vida inteira eu fui tratada com cortesia.
+
+Aurora respirou.
+
+— Aqui não. Aqui ninguém me olhou como peça difícil de classificar. A sua mãe me apertou a mão como aperta a mão de qualquer um. O Joseph me cumprimentou com a cortesia normal de homem que recebe uma dama na casa dele, e não com a cortesia escolhida de quem está medindo o que pode dizer. O Matias me perguntou se eu gostava de poesia sem rodear primeiro o que queria saber. E o Dylan, Josh, o Dylan foi a primeira pessoa na vida que me disse uma coisa sobre o meu corpo sem rodear o que estava de verdade pensando dizer. Eu sou pequena. Pra ele eu sou pequena. Não sou exótica, não sou interessante, não sou difícil de descrever. Eu sou pequena. Foi a coisa mais comum do mundo. E foi a coisa mais nova que já ouviram me dizer.
+
+Aurora parou de novo.
+
+— Eles são exatamente como são. Nenhum deles montou nada na minha frente. Eu não sabia que existia gente assim.
 
 Josh ficou três segundos sem responder. Aurora viu o lado direito da maçã do rosto dele se mover — o lado que rachava primeiro quando o sorriso era de verdade.
 
-— Existe — disse ele. — Tem essa fazenda inteira de gente assim. E tem mais umas, espalhadas.
+— Existe — disse ele. — Tem essa fazenda inteira de gente assim.
 
-— Não em Copenhague.
+Aurora esperou. Sabia que ele ia continuar.
 
-— Em Copenhague também tem, Aurora. Só que escondem. — Pausa. — Aliás, o seu pai é. O Raj é exatamente isso, quando não está na frente da Eleonora.
+— E tem em Copenhague também. Só que escondem.
 
-Aurora segurou a respiração meio segundo. Não tinha esperado essa frase. E a frase entrou nela como entra uma frase verdadeira: sem precisar de prova.
+— Por quê.
 
-Os dois sabiam que não era só a família.
+Josh demorou um segundo.
 
-Os dois sabiam que o outro sabia.
+— Porque quem não julga, no meio de uma cidade que julga, é olhado de lado. Quem te trata com naturalidade vira a próxima pessoa a ser estranhada nos salões. Demonstrar apoio à diferença, em Copenhague, é virar diferente. E a maioria das pessoas decentes que existem ali já aprenderam, ao longo da vida, a se proteger. Não vão te atacar. Mas também não vão se posicionar a seu favor em voz alta, porque o preço é alto demais. Então ficam caladas. Achando que calar é meio caminho do bem. — Pausa. — E não é. Calar é metade do mal, dividida com a metade da boa consciência.
+
+Aurora não tinha pensado nesses termos antes. Recebeu a frase devagar.
+
+— E o seu pai — continuou Josh, e a voz dele saiu mais quieta — é uma das pessoas que não julga. E eu acho, Aurora, que ele virou amigo do meu pai por isso.
+
+Aurora levantou meio rosto. Josh estava de perfil pra ela, com os olhos no escuro do pomar.
+
+— O Raj chegou na Dinamarca com catorze anos. Carregou a origem dele como peso a explicar pelo resto da vida em Copenhague. Mesmo casando com a filha do barão Bjerg, mesmo construindo a fortuna que construiu, em todo salão que ele entra ele entra primeiro como indiano e depois como o Raj. Nunca os dois juntos sem ser nessa ordem.
+
+Josh fez uma pausa.
+
+— A minha mãe me contou, quando eu tinha uns nove ou dez anos, que a primeira vez que o Raj apareceu na fazenda da gente, o meu pai estava no curral. O Raj tinha vindo a Sorø por causa de uma sociedade comercial que tinha com uns conhecidos — a minha mãe não lembra exatamente. Eu não estava lá, óbvio. Não tinha nascido ainda. Mas o meu pai recebeu o Raj como recebia qualquer um que chegava com a Casandra na cozinha: ofereceu café, mandou sentar, perguntou da viagem. Não perguntou da origem. Não fez observação sobre cor de pele. Não comentou sobre acento. Tratou o Raj como o homem que tinha entrado na sala dele, e ponto.
+
+Josh respirou.
+
+— Eu acho que foi ali, Aurora. Eu acho que naquela cozinha, com o meu pai oferecendo café sem ter feito uma única pergunta de origem antes, o Raj encontrou pela primeira vez em vinte anos de Dinamarca um lugar onde ele podia ser ele mesmo sem ter que se justificar antes. E que por isso a amizade dos dois durou três décadas. Que por isso a minha mãe escreveu pro padrinho dela mandar carta dizendo que tinha um afilhado precisando de estudo. E que por isso eu estou hoje em Copenhague.
+
+Aurora ficou um tempo sem dizer nada.
+
+A frase entrou nela completa, como entra uma frase verdadeira: sem precisar de prova. Aurora não podia confirmar os detalhes — não sabia exatamente como Raj e Henrik tinham se conhecido, não sabia o que Raj sentia naquela primeira cozinha de Sorø. Mas a forma da frase tinha peso. E o peso descansou nela como descansa uma coisa que estava precisando descansar há muito tempo.
+
+Aurora abriu a boca pra dizer alguma coisa de volta. Não saiu.
+
+O assunto era complexo demais pra desfazer numa noite de quinta debaixo de uma macieira. Aurora não tinha como confirmar nada do que Josh tinha dito sobre o pai dela. Mas reconheceu, na cabeça, que ia pensar no pai assim pelo resto da vida. E foi isso — mais do que qualquer outra coisa — que abriu o que abriu dentro dela.
 
 Aurora ficou muda.
 
-Não tinha planejado ficar. Tinha aberto a boca em algum momento pra responder o que Josh tinha dito do Raj — uma piada, uma pergunta de volta, qualquer coisa — e o que tinha vindo, em vez da palavra, foi uma vontade aguda de chorar que Aurora não tinha pedido permissão pra sentir. Engoliu. Olhou pra grama entre os joelhos. Ficou um tempo longo sem dizer nada.
+Engoliu. Olhou pra grama entre os joelhos. Ficou um tempo longo sem dizer nada.
 
 Josh não preencheu o silêncio. Não perguntou se ela estava bem. Não tentou consertar. Esperou ao lado dela, com o pé descalço apoiado na grama e a mão aberta no joelho dobrado, do jeito que se espera uma pessoa que está atravessando uma coisa por dentro e não precisa de ajuda de fora.
 
@@ -378,7 +414,31 @@ Aurora ficou parada.
 
 Josh balançou a cabeça uma vez, como quem se rende a uma coisa que tinha planejado não fazer.
 
-— É uma pergunta sobre você caber aqui. E sobre você querer caber aqui. E sobre o que eu faço com a vida inteira se a sua resposta for sim. E sobre o que eu faço com a vida inteira se a sua resposta for não. — Ele virou meio rosto. Os olhos verdes dele apareceram na lua. — Não é uma pergunta, Aurora. São quatro. E elas não cabem uma sem a outra.
+— É uma pergunta sobre você caber aqui. Sobre você querer caber aqui. Sobre o que eu faço com a minha vida inteira se a sua resposta for sim. Sobre o que eu faço com a minha vida inteira se a sua resposta for não.
+
+Josh respirou.
+
+— Mas tem outras coisas, Aurora, que vêm com essa pergunta. Coisas que eu sei e que você ainda não pesou.
+
+— Quais.
+
+Josh demorou. Olhou pras macieiras. Voltou.
+
+— Eu sei o que você tem na Bredgade. Vestido pago por modista. Seda francesa. Bailes de temporada. Casa em rua boa. Cinco talheres de prata por pessoa. — Pausa. — Aqui na fazenda você ia ter o que a minha mãe tem. Que é uma vida boa, Aurora. É a vida que é. Mas é menos do que você tem hoje no padrão do mundo. Eu não tenho como te dar de volta o que eu te tirar.
+
+Aurora respirou de leve. Não interrompeu.
+
+— E você tem dezesseis anos.
+
+Aurora ficou olhando pra ele.
+
+— Você nunca se apaixonou antes. Você não sabe ainda, Aurora, se o que você sente comigo é a paixão da sua vida ou se é a primeira coisa que parece paixão. — Josh balançou a cabeça uma vez. — Eu tenho quase cinco anos a mais que você. Eu sei que tem diferença. Você pode descobrir daqui a dois anos, três, que o que você tem hoje passou. E aí já não vai dar pra desfazer.
+
+Pausa longa.
+
+— Por isso eu não pergunto. Porque o sim me destrói pelo caminho de te ver perder o que você tinha. E o não me destrói pelo caminho que destrói todo homem que perde o que era. Eu não sei escolher entre os dois. Eu não consigo perguntar.
+
+Aurora ouviu inteiro sem interromper. Não chorou. Não desviou o olhar.
 
 Aurora abriu a boca. Não saiu palavra. Fechou a boca.
 
@@ -386,7 +446,7 @@ E entendeu. Não tudo, não em frase fechada, mas o suficiente.
 
 Entendeu que Josh estava perguntando se ela viveria ali. Nesta fazenda. Com a Casandra fazendo pão de madrugada, com a Meridiana recolhendo ovo antes do sol, com o Dylan dizendo que ela era pequena com a tranquilidade de quem comenta o tempo, com o Matias mostrando poesia do pai. Sem porcelana, sem lustre, sem cinco talheres de prata por pessoa, sem Eleonora medindo cada respiração à direita do marido. A vida inteira que Josh podia oferecer, que era essa, porque ele não tinha outra pra dar.
 
-E entendeu por que Josh não tinha feito a pergunta. Não era medo da resposta. Era certeza. Era a certeza que ele tinha formado em cinco meses do outro lado da mesa da Bredgade, de casaco preto e gola alta com o bordado da mãe na lapela, de que Aurora merecia coisa melhor do que ele podia oferecer no padrão do mundo dela — um homem de Copenhague que mantivesse o que o Raj tinha construído, vestido pago por modista, seda francesa, ronda de bailes de temporada, casa na Bredgade. Josh não tinha nada disso. Josh sabia. E por saber, segurava a pergunta engasgada na garganta como quem segura uma carta sem destinatário.
+E entendeu por que Josh não tinha feito a pergunta. Não era medo da resposta. Era certeza. Era a certeza que ele tinha formado em cinco meses do outro lado da mesa da Bredgade, de casaco preto e gola alta com o bordado da mãe na lapela, de que Aurora merecia coisa melhor do que ele podia oferecer no padrão do mundo dela. Era a certeza, também, que ele acabara de dizer em voz alta: que dezesseis anos era jovem demais pra uma decisão sem desfazer.
 
 E entendeu (Aurora, na grama do pomar, com o pé descalço dele a um centímetro da mão dela, com a fazenda inteira escura em volta dos dois) que ela cabia.
 
@@ -395,6 +455,8 @@ Que tinha cabido o dia inteiro.
 Que tinha cabido na sopa de cevada, na batata partida ao meio pelo Joseph, na risada do Matias, na zoeira do Dylan, no abraço da Casandra com as duas mãos vermelhas, no silêncio limpo entre a Meridiana e ela. Que tinha caído com tudo na palavra que ela tinha encontrado no meio do jantar — descansar — e que aquela palavra significava, no fundo, ser ela mesma sem ser corrigida. Sem ser medida. Sem ser olhada como peça difícil de classificar. Aurora não tinha sido julgada por ninguém ali em nenhum segundo do dia inteiro.
 
 Era a coisa mais simples do mundo, e era exatamente o que tinha faltado a vida toda.
+
+E entendeu, por último, uma coisa que Josh tinha errado. Aurora sabia o que sentia. Aurora sabia distinguir. Aurora tinha dezesseis anos e meio, e tinha aprendido, ao longo dos últimos cinco meses olhando Josh atravessar a casa do pai dela, que o que estava sentindo não era primeira coisa nenhuma. Era a única coisa. Aurora não disse isso em voz alta. Não cabia. Mas guardou, dentro, na frase mais limpa que ela tinha guardado na vida: *eu sei. Você está errado nessa parte. Eu sei.*
 
 Aurora não pôs nada disso em palavra. Só sentiu, e o sentir desceu pelo peito como um peso bom que ela não tinha pedido pra carregar.
 
