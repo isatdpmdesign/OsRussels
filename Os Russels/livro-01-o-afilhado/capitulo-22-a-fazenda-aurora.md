@@ -160,7 +160,7 @@ Dylan parou de mastigar por meio segundo. Aurora reconheceu o segundo. Dylan nã
 
 Aurora não riu, mas algo subiu no peito dela que não era riso e que estava perto. Olhou pra Josh do outro lado do alpendre.
 
-Josh estava de pé com a mão apoiada no parapeito. Tinha os olhos fechados. Não mais que meio segundo (Aurora ia perder se piscasse) mas Aurora não piscou. Viu. Josh tinha fechado os olhos exatamente meio segundo. Não estava reagindo ao Dylan. Estava se contendo de reagir ao Dylan, porque qualquer reação maior do que Dylan. com aquele tom seco que Josh acabara de usar entregaria, pra Casandra e pra Meridiana e talvez até pro Joseph, que Aurora pesava em Josh exatamente o que ela pesava.
+Josh estava de pé com a mão apoiada no parapeito. Tinha os olhos fechados. Não mais que meio segundo (Aurora ia perder se piscasse) mas Aurora não piscou. Viu. Josh tinha fechado os olhos exatamente meio segundo. Não estava reagindo ao Dylan. Estava se contendo de reagir ao Dylan, porque qualquer reação maior do que Dylan. com aquele tom seco que Josh acabara de usar entregaria, pra Casandra e pra Meridiana e talvez até pro Joseph, que Aurora importava pra Josh exatamente o que ele importava pra ela.
 
 Casandra estava do lado do parapeito. Aurora não tinha precisado virar pra Casandra: sentiu Casandra ver. Sentiu Casandra registrar. Sentiu Casandra não comentar.
 
@@ -172,7 +172,7 @@ A casa entrou em movimento.
 
 *
 
-O quarto de Meridiana era pequeno e limpo. Cama de casal com colcha de retalhos. Janela única que dava pro pomar. Uma escrivaninha simples encostada na parede com um caderno aberto, uma caneta, dois ramos secos de alguma planta pendurados no batente. Não tinha lustre. Não tinha cortina pesada. Não tinha o cheiro de cera de móveis da Bredgade.
+O quarto de Meridiana era pequeno e limpo. Cama de casal com colcha de retalhos. Janela única que dava pro pomar. Uma escrivaninha simples encostada na parede com um caderno aberto, uma caneta, dois ramos secos de alguma planta pendurados no batente. Não tinha lustre. Não tinha cortina grossa. Não tinha o cheiro de cera de móveis da Bredgade.
 
 — Vou dormir com a mamãe — disse Meridiana, no batente. — Vocês duas ficam aqui. A cama é grande. Eu uso essa escrivaninha de manhã, mas eu pego o caderno daqui a pouco e levo pro meu quarto novo. — Sorriu pra Aurora. — Se acomoda. Eu volto em meia hora pra chamar pro jantar.
 
@@ -352,7 +352,7 @@ Aurora não tinha pensado nesses termos antes. Recebeu a frase devagar.
 
 Aurora levantou meio rosto. Josh estava de perfil pra ela, com os olhos fixos no escuro do pomar, como se pela primeira vez estivesse constatando aquela informação.
 
-— O Raj chegou na Dinamarca com catorze anos. Carregou a origem dele como peso a explicar pelo resto da vida em Copenhague. Mesmo casando com a filha do barão Bjerg, mesmo construindo a fortuna que construiu, em todo salão que ele entra ele entra primeiro como indiano e depois como o Raj. Nunca os dois juntos sem ser nessa ordem.
+— O Raj chegou na Dinamarca com catorze anos. Carregou a origem dele como coisa a explicar pelo resto da vida em Copenhague. Mesmo casando com a filha do barão Bjerg, mesmo construindo a fortuna que construiu, em todo salão que ele entra ele entra primeiro como indiano e depois como o Raj. Nunca os dois juntos sem ser nessa ordem.
 
 Josh fez uma pausa.
 
@@ -364,7 +364,7 @@ Josh respirou.
 
 Aurora ficou um tempo sem dizer nada.
 
-A frase entrou nela completa, como entra uma frase verdadeira: sem precisar de prova. Aurora não podia confirmar os detalhes — não sabia exatamente como Raj e Henrik tinham se conhecido, não sabia o que Raj sentia naquela primeira cozinha de Sorø. Mas a forma da frase tinha peso. E o peso descansou nela como descansa uma coisa que estava precisando descansar há muito tempo.
+A frase entrou nela completa, como entra uma frase verdadeira: sem precisar de prova. Aurora não podia confirmar os detalhes — não sabia exatamente como Raj e Henrik tinham se conhecido, não sabia o que Raj sentia naquela primeira cozinha de Sorø. Mas a frase era verdadeira. E essa verdade descansou nela como descansa uma coisa que estava precisando descansar há muito tempo.
 
 Aurora ficou um tempo longo sem dizer nada. Quando falou, foi baixo.
 
@@ -372,23 +372,21 @@ Aurora ficou um tempo longo sem dizer nada. Quando falou, foi baixo.
 
 Josh esperou.
 
-— A minha mãe nunca pensou. Ninguém pensou. Em algum momento todo mundo em Copenhague esqueceu que o meu pai chegou nesse país aos catorze anos sozinho. — Aurora olhou pra grama entre os joelhos. — Eu acho que eu também tinha esquecido. E hoje, com você falando, é como se o meu pai voltasse a ter origem. Não no jeito que é peso a explicar. No jeito que é história dele. Coisa boa.
+— A minha mãe nunca pensou. Ninguém pensou. Em algum momento todo mundo em Copenhague esqueceu que o meu pai chegou nesse país aos catorze anos sozinho. — Aurora olhou pra grama entre os joelhos. — Eu acho que eu também tinha esquecido. E hoje, com você falando, é como se o meu pai voltasse a ter origem. Não no jeito que é coisa a explicar. No jeito que é história dele. Coisa boa.
 
 Aurora respirou.
 
 — E o que vocês fazem aqui, Josh, eu nunca tinha visto. Vocês tratam quem chega como vocês mesmos. Não com cortesia. Sem cortesia. Cortesia é distância, como eu te disse. E ninguém pôs distância em mim hoje, em segundo nenhum do dia inteiro.
 
-Silêncio. Aurora viu o pomo de adão do Josh se mexer. Viu o pulso da têmpora dele bater mais rápido. Sabia que ele tinha ouvido o que ela tinha dito, e o que ela não tinha terminado de dizer.
+Silêncio. Aurora viu o pomo de adão do Josh se mexer. Viu o pulso da têmpora dele bater mais rápido. Sabia que ele tinha ouvido o que ela tinha dito.
 
-Aurora abriu a boca pra continuar. Não saiu. O resto não tinha palavra ainda. O resto era uma coisa parecida com *eu queria não ter que voltar*, uma coisa parecida com *eu queria caber em mais algum lugar do mundo do jeito que eu cabi aqui hoje*, uma coisa que era de pertencimento e que era nova e que assustava ela.
+Aurora respirou. A próxima frase saiu sozinha. Não tinha sido planejada.
 
-Aurora ficou muda.
+— Eu queria caber em mais algum lugar do mundo, Josh, do jeito que eu cabi aqui hoje.
 
-Engoliu. Olhou de novo pra grama. Ficou um tempo sem dizer nada.
+Silêncio.
 
-Josh não preencheu o silêncio. Não perguntou se ela estava bem. Não tentou consertar. Esperou ao lado dela, com o pé descalço apoiado na grama e a mão aberta no joelho dobrado, do jeito que se espera uma pessoa que está atravessando uma coisa por dentro e não precisa de ajuda de fora.
-
-Depois Aurora ouviu Josh respirar fundo. Era uma respiração que Aurora tinha aprendido a reconhecer ao longo de cinco meses: a inspiração mais funda do que o costume, a que Josh dava de antes-de-dizer-uma-coisa-difícil.
+Aurora ouviu Josh respirar fundo. Era uma respiração que Aurora tinha aprendido a reconhecer ao longo de cinco meses: a inspiração mais funda do que o costume, a que Josh dava de antes-de-dizer-uma-coisa-difícil.
 
 — Aurora.
 
@@ -430,7 +428,7 @@ Josh balançou a cabeça uma vez, como quem se rende a uma coisa que tinha plane
 
 Josh respirou.
 
-— Mas tem outras coisas, Aurora, que vêm com essa pergunta. Coisas que eu sei e que você ainda não pesou.
+— Mas tem outras coisas, Aurora, que vêm com essa pergunta. Coisas que eu sei e que você ainda não calculou.
 
 — Quais.
 
@@ -470,7 +468,7 @@ Era a coisa mais simples do mundo, e era exatamente o que tinha faltado a vida t
 
 E entendeu, por último, uma coisa que Josh tinha errado. Aurora sabia o que sentia. Aurora sabia distinguir. Aurora tinha dezesseis anos e meio, e tinha aprendido, ao longo dos últimos cinco meses olhando Josh atravessar a casa do pai dela, que o que estava sentindo não era primeira coisa nenhuma. Era a única coisa. Aurora não disse isso em voz alta. Não cabia. Mas guardou, dentro, na frase mais limpa que ela tinha guardado na vida: *eu sei. Você está errado nessa parte. Eu sei.*
 
-Aurora não pôs nada disso em palavra. Só sentiu, e o sentir desceu pelo peito como um peso bom que ela não tinha pedido pra carregar.
+Aurora não pôs nada disso em palavra. Só sentiu. Desceu pelo peito como uma coisa boa que ela não tinha pedido pra carregar.
 
 — Bom, se você não pode perguntar, eu não posso responder — disse Aurora. – Mas saiba que eu tenho certeza de tudo que sinto e de tudo que quero.
 
