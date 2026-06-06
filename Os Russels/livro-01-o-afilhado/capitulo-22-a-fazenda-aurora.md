@@ -318,7 +318,7 @@ Josh disse:
 
 Aurora pensou três segundos antes de responder. Não pensou no que ia dizer. Pensou se ia dizer.
 
-— É a sua família — disse Aurora. — A sua mãe me apertou a mão com as duas mãos dela e falou comigo como se já me conhecesse há cinco meses. O Joseph cortou a batata no meio sem comentar pros seus irmãos. O Matias me pediu poesia. O Dylan me disse que eu era pequena com a tranquilidade de quem comenta o tempo.
+— É a sua família — disse Aurora. — A sua mãe me apertou a mão com as duas mãos dela e falou comigo como se já me conhecesse há anos. O Joseph cortou a batata no meio pros seus irmãos, sem comentar. O Matias perguntou se eu gosto de poesia. O Dylan disse que eu era pequena sem temer me ofender e, de fato, não ofendeu.
 
 Aurora parou. Encarou o escuro do pomar por meio segundo pra organizar a frase que vinha depois.
 
@@ -348,9 +348,9 @@ Josh demorou um segundo.
 
 Aurora não tinha pensado nesses termos antes. Recebeu a frase devagar.
 
-— E o seu pai — continuou Josh, e a voz dele saiu mais quieta — é uma das pessoas que não julga. E eu acho, Aurora, que ele virou amigo do meu pai por isso.
+— E o seu pai, Aurora — continuou Josh, e a voz dele saiu mais quieta — acho que ele virou amigo do meu pai por isso. 
 
-Aurora levantou meio rosto. Josh estava de perfil pra ela, com os olhos no escuro do pomar.
+Aurora levantou meio rosto. Josh estava de perfil pra ela, com os olhos fixos no escuro do pomar, como se pela primeira vez estivesse constatando aquela informação.
 
 — O Raj chegou na Dinamarca com catorze anos. Carregou a origem dele como peso a explicar pelo resto da vida em Copenhague. Mesmo casando com a filha do barão Bjerg, mesmo construindo a fortuna que construiu, em todo salão que ele entra ele entra primeiro como indiano e depois como o Raj. Nunca os dois juntos sem ser nessa ordem.
 
