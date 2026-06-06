@@ -15,7 +15,7 @@
   - **Copenhague**, casarão na Bredgade → família Svensson
 - **Idioma de escrita:** português brasileiro contemporâneo
 - **Livro 1:** *O Afilhado* — Josh × Aurora
-- **Livro 2 (em planejamento):** Meridiana × Aarav (Aarav não morreu — está vivo numa ilha remota, retorna durante o Livro 2)
+- **Livro 2 (EM ABERTO):** protagonista a definir (cogita-se **Joseph**). O par Meridiana × Aarav está **suspenso** — a autora não vê enredo claro pra ele; pode ir pro Livro 3, ou nem ser do Aarav. Canon firme só: **Aarav não morreu — está vivo numa ilha remota e retorna num livro futuro.** Quem ele vira par (se vira) fica a redefinir.
 
 ---
 
@@ -55,7 +55,7 @@ Moram no campo da Zelândia, perto de Sorø. Propriedade rural. Vida simples mas
 - Administra a propriedade sozinha com os filhos
 - Cabelos castanhos, mãos de trabalho, não chora em público
 - Teimosa, prática, lê pessoas como Josh lê paisagens
-- **Mandou Josh para Copenhague com uma carta selada para Raj.** Conteúdo canônico: cobrança formal de uma sociedade comercial antiga entre Henrik e Raj (anos 1810). Henrik investiu numa rota comercial de Raj e morreu antes da liquidação. Raj guardou a parte dos Russels por mais de uma década. Casandra recusou recebê-la enquanto a fazenda se sustentou. Agora cobra para garantir a autonomia financeira de Josh (universidade, residência, futuro). **Tom da carta:** frio, contábil, com números. **Não é profética sobre Aurora — não menciona Aurora.**
+- **Mandou Josh para Copenhague com uma carta selada para Raj** (na escrivaninha do quarto leste do Josh na Bredgade desde março — Cap 02:261, Cap 03:317; Josh sempre desconfiou que a carta era pra ele, "pra quando precisasse de coragem"). **Conteúdo canônico (mecânica corrigida):** nos anos 1810, Henrik e Raj tiveram uma **sociedade comercial conjunta** — Raj (o endinheirado) tocava a operação; Henrik (fazendeiro) entrou com o que tinha. A operação rendeu, e o lucro foi **depositado conjuntamente numa casa comercial de Copenhague**, num arranjo que **exige a assinatura dos dois sócios para o saque**. Com a morte do Henrik (1826), a parte dos Russel ficou **travada** — só destrava com a assinatura do Raj. Raj nunca sacaria sozinho; guardou em silêncio esperando a Casandra pedir. Casandra recusou enquanto a fazenda se sustentou. **Agora pede a cooperação do Raj para destravar** — a quantia é herança do Josh (autonomia, futuro). **Tom da carta:** frio, contábil, com números. **Não menciona Aurora.** *(Correção da mecânica antiga, que dizia erroneamente que Raj DEVIA aos Russel e que Josh "comprava" Aurora com isso — não fechava: se Raj devesse, era Raj quem pagava. Agora é depósito conjunto travado.)*
 
 ### Henrik Russel (pai — falecido)
 - Morreu de febre — 3 semanas entre calafrios e último suspiro
@@ -66,7 +66,7 @@ Moram no campo da Zelândia, perto de Sorø. Propriedade rural. Vida simples mas
 ### Os filhos (ordem de nascimento):
 1. **Joseph** — O mais velho, 24 anos. Assumiu a propriedade. Trabalha sem parar, não se permite sentir. Braços cruzados, expressão controlada. **A cadeira do pai (Henrik) permanece vazia à cabeceira — ninguém senta nela.** Casandra passa a mão no encosto antes de se sentar, todo jantar (Cap 2:49). Espelha a cadeira vazia de Aarav na casa dos Svensson: Joseph assumiu a propriedade inteira, menos aquela cadeira.
 2. **Josh** — O do meio, ~21 anos. Protagonista Livro 1. Observador, guardador de detalhes. Educado e de bons modos, sabe caçar, plantar, trabalhar a terra. Corpo desenvolvido pelo trabalho no campo. Dinamarquês clássico: branco, cabelos lisos loiros quase ruivos, olhos verdes que ficam alaranjados refletindo a barba loira-alaranjada. ~1,80m. Quer seguir carreira na academia/política (indeciso). **Veio a Copenhague para se preparar com Raj para a prova de ingresso na universidade — a prova é em outubro (a história está em agosto), por isso ele ainda não cursa nada.** Sorriso torto que Dylan chama de "cara de idiota satisfeito."
-3. **Meridiana** — A filha do meio (nome por ser "do meio"), 20 anos. Cuida do pomar de macieiras, fala com as árvores (a macieira velha que ela chama de **Berta**). Bordou um lenço com iniciais J.R. para Josh. Cheiro de maçã e terra molhada. **Protagonista feminina do Livro 2** (par com Aarav).
+3. **Meridiana** — A filha do meio (nome por ser "do meio"), 20 anos. Cuida do pomar de macieiras, fala com as árvores (a macieira velha que ela chama de **Berta**). Bordou um lenço com iniciais J.R. para Josh. Cheiro de maçã e terra molhada. *(Par/protagonismo em livro futuro EM ABERTO — ver Visão Geral.)*
 4. **Dylan** — 19 anos. Diz o que todos pensam sem parecer afetado. Riso seco parecido com o do pai. Chuta a porteira do celeiro todo dia. Tem um canivete. Acompanhou Josh até Roskilde.
 5. **Matias** — 13 anos, caçula. Não sabe disfarçar emoções. Faz perguntas profundas à noite.
 
@@ -89,8 +89,8 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Despedaçando-se por dentro desde a "morte" de Aarav. Tranca-se no escritório, olhos vermelhos no jantar
 - Mãos cruzadas atrás do corpo quando pensa. Limpa os óculos antes de dizer algo sério
 - Mentor de Josh: ensina Locke, Montesquieu, Kant, Hegel
-- **Guarda há mais de uma década uma quantia significativa em ouro pertencente aos Russels** — a quantia da sociedade comercial com Henrik. Casandra cobra na carta selada.
-- **Cap 19-24:** confrontado pela dívida do naufrágio + pressão de Lindberg + carta de Casandra + autonomia exigida por Josh + decisão de Eleonora. Acaba cedendo o noivado de Aurora a Josh. **Não é vilão — é pai trágico**, esmagado pela aritmética.
+- **Co-titular, com o espólio do Henrik, de um depósito conjunto numa casa comercial de Copenhague** (sociedade comercial dos anos 1810). O saque exige as duas assinaturas; com o Henrik morto, a parte dos Russel está travada até o Raj assinar junto. Raj guardou em silêncio por respeito à Casandra — não devia o dinheiro, era **sócio** dele. *(Frase do canon que esclarece o flashback: "o teu pai botou na minha mão a parte dele e disse que era pro filho que desse mais trabalho.")*
+- **Cap 26-28:** confrontado pela dívida do naufrágio (negociação dele falhou) + pressão de Lindberg + carta de Casandra destravando a herança do Josh + pedido do Josh + decisão de Eleonora. Acaba cedendo o noivado de Aurora a Josh. **Não é vilão — é pai trágico**, esmagado pela aritmética. Quando comunica o noivado à Aurora, percebe que **não a via tão feliz desde antes da morte do Aarav**. Passa à Eleonora a missão de apresentar o noivado à sociedade sem escândalo.
 
 ### Eleonora Svensson, née Bjerg (mãe de Aurora)
 - Dinamarquesa pura. Loira, cabelos finos, pálida como porcelana, olhos muito azuis
@@ -98,8 +98,9 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Toca cravo às terças e quintas, sempre às 15h, sempre Bach
 - Educada sem ser calorosa, calorosa sem ser íntima
 - Soltou um único grito quando soube da "morte" de Aarav — Aurora nunca vai esquecer
-- **Chora pela segunda vez na vida no Cap 23**, quando Raj anuncia o noivado de Aurora com Lindberg
-- **Cap 24:** quando Josh propõe quitar parte da dívida + casar com Aurora, e Raj responde que o valor não cobre tudo, **Eleonora se propõe por iniciativa própria a vender as joias Bjerg que herdou da mãe** (colares, broches, âmbar) para cobrir o restante. **Pela primeira vez na vida toma uma decisão prática.** Não é Raj quem pede, não é Josh quem sugere. É ela quem decide.
+- Vem observando, metódica, a paixão entre Aurora e Josh há semanas (a sobrancelha na partida pra Sorø, o *"você é a minha filha"* — Cap 21:319,327). Foi **conivente por amor**: não quis o casamento arranjado da filha com o Lindberg.
+- **Cap 28:** quando Josh oferece metade da herança pra quitar a dívida + pede a mão da Aurora, e Raj responde que o valor não cobre tudo, **Eleonora se oferece por iniciativa própria a vender as joias Bjerg que herdou da mãe** (colares, broches, âmbar) pra cobrir o restante. **Não concorda de imediato com o noivado** (socialmente é um problema: herdeira × rapaz do campo de menos posses, e afilhado do marido) — mas é mãe, ama a filha, e **faria qualquer coisa pra tirá-la das mãos do velho aproveitador.** É desse lugar que ela decide. **Primeira decisão prática da vida dela.** Não é Raj quem pede, não é Josh quem sugere. É ela quem decide. *"Eu não vou ser a mãe que vendeu a filha pro Lindberg. Vou ser a mãe que vendeu os colares da minha mãe pra tirar a filha das mãos dele."*
+- **Fechamento do arco (Cap 28):** o Raj passa a ela a missão de **apresentar o noivado à sociedade sem virar escândalo** — terreno dela, resolvido com a precisão nórdica que é a arma dela (enquadrar como aliança de famílias antigas: a sociedade Henrik-Raj de três décadas, o mérito do Josh).
 
 ### Aarav Svensson (irmão de Aurora — supostamente falecido)
 - Em tese morto há ~18 meses, em expedição científica ao Ceilão, navio engolido por tempestade no Índico
@@ -109,7 +110,7 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Era tudo para Aurora: amigo, segurança, conforto
 - Contrabandeava romances franceses para Aurora
 - Sua cadeira à cabeceira esquerda da mesa de jantar permanece vazia
-- **TWIST CANÔNICO (para Livro 2):** Aarav está vivo. Sobreviveu ao naufrágio, foi parar numa ilha remota (a definir — provavelmente arquipélago do Índico próximo à rota original), viveu lá em condições precárias. Retorna durante o Livro 2 sem aviso. **Conhece Meridiana no casamento de Josh e Aurora** — ela é o end game dele.
+- **TWIST CANÔNICO (livro futuro):** Aarav está vivo. Sobreviveu ao naufrágio, foi parar numa ilha remota (a definir — provavelmente arquipélago do Índico próximo à rota original), viveu lá em condições precárias. Retorna num livro futuro sem aviso. **Par romântico EM ABERTO** (a ideia Meridiana × Aarav está suspensa; pode nem ser dele). Canon firme só: ele volta.
 - **Semente no Livro 1:** a **coda** do livro (cena curtíssima em terceira pessoa onisciente, depois do Cap 28) descreve, sem nomeá-lo, um navio aportando em ilha remota e embarcando de volta um marinheiro magro, pele e osso. Plantio para o Livro 2.
 - **Importante:** dentro do Livro 1, nenhum personagem suspeita. O luto é tratado como definitivo. A coda é só para o leitor.
 
@@ -185,7 +186,7 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Frio, polido, **utilitário**. Não cruel — pior, utilitário. Não há ódio nele, há cálculo
 - Aparece pela primeira vez no Cap 21 como "credor amigo" no jantar
 - Quando Josh quita a dívida e o noivado é anulado (Cap 24), Lindberg envia carta cordial de retirada — mas **não esquece**
-- **Sombra silenciosa para o Livro 2:** reaparece nos enredos comerciais que envolvem Raj (e portanto Aarav, quando voltar). Não é o vilão principal do Livro 2, mas é uma presença que se acumula
+- **Sai de cena no Livro 1** quando recebe a quitação (carta cordial de retirada). **Sem plant pro Livro 2** — o próximo livro é de outro Russel e não orbita o Lindberg.
 
 ### Família Eriksen
 
@@ -309,33 +310,37 @@ Os três motivos que o Josh tem de cor para não ficar com a Aurora. Reveladas i
 
 ---
 
-## Carta da Casandra (canon)
+## Carta da Casandra (canon — MECÂNICA CORRIGIDA)
 
-A carta selada que Josh trouxe e nunca abriu fica guardada com ele desde a chegada. **Conteúdo canônico:**
+A carta selada que Josh trouxe está na **escrivaninha de mogno do quarto leste do Josh, na Bredgade, desde março** (Cap 02:261, Cap 03:317). Josh nunca abriu e **sempre desconfiou que era pra ele, "pra quando precisasse de coragem"** (Cap 03:317). **Conteúdo canônico:**
 
-- Cobrança formal de uma sociedade comercial entre Henrik Russel e Raj Svensson nos anos 1810. Henrik investiu numa rota comercial de Raj e morreu antes da liquidação.
-- Raj guardou a parte dos Russels durante anos. Casandra recusou recebê-la enquanto a fazenda se sustentou.
-- Agora Casandra cobra — para garantir autonomia financeira de Josh: universidade, residência, futuro independente.
-- **Tom da carta:** frio, contábil, com números. Maternal apenas na intenção, não na forma.
-- **A carta NÃO menciona Aurora.** Não é profecia. Não é orientação afetiva. É contabilidade.
+- Nos anos 1810, **Henrik e Raj tiveram uma sociedade comercial conjunta.** Raj (o endinheirado) conduzia a operação; Henrik (fazendeiro) entrou com o que tinha. A operação rendeu.
+- O lucro foi **depositado conjuntamente numa casa comercial de Copenhague** (sem nome próprio — referência genérica da Højbro), num arranjo que **exige a assinatura dos dois sócios para sacar.**
+- Com a morte do Henrik (1826), a parte dos Russel ficou **travada** — só destrava com a assinatura do Raj. Raj não devia o dinheiro (era **sócio**); guardou em silêncio esperando a Casandra pedir. Casandra recusou enquanto a fazenda se sustentou.
+- Agora Casandra **pede a cooperação do Raj pra destravar** — a quantia é herança do Josh (autonomia, futuro independente).
+- **Tom da carta:** frio, contábil, com números. Maternal só na intenção.
+- **A carta NÃO menciona Aurora.** É contabilidade.
 
-### O destrave (Cap 19)
+> **Por que a mecânica mudou:** a versão antiga dizia que Raj DEVIA aos Russel e que Josh "comprava" a Aurora oferecendo esse dinheiro de volta ao Raj — furo lógico (se Raj devia, era Raj quem pagava; não havia barganha). Agora é **depósito conjunto travado**: Josh destrava a herança dele (com a assinatura do Raj), e usa metade pra ajudar o Raj com o Lindberg **por honra de afilhado, não como condição** — o pedido da mão da Aurora é gesto separado.
 
-Raj entra no quarto do Josh com a carta na mão. Diz que precisa abrir agora mas pede autorização ao afilhado (porque foi ele quem trouxe). Josh autoriza. Raj lê em silêncio, empalidece, devolve a carta: *"leia você também."*
+### Casandra lembra o Josh de ler (Sorø, Cap 25)
+Casandra **não entrega carta nenhuma em Sorø** (a carta está em Copenhague). Ela **lembra o Josh, em particular, de ler a carta antes de entregá-la ao Raj** quando voltar à Bredgade. Fecha o que já estava plantado em Cap 03:317 (Josh sempre suspeitou que era pra ele).
 
-### O uso (Cap 24)
+### Josh abre a carta (Cap 26)
+Josh, ao voltar e descobrir que **a negociação do Raj com os credores falhou** e que o Lindberg vai cobrar a mão da Aurora, **pega a carta na escrivaninha e abre.** Descobre a herança travada e que a mãe sempre soube que ele ia precisar. Faz a conta: a parte dele **não cobre tudo** do Lindberg. Resigna-se e se muda pro Regensen.
 
-Josh chama Raj **e** Eleonora juntos. Coloca a carta na mesa. Oferece o dinheiro para quitar a parte que esse valor cobre. Pede a mão de Aurora em compromisso público. Raj diz que não cobre tudo. **Eleonora se oferece, por iniciativa própria, a vender as joias Bjerg para o restante.**
+### O uso (Cap 28)
+Josh mostra a carta ao Raj (flashback da sociedade Henrik-Raj esclarece o *"eu sabia que esse dia ia chegar"* = destravar o dinheiro do Henrik). Raj e Josh **assinam juntos o saque** na casa comercial. Josh chama Raj **e** Eleonora: oferece **metade** pra quitar o que o Raj não cobre (*"não é dívida, é honra de afilhado"*), reserva metade pra carreira jurídica (ambição antiga dele; o dinheiro é o que faltava), e **pede a mão da Aurora em gesto separado.** Raj diz que não cobre tudo. **Eleonora se oferece, por iniciativa própria, a vender as joias Bjerg pelo restante** (não pela aprovação do casamento, mas pra tirar a filha das mãos do Lindberg). Raj comunica o noivado à Aurora (que brilha) e passa à Eleonora a missão social.
 
 ---
 
-## Pendências para o Livro 2
+## Pendências para o Livro 2 (TUDO EM ABERTO)
 
+- **Protagonista do Livro 2 a definir** — cogita-se Joseph.
 - Aarav vivo numa ilha remota — onde exatamente? (Maldivas? Andamã? Outra?)
-- Retorno de Aarav durante o Livro 2 — timing exato
-- Meridiana × Aarav — caracterização da Meridiana adulta, ~22 anos no Livro 2 (tem 20 em 1830)
-- Lindberg como antagonista comercial do Raj (e Aarav) no Livro 2
-- Erik e Ingrid — não retornam ao centro, mas Ingrid pode ser mencionada em carta
+- Retorno de Aarav num livro futuro — timing exato.
+- **Par romântico do Aarav suspenso** (a ideia Meridiana × Aarav não tem enredo fechado; pode ir pro Livro 3, ou nem ser dele).
+- Erik e Ingrid — não retornam ao centro, mas Ingrid pode ser mencionada em carta.
 
 ---
 
