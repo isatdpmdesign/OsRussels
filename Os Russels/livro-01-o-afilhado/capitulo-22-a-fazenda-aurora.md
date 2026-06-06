@@ -20,13 +20,13 @@ A casa apareceu numa curva. Pedra na metade de baixo, madeira escurecida na meta
 
 A carruagem parou.
 
-Josh tinha continuado de frente pra Aurora pelas oito horas inteiras (de frente pra ela, e sozinho no banco oposto, com as costas pra direção do movimento), e tinham trocado olhares quase a viagem inteira. Aurora tinha catalogado o que tinha pra catalogar na luz fraca da carruagem em movimento: o cílio loiro-ruivo que escurecia perto da raiz; a unha do polegar que ele tinha cortado tão curta na partida que a ponta ainda estava em carne viva; o jeito que os olhos dele ficavam mais verdes quando o sol entrava pela cortina; o veio reto que descia pela lateral do antebraço dele até o pulso; a mão larga aberta no joelho dele com o nó dos dedos ainda marcado por arranhão antigo da pérgola de maio. Josh tinha olhado de volta sem disfarçar. Quando Vibeke dormiu na metade da segunda hora e encostou no ombro de Aurora, Josh tirou uma bota pra coçar o calcanhar, deslizou o pé descalço pelo chão da carruagem como quem fez sem querer, e encostou no pé de Aurora. Aurora não tirou o pé. Josh não tirou o dele. Seguiram assim, com os pés encostados, pelas seis horas seguintes. Mas agora, com a carruagem parada e o ar quente entrando pela janela e Vibeke já de pé tentando alcançar a porta antes do cocheiro, Josh olhou pra Aurora com a calma de quem chegou em casa.
+Josh tinha continuado de frente pra Aurora pelas oito horas inteiras (de frente pra ela, e sozinho no banco oposto, com as costas pra direção do movimento), e tinham trocado olhares quase a viagem inteira. Aurora tinha catalogado o que tinha pra catalogar na luz fraca da carruagem em movimento: o cílio loiro-ruivo que escurecia perto da raiz; a unha do polegar que ele tinha cortado tão curta na partida que a ponta ainda estava em carne viva; o jeito que os olhos dele ficavam mais verdes quando o sol entrava pela cortina; o veio reto que descia pela lateral do antebraço dele até o pulso; a mão larga aberta no joelho dele com o nó dos dedos ainda marcado por arranhão antigo da pérgola de maio. Josh tinha olhado de volta sem disfarçar. Quando Vibeke dormiu na metade da segunda hora e encostou no ombro de Aurora, Josh tirou uma bota pra coçar o calcanhar, deslizou o pé descalço pelo chão da carruagem — sem querer, ou sem querer querer — e encostou no pé de Aurora. Aurora não tirou o pé. Josh não tirou o dele. Seguiram assim, com os pés encostados, pelas seis horas seguintes. Mas agora, com a carruagem parada e o ar quente entrando pela janela e Vibeke já de pé tentando alcançar a porta antes do cocheiro, Josh olhou pra Aurora. Calmo. Tinha chegado em casa.
 
 — Eu desço primeiro — disse ele. — Eu te dou a mão.
 
 Aurora assentiu.
 
-Josh abriu a porta. Pisou no chão da Sorø com o passo de quem conhecia o ponto exato em que terra batida tinha um buraco. Estendeu a mão pra Vibeke; Vibeke pulou pra fora sem precisar de mão e foi conversar com o cocheiro sobre o caminho. Josh esperou. Esperou Aurora descer pelos próprios pés do estribo até onde ele estava e então, com uma firmeza nova que Aurora não tinha sentido antes, pegou a mão dela.
+Josh abriu a porta. Pisou no chão da Sorø e desviou de um buraco que estava ali fazia décadas. Conhecia o caminho. Estendeu a mão pra Vibeke; Vibeke pulou pra fora sem precisar de mão e foi conversar com o cocheiro sobre o caminho. Josh esperou. Esperou Aurora descer pelos próprios pés do estribo até onde ele estava e então, com uma firmeza nova que Aurora não tinha sentido antes, pegou a mão dela.
 
 Era a mesma mão. Aurora reconheceu na palma. Mas o aperto era outro. Na Bredgade, todas as vezes (no salão dos Frederiksen, no degrau da pérgola, na partida das quatro e meia daquela manhã), o aperto tinha sido o aperto de um hóspede recebendo uma anfitriã. Cortesia precisa, sem reivindicação. Aqui era outra coisa. Aqui o aperto dizia bem-vinda. Dizia entra. Dizia isto também é meu, e eu estou te recebendo. Aurora pisou na terra dos Russel com a mão de Josh fechada na sua, e por um segundo (um segundo que não devia ter durado o que durou) deixou os dedos esquecerem que tinham que soltar.
 
@@ -36,9 +36,9 @@ E Casandra apareceu na soleira.
 
 *
 
-Não era a Casandra que Aurora tinha desenhado na cabeça depois daquela madrugada na cozinha das cinco e quarenta e cinco, quando Josh tinha contado dela com a caneca girando entre as duas mãos — uma mulher que levava tudo pra dentro pra não pôr nos outros, que sabia puxar a orelha do Dylan na hora certa e deixar o Matias em paz na hora certa, que falava pouco mas falava sempre certeiro. A Casandra real era menor. Mãos vermelhas de quem tinha acabado de fazer alguma coisa (sopa? massa de pão? Aurora não saberia). Cabelos castanhos presos com um lenço azul-claro lavado mil vezes. Um avental que tinha sido novo um dia.
+Não era a Casandra que Aurora tinha desenhado na cabeça depois daquela madrugada na cozinha das cinco e quarenta e cinco, quando Josh tinha contado dela com a caneca girando entre as duas mãos — uma mulher que levava tudo pra dentro pra não pôr nos outros, que sabia puxar a orelha do Dylan na hora certa e deixar o Matias em paz na hora certa, que falava pouco mas falava sempre certeiro. A Casandra real era menor. Mãos vermelhas — tinha acabado de fazer alguma coisa (sopa? massa de pão? Aurora não saberia). Cabelos castanhos presos com um lenço azul-claro lavado mil vezes. Um avental que tinha sido novo um dia.
 
-Casandra desceu os dois degraus do alpendre como se cada degrau pesasse cinco meses.
+Casandra desceu os dois degraus do alpendre. Cinco meses em cada um.
 
 Aurora viu. Foi rápido, foi o que dura entre uma respiração e outra, mas Aurora viu: Casandra colocou as duas mãos no rosto do filho e olhou. Sem dizer nada. Só olhou. Cinco meses de saudade caindo de uma vez do peito dela pelos olhos pro rosto do Josh. Casandra não chorou. A respiração falhou de leve, e foi a coisa mais íntima que Aurora tinha visto entre mãe e filho na vida toda.
 
@@ -62,7 +62,7 @@ Vinha do pomar. Passos rápidos na terra, alguém respirando alto. Aurora virou 
 
 Josh já estava sorrindo. O sorriso torto. O que Dylan tinha apelidado de cara de idiota satisfeito. Aurora tinha visto aquele sorriso na cozinha às cinco e quarenta e cinco, tinha visto na biblioteca, tinha visto na pérgola. Mas nunca o tinha visto inteiro. Nunca tinha sido pra outra pessoa sem freio nenhum.
 
-Meridiana derrubou a cesta. Algumas maçãs rolaram pela terra. Pulou no irmão como se fosse criança de seis anos, e Josh — que era um homem alto, de ombro largo, de costas que Aurora já tinha aprendido a olhar de relance — pegou a irmã no ar e girou.
+Meridiana derrubou a cesta. Algumas maçãs rolaram pela terra. Pulou no irmão — seis anos no corpo, não vinte — e Josh, que era um homem alto, de ombro largo, de costas que Aurora já tinha aprendido a olhar de relance, pegou a irmã no ar e girou.
 
 E foi aí que Aurora viu.
 
@@ -96,9 +96,9 @@ Meridiana fez a mesma coisa com a Vibeke. A Vibeke abraçou.
 
 Atrás de Meridiana, na sombra do batente da porta da casa, alguém saía agora pra varanda. Era mais alto que Josh, mais quadrado nos ombros, ruivo (mais ruivo do que Josh — ruivo de verdade, cabelo e barba puxados pra cobre), olhos azuis. Aurora soube antes do nome.
 
-— Senhorita Svensson. — Joseph cumprimentou com a reverência discreta de quem tinha sido ensinado a receber uma dama por uma mãe que sabia receber. — Bem-vinda. — Pra Vibeke, com o mesmo tom: — Senhorita Bjerg.
+— Senhorita Svensson. — Joseph cumprimentou com uma reverência curta, bem-ensinada. — Bem-vinda. — Pra Vibeke, no mesmo tom: — Senhorita Bjerg.
 
-A voz era mais baixa que a de Josh. Mais grave. Joseph não sorria, mas o que tinha no lugar do sorriso não era frieza: era a seriedade de quem segura uma casa há quatro anos. Joseph olhou pra Aurora exatamente o tempo necessário pra cortesia, e o que Aurora viu nesse tempo foi o homem que Josh tinha descrito naquela cozinha — o que trabalha do escuro ao escuro porque parar significa pensar e pensar significa sentir.
+A voz era mais baixa que a de Josh. Mais grave. Joseph não sorria, mas o que tinha no lugar do sorriso não era frieza. Era a seriedade do irmão mais velho que tinha segurado a casa sozinho nos quatro anos desde o Henrik. Joseph olhou pra Aurora exatamente o tempo necessário pra cortesia, e o que Aurora viu nesse tempo foi o homem que Josh tinha descrito naquela cozinha — o que trabalha do escuro ao escuro porque parar significa pensar e pensar significa sentir.
 
 Aurora devolveu a reverência. Cortesia exata. Vinte e quatro anos do irmão mais velho de Josh recebida do jeito que ela tinha sido treinada na Bredgade pra receber.
 
@@ -112,7 +112,7 @@ Tinha um menino no canto do alpendre, do outro lado da Casandra. Magro, descalç
 
 — Olá — disse Aurora.
 
-— Olá. — Matias inclinou meio centímetro a cabeça, como se a inclinação fosse um item de cortesia que ele tinha lembrado de aplicar na metade do gesto. — Você gosta?
+— Olá. — Matias inclinou meio centímetro a cabeça. Aplicou cortesia atrasada, na metade do gesto. — Você gosta?
 
 — De poesia?
 
@@ -132,7 +132,7 @@ E foi só então que Aurora reparou que tinha mais uma pessoa.
 
 Estava sentado no canto oposto da varanda, encostado num pilar, com uma faca pequena na mão e uma pera quase descascada. Cabelos loiros mais escuros, mais bagunçados, mais compridos. Os olhos eram verdes também (ele tinha herdado os olhos de Josh, Aurora pensou, ou Josh tinha herdado os do Dylan), mas alguma coisa no jeito de olhar era do pai, porque Josh tinha descrito o riso seco do Dylan como o riso do Henrik e Aurora viu o esboço daquele riso antes mesmo do Dylan dizer qualquer coisa.
 
-Dylan acabou de descascar a pera. Mordeu. Olhou Aurora de cima a baixo (não com sacanagem; com a curiosidade desavisada de quem registra uma novidade na varanda como registraria um cavalo novo no pasto).
+Dylan acabou de descascar a pera. Mordeu. Olhou Aurora de cima a baixo — não como o Erik a teria olhado num salão da Bredgade, com aquele cálculo do pretendente medindo dote, sobrenome e altura. Sem cálculo. Dylan estava só olhando.
 
 — Então essa é a famosa Aurora Svensson de Copenhague. — Mordeu de novo. Mastigou. — Não imaginei tão pequena.
 
@@ -150,7 +150,7 @@ Dylan parou de mastigar por meio segundo. Aurora reconheceu o segundo. Dylan nã
 
 — Tudo — disse Josh.
 
-— Sacanagem. — Dylan voltou a descascar a pera com a tranquilidade de quem já considerou o assunto fechado e que vai passar pro próximo na velocidade dele. — Quem ganhou o nosso jogo, Aurora ou eu?
+— Sacanagem. — Dylan voltou a descascar a pera. Pra ele o assunto tinha terminado, e o próximo já estava começando. — Quem ganhou o nosso jogo, Aurora ou eu?
 
 — Aurora — disse Meridiana, do lado da cesta caída, sem hesitar.
 
@@ -266,7 +266,7 @@ Aurora descansou.
 
 Em algum momento (Aurora não saberia precisar quando) ela percebeu que ria. Não a risada de salão. Risada de verdade. Pelo nariz, pela boca, com o ombro pulando uma vez. Olhou pra Josh por reflexo, do outro jeito que se olha quando se ri sem decidir, e Josh estava olhando pra ela.
 
-Olhando do jeito que ele não tinha olhado nenhuma vez na Bredgade. Sem disfarce. Sem cortesia. Josh tinha a colher parada no meio do caminho entre a tigela e a boca, com a sopa esfriando dentro dela, e tinha esquecido de mastigar. Olhava pra Aurora como se Aurora fosse uma coisa que ele não esperava ver e que ele acabou de ver: Aurora rindo, Aurora leve, Aurora livre, Aurora solta, Aurora feliz. Aurora viu Josh ver. E Aurora soube, com a clareza de quem se reconhece no reflexo do olho do outro mais nítido do que no próprio espelho, que aquela versão dela (a versão que ria pelo nariz e pela boca com o ombro pulando uma vez na mesa de uma fazenda da Zelândia, com sopa de cevada na frente e uma família tumultuada em volta) era a versão que Josh queria pra si.
+Olhando como ele não tinha olhado nenhuma vez na Bredgade. Sem disfarce. Sem cortesia. Josh tinha a colher parada no meio do caminho entre a tigela e a boca, com a sopa esfriando dentro dela, e tinha esquecido de mastigar. Olhava pra Aurora como uma coisa que ele não esperava ver e que ele acabou de ver. Aurora rindo. Aurora leve. Aurora — não tinha o adjetivo certo pra essa Aurora, e Josh estava olhando ela tentando achar. E Aurora viu Josh ver. E soube que aquela versão dela (a versão que ria pelo nariz e pela boca com o ombro pulando uma vez na mesa de uma fazenda da Zelândia) era a versão que Josh queria pra si.
 
 Aurora segurou o olhar um segundo a mais do que devia. Depois baixou os olhos pro prato.
 
@@ -284,7 +284,7 @@ Casandra disse:
 
 Aurora prometeu.
 
-Casandra apertou o ombro de Aurora antes de Aurora sair. Foi um gesto curto. Foi um gesto que dizia, sem dizer, se sinta em casa e fique à vontade. Aurora aceitou se sentindo grata.
+Casandra apertou o ombro de Aurora antes de Aurora sair. Casandra apertou e soltou. Aurora respirou diferente no caminho da porta.
 
 Saiu.
 
@@ -402,15 +402,7 @@ Aurora ouviu Josh respirar fundo. Era uma respiração que Aurora tinha aprendid
 
 Josh não respondeu. Aurora viu o pomo de adão dele subir e descer uma vez. Viu o pulso da têmpora dele bater.
 
-— Josh.
-
-— Não, Aurora.
-
-— Fala.
-
-— Eu não posso.
-
-— Você já começou, agora fala!
+— Fala. Você já começou.
 
 Aurora ouviu, na própria voz dela, uma firmeza que ela não soube de onde tinha vindo. Foi a primeira vez na vida que ela insistia em alguma coisa com Josh sem cobrir a insistência com cortesia.
 
@@ -446,7 +438,7 @@ Aurora ficou olhando pra ele.
 
 Pausa longa.
 
-— Por isso eu não pergunto. Porque o sim me destrói pelo caminho de te ver perder o que você tinha. E o não me destrói pelo caminho que destrói todo homem que perde o que poderia ter. Eu não sei escolher entre os dois. Eu não consigo perguntar.
+— Por isso eu não pergunto. Porque o sim me destrói pelo caminho de te ver perder o que você tinha. E o não, Aurora, o não eu já não sei se sobrevivo. Eu não consigo perguntar.
 
 Aurora ouviu inteiro sem interromper. Não chorou. Não desviou o olhar.
 
@@ -454,17 +446,15 @@ Aurora abriu a boca. Não saiu palavra. Fechou a boca.
 
 E entendeu. Não tudo, não em frase fechada, mas o suficiente.
 
-Entendeu que Josh estava perguntando se ela viveria ali. Nesta fazenda. Com a Casandra fazendo pão de madrugada, com a Meridiana recolhendo ovo antes do sol, com o Dylan dizendo que ela era pequena com a tranquilidade de quem considera um estranho, amigo. Com o Matias mostrando poesia do pai. Sem porcelana, sem lustre, sem cinco talheres de prata por pessoa, sem Eleonora medindo cada respiração à direita do marido. A vida inteira que Josh podia oferecer, que era essa, porque ele não tinha outra pra dar.
+Entendeu que Josh estava perguntando se ela viveria ali. Nesta fazenda. Com a Casandra fazendo pão de madrugada, com a Meridiana recolhendo ovo antes do sol, com o Dylan dizendo que ela era pequena e nada mais. Com o Matias mostrando poesia do pai. Sem porcelana, sem lustre, sem cinco talheres de prata por pessoa, sem Eleonora medindo cada respiração à direita do marido. A vida inteira que Josh podia oferecer, que era essa, porque ele não tinha outra pra dar.
 
 E entendeu por que Josh não tinha feito a pergunta. Não era medo da resposta. Era certeza. Era a certeza que ele tinha formado em cinco meses do outro lado da mesa da Bredgade, de casaco preto e gola alta com o bordado da mãe na lapela, de que Aurora merecia coisa melhor do que ele podia oferecer no padrão do mundo dela. Era a certeza, também, que ele acabara de dizer em voz alta: que dezesseis anos era jovem demais pra uma decisão sem desfazer.
 
 E entendeu (Aurora, na grama do pomar, com o pé descalço dele a um centímetro da mão dela, com a fazenda inteira escura em volta dos dois) que ela cabia.
 
-Que tinha cabido o dia inteiro.
+Que tinha desabotoado um casaco que ela nem sabia estar usando.
 
 Que tinha cabido na sopa de cevada, na batata partida ao meio pelo Joseph, na risada do Matias, na zoeira do Dylan, no abraço da Casandra com as duas mãos vermelhas, no silêncio limpo entre a Meridiana e ela. Que tinha encaixado com tudo na palavra que ela tinha encontrado no meio do jantar — descansar — e que aquela palavra significava, no fundo, ser ela mesma sem ser corrigida. Sem ser medida. Sem ser olhada como peça difícil de classificar. Aurora não tinha sido julgada por ninguém ali em nenhum segundo do dia inteiro.
-
-Era a coisa mais simples do mundo, e era exatamente o que tinha faltado a vida toda.
 
 E entendeu, por último, uma coisa que Josh tinha errado. Aurora sabia o que sentia. Aurora sabia distinguir. Aurora tinha dezesseis anos e meio, e tinha aprendido, ao longo dos últimos cinco meses olhando Josh atravessar a casa do pai dela, que o que estava sentindo não era primeira coisa nenhuma. Era a única coisa. Aurora não disse isso em voz alta. Não cabia. Mas guardou, dentro, na frase mais limpa que ela tinha guardado na vida: *eu sei. Você está errado nessa parte. Eu sei.*
 
