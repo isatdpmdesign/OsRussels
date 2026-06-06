@@ -366,13 +366,25 @@ Aurora ficou um tempo sem dizer nada.
 
 A frase entrou nela completa, como entra uma frase verdadeira: sem precisar de prova. Aurora não podia confirmar os detalhes — não sabia exatamente como Raj e Henrik tinham se conhecido, não sabia o que Raj sentia naquela primeira cozinha de Sorø. Mas a forma da frase tinha peso. E o peso descansou nela como descansa uma coisa que estava precisando descansar há muito tempo.
 
-Aurora abriu a boca pra dizer alguma coisa de volta. Não saiu.
+Aurora ficou um tempo longo sem dizer nada. Quando falou, foi baixo.
 
-O assunto era complexo demais pra desfazer numa noite de quinta debaixo de uma macieira. Aurora não tinha como confirmar nada do que Josh tinha dito sobre o pai dela. Mas reconheceu, na cabeça, que ia pensar no pai assim pelo resto da vida. E foi isso — mais do que qualquer outra coisa — que abriu o que abriu dentro dela.
+— Eu nunca tinha pensado assim do meu pai.
+
+Josh esperou.
+
+— A minha mãe nunca pensou. Ninguém pensou. Em algum momento todo mundo em Copenhague esqueceu que o meu pai chegou nesse país aos catorze anos sozinho. — Aurora olhou pra grama entre os joelhos. — Eu acho que eu também tinha esquecido. E hoje, com você falando, é como se o meu pai voltasse a ter origem. Não no jeito que é peso a explicar. No jeito que é história dele. Coisa boa.
+
+Aurora respirou.
+
+— E o que vocês fazem aqui, Josh, eu nunca tinha visto. Vocês tratam quem chega como vocês mesmos. Não com cortesia. Sem cortesia. Cortesia é distância, como eu te disse. E ninguém pôs distância em mim hoje, em segundo nenhum do dia inteiro.
+
+Silêncio. Aurora viu o pomo de adão do Josh se mexer. Viu o pulso da têmpora dele bater mais rápido. Sabia que ele tinha ouvido o que ela tinha dito, e o que ela não tinha terminado de dizer.
+
+Aurora abriu a boca pra continuar. Não saiu. O resto não tinha palavra ainda. O resto era uma coisa parecida com *eu queria não ter que voltar*, uma coisa parecida com *eu queria caber em mais algum lugar do mundo do jeito que eu cabi aqui hoje*, uma coisa que era de pertencimento e que era nova e que assustava ela.
 
 Aurora ficou muda.
 
-Engoliu. Olhou pra grama entre os joelhos. Ficou um tempo longo sem dizer nada.
+Engoliu. Olhou de novo pra grama. Ficou um tempo sem dizer nada.
 
 Josh não preencheu o silêncio. Não perguntou se ela estava bem. Não tentou consertar. Esperou ao lado dela, com o pé descalço apoiado na grama e a mão aberta no joelho dobrado, do jeito que se espera uma pessoa que está atravessando uma coisa por dentro e não precisa de ajuda de fora.
 
