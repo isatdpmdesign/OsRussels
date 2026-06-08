@@ -120,15 +120,13 @@ Aurora viu o medo no rosto dele e soube, no centro do peito, do jeito que se sab
 
 Não era novidade. Aurora já sabia. Mas saber e ver no rosto de um homem que ele acabou de envelhecer cinco anos em vinte segundos achando que tinha te perdido — eram duas coisas diferentes.
 
-— Aurora — disse Josh, e a voz dele saiu rouca, gasta —, você consegue ficar de pé.
+— Aurora — disse Josh, e a voz dele saiu rouca, gasta. — Eu te tirei daqui. Tá tudo bem.
 
-— Eu acho que não.
+— Tô.
 
-— Eu te ajudo. Confia.
+— Tá.
 
-Aurora confiou.
-
-Josh empurrou Aurora pra mais perto da borda, com cuidado, segurando ela pelas axilas e usando o peito dele como apoio. Aurora afundou meio palmo, encontrou o fundo com o pé direito (a botinha tinha sumido nessa hora — Aurora ia ficar muito triste pela botinha depois, durante uns dois segundos da noite), e o fundo ali era firme. Josh subiu antes dela. Saiu da água com Aurora no colo, e a deitou na grama da borda devagar.
+Josh foi até a borda com Aurora no colo, sem soltar. A água desceu da cintura dele pro quadril, depois pro joelho. Quando o fundo ficou raso demais, Josh subiu na grama e deitou Aurora devagar. A botinha direita tinha sumido em algum lugar do fundo (Aurora ia ficar muito triste pela botinha depois, durante uns dois segundos da noite). A esquerda tinha saído com o impacto.
 
 A Meridiana estava ajoelhada ali, descalça, com as duas mãos na boca. As duas mãos saíram da boca no instante em que Aurora tossiu o quarto gole de água.
 
