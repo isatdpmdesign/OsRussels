@@ -32,15 +32,15 @@ E foi nesse estado, no décimo primeiro dia da estadia, que a Meridiana convidou
 
 — Eu também vou — anunciou Vibeke, que estava sentada no degrau da cozinha tomando o sol como um gato.
 
-— Vai não — disse Meridiana, sem ironia, com a doçura com que ela negava as coisas. — Você não anda direito naquele caminho. Tem pedra. Você vai entortar o pé.
+— Vai não — disse Meridiana, sem ironia, com a doçura com que ela negava as coisas. — Tem pedra solta naquele caminho. Um passo em falso e você cai direto na água, e a água lá é funda e fria.
 
-— Eu não entorto o pé.
+— Eu não dou passo em falso.
 
-— Você entortou ontem no terreiro.
+— Você deu ontem no terreiro.
 
 — Foi um acidente.
 
-— E o lago não tem terreiro.
+— No terreiro acidente é joelho ralado. No lago é banho gelado. Você não quer.
 
 Vibeke fez bico. Mas Vibeke fazia bico há onze dias por todos os motivos do mundo (porque o sol estava quente, porque o sol estava frio, porque a Casandra não deixava ela carregar o cesto cheio, porque a Meridiana não deixava ela colher maçã da árvore alta), e Aurora já tinha aprendido que o bico durava em média um minuto e meio. A Meridiana sabia disso melhor do que ninguém.
 
