@@ -68,7 +68,7 @@ Aurora riu.
 
 Aurora entendeu na hora. Tinha gente que adorava entrar e gente que adorava olhar. Aurora era das que adoravam olhar. Em Copenhague o canal passava perto da Bredgade e Aurora nunca tinha sequer pensado em entrar nele, mesmo no auge de junho. Olhar bastava.
 
-Meridiana se sentou numa pedra grande na borda, descalçou os pés, e os afundou na água até o tornozelo. Aurora se aproximou da margem. O chão era de pedras lisas e barro escuro. A água, vista de perto, era mais clara do que parecia do alto — Aurora viu o próprio reflexo, escuro contra o céu pálido, com os cabelos soltos da viagem, e por trás do reflexo viu o fundo do lago naquela parte: arenoso, com folhas marrons depositadas, com algumas pedrinhas. Não devia ter um palmo de profundidade.
+Meridiana se sentou numa pedra grande na borda, descalçou os pés, e os afundou na água até o tornozelo. Aurora se aproximou da margem. O chão era de pedras lisas e barro escuro. A água, vista de perto, era mais clara do que parecia do alto — Aurora viu o próprio reflexo, escuro contra o céu pálido, com os cabelos soltos pra trás dos ombros (em Copenhague nunca, em Sorø sempre — em algum momento dos onze dias ela tinha parado de prender e não tinha avisado a si mesma), e por trás do reflexo viu o fundo do lago naquela parte: arenoso, com folhas marrons depositadas, com algumas pedrinhas. Não devia ter um palmo de profundidade.
 
 Aurora se agachou. Pôs a mão na água. Estava fria — mais fria do que ela esperava num dia de agosto.
 
