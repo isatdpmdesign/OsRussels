@@ -96,7 +96,7 @@ A luz em cima. Aurora chutou pra cima. A cabeça encontrou ar por dois segundos.
 
 O fundo desta parte do lago, Aurora ia descobrir muito mais tarde, ficava a quase dois metros e meio. Era o ponto mais profundo. Aurora tocou no fundo com a planta do pé que ainda tinha bota e empurrou pra cima com toda a força que sobrou — chegou no ar de novo, ouviu Meridiana gritando o nome do Josh — *JOSH! JOSH! AQUI!* — e desceu mais uma vez antes de conseguir puxar o segundo gole de ar.
 
-Aurora pensou, no fundo do lago, ainda em queda mas dessa vez sem chutar tanto porque a perna tinha ficado lenta e o pulmão tinha começado a queimar, em duas coisas com a clareza absoluta de quem está prestes a não pensar mais coisa nenhuma. A primeira foi a mãe dela. Aurora viu a Eleonora no cravo, de tarde, tocando Bach, e pensou: ela não vai saber como contar isso pro papai. A segunda foi o Josh. Aurora viu Josh no degrau do alpendre na quinta de manhã, com a boca encostada na boca dela por três segundos, e pensou: era o único beijo escondido que a gente ia ter, e era o único que eu ia poder lembrar.
+No fundo do lago, com a perna lenta e o pulmão queimando, Aurora pensou duas coisas. A primeira foi a mãe dela. Aurora viu a Eleonora no cravo, de tarde, tocando Bach, e pensou: ela não vai saber como contar isso pro papai. A segunda foi o Josh. Aurora viu Josh no degrau do alpendre na quinta de manhã, com a boca encostada na boca dela por três segundos, e pensou: era o único beijo escondido que a gente ia ter, e era o único que eu ia poder lembrar.
 
 E então a água em cima dela se rasgou.
 
@@ -114,7 +114,7 @@ Josh estava com a água até o peito, com Aurora segurada por debaixo das axilas
 
 E viu o rosto dele.
 
-Aurora nunca ia esquecer aquele rosto. Não era o Josh contido. Não era o Josh com mandíbula travada do pomar. Era o Josh assustado de verdade, com a sobrancelha franzida, com os olhos verdes que tinham ficado quase pretos de medo, com a boca aberta puxando ar como se o ar pudesse de algum jeito chegar nela através dele. O Josh do degrau do alpendre era um Josh em paz com o mundo. O Josh do lago era um Josh acabando de descobrir, na carne, o que era a possibilidade de perder Aurora.
+Aurora nunca ia esquecer aquele rosto. Era um Josh assustado de verdade. Sobrancelha franzida, olhos verdes que tinham ficado quase pretos de medo, boca aberta puxando ar como se o ar pudesse de algum jeito chegar nela através dele. O Josh do degrau do alpendre tinha sido um Josh em paz com o mundo. Este Josh aqui acabava de descobrir, na carne, o que era a possibilidade de perder Aurora.
 
 Aurora viu o medo no rosto dele e soube, no centro do peito, do jeito que se sabe uma coisa antes de ter argumento pra ela: *ele me ama.*
 
@@ -228,103 +228,17 @@ Meridiana saiu com a Casandra. A porta fechou. Aurora ficou na cama com a Vibeke
 
 — Eu também não.
 
-— Aurora.
+A Vibeke ficou um instante calada, olhando pra Aurora com uma cara nova que Aurora não tinha visto na prima em onze dias e que ela não soube classificar. Não era preocupação. Não era curiosidade. Era uma terceira coisa que Aurora ia ter tempo de entender depois.
 
-— Sim.
+— Eu vou descer buscar o teu chá — disse Vibeke. — A Casandra deve ter terminado.
 
-— A gente precisa conversar.
+— Tá.
 
-*
+— Fica acordada.
 
-— Daqui a pouco — disse Aurora. — Agora não.
+— Tá.
 
-— Tá. — Vibeke se encostou no espaldar da cama, ao lado de Aurora, e ficou em silêncio.
-
-Mas Vibeke nunca ficava em silêncio por muito tempo, e dessa vez não foi diferente. Esperou três minutos. Aurora ouviu os três minutos no relógio que não existia naquele quarto e que portanto Aurora media pela respiração da prima.
-
-— Aurora.
-
-— Vibeke.
-
-— Eu sei.
-
-— Sabe o quê.
-
-— Eu sei. Sobre você e o Josh.
-
-Aurora abriu os olhos.
-
-— Como.
-
-— Aurora. — A Vibeke virou meio rosto pra olhar a prima. — Eu sou idiota? Eu sou idiota pra muita coisa, eu sei, mas eu não sou idiota pra isso. Eu sei desde o jantar do primeiro dia em Sorø. Talvez antes. Talvez desde o jantar em que a tia Eleonora anunciou que eu vinha pra Copenhague — eu olhei pra você naquela mesa e vi a forma como você não olhou pra ele. Aurora, ninguém não olha tanto pra uma pessoa sem motivo.
-
-Aurora ficou um tempo sem responder. Não tinha esperado essa conversa hoje.
-
-— Por que você não falou nada antes.
-
-— Porque não era assunto meu. Eu vi e fechei a boca, e fiquei vendo. Era só uma coisa entre vocês dois, e eu deixei vocês dois com ela.
-
-— A Meridiana sabe.
-
-— A Meridiana sabe desde antes da gente chegar. — A Vibeke disse com a tranquilidade dela. — O Josh deve ter escrito alguma coisa pra ela ou pra Casandra, ou as duas pegaram pelo ar. Eu vi as duas olharem pra você na hora do almoço do primeiro dia e me dizerem tudo com o olho sem terem aberto a boca. Aqui a coisa é diferente, Aurora. As mulheres dessa casa conversam por olhar.
-
-— Você reparou em tudo isso e não disse nada.
-
-— Eu te disse: não era meu assunto. — A Vibeke estendeu a mão e pegou a de Aurora por baixo da manta. — Mas hoje eu vou dizer uma coisa. No segundo dia da Sorø, no dia em que você ficou na cama com dor de cabeça e a Casandra mandou eu levar o chá pro teu quarto, eu não levei. Eu peguei a xícara na mão e fui pela escada com toda a intenção de subir, e no meio do caminho cruzei com o Josh no patamar do segundo andar e entreguei a xícara pra ele. Eu disse: *Leva você, eu esqueci de uma coisa lá embaixo.*
-
-Aurora olhou pra Vibeke.
-
-— Eu não tinha esquecido de nada — disse Vibeke. — Eu inventei. Voltei pra baixo, conversei com a Meridiana sobre a égua dela por uns vinte minutos, e só voltei a subir quando eu calculei que o Josh tinha tido tempo de fazer o que ele tinha que fazer.
-
-Aurora ficou um instante sem falar.
-
-— Ele só me trouxe chá.
-
-— Ah, foi? — A Vibeke ergueu uma sobrancelha. — Tá. Foi só chá. Bom saber. Aí então eu não fiz nada de errado, e a Casandra não vai precisar saber que a culpa é minha.
-
-Aurora riu. Doeu o peito de rir, mas riu.
-
-— Vibeke.
-
-— Aurora.
-
-— Por que você fez isso.
-
-A Vibeke ficou um momento sem responder. Quando respondeu, o tom dela tinha mudado. Não era a Vibeke saltitante que falava do Lauritz no almoço. Era um tom mais baixo, mais fundo, que Aurora não tinha ouvido nela em onze dias.
-
-— Porque eu sei. — A Vibeke olhou pra frente. — Eu sei o que é. Eu sei o que é uma vontade que toma conta da cabeça da gente e que faz a gente perder o sentido de tudo que aprendeu desde que sentou na escola da mamãe. Eu sei porque eu vivi.
-
-Aurora ficou olhando pra ela.
-
-— No último inverno — disse Vibeke, e a voz dela ficou mais baixa ainda —, o Lauritz me encontrou na ceifa de outubro. Eu tinha catorze anos, quase quinze. Ele estava ajudando a famíia dele com o trigo perto do pasto do meu pai, e eu tinha levado pão e queijo pros homens de tarde, e ele veio comigo até onde o trator antigo estava parado, e ali atrás do trator a gente conversou pela primeira vez sem mais ninguém no mundo do lado, e eu já sabia, Aurora, eu já sabia naquele dia, antes do beijo, antes de qualquer coisa, que se eu não fosse dele eu ia passar a vida procurando um pedaço dele em todo lugar e não achando.
-
-A Vibeke respirou.
-
-— No fevereiro depois desse outubro, ele veio em casa duas vezes por semana até a primavera. E nem todas essas vezes a gente ficou só conversando, Aurora. Eu deixei. Eu queria. Foi uma escolha minha, com o coração e com o corpo inteiro. Por isso eu tenho a certeza que eu tenho. Por isso eu sei que vou casar com o Lauritz mesmo que ele demore três anos pra pedir, mesmo que a mamãe tente me passar por outro, mesmo que metade da Jutlândia diga que eu tenho que esperar. Porque eu já sei. Eu já sei o que esperava do mundo, e eu encontrei, e eu não vou trocar.
-
-Aurora não respirou por dois segundos.
-
-— Você nunca me contou isso.
-
-— Não tinha por que contar. — A Vibeke deu meio sorriso. — Hoje tinha. Eu te conto porque eu quero que você saiba que eu sei do que estou falando quando eu te disser o que vou te dizer.
-
-— O quê.
-
-A Vibeke virou o rosto e olhou pra Aurora.
-
-— Vive isso, Aurora. Vive o teu beijo escondido no degrau. Vive a tua subida hoje com o Josh no colo. Vive o que vier hoje à noite. Não desonra ninguém — eu sei, eu sei, a Casandra disse essa frase a vida inteira pro Josh, eu ouvi do corredor. Mas não fica vivendo a tua vida toda achando que paixão é coisa de gente safada. Não é. Paixão é quem você é. Ou você vive, ou você apaga uma parte sua e vai morrer um dia tendo apagado.
-
-Aurora ouviu.
-
-Não disse nada. Não tinha o que dizer.
-
-— Eu vou descer — disse Vibeke. — Vou buscar o teu chá. Vou descer com a Casandra. Vou conversar com ela sobre o que ela acha do meu cabelo numa trança lateral pro jantar de amanhã. Vou prender ela na cozinha por dez minutos no mínimo. — A Vibeke se levantou. — Se alguém vier subir nesse intervalo, vai ser o Josh. Você sabe disso ou eu preciso desenhar?
-
-— Vibeke.
-
-— Vibeke nada. — A Vibeke já estava na porta. — Você quase morreu hoje, Aurora. Eu não vou te deixar uma noite sem te dar a chance de viver.
-
-Saiu. A porta fechou.
+A Vibeke saiu. A porta fechou.
 
 Aurora ficou sozinha no quarto.
 
@@ -334,11 +248,13 @@ A xícara de chá entrou no quarto quinze minutos depois. Não com a Vibeke. Com
 
 Aurora estava sentada na cama agora, com o cobertor de retalhos puxado até a cintura e a camisola de algodão branco da Meridiana subindo até a clavícula. O cabelo dela tinha sido seco com a toalha mas ainda estava úmido nas pontas, e Aurora tinha trançado de leve por cima de um ombro pra não molhar o travesseiro. Estava com mais frio do que febre agora. A febre tinha subido e descido, exatamente como a Casandra tinha previsto.
 
-Os passos do Josh apareceram na escada.
+Os passos chegaram na escada.
 
-Aurora reconheceu os passos antes da pessoa. Mas dessa vez eram passos diferentes — não eram os passos firmes do dia a dia. Eram passos cuidadosos, lentos, de quem está subindo uma escada com uma xícara cheia na mão e não quer derramar.
+Aurora reconheceu os passos antes da pessoa, e por meio segundo achou estranho a Vibeke estar trazendo o chá com um andar tão diferente do dela. Aurora corrigiu na própria cabeça no segundo seguinte: não era a Vibeke. Eram os passos do Josh. Mas eram passos diferentes do dia a dia dele — não eram os passos firmes. Eram passos cuidadosos, lentos, de quem subia a escada com uma xícara cheia na mão e não queria derramar.
 
-Bateram na porta. Duas vezes. Curto.
+Aurora não pediu pra ele entrar antes de saber se era ele. Esperou a batida.
+
+Bateu. Duas vezes. Curto.
 
 — Entra.
 
@@ -410,7 +326,7 @@ Josh não levantou.
 
 Aurora não tirou a mão da cabeça dele.
 
-O quarto ficou em silêncio. Só a vela e a respiração dos dois. Aurora ouviu a Casandra rir lá embaixo com a história da Vibeke (alguma coisa sobre uma égua mancando, parecia, mas Aurora não conseguia mais prestar atenção em lá embaixo).
+O quarto ficou em silêncio. Só a vela e a respiração dos dois. Lá embaixo a casa fazia o ruído de fim de tarde — algum prato batendo na pia, a Liv latindo uma vez longe, a voz da Casandra dizendo alguma coisa que Aurora não pegou.
 
 — Aurora — disse Josh, com a bochecha ainda no peito dela —, eu preciso levantar.
 
@@ -440,9 +356,7 @@ Josh hesitou meio segundo. Não mais.
 
 Beijou.
 
-Não foi o beijo da sala de estar do Cap 19 — aquele tinha sido o beijo de quem nunca tinha beijado a outra pessoa antes, com a contenção de quem ainda estava aprendendo onde ficar. Não foi o beijo do bosque do dia oito — aquele tinha sido o beijo de quem tinha decidido. Esse era outra coisa.
-
-Esse era o beijo de quem tinha quase perdido a outra pessoa e que tinha ido pra cama com esse medo entre os ossos.
+Não foi o beijo da sala de estar do Cap 19, nem o do bosque do dia oito. Esse era o beijo de quem tinha quase perdido a outra pessoa e que tinha ido pra cama com esse medo entre os ossos.
 
 Aurora puxou Josh mais perto. A mão dela na nuca dele, a outra ainda no peito. Josh inclinou o corpo, apoiou a mão direita no colchão do outro lado do quadril dela, e o tronco dele ficou em cima do dela com a cabeça abaixada, e os dois continuaram se beijando assim, com Aurora sentada na cama e Josh apoiado no colchão, com o cobertor de retalhos ainda entre eles.
 
@@ -460,13 +374,15 @@ Josh percebeu, e parou meio segundo, e disse, na boca dela:
 
 — A Vibeke vai voltar.
 
-— Não tão cedo. Ela me disse que ia te dar tempo.
+— Eu não sei. Eu acho que não tão cedo.
 
 Josh ergueu meio rosto. Olhou pra Aurora.
 
-— Ela te disse.
+— Você acha.
 
-— Ela me disse.
+— Ela me olhou de um jeito antes de descer.
+
+Josh entendeu sem precisar de mais palavra.
 
 — Aurora, Aurora, Aurora.
 
@@ -528,7 +444,7 @@ Ficou em cima dele, ofegante, com a respiração saindo da boca dela direto na b
 
 — Eu paro, Josh.
 
-Josh abriu os olhos. Aurora viu nesses olhos uma combinação que nunca tinha visto: ele estava agradecido e ele estava arrasado, ao mesmo tempo, pela mesma decisão dela de parar. Era uma cara que dizia obrigada e que dizia eu queria que você não tivesse parado, ao mesmo tempo, e Aurora soube que tinha colocado o Josh no lugar mais difícil em que ela tinha colocado alguém na vida.
+Josh abriu os olhos. Aurora viu duas coisas neles ao mesmo tempo, e foi a primeira vez que viu o Josh contendo duas coisas opostas no mesmo segundo: ele estava agradecido pela decisão dela. E ele queria que ela não tivesse decidido.
 
 Aurora desceu do quadril dele. Sentou no colchão ao lado. Puxou a camisola pra baixo no joelho, ajeitou. Josh se levantou, sentou de costas, e ficou um instante respirando assim — apoiado nos cotovelos atrás de si, olhando o teto, com o peito subindo e descendo no ritmo errado.
 
@@ -600,15 +516,13 @@ Aurora deitou de lado. Encostou a mão no lugar do colchão onde Josh tinha deit
 
 Aurora pensou em duas coisas, antes de fechar os olhos.
 
-A primeira foi o lago. Pensou no segundo em que o pulmão dela tinha começado a queimar e ela tinha pensado no Josh do degrau do alpendre. Pensou que se ela tivesse morrido naquele segundo, ela teria morrido com a certeza certa. E que era um destino muito ruim, mas que era um destino limpo. Aurora podia ter morrido sabendo do que se tratava.
+A primeira foi o lago. Pensou no segundo em que o pulmão dela tinha começado a queimar e ela tinha pensado no Josh do degrau do alpendre. Pensou que se ela tivesse morrido naquele segundo, teria morrido sabendo o nome do que sentia. Que era a única coisa que ela pediria pra saber se tivesse direito a uma última pergunta antes de afogar.
 
 A segunda foi a noite que tinha acabado de acontecer. Pensou no quadril dele subindo contra o dela por trás do tecido. Pensou nos olhos dele fechados com força quando ele tinha pedido pra ela parar. Pensou que de todas as coisas que ela tinha aprendido na vida — francês, etiqueta, cortesia afiada, leitura escondida — nenhuma tinha sido tão difícil de aprender quanto essa última, de ter o corpo dela respondendo ao corpo dele e de parar mesmo assim.
 
-Aurora pensou que ia repetir essa lição. Em três dias, em Copenhague, sob outro teto.
+Aurora pensou que ia repetir essa lição em três dias, em Copenhague. Sem o teto da Casandra. Sem parar.
 
-Mas que dessa vez ela não ia parar.
-
-Aurora fechou os olhos com essa frase na cabeça e dormiu profundo. A febre toda já tinha saído. O cheiro da maçã madura entrava pela janela do quarto da Meridiana como vinha entrando toda noite há onze dias.
+Aurora fechou os olhos e dormiu profundo. A febre toda já tinha saído. O cheiro da maçã madura entrava pela janela do quarto da Meridiana como vinha entrando toda noite há onze dias.
 
 A primeira semana já tinha ido embora. Faltavam três dias.
 
