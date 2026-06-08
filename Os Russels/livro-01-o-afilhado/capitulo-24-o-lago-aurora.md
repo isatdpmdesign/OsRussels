@@ -16,7 +16,7 @@ Sete dias na Sorø, e ela já media as horas pelos sons da Meridiana, pelas idas
 
 Sete dias e o beijo no bosque tinha entrado dentro dela como uma chave que ela carregava no bolso sem mostrar.
 
-Os dois dias seguintes ao jogo tinham sido um treino. Josh aparecia. Aurora aparecia. Eles se cruzavam no corredor, na pedra, no fundo do pomar, e os dois entendiam, na coreografia silenciosa de quem tinha decidido não desonrar a casa da Casandra, que tocar agora era uma coisa que tinha que ser racionada como sal num inverno difícil. Houve um beijo curto no degrau do alpendre na quinta de manhã (a Meridiana tinha saído três segundos pra pegar uma cesta e Josh deu três passos rápidos e o beijo durou o que durou e Aurora voltou pra dentro da cozinha sem que a Casandra tivesse notado a respiração mudada). Houve um aperto demorado durante o almoço, ele entregando a jarra de água pra ela com os dedos passando pelos dela meio segundo a mais que o necessário. Houve uma noite em que Aurora desceu pra beber água e encontrou Josh sentado no chão da cozinha, costas na parede, com um livro fechado no colo, esperando — não dizendo o que esperava, mas esperando — e os dois ficaram quietos por cinco minutos sem encostar e depois Aurora subiu de novo, com a boca seca e a sede esquecida.
+Os dois dias seguintes ao jogo tinham sido um treino. Josh aparecia. Aurora aparecia. Eles se cruzavam no corredor, na pedra, no fundo do pomar, e os dois entendiam, na coreografia silenciosa de quem tinha decidido não desonrar a casa da Casandra, que tocar agora era uma coisa que tinha que ser racionada como sal num inverno difícil. Houve uma manhã na quinta no degrau do alpendre em que a Meridiana saiu três segundos pra pegar uma cesta lá fora, e nesses três segundos Josh deu três passos rápidos em direção à Aurora, e os dois ficaram um a meio palmo do outro, com o rosto dela erguido pro dele e a mão dele já no ar pronta pra encostar — e a Meridiana voltou. Josh recuou dois passos. Aurora respirou. Pra Meridiana nada tinha acontecido. Pros dois, tinha. Houve um aperto demorado durante o almoço, ele entregando a jarra de água pra ela com os dedos passando pelos dela meio segundo a mais que o necessário. Houve uma noite em que Aurora desceu pra beber água e encontrou Josh sentado no chão da cozinha, costas na parede, com um livro fechado no colo, esperando — não dizendo o que esperava, mas esperando — e os dois ficaram quietos por cinco minutos sem encostar e depois Aurora subiu de novo, com a boca seca e a sede esquecida.
 
 A licença que a Casandra tinha dado ao Josh não tinha sido licença pra atravessar a linha. Tinha sido licença pra sentir sem se odiar por sentir. Aurora entendeu isso na carne, e descobriu que era uma forma de tortura nova, mais cansativa que segurar, porque agora Josh já não estava segurando — estava só esperando.
 
@@ -96,7 +96,7 @@ A luz em cima. Aurora chutou pra cima. A cabeça encontrou ar por dois segundos.
 
 O fundo desta parte do lago, Aurora ia descobrir muito mais tarde, ficava a quase dois metros e meio. Era o ponto mais profundo. Aurora tocou no fundo com a planta do pé que ainda tinha bota e empurrou pra cima com toda a força que sobrou — chegou no ar de novo, ouviu Meridiana gritando o nome do Josh — *JOSH! JOSH! AQUI!* — e desceu mais uma vez antes de conseguir puxar o segundo gole de ar.
 
-No fundo do lago, com a perna lenta e o pulmão queimando, Aurora pensou duas coisas. A primeira foi a mãe dela. Aurora viu a Eleonora no cravo, de tarde, tocando Bach, e pensou: ela não vai saber como contar isso pro papai. A segunda foi o Josh. Aurora viu Josh no degrau do alpendre na quinta de manhã, com a boca encostada na boca dela por três segundos, e pensou: era o único beijo escondido que a gente ia ter, e era o único que eu ia poder lembrar.
+No fundo do lago, com a perna lenta e o pulmão queimando, Aurora pensou duas coisas. A primeira foi a mãe dela. Aurora viu a Eleonora no cravo, de tarde, tocando Bach, e pensou: ela não vai saber como contar isso pro papai. A segunda foi o Josh. Aurora viu Josh no fundo do pomar, três dias atrás, com as costas dela contra o tronco do carvalho e a boca dele na boca dela, e pensou: era esse o beijo que eu ia levar. Era o único que eu ia ter direito.
 
 E então a água em cima dela se rasgou.
 
@@ -164,27 +164,19 @@ Aurora começou a tremer só depois do mato alto, quando o sol bateu nela de nov
 
 — A gente tá quase chegando.
 
+Aurora ficou um tempo sem responder. Tinha o queixo dele a um palmo do rosto dela. Via a barba do dia raspando contra a luz do fim de tarde, via o tendão do pescoço dele esticado de carregar o vestido encharcado dela. Aurora pensou que tinha um minuto de caminho até a casa e que podia dizer o que quisesse nesse minuto. Ele ia ter que ouvir.
+
 — Josh.
 
 — Sim.
 
-— Obrigada.
-
-— Não diz isso.
-
-— Por quê.
-
-— Porque não. Diz outra coisa.
-
-Aurora pensou um instante. Pensou que se ele estava insistindo pra ela dizer outra coisa, era porque o "obrigada" tinha entrado nele de um jeito que ele não ia conseguir gerenciar enquanto carregava ela no colo encharcado. Pensou também que ela tinha um minuto de caminho restante e que podia dizer qualquer coisa nesse minuto e ele teria que ouvir.
-
-— Eu pensei em você — disse Aurora, baixo. — Lá embaixo. Antes de você chegar.
+— Eu pensei em você. Lá embaixo. Antes de você chegar.
 
 Josh não disse nada por dois segundos.
 
 — Pensou o quê.
 
-— Pensei que o beijo da quinta no degrau ia ser o único beijo escondido que a gente ia ter. E que eu ia morrer só com aquele.
+— Pensei no beijo do pomar. No do carvalho. E pensei que era o único que eu ia ter direito. E que eu ia morrer com aquele.
 
 Josh apertou o passo. Aurora viu o queixo dele se travar.
 
@@ -356,7 +348,7 @@ Josh hesitou meio segundo. Não mais.
 
 Beijou.
 
-Não foi o beijo da sala de estar do Cap 19, nem o do bosque do dia oito. Esse era o beijo de quem tinha quase perdido a outra pessoa e que tinha ido pra cama com esse medo entre os ossos.
+Não foi o beijo da madrugada da sala de estar nem o do bosque dos Russels. Esse era o beijo de quem tinha quase perdido a outra pessoa e que tinha ido pra cama com esse medo entre os ossos.
 
 Aurora puxou Josh mais perto. A mão dela na nuca dele, a outra ainda no peito. Josh inclinou o corpo, apoiou a mão direita no colchão do outro lado do quadril dela, e o tronco dele ficou em cima do dela com a cabeça abaixada, e os dois continuaram se beijando assim, com Aurora sentada na cama e Josh apoiado no colchão, com o cobertor de retalhos ainda entre eles.
 
