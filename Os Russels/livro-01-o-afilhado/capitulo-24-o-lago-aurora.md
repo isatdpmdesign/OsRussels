@@ -42,11 +42,13 @@ E foi nesse estado, no décimo primeiro dia da estadia, que a Meridiana convidou
 
 — No terreiro acidente é joelho ralado. No lago é banho gelado. Você não quer.
 
-Vibeke fez bico. Mas Vibeke fazia bico há onze dias por todos os motivos do mundo (porque o sol estava quente, porque o sol estava frio, porque a Casandra não deixava ela carregar o cesto cheio, porque a Meridiana não deixava ela colher maçã da árvore alta), e Aurora já tinha aprendido que o bico durava em média um minuto e meio. A Meridiana sabia disso melhor do que ninguém.
+Vibeke fez bico. Mas dessa vez não era o bico de sempre — Aurora reconheceu, e a Meridiana também (a Meridiana lia gente como lia macieira: notava a diferença sutil entre o bico-de-um-minuto-e-meio e o bico que magoou de verdade). A Meridiana olhou pra Vibeke por dois segundos antes de responder.
 
-— Vai — disse Vibeke, conformada. — Mas amanhã eu vou também.
+— Numa próxima eu te levo, prima — disse Meridiana, com a voz mais doce. — Quando a gente conseguir descer em grupo. O Josh, o Joseph. Aí se cair tem braço pra te tirar. Combina?
 
-— Combinado.
+Vibeke abriu o rosto inteiro de uma vez.
+
+— Combina.
 
 Saíram depois das duas, quando o calor de fim de agosto começava a frouxar. Meridiana ia na frente. Aurora atrás. O caminho descia pelo lado norte da propriedade, atrás do pomar, passava por um trecho de mato alto com flor branca pequena (que a Meridiana chamou de Cardo-de-Maria sem virar a cabeça pra explicar), e depois entrava numa parte mais arborizada, com sombra fechada, onde o chão era de musgo úmido e o ar ficou subitamente cinco graus mais fresco.
 
