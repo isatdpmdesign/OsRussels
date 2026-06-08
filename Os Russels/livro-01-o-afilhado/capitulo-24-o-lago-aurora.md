@@ -72,7 +72,7 @@ Meridiana se sentou numa pedra grande na borda, descalçou os pés, e os afundou
 
 Aurora se agachou. Pôs a mão na água. Estava fria — mais fria do que ela esperava num dia de agosto.
 
-— Cuidado da pedra grande à direita — disse a Meridiana, sem olhar. — Ela parece firme e é a mais escorregadia daqui.
+— Cuidado com a pedra grande à direita — disse a Meridiana, sem olhar. — Ela parece firme e é a mais escorregadia daqui.
 
 Aurora não tinha pisado na pedra grande. Estava agachada, à esquerda. Mas pra ver o fundo do outro lado de onde estava ela ia precisar dar dois passos pra direita.
 
@@ -80,7 +80,7 @@ Não pensou. Deu os dois passos.
 
 Pisou na pedra grande.
 
-A pedra grande estava coberta de uma camada de limo verde-escuro tão fina que a vista não pegava, mas que a sola pegava sim. Aurora, com a botinha fina de salão que ela ainda não tinha tirado naquela manhã (manhã sem importância; manhã que ia contar dali a três horas), sentiu o pé direito fugir de baixo dela com a velocidade exata com que escapam coisas que não se pode segurar.
+A pedra grande estava coberta de uma camada de limo verde-escuro tão fina que a vista não pegava, mas que a sola pegava sim. Aurora, com a botinha fina de salão que ela tinha jurado tirar "amanhã" no pomar dez noites atrás (jurou, esqueceu, calçou todo dia desde então, e estava com ela agora pela última vez antes do lago se encarregar de tirar pra ela), sentiu o pé direito fugir de baixo dela com a velocidade exata com que escapam coisas que não se pode segurar.
 
 Os braços abriram. O peito desceu. A última coisa que Aurora viu foi a Meridiana de pé na pedra dela com a boca abrindo num grito ainda silencioso porque o som não tinha tido tempo de sair.
 
@@ -98,7 +98,7 @@ A luz em cima. Aurora chutou pra cima. A cabeça encontrou ar por dois segundos.
 
 O fundo desta parte do lago, Aurora ia descobrir muito mais tarde, ficava a quase dois metros e meio. Era o ponto mais profundo. Aurora tocou no fundo com a planta do pé que ainda tinha bota e empurrou pra cima com toda a força que sobrou — chegou no ar de novo, ouviu Meridiana gritando o nome do Josh — *JOSH! JOSH! AQUI!* — e desceu mais uma vez antes de conseguir puxar o segundo gole de ar.
 
-No fundo do lago, com a perna lenta e o pulmão queimando, Aurora pensou duas coisas. A primeira foi a mãe dela. Aurora viu a Eleonora no cravo, de tarde, tocando Bach, e pensou: ela não vai saber como contar isso pro papai. A segunda foi o Josh. Aurora viu Josh no fundo do pomar, três dias atrás, com as costas dela contra o tronco do carvalho e a boca dele na boca dela, e pensou: era esse o beijo que eu ia levar. Era o único que eu ia ter direito.
+No fundo do lago, com a perna lenta e o pulmão queimando, Aurora pensou duas coisas. A primeira foi a mãe dela. Aurora viu a Eleonora no cravo, de tarde, tocando Bach, e pensou: ela não vai saber como contar isso pro papai. A segunda foi o Josh. Aurora viu Josh no fundo do pomar, três dias atrás, com as costas dela contra o tronco do carvalho e a boca dele na boca dela, e pensou: era esse o beijo que eu ia levar. Era o último que eu ia ter.
 
 E então a água em cima dela se rasgou.
 
@@ -158,7 +158,7 @@ Meridiana cedeu. Josh pegou Aurora no colo (a roupa de Aurora encharcada, o teci
 
 Aurora começou a tremer só depois do mato alto, quando o sol bateu nela de novo. O tremor veio de baixo, das pernas, e subiu pelo quadril e pelo estômago, e quando chegou no peito Aurora bateu o queixo no ombro do Josh sem querer.
 
-— Tá com frio — disse Josh, baixo.
+— Tá com frio? — disse Josh, baixo.
 
 — Tô.
 
@@ -176,7 +176,7 @@ Josh não disse nada por dois segundos.
 
 — Pensou o quê.
 
-— Pensei no beijo do pomar. No do carvalho. E pensei que era o único que eu ia ter direito. E que eu ia morrer com aquele.
+— Pensei no beijo do pomar. No do carvalho. E pensei que ele ia ser o último.
 
 Josh apertou o passo. Aurora viu o queixo dele se travar.
 
@@ -206,9 +206,9 @@ A Vibeke assentiu.
 
 A Meridiana se aproximou e apertou a mão de Aurora.
 
-— Susto — disse Meridiana. Foi a coisa mais doce e mais firme que ela disse a estadia inteira.
+— O susto já passou — disse Meridiana, baixo. — Você tá aqui. Tá inteira.
 
-— Susto — concordou Aurora.
+— Tô — concordou Aurora.
 
 Meridiana saiu com a Casandra. A porta fechou. Aurora ficou na cama com a Vibeke do lado.
 
@@ -222,7 +222,7 @@ Meridiana saiu com a Casandra. A porta fechou. Aurora ficou na cama com a Vibeke
 
 A Vibeke ficou um instante calada, olhando pra Aurora com uma cara nova que Aurora não tinha visto na prima em onze dias e que ela não soube classificar. Não era preocupação. Não era curiosidade. Era uma terceira coisa que Aurora ia ter tempo de entender depois.
 
-— Eu vou descer buscar o teu chá — disse Vibeke. — A Casandra deve ter terminado.
+— Eu vou descer e buscar o teu chá — disse Vibeke. — A Casandra deve ter terminado.
 
 — Tá.
 
@@ -230,7 +230,7 @@ A Vibeke ficou um instante calada, olhando pra Aurora com uma cara nova que Auro
 
 — Tá.
 
-A Vibeke saiu. A porta fechou.
+E saiu. A porta fechou.
 
 Aurora ficou sozinha no quarto.
 
