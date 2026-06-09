@@ -10,15 +10,15 @@
 
 A primeira semana já tinha ido embora quando Aurora deu por isso.
 
-Foi numa manhã de quarta. Aurora estava na cozinha com a Casandra, terminando uma fornada de pão de leite, e ouviu, de algum cômodo lá em cima, a Meridiana rir alto. Aurora parou com a mão na massa e percebeu que tinha levado um segundo pra reconhecer o som — durante uma fração de tempo o riso da Meridiana entrou nela como se fosse de alguém da casa. Não de visita. De casa. Foi quando Aurora soube que a primeira semana já tinha passado.
+Foi numa manhã de quarta. Aurora estava na cozinha com a Casandra, terminando uma fornada de pão de leite, e ouviu, de algum cômodo lá em cima, a Meridiana rir alto. Aurora parou com a mão na massa e percebeu que tinha levado um segundo pra reconhecer o som: durante uma fração de tempo o riso da Meridiana entrou nela como se fosse de alguém da casa. Não de visita. De casa. Foi quando Aurora soube que a primeira semana já tinha passado.
 
 Sete dias na Sorø, e ela já media as horas pelos sons da Meridiana, pelas idas da Casandra ao forno, pelo som do Joseph batendo a bota no batente da porta da cozinha antes de entrar, pelo cheiro de cebola refogada que anunciava o almoço uma hora antes. Sete dias e ela já sabia que o Dylan reclamava da Liv todo dia depois do desjejum, que o Matias lia em voz alta quando achava que ninguém o escutava, que o Josh entrava no curral às seis da manhã e não saía até as oito.
 
 Sete dias e o beijo no bosque tinha entrado dentro dela como uma chave que ela carregava no bolso sem mostrar.
 
-Os dois dias seguintes ao jogo tinham sido um treino. Josh aparecia. Aurora aparecia. Eles se cruzavam no corredor, na pedra, no fundo do pomar, e os dois entendiam, na coreografia silenciosa de quem tinha decidido não desonrar a casa da Casandra, que tocar agora era uma coisa que tinha que ser racionada como sal num inverno difícil. Houve uma manhã na quinta no degrau do alpendre em que a Meridiana saiu três segundos pra pegar uma cesta lá fora, e nesses três segundos Josh deu três passos rápidos em direção à Aurora, e os dois ficaram um a meio palmo do outro, com o rosto dela erguido pro dele e a mão dele já no ar pronta pra encostar — e a Meridiana voltou. Josh recuou dois passos. Aurora respirou. Pra Meridiana nada tinha acontecido. Pros dois, tinha. Houve um aperto demorado durante o almoço, ele entregando a jarra de água pra ela com os dedos passando pelos dela meio segundo a mais que o necessário. Houve uma noite em que Aurora desceu pra beber água e encontrou Josh sentado no chão da cozinha, costas na parede, com um livro fechado no colo, esperando — não dizendo o que esperava, mas esperando — e os dois ficaram quietos por cinco minutos sem encostar e depois Aurora subiu de novo, com a boca seca e a sede esquecida.
+Os dois dias seguintes ao jogo tinham sido um treino. Josh aparecia. Aurora aparecia. Eles se cruzavam no corredor, na pedra, no fundo do pomar, e os dois entendiam, na coreografia silenciosa de quem tinha decidido não desonrar a casa da Casandra, que tocar agora era uma coisa que tinha que ser racionada como sal num inverno difícil. Houve uma manhã na quinta no degrau do alpendre em que a Meridiana saiu três segundos pra pegar uma cesta lá fora, e nesses três segundos Josh deu três passos rápidos em direção à Aurora, e os dois ficaram um a meio palmo do outro, com o rosto dela erguido pro dele e a mão dele já no ar pronta pra encostar — e a Meridiana voltou. Josh recuou dois passos. Aurora respirou. Pra Meridiana nada tinha acontecido. Pros dois, tinha. Houve um aperto demorado durante o almoço, ele entregando a jarra de água pra ela com os dedos passando pelos dela meio segundo a mais que o necessário. Houve uma noite em que Aurora desceu pra beber água e encontrou Josh sentado no chão da cozinha, costas na parede, com um livro fechado no colo, esperando (não dizendo o que esperava, mas esperando), e os dois ficaram quietos por cinco minutos sem encostar e depois Aurora subiu de novo, com a boca seca e a sede esquecida.
 
-A licença que a Casandra tinha dado ao Josh não tinha sido licença pra atravessar a linha. Tinha sido licença pra sentir sem se odiar por sentir. Aurora entendeu isso na carne, e descobriu que era uma forma de tortura nova, mais cansativa que segurar, porque agora Josh já não estava segurando — estava só esperando.
+A licença que a Casandra tinha dado ao Josh não tinha sido licença pra atravessar a linha. Tinha sido licença pra sentir sem se odiar por sentir. Aurora entendeu isso na carne, e descobriu que era uma forma de tortura nova, mais cansativa que segurar, porque agora Josh já não estava segurando. Estava só esperando.
 
 E foi nesse estado, no décimo primeiro dia da estadia, que a Meridiana convidou Aurora pra ver o lago.
 
@@ -42,7 +42,7 @@ E foi nesse estado, no décimo primeiro dia da estadia, que a Meridiana convidou
 
 — No terreiro acidente é joelho ralado. No lago é banho gelado. Você não quer.
 
-Vibeke fez bico. Mas dessa vez não era o bico de sempre — Aurora reconheceu, e a Meridiana também (a Meridiana lia gente como lia macieira: notava a diferença sutil entre o bico-de-um-minuto-e-meio e o bico que magoou de verdade). A Meridiana olhou pra Vibeke por dois segundos antes de responder.
+Vibeke fez bico. Mas dessa vez não era o bico de sempre. Aurora reconheceu, e a Meridiana também (a Meridiana lia gente como lia macieira: notava a diferença sutil entre o bico-de-um-minuto-e-meio e o bico que magoou de verdade). A Meridiana olhou pra Vibeke por dois segundos antes de responder.
 
 — Numa próxima eu te levo, prima — disse Meridiana, com a voz mais doce. — Quando a gente conseguir descer em grupo. O Josh, o Joseph. Aí se cair tem braço pra te tirar. Combina?
 
@@ -56,7 +56,7 @@ Saíram depois das duas, quando o calor de fim de agosto começava a frouxar. Me
 
 E depois das raízes, depois de uma curva fechada do caminho, depois de um último arbusto, o lago apareceu.
 
-Não era grande. Aurora ia descobrir, depois, que os lagos de Sorø em geral eram pequenos — espelhos de água deixados pela última era do gelo, distribuídos pela paisagem como moedas que alguém tinha derrubado e que ninguém recolheu. Este aqui ficava num declive entre duas elevações da propriedade, cercado de bétulas e amieiros, com a água tão escura que parecia preta no centro e verde-musgo nas bordas. Tinha uns vinte metros de largura. Talvez trinta. Aurora não sabia avaliar distância em água parada.
+Não era grande. Aurora ia descobrir, depois, que os lagos de Sorø em geral eram pequenos: espelhos de água deixados pela última era do gelo, distribuídos pela paisagem como moedas que alguém tinha derrubado e que ninguém recolheu. Este aqui ficava num declive entre duas elevações da propriedade, cercado de bétulas e amieiros, com a água tão escura que parecia preta no centro e verde-musgo nas bordas. Tinha uns vinte metros de largura. Talvez trinta. Aurora não sabia avaliar distância em água parada.
 
 — A gente brincava aqui de criança — disse Meridiana. — O Josh nadava daqui até aquela pedra do outro lado. O Dylan se afogou três vezes, foi salvo três vezes, e nunca aprendeu a lição.
 
@@ -68,9 +68,9 @@ Aurora riu.
 
 Aurora entendeu na hora. Tinha gente que adorava entrar e gente que adorava olhar. Aurora era das que adoravam olhar. Em Copenhague o canal passava perto da Bredgade e Aurora nunca tinha sequer pensado em entrar nele, mesmo no auge de junho. Olhar bastava.
 
-Meridiana se sentou numa pedra grande na borda, descalçou os pés, e os afundou na água até o tornozelo. Aurora se aproximou da margem. O chão era de pedras lisas e barro escuro. A água, vista de perto, era mais clara do que parecia do alto — Aurora viu o próprio reflexo, escuro contra o céu pálido, com os cabelos soltos pra trás dos ombros (em Copenhague nunca, em Sorø sempre — em algum momento dos onze dias ela tinha parado de prender e não tinha avisado a si mesma), e por trás do reflexo viu o fundo do lago naquela parte: arenoso, com folhas marrons depositadas, com algumas pedrinhas. Não devia ter um palmo de profundidade.
+Meridiana se sentou numa pedra grande na borda, descalçou os pés, e os afundou na água até o tornozelo. Aurora se aproximou da margem. O chão era de pedras lisas e barro escuro. A água, vista de perto, era mais clara do que parecia do alto. Aurora viu o próprio reflexo, escuro contra o céu pálido, com os cabelos soltos pra trás dos ombros (em Copenhague nunca, em Sorø sempre; em algum momento dos onze dias ela tinha parado de prender e não tinha avisado a si mesma), e por trás do reflexo viu o fundo do lago naquela parte: arenoso, com folhas marrons depositadas, com algumas pedrinhas. Não devia ter um palmo de profundidade.
 
-Aurora se agachou. Pôs a mão na água. Estava fria — mais fria do que ela esperava num dia de agosto.
+Aurora se agachou. Pôs a mão na água. Estava fria, mais fria do que ela esperava num dia de agosto.
 
 — Cuidado com a pedra grande à direita — disse a Meridiana, sem olhar. — Ela parece firme e é a mais escorregadia daqui.
 
@@ -88,7 +88,7 @@ E o lago engoliu.
 
 *
 
-Foi rápido. Aurora ia descobrir, depois, que tinha sido rápido — mas no segundo em que o lago se fechou em cima dela, o tempo dobrou. A água era escura. Mais escura do que parecia da borda. Aurora abriu os olhos por instinto e viu uma luz longe, em cima, que era o sol. Quanto mais ela tentava subir, mais a luz ficava longe.
+Foi rápido. Aurora ia descobrir, depois, que tinha sido rápido. Mas no segundo em que o lago se fechou em cima dela, o tempo dobrou. A água era escura. Mais escura do que parecia da borda. Aurora abriu os olhos por instinto e viu uma luz longe, em cima, que era o sol. Quanto mais ela tentava subir, mais a luz ficava longe.
 
 O vestido era o problema.
 
@@ -120,7 +120,7 @@ Aurora nunca ia esquecer aquele rosto. Era um Josh assustado de verdade. Sobranc
 
 Aurora viu o medo no rosto dele e soube, no centro do peito, do jeito que se sabe uma coisa antes de ter argumento pra ela: *ele me ama.*
 
-Não era novidade. Aurora já sabia. Mas saber e ver no rosto de um homem que ele acabou de envelhecer cinco anos em vinte segundos achando que tinha te perdido — eram duas coisas diferentes.
+Não era novidade. Aurora já sabia. Mas saber e ver no rosto de um homem que ele acabou de envelhecer cinco anos em vinte segundos achando que tinha te perdido: eram duas coisas diferentes.
 
 — Aurora — disse Josh, e a voz dele saiu rouca, gasta. — Eu te tirei daqui. Tá tudo bem.
 
@@ -148,7 +148,7 @@ A Meridiana estava ajoelhada ali, descalça, com as duas mãos na boca. As duas 
 
 Aurora ergueu o pescoço o suficiente pra olhar pra ele.
 
-Josh estava com a roupa colada no corpo inteiro, tremendo (não de frio — Aurora sabia que não era de frio), com o cabelo grudado na testa em mechas escuras de molhado, e tinha os olhos ainda no rosto dela como se temesse que se tirasse o olhar Aurora fosse de algum jeito voltar pro lago. Aurora viu Josh trêmulo, ofegante, encharcado, e a parte dela que tinha estado por morrer havia trinta segundos atrás registrou, com uma clareza que ela ia se envergonhar de ter sentido naquele exato momento, que ele estava bonito.
+Josh estava com a roupa colada no corpo inteiro, tremendo (não de frio; Aurora sabia que não era de frio), com o cabelo grudado na testa em mechas escuras de molhado, e tinha os olhos ainda no rosto dela como se temesse que se tirasse o olhar Aurora fosse de algum jeito voltar pro lago. Aurora viu Josh trêmulo, ofegante, encharcado, e a parte dela que tinha estado por morrer havia trinta segundos atrás registrou, com uma clareza que ela ia se envergonhar de ter sentido naquele exato momento, que ele estava bonito.
 
 Aurora fechou os olhos pra não pensar nisso. Não era a hora.
 
@@ -174,7 +174,7 @@ Aurora ficou um tempo sem responder. Tinha o queixo dele a um palmo do rosto del
 
 Josh não disse nada por dois segundos.
 
-— Pensou o quê.
+— Pensou o quê?
 
 — Pensei no beijo do pomar. No do carvalho. E pensei que ele ia ser o último.
 
@@ -242,7 +242,7 @@ Aurora estava sentada na cama agora, com o cobertor de retalhos puxado até a ci
 
 Os passos chegaram na escada.
 
-Aurora reconheceu os passos antes da pessoa, e por meio segundo achou estranho a Vibeke estar trazendo o chá com um andar tão diferente do dela. Aurora corrigiu na própria cabeça no segundo seguinte: não era a Vibeke. Eram os passos do Josh. Mas eram passos diferentes do dia a dia dele — não eram os passos firmes. Eram passos cuidadosos, lentos, de quem subia a escada com uma xícara cheia na mão e não queria derramar.
+Aurora reconheceu os passos antes da pessoa, e por meio segundo achou estranho a Vibeke estar trazendo o chá com um andar tão diferente do dela. Aurora corrigiu na própria cabeça no segundo seguinte: não era a Vibeke. Eram os passos do Josh. Mas eram passos diferentes do dia a dia dele, sem a firmeza de sempre. Passos cuidadosos, lentos, de quem subia a escada com uma xícara cheia na mão e não queria derramar.
 
 Aurora não pediu pra ele entrar antes de saber se era ele. Esperou a batida.
 
@@ -252,7 +252,7 @@ Bateu. Duas vezes. Curto.
 
 A porta abriu.
 
-Josh entrou. Tinha trocado de roupa em algum momento — agora estava com uma camisa branca de linho seco, com as mangas dobradas até o cotovelo, e o cabelo dele, embora ainda úmido nas raízes, já tinha sido penteado pra trás com a mão. A xícara fumegava na mão direita dele.
+Josh entrou. Tinha trocado de roupa em algum momento: agora estava com uma camisa branca de linho seco, com as mangas dobradas até o cotovelo, e o cabelo dele, embora ainda úmido nas raízes, já tinha sido penteado pra trás com a mão. A xícara fumegava na mão direita dele.
 
 Josh fechou a porta atrás de si.
 
@@ -264,7 +264,7 @@ Olharam um segundo.
 
 Josh se aproximou da cama. Pôs a xícara na mesa lateral, do lado da vela. Não sentou imediatamente. Ficou de pé, do lado da cama, olhando pra Aurora. Aurora viu o pomo de adão dele se mexer uma vez.
 
-— Como você tá.
+— Como você tá?
 
 — Tô viva.
 
@@ -272,7 +272,7 @@ Josh se aproximou da cama. Pôs a xícara na mesa lateral, do lado da vela. Não
 
 — Tô bem, Josh. Sério. A febre desceu. A Casandra disse que amanhã eu acordo nova.
 
-— Tem certeza.
+— Tem certeza?
 
 — Tenho.
 
@@ -318,19 +318,23 @@ Josh não levantou.
 
 Aurora não tirou a mão da cabeça dele.
 
-O quarto ficou em silêncio. Só a vela e a respiração dos dois. Lá embaixo a casa fazia o ruído de fim de tarde — algum prato batendo na pia, a Liv latindo uma vez longe, a voz da Casandra dizendo alguma coisa que Aurora não pegou.
+O quarto ficou em silêncio. Só a vela e a respiração dos dois. Lá embaixo a casa fazia o ruído de fim de tarde: algum prato batendo na pia, a Liv latindo uma vez longe, a voz da Casandra dizendo alguma coisa que Aurora não pegou.
 
-— Aurora — disse Josh, com a bochecha ainda no peito dela —, eu preciso levantar.
+— Você disse que eu podia levantar — disse Josh, com a bochecha ainda no peito dela.
 
-— Por quê.
+— Disse.
 
-— Porque se eu não levantar agora eu não levanto mais.
+— Eu vou ter que levantar, Aurora.
+
+— Por quê?
+
+— Porque se eu não levantar agora, eu não levanto mais.
 
 Aurora ficou olhando pra parte de cima da cabeça dele.
 
 — Levanta — disse ela, baixo, e ela mesma se surpreendeu com a voz própria.
 
-Josh levantou. Não foi tanto. Levantou só o suficiente pra o rosto dele ficar a vinte centímetros do dela, ainda inclinado sobre a cama. Aurora viu de perto o que ela já tinha catalogado de longe — o cílio loiro-ruivo, o lado direito da boca subindo primeiro, a marca pequena no lobo da orelha que ela tinha descoberto na noite do pomar. Mas agora, com vinte centímetros entre os dois, viu também duas coisas que ela não tinha catalogado antes: a marca avermelhada no canto do queixo dele que era do próprio cabelo dela esfregando ali enquanto ele a carregava, e o que tinha sobrado no rosto dele do rosto que ela tinha visto na borda do lago — a sobrancelha ainda meio franzida, os olhos ainda não inteiramente recuperados, como se uma parte do Josh continuasse na água puxando ela pra fora.
+Josh levantou. Não foi tanto. Levantou só o suficiente pra o rosto dele ficar a vinte centímetros do dela, ainda inclinado sobre a cama. Aurora viu de perto o que ela já tinha catalogado de longe: o cílio loiro-ruivo, o lado direito da boca subindo primeiro, a marca pequena no lobo da orelha que ela tinha descoberto na noite do pomar. Mas agora, com vinte centímetros entre os dois, viu também duas coisas que ela não tinha catalogado antes. A marca avermelhada no canto do queixo dele, do próprio cabelo dela esfregando ali enquanto ele a carregava. E o que tinha sobrado no rosto dele do rosto que ela tinha visto na borda do lago: a sobrancelha ainda meio franzida, os olhos ainda não inteiramente recuperados, como se uma parte do Josh continuasse na água puxando ela pra fora.
 
 — Você ainda está com o rosto do lago — disse Aurora.
 
@@ -370,7 +374,7 @@ Josh percebeu, e parou meio segundo, e disse, na boca dela:
 
 Josh ergueu meio rosto. Olhou pra Aurora.
 
-— Você acha.
+— Você acha?
 
 — Ela me olhou de um jeito antes de descer.
 
@@ -378,11 +382,11 @@ Josh entendeu sem precisar de mais palavra.
 
 — Aurora, Aurora, Aurora.
 
-Josh abaixou de novo. O cobertor estava pro lado agora, e o que tinha entre os dois era só a camisola fina de algodão branco da Meridiana. Josh apoiou o joelho no colchão. Aurora se ajeitou. Aurora não tinha planejado o que ia fazer, mas o corpo dela teve um plano sem consultar a cabeça — pôs a mão no peito de Josh, e empurrou.
+Josh abaixou de novo. O cobertor estava pro lado agora, e o que tinha entre os dois era só a camisola fina de algodão branco da Meridiana. Josh apoiou o joelho no colchão. Aurora se ajeitou. Aurora não tinha planejado o que ia fazer, mas o corpo dela teve um plano sem consultar a cabeça: pôs a mão no peito de Josh, e empurrou.
 
 Empurrou de leve.
 
-Josh se deixou empurrar. Deitou de costas no colchão. Aurora ficou em cima — sentada de leve, com os joelhos do lado do quadril dele, com a camisola branca caindo nos lados, com o cabelo molhado nas pontas roçando o pescoço dele.
+Josh se deixou empurrar. Deitou de costas no colchão. Aurora ficou em cima: sentada de leve, com os joelhos do lado do quadril dele, com a camisola branca caindo nos lados, com o cabelo molhado nas pontas roçando o pescoço dele.
 
 Josh olhou pra Aurora de baixo pra cima. A respiração dele tinha mudado por inteiro.
 
@@ -408,7 +412,7 @@ E foi nesse momento que Aurora descobriu, pelo corpo, uma coisa que ela ainda n�
 
 Foi quando ela se ajeitou, ainda sentada em cima dele, sem decidir, sem saber, e o quadril dela encontrou o do Josh por baixo da camisola e da calça dele, e algo se acendeu no ventre dela que Aurora nunca tinha sentido na vida.
 
-Foi uma onda. Aurora arqueou o pescoço pra trás sem decidir arquear. Soltou um som da garganta — pequeno, agudo, surpreso — que ela ouviu por dentro como se viesse de outra pessoa. E desceu o quadril de novo, sem decidir, e a onda voltou.
+Foi uma onda. Aurora arqueou o pescoço pra trás sem decidir arquear. Soltou um som da garganta (pequeno, agudo, surpreso) que ela ouviu por dentro como se viesse de outra pessoa. E desceu o quadril de novo, sem decidir, e a onda voltou.
 
 Josh sentiu.
 
@@ -422,7 +426,7 @@ Josh sentiu, e Aurora viu, pelos olhos dele de baixo pra cima, que ele tinha sen
 
 — Mais uma vez. Só mais uma.
 
-Aurora desceu o quadril uma terceira vez. A onda foi mais forte. Josh fechou os olhos com força. As mãos dele apertaram a cintura dela com força demais — Aurora ia descobrir uma marca azulada ali no dia seguinte e ia carregá-la em segredo — e Josh disse, com os olhos ainda fechados:
+Aurora desceu o quadril uma terceira vez. A onda foi mais forte. Josh fechou os olhos com força. As mãos dele apertaram a cintura dela com força demais (Aurora ia descobrir uma marca azulada ali no dia seguinte, e ia carregá-la em segredo), e Josh disse, com os olhos ainda fechados:
 
 — Aurora, se você fizer isso de novo eu não vou conseguir parar.
 
@@ -438,7 +442,7 @@ Ficou em cima dele, ofegante, com a respiração saindo da boca dela direto na b
 
 Josh abriu os olhos. Aurora viu duas coisas neles ao mesmo tempo, e foi a primeira vez que viu o Josh contendo duas coisas opostas no mesmo segundo: ele estava agradecido pela decisão dela. E ele queria que ela não tivesse decidido.
 
-Aurora desceu do quadril dele. Sentou no colchão ao lado. Puxou a camisola pra baixo no joelho, ajeitou. Josh se levantou, sentou de costas, e ficou um instante respirando assim — apoiado nos cotovelos atrás de si, olhando o teto, com o peito subindo e descendo no ritmo errado.
+Aurora desceu do quadril dele. Sentou no colchão ao lado. Puxou a camisola pra baixo no joelho, ajeitou. Josh se levantou, sentou de costas, e ficou um instante respirando assim: apoiado nos cotovelos atrás de si, olhando o teto, com o peito subindo e descendo no ritmo errado.
 
 — Aqui não, Aurora — disse ele, baixo. — Eu preciso te dizer.
 
@@ -472,7 +476,7 @@ Josh levantou da cama. Pegou a xícara do chá na mesa lateral (a xícara estava
 
 — Toma o chá. Dorme. Eu vou descer.
 
-Aurora pegou a xícara. As mãos dela tremiam — não de frio.
+Aurora pegou a xícara. As mãos dela tremiam. Não de frio.
 
 — Josh.
 
@@ -488,7 +492,7 @@ Josh ficou imóvel. Olhou pra ela.
 
 — Eu não sei como, e eu não sei quando, e eu não sei o que a gente vai ter que enfrentar. Mas eu vou casar com você, Josh. Isso é a única coisa que eu sei agora.
 
-Josh fechou os olhos por um segundo. Quando abriu, Aurora viu lágrimas na borda do olho dele — não chegavam a cair. Mas estavam ali.
+Josh fechou os olhos por um segundo. Quando abriu, Aurora viu lágrimas na borda do olho dele. Não chegavam a cair. Mas estavam ali.
 
 — Eu vou trabalhar pra isso — disse ele. — Eu te dou minha palavra.
 
@@ -510,7 +514,7 @@ Aurora pensou em duas coisas, antes de fechar os olhos.
 
 A primeira foi o lago. Pensou no segundo em que o pulmão dela tinha começado a queimar e ela tinha pensado no Josh do carvalho. Pensou que se ela tivesse morrido naquele segundo, teria morrido sabendo o nome do que sentia. Que era a única coisa que ela pediria pra saber se tivesse direito a uma última pergunta antes de afogar.
 
-A segunda foi a noite que tinha acabado de acontecer. Pensou no quadril dele subindo contra o dela por trás do tecido. Pensou nos olhos dele fechados com força quando ele tinha pedido pra ela parar. Pensou que de todas as coisas que ela tinha aprendido na vida — francês, etiqueta, cortesia afiada, leitura escondida — nenhuma tinha sido tão difícil de aprender quanto essa última, de ter o corpo dela respondendo ao corpo dele e de parar mesmo assim.
+A segunda foi a noite que tinha acabado de acontecer. Pensou no quadril dele subindo contra o dela por trás do tecido. Pensou nos olhos dele fechados com força quando ele tinha pedido pra ela parar. Pensou que de todas as coisas que ela tinha aprendido na vida (francês, etiqueta, cortesia afiada, leitura escondida), nenhuma tinha sido tão difícil de aprender quanto essa última, de ter o corpo dela respondendo ao corpo dele e de parar mesmo assim.
 
 Aurora pensou que ia repetir essa lição em três dias, em Copenhague. Sem o teto da Casandra. Sem parar.
 
