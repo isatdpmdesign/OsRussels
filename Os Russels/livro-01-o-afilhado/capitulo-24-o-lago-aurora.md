@@ -260,7 +260,7 @@ Olharam um segundo.
 
 — Trouxe o teu chá.
 
-— Trouxe.
+— Obrigada.
 
 Josh se aproximou da cama. Pôs a xícara na mesa lateral, do lado da vela. Não sentou imediatamente. Ficou de pé, do lado da cama, olhando pra Aurora. Aurora viu o pomo de adão dele se mexer uma vez.
 
@@ -330,15 +330,15 @@ Aurora ficou olhando pra parte de cima da cabeça dele.
 
 — Levanta — disse ela, baixo, e ela mesma se surpreendeu com a voz própria.
 
-Josh levantou. Não foi tanto. Levantou só o suficiente pra o rosto dele ficar a vinte centímetros do dela, ainda inclinado sobre a cama. Aurora viu de perto o que ela já tinha catalogado de longe — o cílio loiro-ruivo, o lado direito da boca subindo primeiro, a marca pequena no lobo da orelha que ela tinha descoberto na noite do pomar. Mas agora, com vinte centímetros entre os dois, viu também duas coisas que ela não tinha catalogado antes: a olheira leve embaixo do olho dele (ele não tinha dormido depois do lago) e a marca avermelhada no canto do queixo que era do próprio cabelo dela esfregando ali enquanto ele a carregava.
+Josh levantou. Não foi tanto. Levantou só o suficiente pra o rosto dele ficar a vinte centímetros do dela, ainda inclinado sobre a cama. Aurora viu de perto o que ela já tinha catalogado de longe — o cílio loiro-ruivo, o lado direito da boca subindo primeiro, a marca pequena no lobo da orelha que ela tinha descoberto na noite do pomar. Mas agora, com vinte centímetros entre os dois, viu também duas coisas que ela não tinha catalogado antes: a marca avermelhada no canto do queixo dele que era do próprio cabelo dela esfregando ali enquanto ele a carregava, e o que tinha sobrado no rosto dele do rosto que ela tinha visto na borda do lago — a sobrancelha ainda meio franzida, os olhos ainda não inteiramente recuperados, como se uma parte do Josh continuasse na água puxando ela pra fora.
 
-— Você não tá dormindo desde hoje de tarde — disse Aurora.
+— Você ainda está com o rosto do lago — disse Aurora.
 
-— Não.
+— Eu não consigo tirar.
 
-— Por quê.
+— Por quê?
 
-— Aurora, eu fiquei achando que você não tinha respirado todas as vezes que eu fechei o olho.
+— Aurora, eu fiquei achando que você não estava respirando. Não sai do meu olho. Eu acho que não vai sair tão cedo.
 
 Aurora puxou a mão livre do peito, levou ao rosto dele, encostou a palma na bochecha quente dele, e disse:
 
@@ -414,7 +414,7 @@ Josh sentiu.
 
 Josh sentiu, e Aurora viu, pelos olhos dele de baixo pra cima, que ele tinha sentido também, e que ele estava agora numa luta com ele mesmo que estava perdendo.
 
-— Aurora — disse Josh, e a voz dele saiu baixa, rouca, quase pedindo. — Aurora, para.
+— Aurora — disse Josh, e a voz dele saiu baixa, rouca, quase implorando. — Aurora, para.
 
 — Eu não quero parar.
 
@@ -508,7 +508,7 @@ Aurora deitou de lado. Encostou a mão no lugar do colchão onde Josh tinha deit
 
 Aurora pensou em duas coisas, antes de fechar os olhos.
 
-A primeira foi o lago. Pensou no segundo em que o pulmão dela tinha começado a queimar e ela tinha pensado no Josh do degrau do alpendre. Pensou que se ela tivesse morrido naquele segundo, teria morrido sabendo o nome do que sentia. Que era a única coisa que ela pediria pra saber se tivesse direito a uma última pergunta antes de afogar.
+A primeira foi o lago. Pensou no segundo em que o pulmão dela tinha começado a queimar e ela tinha pensado no Josh do carvalho. Pensou que se ela tivesse morrido naquele segundo, teria morrido sabendo o nome do que sentia. Que era a única coisa que ela pediria pra saber se tivesse direito a uma última pergunta antes de afogar.
 
 A segunda foi a noite que tinha acabado de acontecer. Pensou no quadril dele subindo contra o dela por trás do tecido. Pensou nos olhos dele fechados com força quando ele tinha pedido pra ela parar. Pensou que de todas as coisas que ela tinha aprendido na vida — francês, etiqueta, cortesia afiada, leitura escondida — nenhuma tinha sido tão difícil de aprender quanto essa última, de ter o corpo dela respondendo ao corpo dele e de parar mesmo assim.
 
