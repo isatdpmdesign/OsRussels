@@ -100,7 +100,9 @@
 
 | Fato | Sabem | Não sabem |
 |---|---|---|
-| Aurora e Josh estão apaixonados | Casandra, Meridiana, Joseph, **Vibeke** (sabe desde o 1º dia em Sorø — Cap 24); Eleonora **suspeita** desde antes da viagem | Raj, Matias, Dylan (Dylan ZOA mas não sabe), Henrik (morto), Aarav (vivo mas longe) |
+| Aurora e Josh estão apaixonados | Casandra, Meridiana, Joseph, **Vibeke** (sabe desde o 1º dia em Sorø; revela a Aurora na última noite — Cap 25); Eleonora **suspeita** desde antes da viagem | Raj, Matias, Dylan (Dylan ZOA mas não sabe), Henrik (morto), Aarav (vivo mas longe) |
+| Vibeke entregou o chá ao Josh no patamar da escada (dia do lago, Cap 24) — chá que a Casandra mandou a Vibeke levar ao quarto da Aurora — pra os dois ficarem a sós | Vibeke; Aurora (Cap 25); Josh | Casandra, Meridiana |
+| Aurora recebeu da Casandra um lenço bordado A.S. (eco do J.R. do Josh — `biblia:68`), da Meridiana uma muda de macieira, do Matias o livro de poesia do Henrik com dedicatória "Pra Casandra, no Natal de 1812. H." | todos da Sorø + Aurora + Josh + Vibeke | Raj, Eleonora |
 | Festa secreta do celeiro (Cap 15) | Aurora, Josh, Ingrid, Erik (chegou no fim), Lykke/Hjalmar/Eriksen | Raj, Eleonora, Casandra |
 | Carta selada da Casandra | Josh tem desde março, **nunca abriu até o Cap 26 (plano)** | Raj, Eleonora, Aurora |
 | Dívida do naufrágio + Lindberg | Raj, Eleonora, Josh (ouviu na biblioteca cap20). Lindberg sabe (é credor) | Aurora (até Cap 27), Casandra, Vibeke, irmãos Russel |
