@@ -15,10 +15,10 @@ cobertor de retalhos puxado até o queixo, com o cabelo trançado por
 cima de um ombro e a respiração ajustada havia uns vinte minutos no
 escuro azul-marinho que o céu da Sorø deixava entrar pela cortina. Não
 estava dormindo. Não tinha como dormir. Tinha catorze dias dentro dela
-pra acomodar, e três deles tinham acontecido ainda hoje cedo, e dois
-ainda iam acontecer amanhã e depois, e o corpo dela, que descobrira um
-país novo na noite do lago e que tinha sido carregado por Josh debaixo
-d'água numa tarde que ela não ia esquecer enquanto respirasse, não
+pra acomodar (treze já tinham acontecido, o último ia ser amanhã ao
+amanhecer), e o corpo dela, que descobrira um país novo na noite do
+lago anteontem e que tinha sido carregado por Josh debaixo d'água
+naquela tarde que ela não ia esquecer enquanto respirasse, não
 estava disposto a passar nenhuma das horas que restavam em Sorø
 inconsciente.
 
@@ -47,10 +47,10 @@ Aurora abriu os olhos pro teto escuro.
 — Aurora. — A Vibeke virou meio rosto no travesseiro pra olhar a
 prima de lado. — Eu sou idiota? Eu sou idiota pra muita coisa, eu sei,
 mas eu não sou idiota pra isso. Eu sei desde o jantar do primeiro dia
-em Sorø. Talvez antes. Talvez desde o jantar em que a tia Eleonora
-anunciou que eu vinha pra Copenhague: eu olhei pra você naquela mesa
-e vi a forma como você não olhou pra ele. Aurora, ninguém não olha
-tanto pra uma pessoa sem motivo.
+em Sorø. Talvez antes. Talvez desde o primeiro jantar que eu fiz na
+Bredgade depois que cheguei, com vocês quatro à mesa: eu olhei pra
+você naquela mesa e vi a forma como você não olhou pra ele. Aurora,
+ninguém não olha tanto pra uma pessoa sem motivo.
 
 Aurora ficou um tempo sem responder. Não tinha esperado essa conversa
 naquela noite, embora tivesse esperado essa conversa um dia, e a
@@ -62,7 +62,7 @@ exatamente o tipo de coisa que tirava o ar.
 — Porque não era assunto meu. Eu vi e fechei a boca, e fiquei vendo.
 Era uma coisa entre vocês dois, e eu deixei vocês dois com ela.
 
-— A Meridiana sabe.
+— A Meridiana sabe?
 
 — A Meridiana sabe desde antes da gente chegar — disse Vibeke com a
 tranquilidade dela. — O Josh deve ter escrito alguma coisa pra ela ou
@@ -85,10 +85,10 @@ você, eu esqueci de uma coisa lá embaixo.*
 Aurora virou meio rosto pra olhar a Vibeke.
 
 — Eu não tinha esquecido de nada — disse Vibeke. — Eu inventei.
-Voltei pra baixo, conversei com a Casandra sobre se a trança lateral
-ficava melhor que a coque pro jantar do dia seguinte (a Casandra
-preferiu a coque), e só voltei a subir quando eu calculei que o Josh
-tinha tido tempo de fazer o que ele tinha que fazer.
+Voltei pra baixo, conversei com a Casandra sobre que tipo de pão ela
+ia fazer no dia seguinte e se cabra dava queijo igual vaca dava (cabra
+dá queijo, eu aprendi), e só voltei a subir quando eu calculei que o
+Josh tinha tido tempo de fazer o que ele tinha que fazer.
 
 Aurora ficou um instante sem falar. Algo no peito subiu três rotações.
 
@@ -115,8 +115,7 @@ ouvido nela em treze dias.
 
 — Porque eu sei. Eu sei o que é. Eu sei o que é uma vontade que toma
 conta da cabeça da gente e que faz a gente perder o sentido de tudo
-que aprendeu desde que sentou na escola da mamãe. Eu sei porque eu
-vivi.
+que aprendeu quando era pequena. Eu sei porque eu vivi.
 
 Aurora ficou olhando pra ela no escuro.
 
@@ -135,12 +134,12 @@ nunca achando.
 
 A Vibeke respirou.
 
-— No fevereiro depois desse outubro, ele veio em casa duas vezes por
+— Em fevereiro depois desse outubro, ele veio em casa duas vezes por
 semana até a primavera. E nem todas essas vezes a gente ficou só
 conversando, Aurora. Eu deixei. Eu queria. Foi uma escolha minha, com
 o coração e com o corpo inteiro. Por isso eu tenho a certeza que eu
 tenho. Por isso eu sei que vou casar com o Lauritz mesmo que ele
-demore três anos pra pedir, mesmo que a mamãe tente me passar por
+demore três anos pra pedir, mesmo que a mamãe tente me passar para
 outro, mesmo que metade da Jutlândia diga que eu tenho que esperar.
 Porque eu já sei. Eu já sei o que esperava do mundo, e eu encontrei,
 e eu não vou trocar.
@@ -161,16 +160,23 @@ A Vibeke apertou a mão de Aurora por baixo da manta.
 — Vive isso, Aurora. Vive o que aconteceu no quarto. Vive o que vier
 em Copenhague. Não desonra ninguém: eu sei, eu sei, a Casandra disse
 essa frase a vida inteira pro Josh, eu ouvi do corredor numa tarde
-qualquer. Mas não fica vivendo a tua vida toda achando que paixão é
-coisa de gente safada. Não é. Paixão é quem você é. Ou você vive, ou
-você apaga uma parte sua e vai morrer um dia tendo apagado.
+qualquer. Mas não fica vivendo a tua vida toda achando que o que você
+está fazendo é coisa de gente libertina. Não é. Paixão é o que vem
+antes do amor, e muitas vezes paixão e amor são a mesma coisa, e é
+muito raro a gente se apaixonar de verdade por alguém que se
+apaixona de volta. A maioria das pessoas no mundo se apaixona pra um
+lado só. O Erik está apaixonado por você, e olha o que você sente
+quando ele fala teu nome: nada. Imagina como ele se sente. Agora pega
+essa raridade que você tem na mão e não solta. Se você soltar, você
+vai morrer um dia se arrependendo de não ter vivido.
 
 Aurora ouviu.
 
 Não disse nada por um tempo. A Vibeke também não. Ficaram assim, com
 as mãos juntas por baixo da manta, com a respiração das duas no
 mesmo ritmo errado, com o cheiro de maçã madura entrando pela janela
-do quarto da Meridiana como vinha entrando toda noite havia treze.
+do quarto da Meridiana como vinha entrando toda noite havia treze
+dias.
 
 — Vibeke.
 
@@ -179,8 +185,10 @@ do quarto da Meridiana como vinha entrando toda noite havia treze.
 — Obrigada.
 
 — Por favor. Não diz isso. Eu vou ter que pular fora dessa cama se
-você for sentimental comigo. Eu não aguento sentimental. Dá uma
-coisa no meu peito que eu prefiro nem nomear.
+você for sentimental comigo. Eu não aguento esse negócio de obrigada
+e te amo e olha pra mim. Eu prefiro fazer. Fazer é mais fácil.
+Sentar e falar sobre o que a gente sente é o tipo de coisa que me dá
+vontade de subir num cavalo e ir embora pra Viborg.
 
 Aurora riu de novo. Doeu de leve no peito de rir.
 
@@ -207,8 +215,9 @@ nas duas semanas, dormiu sabendo que tinha alguém que sabia.
 
 O café da última manhã foi diferente.
 
-Todos sabiam que era a última. Conversa não estava em ninguém. A
-Casandra fez pão de novo, mas dessa vez Aurora não ajudou (Aurora
+Todos sabiam que era a última. Ninguém estava com cabeça pra
+conversa. A Casandra fez pão de novo, mas dessa vez Aurora não
+ajudou (Aurora
 tinha aprendido a fazer pão na primeira semana e a Casandra tinha,
 sem dizer, decidido que naquela última manhã quem fazia era ela). O
 Matias estava quieto no canto da mesa, mexendo a colher no leite sem
@@ -252,9 +261,10 @@ azul-claro lavado mil vezes, do mesmo tecido do lenço que ela usava
 pra prender o cabelo. Estendeu pra Aurora.
 
 — Eu bordei isso ontem à noite — disse. — Tem as tuas iniciais. Não
-é nada grande. É uma coisa que eu sempre faço pra quem entra na
-nossa casa e fica. Não é por cerimônia. É só pra você saber que tem
-um pedaço de pano no mundo que tem o teu nome na minha letra.
+é nada demais. É uma coisa que eu só faço pra quem foi bem-vindo nessa
+casa e ficou querido. Os meus filhos ganharam quando nasceram. Faz
+quase trinta anos que eu não bordo um novo. Eu quero que você leve
+isso pra lembrar da gente.
 
 Aurora abriu. Era um lenço pequeno, branco, com **A.S.** bordado no
 canto em ponto-cruz simples, fio azul-escuro. As letras eram do mesmo
@@ -265,17 +275,16 @@ Aurora ergueu os olhos. Não tinha palavra. A Casandra entendeu, beijou
 a testa dela uma vez, e soltou.
 
 A Meridiana veio em seguida. Tinha um vaso pequeno na mão, de barro,
-com uma muda de macieira nova que ela tinha tirado do pomar dois dias
-antes (Aurora ia descobrir depois) só pra dar. A muda era do tamanho
-da palma de Aurora. Tinha três folhas.
+com uma muda de macieira nova. A muda era do tamanho da palma de
+Aurora. Tinha três folhas.
 
-— Pra plantar na Bredgade — disse Meridiana. — Talvez ela goste lá.
+— Pra plantar na Bredgade — disse Meridiana. — Talvez ela gosta de lá.
 Mesmo não sendo Sorø. Eu acho que macieira é igual gente: se a terra
 trata direito, ela aceita morar onde for.
 
 — Eu vou plantar do lado das roseiras — disse Aurora.
 
-— Eu sei. Já tinha imaginado lá.
+— Eu sei — disse Meridiana. — Eu já tinha imaginado lá.
 
 Meridiana abraçou Aurora. Não foi um abraço grande. Foi do tamanho de
 duas amigas que tinham se encontrado tarde demais na vida pra fingir
@@ -381,20 +390,21 @@ Aí o pomar tampou tudo.
 
 *
 
-A Vibeke esperou o cocheiro fechar a porta da carruagem antes de
-falar.
+A Vibeke esperou a carruagem fazer a primeira curva e tirar a casa
+da janela antes de falar.
 
 — Aurora — disse ela, com aquele tom de pedido casual que enganaria
-qualquer pessoa que não conhecesse a Vibeke fazia onze dias. — Eu vou
-querer ficar nesse banco sozinha.
+qualquer pessoa que não conhecesse a Vibeke fazia onze dias. — A
+Vibeke aqui vai querer ficar nesse banco sozinha.
 
 Aurora ergueu meio rosto.
 
 — Por quê?
 
-— Porque eu durmo na viagem inteira e eu preciso me esticar. Você
-sabe que eu durmo na viagem inteira. Eu não posso passar oito horas
-sentada que nem gente normal. Eu vou querer deitar.
+— Porque a Vibeke dorme na viagem inteira e a Vibeke precisa se
+esticar. Você sabe que a Vibeke dorme na viagem inteira. A Vibeke
+não pode passar oito horas sentada que nem gente normal. A Vibeke
+vai querer deitar.
 
 Aurora olhou pra Vibeke. A Vibeke olhou pra Aurora com cara de cinco
 e meia da manhã que não tinha dormido pensando em como vender essa
@@ -593,17 +603,18 @@ mãos cruzadas atrás do corpo, do jeito que ele cruzava quando
 pensava, e tinha o queixo levemente abaixado, do jeito que ele
 abaixava quando estava se preparando pra dar uma notícia difícil.
 
-A Eleonora estava do lado dele, do jeito que ela sempre estava do
-lado dele em momento difícil. Mas dessa vez tinha uma coisa no rosto
-dela que Aurora nunca tinha visto: a Eleonora tinha o olhar de quem
-não tinha dormido bem havia mais de uma noite. Aurora reconheceu
-porque era o olhar que ela mesma tinha tido na manhã do baile dos
-Lundgren, e que ela aprendera a esconder com pó de arroz, e que a
-Eleonora não tinha escondido nem com pó nem com nada.
+A mãe estava ao lado dele, como sempre ficava em momentos difíceis.
+Mas dessa vez tinha uma coisa no rosto dela que Aurora nunca tinha
+visto: o olhar cansado de quem não tinha dormido bem havia mais de
+uma noite. Aurora reconheceu na hora — era o mesmo olhar que ela
+mesma tivera depois do baile dos Lundgren, e que ela aprendera a
+esconder com pó de arroz. A mãe não tinha escondido nem com pó nem
+com nada.
 
 A Vibeke desceu primeiro. Foi abraçar a tia. Aurora ficou meio
 segundo na carruagem antes de descer, com a muda de macieira no
-colo, com o lenço de A.S. no bolso, com o livro do Henrik debaixo do
+colo, com o lenço com as iniciais dela bordadas no bolso, com o
+livro do Henrik debaixo do
 braço, com a decisão de catorze dias na espinha.
 
 Josh desceu. Estendeu a mão pra Aurora.
@@ -618,10 +629,9 @@ jeito que ela não tinha estado em treze dias.
 O Raj abriu os braços. Aurora se deixou abraçar.
 
 E foi no abraço, com a bochecha encostada no ombro do pai, que Aurora
-sentiu, no peito do Raj, uma respiração que não era a do pai dela.
-Era a respiração de um homem que estava prestes a dizer alguma coisa
-que ia mudar a vida da filha, e que estava segurando essa coisa havia
-dias até ela chegar pra dizer pessoalmente.
+sentiu uma respiração que não era a do pai dela. Era curta, alta,
+contida. A respiração de quem estava segurando alguma coisa havia
+dias e que agora, com a filha de volta no ombro, ia ter que soltar.
 
 Aurora soltou o abraço primeiro. Olhou pro pai.
 
@@ -635,13 +645,16 @@ de casa.
 
 Aurora ficou um instante na soleira com o lenço da Casandra no bolso,
 a muda da Meridiana nos braços, o livro do Henrik debaixo do braço, e
-a primeira parede subindo dentro dela sem aviso, do mesmo jeito que
-ela tinha visto a primeira parede subir dentro do Josh no quarto da
-Meridiana havia três dias. Aurora reconheceu a parede. Reconheceu
-porque ela mesma tinha vivido dezesseis anos atrás dela, e tinha
-saído de trás dela em Sorø sem perceber que tinha saído, e estava,
-agora, no segundo em que pisou na Bredgade, voltando pra trás dela
-sem decidir voltar.
+a porcelana da Bredgade subindo dentro dela sem aviso. A cortesia
+afiada que ela tinha desligado em Sorø sem perceber que tinha
+desligado, voltava agora pelo mesmo lugar por onde tinha saído. Aurora
+não tinha decidido. O corpo dela decidiu sozinho no segundo em que ele
+pisou na pedra da Bredgade. Catorze dias em que ela tinha aprendido
+a rir pelo nariz e a sujar a saia e a comer pão da Casandra com a mão
+inteira, e em três segundos de soleira ela já estava de novo no porte
+treinado, no queixo no ângulo de sempre, na boca que ela tinha sido
+ensinada a manter fechada quando o pai dela ia dar uma notícia
+difícil.
 
 Atrás dela, ainda na soleira, o Josh ficou imóvel.
 
