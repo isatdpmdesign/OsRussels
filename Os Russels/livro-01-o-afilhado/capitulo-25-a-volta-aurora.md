@@ -381,62 +381,201 @@ Aí o pomar tampou tudo.
 
 *
 
-A estrada inverteu o caminho da ida. Terra batida virou cascalho,
-cascalho virou paralelepípedo. Os pássaros foram sumindo um a um, e
-no lugar deles foi entrando o ruído de fundo das vilas pequenas que
-ficavam no trajeto. Aurora não dormiu. A Vibeke dormiu. Encostou no
-ombro de Aurora na metade da segunda hora, como na ida.
+A Vibeke esperou o cocheiro fechar a porta da carruagem antes de
+falar.
 
-E o Josh, no banco da frente, olhou pra Aurora.
+— Aurora — disse ela, com aquele tom de pedido casual que enganaria
+qualquer pessoa que não conhecesse a Vibeke fazia onze dias. — Eu vou
+querer ficar nesse banco sozinha.
 
-Olhou de verdade. Não de relance. Não a cortesia de hóspede da
-Bredgade que ia voltar a ser ele em sete horas. Olhou como ele tinha
-olhado debaixo d'água, e como tinha olhado no pomar, e como tinha
-olhado na cama da Meridiana antes de levantar. Aurora devolveu.
+Aurora ergueu meio rosto.
 
-— Você consegue dormir? — perguntou Josh, baixo, pra não acordar a
-Vibeke.
+— Por quê?
 
-— Não.
+— Porque eu durmo na viagem inteira e eu preciso me esticar. Você
+sabe que eu durmo na viagem inteira. Eu não posso passar oito horas
+sentada que nem gente normal. Eu vou querer deitar.
 
-— Eu também não.
+Aurora olhou pra Vibeke. A Vibeke olhou pra Aurora com cara de cinco
+e meia da manhã que não tinha dormido pensando em como vender essa
+ideia.
 
-A perna dele estava esticada. A bota dele estava no chão da
-carruagem, encostada de leve na botinha de Aurora. Aurora olhou pra
-baixo e reconheceu o toque. Era o mesmo toque da ida. Mas não era. Na
-ida tinha sido um pé descalço esticado meio centímetro como quem não
-estava esticando nada, com a única coragem que cabia entre dois
-estranhos que estavam começando a deixar de ser estranhos. Agora era
-uma bota encostada numa botinha sem disfarce nenhum. Não era a
-coragem do esticar. Era a calma do quem já não precisava mais
-disfarçar pra que serviam os pés ali.
+— E aí você vai pro outro banco com o Josh — completou Vibeke, num
+tom de quem só estava resolvendo um detalhe logístico.
 
-Aurora não tirou o pé. Josh não tirou o dele.
+— Vibeke.
 
-Eles ficaram em silêncio o resto da terceira hora. Era um silêncio
-diferente do silêncio da ida. Na ida o silêncio era de quem estava se
-medindo com o que ia acontecer. Agora era de quem já tinha
-acontecido a maior parte do que importava e estava só esperando o
-resto cair onde tinha que cair.
+— Aurora. Pelo amor da senhora Eriksen da Christianshavn. A Vibeke
+precisa dormir esticada. Vai pro outro banco.
+
+Josh, do outro lado, não disse nada. Mas Aurora viu, sem olhar
+diretamente pra ele, que ele tinha entendido a manobra exatamente como
+ela tinha entendido. E que ele não ia ajudar a Aurora a recusar.
+
+Aurora levantou. Atravessou os trinta centímetros que separavam os
+dois bancos. Sentou ao lado do Josh.
+
+E ali Aurora descobriu uma coisa sobre carruagens dinamarquesas de
+1830 que ela nunca tinha tido motivo pra descobrir antes: o banco
+servia pra duas pessoas, sim, mas as duas pessoas precisavam ser do
+tamanho normal de duas pessoas. Não cabia uma Aurora de um metro e
+sessenta e um e um Josh de quase um metro e oitenta com ombro de
+quem rachava lenha. Aurora ficou colada no ombro dele. A coxa
+esquerda dela encostou na coxa direita dele. O braço dele encolheu
+contra o lado dele pra ela caber, e mesmo assim Aurora sentiu o
+calor da camisa de linho dele passando pela manga do vestido dela.
+
+A Vibeke esticou as pernas no banco dela. Sorriu pra Aurora com
+satisfação genuína de quem cumpriu uma missão. Fechou os olhos.
+
+Aurora ficou três minutos sem respirar direito.
+
+A carruagem rangia. O cascalho corria. Os campos de centeio dourado
+passavam pela janela. O ombro do Josh estava quente. A coxa dele
+estava firme. Aurora pensou (com aquela honestidade desonesta de
+quem já não estava se vigiando) que se ela ficasse cinco horas assim
+sem fazer nada, ia chegar em Copenhague com a marca da costura da
+calça dele no próprio quadril.
+
+Não pensou mais. A mão dela desceu sozinha.
+
+A mão de Aurora caiu no banco entre os dois, na altura exata do
+quadril dele. Não tinha decidido cair ali. Caiu. E a mão direita de
+Josh, que estava aberta no joelho dele e que tinha permanecido aberta
+desde a partida, baixou também (Aurora viu o movimento pelo canto do
+olho), encontrou a mão dela ali no banco, e os dedos dele se
+entrelaçaram com os dela com uma calma que Aurora nunca tinha sentido
+em mão de homem nenhum.
+
+Aurora olhou pra Josh. Josh olhou pra Aurora.
+
+Nenhum dos dois sorriu. Não era sorriso. Era outra coisa. Era a
+coisa que sobrava no rosto de duas pessoas que tinham passado catorze
+dias dentro de uma decisão e que agora estavam só esperando o mundo
+permitir.
+
+O polegar de Josh começou a fazer um movimento pequeno na costa da
+mão de Aurora. Devagar. Sem chegar a lugar nenhum. Só um polegar
+percorrendo um centímetro de pele, ida e volta, como quem confirma
+uma coisa pra si mesmo todo segundo pra ter certeza de que ela ainda
+está ali.
+
+Aurora encostou a cabeça no ombro do Josh.
+
+Não pediu licença. Não anunciou. Encostou. E Josh, que estava
+respirando alto fazia uns minutos, soltou o ar de uma vez de um jeito
+que Aurora reconheceu como alívio. O ombro dele desceu meio
+centímetro pra acomodar a cabeça dela.
+
+Foi assim que Aurora dormiu na carruagem.
+
+Não tinha planejado dormir. Mas dormiu. O sono caiu nela com o tipo
+de exaustão que treze dias de paixão acumulada acaba produzindo num
+corpo de dezesseis anos, e Aurora dormiu profundo, com a mão na mão
+do Josh e a cabeça no ombro dele, com o cheiro do linho dele entrando
+pelo nariz dela a cada respiração.
+
+Josh dormiu depois.
+
+*
+
+Aurora acordou com a carruagem dando um solavanco maior que os
+outros.
+
+Levou um segundo pra reconhecer onde estava. Sentiu primeiro o ombro
+quente embaixo da bochecha. Sentiu a mão fechada na mão dela. Sentiu
+a respiração lenta do peito do Josh subindo e descendo do lado
+direito do rosto dela. Sentiu, depois, o segundo solavanco do
+cascalho. E aí entendeu: estava dormindo do lado do Josh, de mão dada
+com o Josh, com a cabeça apoiada no Josh, dentro de uma carruagem que
+estava entrando em Copenhague em algum momento que ela não tinha
+acompanhado.
+
+E sentiu que alguém estava olhando.
+
+Aurora ergueu meio rosto sem mover o resto do corpo (Josh ainda
+dormia; Aurora não quis acordar). Encontrou os olhos da Vibeke do
+outro lado da carruagem.
+
+A Vibeke estava acordada. Apoiada no cotovelo, do lado dela do banco,
+com o queixo descansando na palma. Estava olhando pros dois fazia
+quanto tempo Aurora não sabia. Tinha no rosto uma combinação que
+Aurora não tinha visto na prima em treze dias: ternura sem ironia,
+satisfação de quem viu uma coisa bonita, e o sorriso pequeno (canto
+da boca pra cima) de quem ia guardar isso pelo resto da vida e usar
+em algum momento muito específico mais tarde.
+
+A Vibeke abriu a boca num "ó" enorme sem som. Levou as duas mãos ao
+rosto, tampou a boca aberta, e bateu palma com as palmas no ar três
+vezes, mudas, do jeito que se aplaude uma cena boa numa peça quando
+a peça ainda não terminou. Apontou pros dois com o indicador, depois
+pra ela mesma, depois pro próprio peito, depois fez um movimento
+circular com a mão que Aurora interpretou (com o tipo de tradução
+instantânea que se faz com Vibeke) como *eu sabia, eu sabia, eu sabia
+desde o jantar do primeiro dia em Sorø, e olha pra vocês dois agora,
+olha pra essa cena, eu vou lembrar disso até morrer*.
+
+Aurora teve que apertar a boca pra não rir alto e acordar o Josh.
+
+A Vibeke percebeu o aperto da boca, e o sorriso dela aumentou. Fez
+mais um gesto: levou as duas mãos ao próprio coração, depois apontou
+pros dois.
+
+A Vibeke não emitiu som nenhum.
+
+Aurora não disse nada.
+
+Aurora ficou um segundo se perguntando se devia soltar a mão do Josh
+antes que ele acordasse e percebesse que tinha sido visto. A Vibeke
+viu a pergunta cruzar o rosto de Aurora, e balançou a cabeça uma vez.
+Não. Não solta. E fechou os olhos de novo, como se não tivesse visto
+nada, como se tivesse estado dormindo a viagem inteira e só tivesse
+aberto os olhos um segundo pra confirmar que tinha gente do outro
+lado da carruagem.
+
+Aurora encostou de novo a cabeça no ombro do Josh.
+
+Josh respirou fundo dormindo, mas não acordou. A mão dele apertou de
+leve a mão de Aurora num reflexo de quem registra, mesmo no sono,
+que a outra pessoa está ainda ali.
+
+Aurora fechou os olhos de novo.
+
+Não dormiu mais. Ficou ali, ouvindo o cascalho, sentindo o ombro do
+Josh subir e descer, sabendo que a Vibeke (fingindo dormir do outro
+lado do banco) acabara de garantir, sem precisar dizer em voz alta,
+que aquele momento ia ficar como tinha sido. Sem testemunha que
+contasse. Sem ninguém que dissesse à Eleonora ou ao Raj que a filha
+deles tinha entrado em Copenhague de mão dada com o afilhado do pai.
+
+Foi a coisa mais generosa que Aurora viu uma pessoa fazer por ela
+sem precisar fazer.
 
 *
 
 A Bredgade apareceu no entardecer.
 
+Josh acordou meia hora antes, quando a carruagem deixou o cascalho e
+encontrou o paralelepípedo da entrada da cidade. O barulho mudou. O
+corpo dele se ajustou no banco e a mão dele soltou a mão de Aurora
+sem pressa, com a mesma calma com que tinha encontrado horas antes.
+Aurora soltou também. Os dois se ajeitaram cada um pra um lado do
+banco. A Vibeke, do outro lado, abriu os olhos depois de Josh acordar
+(porque o sono dela tinha sido fingido na última meia hora) e fez uma
+careta enorme de quem acabou de acordar mesmo, esticou, reclamou do
+pescoço, falou três coisas sobre coisas diferentes que ela queria
+fazer assim que chegasse na Bredgade. Aurora respondeu sim, sim e
+não, sem prestar atenção.
+
 Aurora reconheceu o portão oeste de Copenhague pela curva do muro.
 Cinco meses antes, Josh tinha atravessado esse portão pela primeira
 vez, com o Dylan ao lado dele numa carruagem velha, sem saber em qual
 casa ele ia dormir naquela noite. Hoje atravessava de volta com a
-Aurora no banco da frente e a decisão dela cimentada por dentro.
-Aurora viu Josh ver. Os dois reconheceram o portão juntos, com o tipo
-de reconhecimento de quem entende, ao mesmo tempo, que voltou pra
-casa e que voltou pra um lugar que não vai ser mais casa do jeito
-que era antes.
-
-A Vibeke acordou na metade da última hora. Esticou. Reclamou do
-pescoço. Falou três coisas sobre coisas diferentes que ela queria
-fazer assim que chegasse na Bredgade. Aurora respondeu sim, sim e
-não, sem prestar atenção.
+Aurora dormindo dois minutos atrás no ombro dele. Aurora viu Josh
+ver. Os dois reconheceram o portão juntos, com o tipo de
+reconhecimento de quem entende, ao mesmo tempo, que voltou pra casa
+e que voltou pra um lugar que não vai ser mais casa do jeito que era
+antes.
 
 A carruagem entrou na Bredgade. Aurora viu o casarão pela janela.
 Viu o tijolo vermelho-escuro de fim de dia, viu o frontão neoclás-
