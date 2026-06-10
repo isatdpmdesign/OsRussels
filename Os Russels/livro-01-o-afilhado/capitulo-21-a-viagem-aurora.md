@@ -364,7 +364,7 @@ E aí ficou só Aurora e Josh.
 
 A carruagem rangia. O cascalho corria. Lá fora os campos de centeio estavam começando a aparecer, dourados, mexendo no vento.
 
-Foi nesse momento que Josh, com Vibeke dormindo profundo no ombro de Aurora e a estrada vazia lá fora, abaixou a mão pra coçar o calcanhar. Aurora viu o que ele estava fazendo. Tirou a bota direita. Devolveu o pé descalço pro chão da carruagem, deslizando-o pra frente sem decidir, do jeito que se desliza um pé num cômodo conhecido. O pé de Josh encostou no pé de Aurora.
+Foi nesse momento que Josh, com Vibeke dormindo profundo no ombro de Aurora e a estrada vazia lá fora, esticou meio centímetro a perna no chão da carruagem. Aurora viu o que ele estava fazendo, e não viu (porque ninguém esticaria a perna assim se quisesse só esticar a perna). O pé dele deslizou pra frente sem decidir, do jeito que se move uma coisa quando a pessoa não quer assinar o movimento. O pé de Josh encostou no pé de Aurora.
 
 Aurora não tirou o pé.
 
@@ -372,7 +372,7 @@ Josh esperou um segundo. Depois entendeu que Aurora não ia tirar. Aí Josh tamb
 
 Ficaram assim.
 
-Foi um toque pequeno (um pé descalço encostado no canto de uma bota fina, no chão escuro de uma carruagem que ia rangendo no cascalho), e foi exatamente do tamanho da única coragem que cabia nos dois entre Copenhague e Sorø com Vibeke dormindo no ombro da Aurora. Aurora olhou pra Josh. Josh olhou pra Aurora.
+Foi um toque pequeno (uma bota dele encostada no canto de uma botinha fina, no chão escuro de uma carruagem que ia rangendo no cascalho), e foi exatamente do tamanho da única coragem que cabia nos dois entre Copenhague e Sorø com Vibeke dormindo no ombro da Aurora. Aurora olhou pra Josh. Josh olhou pra Aurora.
 
 — Você está bem? — perguntou ele, baixo, pra não acordar a Vibeke.
 

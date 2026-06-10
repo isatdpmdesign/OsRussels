@@ -401,65 +401,21 @@ Vibeke.
 
 — Eu também não.
 
-A perna dele estava esticada. O pé dele estava no chão da carruagem,
-quase encostando no pé de Aurora. Não tinha tirado a bota dessa vez.
-Aurora pensou (com aquela honestidade desonesta de quem já não
-estava se vigiando mais) que sentia falta da bota tirada.
+A perna dele estava esticada. A bota dele estava no chão da
+carruagem, encostada de leve na botinha de Aurora. Aurora olhou pra
+baixo e reconheceu o toque. Era o mesmo toque da ida. Mas não era. Na
+ida tinha sido um pé descalço esticado meio centímetro como quem não
+estava esticando nada, com a única coragem que cabia entre dois
+estranhos que estavam começando a deixar de ser estranhos. Agora era
+uma bota encostada numa botinha sem disfarce nenhum. Não era a
+coragem do esticar. Era a calma do quem já não precisava mais
+disfarçar pra que serviam os pés ali.
 
-Josh viu o pensamento. Ela tinha olhado pro pé dele, e ele tinha
-olhado pra onde ela tinha olhado, e os dois souberam.
+Aurora não tirou o pé. Josh não tirou o dele.
 
-Josh, com a mão direita aberta no joelho, levou o polegar à boca por
-um segundo, mordeu o canto do polegar, e baixou a mão. Era um gesto
-novo dele que Aurora ainda não tinha catalogado; tinha visto só duas
-vezes em treze dias, e as duas vezes foram quando o Josh estava
-decidindo alguma coisa que ele preferia não decidir em voz alta. Josh
-olhou pra Aurora. Não disse nada.
-
-Aurora baixou o olhar pro próprio colo e ficou um instante olhando o
-lenço de A.S. que ela tinha posto no bolso da capa de viagem. Quando
-ergueu os olhos, Josh ainda estava olhando pra ela.
-
-— Josh.
-
-— Sim.
-
-— Treze.
-
-— Treze o quê?
-
-— Treze dias atrás, quando eu cheguei aqui, eu nunca tinha visto a
-casa onde você cresceu. Hoje eu posso desenhar ela de olho fechado.
-Eu sei onde fica a Berta. Eu sei qual é a parte do terreiro que o
-Dylan chuta a porteira do celeiro. Eu sei o lugar exato em que a tua
-mãe passa a mão no encosto da cadeira do teu pai antes de sentar.
-Treze dias atrás eu não sabia de nada disso.
-
-Josh não disse nada por uns segundos.
-
-— Aurora.
-
-— Eu não sei o que vai acontecer em Copenhague, Josh. Mas eu já
-decidi. Eu te disse anteontem na cama, mas eu te digo de novo agora,
-e eu vou te dizer todos os dias que precisar. Eu vou casar com você.
-
-A Vibeke, dormindo no ombro de Aurora, soltou aquele suspiro pequeno
-de quem dorme profundo. Não acordou. Josh olhou pra Vibeke um segundo
-(pra confirmar que ela tava mesmo dormindo), depois voltou pra
-Aurora.
-
-— Aurora.
-
-— Sim.
-
-— Eu vou trabalhar pra isso. Eu te dou minha palavra. Eu te dei
-ontem à noite e eu te dou de novo. Quantas vezes você precisar.
-
-— Eu sei.
-
-Eles ficaram em silêncio o resto da terceira hora. Mas era um
-silêncio diferente do silêncio da ida. Na ida o silêncio era de quem
-estava se medindo com o que ia acontecer. Agora era de quem já tinha
+Eles ficaram em silêncio o resto da terceira hora. Era um silêncio
+diferente do silêncio da ida. Na ida o silêncio era de quem estava se
+medindo com o que ia acontecer. Agora era de quem já tinha
 acontecido a maior parte do que importava e estava só esperando o
 resto cair onde tinha que cair.
 
