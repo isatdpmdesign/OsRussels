@@ -24,6 +24,8 @@
 | **Cenas íntimas: a cena DO LIVRO** | Sem explícito gráfico/mecânico, mas com sensorial intenso. Metáfora e ritmo a ponto de **arrepiar a leitora**. Não fade preguiçoso. | jun/2026 |
 | **Pingue-pongue monossilábico** | No máximo 2 trocas seguidas. | jun/2026 |
 | **PT-BR brasileiro contemporâneo** | "é sério", "pro/pra", "tá", "a gente". Sem floreio pseudo-época. | jan/2026 |
+| **Mais diálogo / fala / expressão dos personagens** | Apontamento geral pra todos os caps daqui pra frente. O livro está pendendo pra **introspecção narrada** quando devia ter mais **troca direta entre personagens**. Cada cena emocional pede diálogo real, não só pensamento interior + síntese do narrador. Cuidar do silêncio (que tem peso) e do falado (que tem ainda mais). | jun/2026 |
+| **Não se apegar a número de capítulos** | Deixar fluir. Mais conteúdo é melhor. Se um capítulo planejado se desdobra em dois, ok. O Livro 1 pode passar de 29-30 caps tranquilamente. | jun/2026 |
 | **Diretrizes de diálogo Aurora–Josh** | 6 princípios em `notas/diretrizes.md`. | jan/2026 |
 
 ## Canon (correções e definições importantes)
@@ -40,6 +42,7 @@
 | **Carta selada está na escrivaninha do quarto leste do Josh na Bredgade desde março** | `cap02:261`, `cap03:317`. Josh sempre desconfiou que era pra ele. Nunca foi a Sorø. | jun/2026 |
 | **Aulas de estratégia social pra Aurora = Josh** | (Não Madame Solberg, que é **modista** norueguesa.) Fru Dahl ensina francês e etiqueta. | jun/2026 |
 | **Eleonora vende as joias Bjerg no Cap 28** | Por iniciativa própria, não pela aprovação do casamento mas porque é mãe e ama a filha — não vai entregar a Aurora ao Lindberg. Primeira decisão prática da vida dela. | jun/2026 |
+| **Justificativa da herança pro Josh (não pros 5 irmãos)** | Canon já cravado em `cap02:241`: *"o filho do meio, o que não tinha terra para herdar nem papel definido para cumprir, e que por isso precisava inventar o próprio caminho."* Primogenitura: **Joseph herda a fazenda** (`biblia:67`). **Josh** vai pra cidade (segundo filho sem terra) e a **parte líquida do Henrik depositada na casa comercial sempre foi pensada pra ele** — capital de partida pro filho sem terra. **Dylan, Meridiana, Matias** têm futuros próprios em aberto (Meridiana casa com dote; Dylan/Matias não-cravado-canon — Bridgerton-style "cada um busca caminho próprio"). A carta da Casandra explicita: *"A terra é do Joseph por direito de mais velho. O dinheiro o teu pai guardou pensando no filho que tivesse que sair pra construir vida que a fazenda não dá. Esse foi você."* | jun/2026 |
 | **Raj comunica o noivado à Aurora no Cap 28** | Aurora **brilha** (pula, abraça o pai). Raj percebe que não a via tão feliz desde antes da morte do Aarav. Passa pra Eleonora a missão de apresentar o noivado à sociedade sem escândalo. | jun/2026 |
 | **Vibeke teve experiência sexual com Lauritz no inverno e na colheita** | Plant em `cap17` (jantar). Revelado a Aurora no Cap 25 (sinopse). | jun/2026 |
 | **Livro 2 = em aberto** | Cogita-se Joseph como protagonista. O par Meridiana × Aarav está suspenso (pode ir pro Livro 3 ou nem ser do Aarav). A coda do Cap 29 planta **só o retorno do Aarav**, sem casar ninguém. Sem plant pro Livro 2 com Lindberg. | jun/2026 |
@@ -52,7 +55,7 @@
 
 | Decisão | Detalhe | Data |
 |---|---|---|
-| **Ato 3 = Caps 23–29** | 23 Os dias / 24 O lago / 25 A volta / 26 A carta / 27 O Regensen (a cena) / 28 A oferta / 29 Coda. | jun/2026 |
+| **Ato 3 = Caps 23–30+** (em aberto) | 23 Os dias / 24 O lago / 25 A volta / **26 A carta** (Josh) / **27 O soco** (Josh) / 28 O Regensen (Aurora — A CENA) / 29 A oferta / 30 Coda. Pode crescer se algum cap pedir desdobramento. | jun/2026 |
 | **Cap 24 lago: sem consumação** | Beijo + roçar de corpos (Aurora sobre o corpo do Josh por cima da roupa), prazer que assusta os dois. Josh para *"aqui não"*. | jun/2026 |
 | **Cap 27 Regensen: A CENA** | Consumação no Regensen, com declaração Bridgerton ("queimo por ela há cinco meses"). Aurora pede ("não quero que o velho seja o primeiro"). Josh reluta. Conduzido, com ternura. **Por metáfora, pra arrepiar a leitora.** | jun/2026 |
 | **Vibeke cúmplice consciente revelada no Cap 25** | (Não no Cap 24, como estava na primeira versão.) | jun/2026 |
