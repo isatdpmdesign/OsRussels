@@ -56,7 +56,7 @@
 | Cap 23: dias 2–8 condensados; cabra-cega no dia 8 (domingo) | Sorø | `cap23` |
 | Cap 24: dia 11 — lago + quarto à noite | Sorø | `cap24` |
 | Cap 25 (a escrever): última manhã, dia 14 — partida | Sorø → Copenhague | (plano) |
-| Cap 26 (a escrever): Josh abre carta, vai pro Regensen | Copenhague | (plano) |
+| Cap 26: chegada Bredgade, Josh entra no quarto Aurora, abre carta, soco no Lindberg, vai pro Regensen | Copenhague, dia da volta + dia seguinte | `cap26` |
 | Cap 27 (a escrever): notícia Lindberg + Aurora vai ao Regensen (cena íntima) | Copenhague | (plano) |
 | Cap 28 (a escrever): oferta do Josh, joias da Eleonora, noivado | Copenhague | (plano) |
 | Cap 29 (a escrever): coda — Aarav vivo numa ilha | onisciente | (plano) |
@@ -73,7 +73,7 @@
 
 ## Objetos canônicos
 
-- **Carta selada da Casandra ao Raj** — na escrivaninha do quarto leste do Josh na Bredgade desde março. Josh nunca abriu. Sempre suspeitou que era pra ele *"pra quando precisasse de coragem"* | `cap02:261`, `cap03:317`
+- **Carta selada da Casandra ao Raj** — na escrivaninha do quarto leste do Josh na Bredgade desde março. **Aberta no Cap 26** (antes do amanhecer, depois da noite no quarto da Aurora). Conteúdo: sociedade Henrik-Raj dos anos 1810, depósito conjunto travado na casa comercial da Højbro, herança do Josh, número que não cobre a dívida do Lindberg. | `cap02:261`, `cap03:317`, `cap26`
 - **Livro de Oehlenschläger do Aarav** — capa marrom gasta, **mancha de tinta no canto inferior direito da primeira página**, **fita azul entre pp.37-38**, linha "*Hvad er det at leve, om ikke at brænde*" (que é viver, senão arder) | `cap19:11,390`
 - **Banco de madeira sob a pérgola da Bredgade** — Aarav mandou fazer, Josh envernizou | `cap05`
 - **Roseiras da Bredgade** — Aarav plantou, mudas da Jutlândia, "rosas dinamarquesas em solo dinamarquês, plantadas por mãos indianas" | `cap20:209`
@@ -104,8 +104,12 @@
 | Vibeke entregou o chá ao Josh no patamar da escada (dia do lago, Cap 24) — chá que a Casandra mandou a Vibeke levar ao quarto da Aurora — pra os dois ficarem a sós | Vibeke; Aurora (Cap 25); Josh | Casandra, Meridiana |
 | Aurora recebeu da Casandra um lenço bordado A.S. (eco do J.R. do Josh — `biblia:68`), da Meridiana uma muda de macieira, do Matias o livro de poesia do Henrik com dedicatória "Pra Casandra, no Natal de 1812. H." | todos da Sorø + Aurora + Josh + Vibeke | Raj, Eleonora |
 | Festa secreta do celeiro (Cap 15) | Aurora, Josh, Ingrid, Erik (chegou no fim), Lykke/Hjalmar/Eriksen | Raj, Eleonora, Casandra |
-| Carta selada da Casandra | Josh tem desde março, **nunca abriu até o Cap 26 (plano)** | Raj, Eleonora, Aurora |
-| Dívida do naufrágio + Lindberg | Raj, Eleonora, Josh (ouviu na biblioteca cap20). Lindberg sabe (é credor) | Aurora (até Cap 27), Casandra, Vibeke, irmãos Russel |
+| Carta selada da Casandra | Josh **abriu no Cap 26** (antes do amanhecer); só ele sabe do conteúdo até o Cap 28 | Raj, Eleonora, Aurora |
+| Dívida do naufrágio + Lindberg | Raj, Eleonora, Josh (ouviu na biblioteca cap20). **Aurora descobre no Cap 26** (Josh entra no quarto dela, ela conta). Lindberg sabe (é credor) | Casandra, Vibeke (até Cap 27), irmãos Russel |
+| Aurora vai casar com Lindberg | Raj, Eleonora, Aurora (Cap 26 — Raj fala com ela no escritório). Josh sabe (Aurora conta a ele à noite). Vibeke sabe (Raj anuncia em sala). Lindberg | Casandra, irmãos Russel |
+| Josh socou Lindberg no jardim | Josh, Aurora (estava lá), Lindberg, Raj (Lindberg contou). Eleonora **provavelmente** sabe | Casandra, Vibeke, irmãos Russel |
+| Eleonora suspeita do que há entre Aurora e Josh | Eleonora (Cap 26: Vibeke quase entrega + olhar de meio segundo no Josh). Josh viu Eleonora guardar | Aurora não sabe que a mãe sabe; Raj não |
+| Josh se mudou pro Regensen | Raj (Josh pediu); Aurora **descobre na manhã seguinte ao Cap 26** (Cap 27) | Eleonora (sabe que ele saiu), Vibeke |
 | Manobra Karoline-Eleonora pra testar paixão da Vibeke pelo Lauritz | Karoline, Eleonora | **Vibeke (ingênua canon)**, Aurora, Josh, todos os outros |
 | Vibeke teve experiência sexual com Lauritz no inverno/colheita | Vibeke, Lauritz | Karoline, Eleonora, Aurora (até Cap 27), todos |
 | Aarav está vivo | **Ninguém no Livro 1.** Só o leitor (coda Cap 29) | Todos os personagens |
@@ -141,4 +145,16 @@ Ver `decisoes-editoriais.md`.
 
 ---
 
-*Última atualização: junho de 2026, após Cap 24 escrito.*
+*Última atualização: junho de 2026, após Cap 26 escrito.*
+
+## Cap 26 — fatos novos cristalizados
+
+- **Lindberg físico:** ~55, viúvo, casaco de corte recente e botões de bom metal, cabelo grisalho penteado, modos decorados ("perfeição artificial"). **Dente faltando no canto da boca** que só aparece no sorriso largo. **Mão grande e úmida.** Polegar afaga as costas da mão da Aurora um segundo a mais do que a cortesia pede. Olho de quem arquiva ofensas pra cobrar com juros. `cap26`
+- **Casa comercial da Højbro** (Copenhague) — sem nome próprio. Lugar onde o depósito conjunto Henrik-Raj fica travado. `cap26`, `decisoes:49`
+- **Quantia da herança do Josh:** "mais do que ele tinha imaginado que existisse com o nome dele em algum lugar do mundo. Pra um segundo filho de uma viúva da Zelândia, era uma fortuna." Mas **não cobre a dívida do naufrágio.** Valores específicos NÃO cravados (genericizado). `cap26`
+- **Soco de Josh:** soco fechado, "de quem rachou lenha a vida inteira, de quem ergueu viga e carregou tora". Acertou Lindberg no canto da boca exatamente onde faltava o dente. Lindberg cai de joelhos no cascalho do jardim do Aarav. `cap26`
+- **Duas mentiras do Josh ao Raj:** (1) bateu no Lindberg "porque qualquer homem que pusesse a mão numa moça dessa casa contra a vontade dela levava o mesmo" — verdade que abriga a razão real (bateu por ser Aurora). (2) Quer ir pro Regensen pela biblioteca + grupos de estudo da prova de outubro — verdade que abriga a razão real (não suporta ficar a um corredor da Aurora prometida a outro sem ter o que oferecer). `cap26`
+- **Fala do Raj ao Josh (após o soco):** *"Eu sei por quem você foi criado. A Casandra criou bem."* + insinuação de que Lindberg é mais perigoso do que um credor cobrando (*"Tem coisa que é melhor você não saber. Faz o favor de não chegar perto do Lindberg de novo. Por você. Pela Aurora. Por mim."*) — plant para o Livro 2 ou cena futura. `cap26`
+- **Despedida-não-despedida Aurora-Josh:** *"Você é a coisa mais importante que já me aconteceu. Foi desde o primeiro dia, naquela escada, quando você me odiou com vontade. Vai ser sempre. Não importa o que aconteça daqui pra frente, não importa o que você ouça, não importa quem te diga o quê. Isso não muda. Você é forte. Mais forte do que essa casa inteira sabe. Não esquece disso quando você mais precisar."* `cap26`
+- **Porta lateral da Bredgade destrancada pela Helle** — canon confirmado em `cap15:345`: Helle (criada) deixa a porta dos criados destrancada pro Josh desde a terceira semana, por iniciativa própria. Cap 26 usa pra ele partir na alvorada.
+- **Bilhete pro Raj na escrivaninha do escritório** — Josh deixou bilhete agradecendo a hospedagem e confirmando Regensen. **Não deixou bilhete pra Aurora.** `cap26`
