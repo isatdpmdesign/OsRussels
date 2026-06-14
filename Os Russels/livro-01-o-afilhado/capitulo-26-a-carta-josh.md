@@ -10,19 +10,20 @@
 
 Josh soube que tinha dado errado antes de descer da carruagem.
 
-Soube pelo Raj na soleira. O Raj não esperava ninguém no portão, como
-sempre fazia quando alguém chegava de viagem. Estava parado no alto
-dos três degraus, com as mãos cruzadas atrás do corpo, e tinha o
-queixo um pouco abaixado. Josh conhecia aquele queixo. Tinha passado
-cinco meses estudando a economia de gestos daquele homem, e o queixo
-abaixado do Raj era o gesto de um homem que ia ter que dizer alguma
-coisa que ele preferia não dizer.
+Soube pelo Raj na soleira. O Raj estava no alto dos três degraus do
+portão como sempre estava quando alguém chegava de viagem, com as mãos
+cruzadas atrás do corpo e o casaco escuro fechado até o último botão.
+Era o lugar e era a postura. Mas o queixo do Raj estava um milímetro
+abaixado, e a cabeça inclinada meio grau pra direita, e Josh tinha
+passado cinco meses estudando a economia de gestos daquele homem. O
+queixo abaixado e a cabeça inclinada não eram a postura de quem recebe
+gente. Eram a postura de quem ia ter que dizer alguma coisa que ele
+preferia não dizer.
 
-E soube pela Eleonora. A Eleonora estava ao lado do marido, do
-tamanho de uma mulher que não dormia havia noites, e não tinha
-escondido isso com pó nem com nada, e a Eleonora era a última pessoa
-naquela casa que deixaria o cansaço aparecer no rosto se tivesse como
-escondê-lo.
+E soube pela Eleonora. A Eleonora estava ao lado do marido, do tamanho
+de uma mulher que não dormia havia noites, e não tinha escondido isso
+com pó nem com nada, e a Eleonora era a última pessoa naquela casa que
+deixaria o cansaço aparecer no rosto se tivesse como escondê-lo.
 
 Josh desceu por último, como sempre. Ajudou Aurora a descer. E viu, no
 segundo em que os pés dela tocaram a pedra da Bredgade, uma coisa que
@@ -35,15 +36,54 @@ sabia receber notícia sem dar a ninguém o gosto de ver o efeito.
 
 Doeu nele ver aquilo. Mais do que ele esperava.
 
-Subiu pro quarto leste pra dar espaço. Era o que um afilhado fazia.
-Fechou a porta. E a escrivaninha de mogno estava ali, debaixo da
-janela, com a carta da mãe no canto direito, lacrada, do jeito que ela
-estava havia cinco meses, desde a tarde de abril em que ele a tinha
-pousado ali ao lado dos livros e tinha decidido que abriria quando
-fosse a hora.
+— Bem-vindo de volta, meu rapaz. — Raj desceu os três degraus, abraçou
+Josh do jeito de afilhado, breve, com a mão direita batendo duas vezes
+nas costas dele e a esquerda no braço. — Aurora.
 
-A Casandra tinha dito, na cozinha, antes da partida: *lê antes de
-entregar ao Raj.* Josh tinha prometido. Não tinha cumprido ainda.
+Raj abraçou a filha mais demorado. Mais firme. Sem dizer nada.
+
+A Eleonora, que tinha ficado em pé na soleira, desceu também e beijou
+a testa de Aurora.
+
+— Você emagreceu — disse a Eleonora. — Vamos pra dentro, está
+esfriando.
+
+Os olhos da Eleonora subiram pro Josh meio segundo. Foi um meio
+segundo só, mas a Eleonora não fazia nada de meio segundo sem motivo.
+Josh sustentou. Curvou a cabeça num cumprimento.
+
+— Senhora.
+
+— Joshua.
+
+A Vibeke, que tinha descido antes da Aurora e estava na soleira com
+uma mão na maçaneta esperando alguém abrir a porta inteira, foi a
+única que falou na medida normal:
+
+— Tia Eleonora, eu trouxe um pote de geleia de maçã que a tia
+Casandra fez, dois pães de leite, uma muda de macieira pra Aurora e
+muita coisa pra contar. Eu não dormi quase nada de excitação na noite
+de ontem.
+
+A Eleonora pôs a mão na bochecha da Vibeke.
+
+— Conta tudo no jantar, querida.
+
+Entraram. Josh ficou por último, segurando a porta pra Helle, que veio
+correndo do salão pra pegar o pano da mala. Helle viu a cara dele e
+não falou nada. Só ergueu a sobrancelha meio milímetro e desviou os
+olhos, do jeito de quem já leu a cena toda na soleira e não vai pedir
+explicação.
+
+Josh subiu pro quarto leste pra dar espaço. Era o que um afilhado
+fazia. Fechou a porta. E a escrivaninha de mogno estava ali, debaixo
+da janela, com a carta da mãe no canto direito, lacrada, do jeito que
+ela estava havia cinco meses, desde a tarde de abril em que ele a
+tinha pousado ali ao lado dos livros e tinha decidido que abriria
+quando fosse a hora.
+
+A Casandra tinha dito, na cozinha de Sorø, antes da partida: *lê antes
+de entregar ao Raj.* Josh tinha prometido. Não tinha cumprido ainda.
 
 Olhou pra carta. Não abriu.
 
@@ -58,9 +98,11 @@ meses.
 
 O Raj quase não comeu. Cortou a carne em pedaços pequenos demais e
 empurrou pela borda do prato. A Eleonora comeu por hábito, com a
-precisão de sempre, mas Josh, que tinha aprendido a ler o cravo dela
-pelo modo como ela pousava o garfo, viu que ela pousava o garfo entre
-cada garfada como quem espera uma coisa que não quer que chegue.
+precisão de sempre, mas Josh, que tinha aprendido a ler o que ela
+estava sentindo ouvindo a forma como ela tocava o cravo, agora notava
+o que ela estava sentindo na forma como pousava o garfo. Pousava entre
+cada garfada com aquela calma de quem tenta prorrogar o tempo. Como
+quem espera uma coisa que não quer que chegue.
 
 A Vibeke falava.
 
@@ -69,30 +111,49 @@ quase o fez ter pena dela. A Vibeke chegou da viagem com a cabeça
 ainda em Sorø, falando da égua da Meridiana, do pão da Casandra, de
 uma coisa que o Dylan tinha dito sobre cabra, e não tinha lido o
 queixo do Raj nem o garfo da Eleonora porque a Vibeke não passava a
-vida lendo queixo e garfo de ninguém. A Vibeke vivia. Era a coisa mais
-bonita e mais perigosa que tinha naquela mesa, e era a única pessoa ali
-que estava em paz.
+vida observando ninguém. A Vibeke vivia. Era a coisa mais verdadeira
+que tinha naquela mesa, e era a única pessoa ali que estava em paz.
 
-Aurora comeu como tinha descido da carruagem: de porcelana. Respondeu
-à Vibeke nos lugares certos. Não olhou pra Josh nenhuma vez, e Josh
-soube que era de propósito, e soube por quê. A Aurora também tinha
-lido o queixo do pai.
+— ...e a Meridiana ficou três dias falando com aquela macieira velha,
+tia, é sério. A macieira chama Berta. Eu duvidei no começo mas depois
+eu mesma fui lá e dei bom dia pra Berta, porque a Meridiana disse que
+era falta de educação não cumprimentar. — A Vibeke parou pra respirar
+e olhou pra Aurora. — Conta, Aurora.
+
+— Conto depois — disse Aurora. A voz dela estava do tamanho exato. —
+Você está contando bem.
+
+A Vibeke continuou. Aurora comeu como tinha descido da carruagem: de
+porcelana. Respondeu à Vibeke nos lugares certos. Não olhou pra Josh
+nenhuma vez, e Josh soube que era de propósito, e soube por quê. A
+Aurora também tinha lido o queixo do pai.
 
 O Raj pousou o guardanapo antes da sobremesa.
 
-— Aurora — disse ele. — Vem ao escritório quando terminar. Eu preciso
-falar com você.
+— Aurora. — Foi a primeira vez na refeição inteira que ele falou na
+mesa. — Vem ao escritório quando terminar. Eu preciso falar com você.
 
 Não foi uma pergunta. Aurora pousou a colher.
 
 — Sim, papai.
 
-A Vibeke parou de falar pela primeira vez na refeição inteira, e olhou
-pra Aurora, e depois pro Raj, e depois pra Aurora de novo, e foi nesse
+A Vibeke parou de falar pela primeira vez na refeição inteira. Olhou
+pra Aurora. Olhou pro Raj. Olhou pra Aurora de novo. E foi nesse
 silêncio dela que Josh viu a Vibeke começar a entender que tinha
 alguma coisa acontecendo que ela não tinha visto chegar.
 
-Josh levantou da mesa. Subiu pro quarto leste. E esperou.
+— Tio. — A Vibeke tentou. — É sobre alguma...
+
+— Vibeke. — A Eleonora, baixo. — Pede sobremesa, querida. A Helle
+está esperando.
+
+A Vibeke fechou a boca devagar.
+
+Josh levantou da mesa.
+
+— Com licença.
+
+Subiu pro quarto leste. E esperou.
 
 *
 
@@ -119,9 +180,9 @@ E depois ouviu a coisa que ele tinha medo de ouvir desde a soleira.
 Aurora chorava.
 
 Não era alto. A Aurora não chorava alto, do mesmo jeito que não fazia
-nada alto. Era um choro baixo, contido, que vazava por baixo da porta
-como vaza fumaça, e que era pior do que qualquer choro alto porque era
-o choro de quem aprendeu cedo demais a chorar sem incomodar ninguém.
+nada alto. Era um choro baixo, contido, que vazava por baixo da porta,
+e que era pior do que qualquer choro alto porque era o choro de quem
+aprendeu cedo demais a chorar sem incomodar ninguém.
 
 Josh ficou de pé.
 
@@ -142,27 +203,44 @@ e deixar a moça da casa chorar em paz atrás da porta dela.
 
 Ele não voltou.
 
-Abriu a porta. Entrou. Fechou atrás de si.
+Bateu duas vezes, baixo. Não veio resposta. Bateu de novo.
+
+— Aurora. Sou eu.
+
+Silêncio um segundo. Depois, do outro lado, abafada:
+
+— Entra.
+
+Josh abriu a porta. Entrou. Fechou atrás de si.
 
 *
 
 Aurora estava sentada no chão, encostada na lateral da cama, com os
 joelhos contra o peito e o rosto escondido neles. Ergueu a cabeça
-quando ouviu a porta. Tinha os olhos vermelhos e a face molhada e a
-porcelana toda quebrada no chão em volta dela, porque ali, no quarto
-dela, sozinha, ela não precisava de porcelana nenhuma.
+quando ouviu a porta fechar. Tinha os olhos vermelhos e a face molhada
+e a porcelana toda quebrada no chão em volta dela, porque ali, no
+quarto dela, sozinha, ela não precisava de porcelana nenhuma.
 
 Não perguntou o que ele fazia ali. Não disse que ele não devia ter
 entrado. Só olhou pra ele do chão, com a cara de quem tinha guardado o
 choro a noite inteira pra alguém que pudesse ver, e estendeu a mão.
 
 Josh atravessou o quarto. Ajoelhou no chão na frente dela. E Aurora
-desabou nele. Não nos braços dele, *nele*, com o rosto no peito dele
-e as mãos fechadas na camisa dele e o corpo todo tremendo daquele
-tremor de quem chora há tempo demais sem ter onde. Josh fechou os
-braços em volta dela. Pôs uma mão na nuca dela, por baixo do cabelo, e
-a outra nas costas, e segurou, e não disse nada, porque não tinha nada
-pra dizer que coubesse antes de ela parar de tremer.
+desabou nele. Não nos braços dele, *nele*, com o rosto no peito dele e
+as mãos fechadas na camisa dele e o corpo todo tremendo daquele tremor
+de quem chora há tempo demais sem ter onde. Josh fechou os braços em
+volta dela. Pôs uma mão na nuca dela, por baixo do cabelo, e a outra
+nas costas, e segurou.
+
+Não disse nada. Deixou ela chorar.
+
+Não tentou consolar com palavra. Não falou está tudo bem porque não
+estava tudo bem. Não falou eu estou aqui porque ela já sabia que ele
+estava ali. Só segurou, e respirou no ritmo dela pra ela ter de quem
+emprestar ritmo, e foi devagar igualando a respiração dele à dela até
+ela começar a respirar no ritmo dele. Era uma coisa que ele tinha
+aprendido com cavalo novo na fazenda. Cavalo novo respira no ritmo de
+quem segura o cabresto.
 
 Ficaram assim um tempo. Josh sentiu a camisa molhar no peito. Sentiu o
 cheiro de jasmim e canela subir do cabelo dela, agora misturado com
@@ -174,49 +252,86 @@ Quando Aurora falou, falou com a voz gasta, contra o peito dele.
 
 Josh fechou os olhos.
 
-— Quem.
+— Conta.
 
-— Um tal de Henning Lindberg. — Aurora ergueu o rosto o suficiente pra
-falar. — Um credor do papai. A dívida do navio do Aarav, Josh. O navio
-afundou com a carga inteira e o papai ficou devendo, e esse homem é o
-maior dos credores, e ele... — a voz dela tropeçou — ele só perdoa a
-dívida se eu casar com ele. Em outubro. O papai já aceitou. Não tem o
-que discutir, ele disse. Já está feito.
+Aurora ergueu o rosto o suficiente pra falar. A face dela estava
+molhada da bochecha ao queixo, e Josh achou que ela estava mais bonita
+chorando do que qualquer mulher tinha o direito de estar, e se odiou
+um pouco por achar.
 
-Josh não se mexeu por fora.
+— Um tal de Henning Lindberg.
 
-Por dentro, tudo se mexeu de uma vez. A mandíbula travou tão forte que
-ele sentiu o dente ranger. A mão que estava nas costas dela fechou em
-punho, atrás dela, onde ela não podia ver. O sangue subiu pelo pescoço
-dele com uma vontade que ele não tinha sentido nunca na vida, a
-vontade de levantar daquele chão, descer a escada, entrar no
-escritório do Raj e perguntar como, *como*, um homem manda a filha
-pra cama de um credor pra fechar uma conta.
+— Quem é ele.
+
+— Eu não sei, Josh. Eu nunca vi esse homem na minha vida. Sei o nome
+dele só porque o papai disse hoje, agora, há meia hora, no escritório.
+— A voz dela tropeçou. — É um credor do papai. A dívida do navio do
+Aarav. O navio afundou com a carga inteira e o papai ficou devendo, e
+esse homem é o maior dos credores, e ele... ele só perdoa a dívida se
+eu casar com ele.
+
+— Quando.
+
+— Em outubro.
+
+Josh contou seis semanas na cabeça e a conta saiu pelo corpo dele todo
+de uma vez. A mandíbula travou tão forte que ele sentiu o dente
+ranger. A mão que estava nas costas dela fechou em punho, atrás dela,
+onde ela não podia ver. O sangue subiu pelo pescoço dele com uma
+vontade que ele não tinha sentido nunca na vida: vontade de levantar
+daquele chão, descer a escada, entrar no escritório do Raj e perguntar
+*como*, como, um homem manda a filha pra cama de um credor pra fechar
+uma conta.
 
 Não fez nada disso. Aurora estava chorando no peito dele. O que ela
 precisava agora não era da raiva dele. Era de outra coisa.
 
-Josh pegou o rosto dela nas duas mãos. Enxugou a face dela com os
-polegares, devagar, primeiro um lado, depois o outro. Aurora fechou os
-olhos sob o toque.
+— O papai já aceitou — disse Aurora. — Eu perguntei se tinha o que
+discutir e ele disse que já está feito. Que é a única forma. Que ele
+não vê outra saída e que já tentou e que se ele não fizer isso a
+família vai pra rua e que a minha mãe não dorme há semanas e que ele
+sabe que é injusto e que ele queria... ele queria... — A respiração
+dela falhou. — Ele queria que eu perdoasse ele, Josh. Ele me pediu
+perdão. O papai me pediu perdão.
 
-— Olha pra mim — disse Josh.
+Josh apertou ela contra o peito. Não respondeu logo, porque tinha que
+descer o nó da garganta antes de falar.
 
-Ela olhou.
+— Olha pra mim.
 
-— A gente vai dar um jeito.
+Aurora levantou o rosto. Josh pegou as duas faces dela nas mãos.
+Enxugou com os polegares, primeiro um lado, depois o outro, devagar.
+
+— Eu te dou minha palavra de uma coisa, Aurora. Você não vai casar
+com esse homem.
+
+Aurora respirou fundo. Os olhos dela buscaram os dele.
 
 — Como?
 
 — Eu não sei como ainda. — A honestidade saiu inteira, porque ele não
 sabia mentir, e menos ainda pra ela. — Mas eu sei que eu não vou
-deixar isso acontecer. Eu te dou minha palavra, Aurora. Olha pra mim.
-Eu não vou deixar.
+deixar isso acontecer. Eu te dou a minha palavra.
 
-Aurora olhou pra ele com os olhos vermelhos e quis acreditar, e Josh
-viu que ela quis, e foi exatamente isso que mais o assustou: que ela
-acreditasse numa promessa que ele tinha feito sem ter, ainda, a menor
-ideia de com o quê cumprir.
+— Você já me deu a sua palavra uma vez.
+
+A frase saiu baixa. Aurora não estava cobrando. Estava lembrando. Era
+uma constatação de fato e era ao mesmo tempo a coisa mais cara que
+Josh tinha ouvido em catorze dias, porque era ela dizendo, sem dizer,
+que tinha guardado a palavra dele do quarto da Meridiana e estava
+contando nela.
+
+— Eu sei — disse Josh. — Em Sorø. Eu te disse que ia trabalhar pra
+isso. E eu vou. Aurora, olha pra mim. Eu vou.
+
+— Eu acredito.
+
+— Não fala isso só porque eu estou pedindo.
+
+— Não estou. — Aurora segurou o pulso dele com as duas mãos. — Eu
+acredito porque é você.
+
+Josh ficou um segundo sem ar.
 
 *
 
@@ -228,14 +343,14 @@ que a voz dela ficava quando ela tinha decidido uma coisa.
 — Aurora.
 
 — Só essa noite. Eu não vou conseguir ficar sozinha essa noite, Josh.
-Eu não vou pedir mais nada. Eu não vou nem pedir isso de novo. Só hoje.
-Fica.
+Eu não vou pedir mais nada. Eu não vou nem pedir isso de novo. Só
+hoje. Fica.
 
 Josh sabia o que era ficar. Entrar já tinha sido grave. Ficar era de
 outra ordem. Se alguém abrisse aquela porta no meio da noite, não
 haveria conta, palavra ou promessa no mundo que consertasse o que
-seria visto. Era a primeira parede e a segunda e a terceira de uma vez.
-Era tudo que ele tinha jurado não fazer.
+seria visto. Era a primeira parede e a segunda e a terceira de uma
+vez. Era tudo que ele tinha jurado não fazer.
 
 Ficou.
 
@@ -246,45 +361,134 @@ camisa, e Josh passou o braço por baixo dos ombros dela e a segurou
 ali. Não foi um gesto de amante. Foi um gesto de quem segura uma
 pessoa pra ela não afundar.
 
+O quarto foi ficando escuro devagar. A vela da escrivaninha começou a
+falhar.
+
+— Josh.
+
+— Diz.
+
+— Por que você ficou parado naquela noite, em Sorø, quando eu disse?
+
+Ele não precisou perguntar que noite. Sabia.
+
+— Eu não fiquei parado. Eu fiquei sem fôlego.
+
+— Eu vi. — Aurora ajeitou a cabeça no peito dele, ouvindo o coração
+dele bater por baixo do tecido. — Você ficou um tempão sem falar
+nada. Eu achei que tinha falado coisa errada.
+
+— Você falou a coisa mais certa que eu já ouvi na vida.
+
+Aurora ficou quieta um segundo.
+
+— Por que então você ficou tanto tempo sem falar?
+
+Josh respirou fundo. A mão dele tinha encontrado o cabelo dela e
+estava passando os dedos por uma mecha sem pressa, sem chegar a
+afagar, só medindo.
+
+— Porque eu nunca tinha ouvido nada que doesse mais e curasse mais ao
+mesmo tempo. Quando você falou, eu fiquei com vontade de te casar ali
+mesmo, naquela cama, no quarto da minha irmã, com a minha mãe na
+cozinha, sem padre, sem cartório, sem nada. E ao mesmo tempo eu vi o
+tamanho do que eu tinha pra te oferecer. E o tamanho não fechava com o
+tamanho de você.
+
+— Josh.
+
+— Deixa eu terminar. — A voz dele estava rouca. — Eu fiquei sem
+falar porque eu estava fazendo a conta. Eu fiz a conta vinte vezes
+naqueles segundos. Não fechava. Eu te dei a palavra mesmo assim.
+Porque tinha que dar.
+
+Aurora estendeu a mão. Encontrou a mão dele no cabelo dela. Levou a
+mão dele pra boca dela e beijou o nó dos dedos. Beijo de pouco
+segundo, sem promessa, só de quem reconhece o que recebeu.
+
+— Eu também não consegui fazer a conta — disse Aurora, baixo. — Não
+fechava do meu lado nem. Mas a gente disse mesmo assim.
+
+— A gente disse.
+
 Aurora dormiu em poucos minutos. O choro tinha esvaziado ela. A
 respiração dela foi ficando funda contra o peito dele, e a mão fechada
 na camisa foi afrouxando, e em algum momento Aurora soltou o tecido e
 a mão ficou só pousada ali, no esterno dele, subindo e descendo com a
 respiração dele.
 
-Josh não dormiu.
-
-Ficou olhando o quarto no escuro, porque era a primeira vez que ele
-entrava ali, e porque ele sabia que talvez fosse a única, e porque um
-homem que guarda detalhes a vida inteira não desperdiça a chance de
-guardar o quarto da mulher que ama. Viu o frasco de perfume na
-penteadeira, pequeno, de vidro lapidado. Viu a escova de cabo de
-madrepérola. Viu, na cabeceira, o volume de Oehlenschläger de capa
-marrom que tinha sido do Aarav, com a fita azul ainda entre as
-páginas. Viu, no peitoril da janela, a muda de macieira da Meridiana
-num vaso de barro, já com terra fresca, já regada. Viu, dobrado com
-cuidado sobre a escrivaninha, o lenço branco com as iniciais dela que
-a mãe dele tinha bordado.
-
-Aurora tinha trazido Sorø pro quarto dela. Tinha plantado pedaços da
-casa dele na própria intimidade sem nem perceber que estava plantando.
-
-Josh olhou pra muda de macieira no peitoril por um tempo longo. Pensou
-que aquela muda ia crescer naquele jardim, e ia dar maçã daqui a uns
-anos, e que ele queria estar vivo e perto pra ver a primeira maçã, e
-que tinha um homem chamado Henning Lindberg planejando tornar isso
-impossível.
-
-Beijou a testa de Aurora. Uma vez. Devagar. Ela não acordou.
+Josh fechou os olhos. Pensou que não ia conseguir dormir. Adormeceu
+em quinze minutos.
 
 *
 
-Josh saiu do quarto antes do amanhecer, quando o céu na janela ainda
-era cinza-escuro e a casa inteira dormia. Atravessou o corredor de
-volta sem fazer barulho, decorando os degraus que não devia pisar,
-entrou no quarto leste e fechou a porta.
+Acordou no escuro.
+
+Não soube de imediato onde estava. Soube pelo cheiro. Jasmim e canela
+debaixo do queixo dele, e a respiração de Aurora batendo no peito
+dele, e o peso quente do corpo dela na curva do braço, e Josh ficou
+parado um segundo só pra registrar que isso tinha existido uma vez.
+
+Que ele tinha dormido com Aurora no peito.
+
+Que tinha sido bom de um jeito que ele não tinha como descrever, nem
+pra si mesmo, e que ele ia carregar essa hora pelo resto da vida com
+ou sem direito a ela.
+
+Abriu os olhos.
+
+A janela ainda estava escura, mas a cor do escuro tinha mudado. Não
+era o azul preto da meia-noite. Era o cinza fundo que vinha antes do
+cinza claro que vinha antes da luz. Faltava talvez uma hora pro
+amanhecer.
+
+Josh ficou olhando o teto. Depois o quarto.
+
+Era a primeira vez que ele entrava ali, e ele sabia que talvez fosse a
+única, e um homem que guarda detalhes a vida inteira não desperdiça a
+chance de guardar o quarto da mulher que ama. Viu o frasco de perfume
+na penteadeira, pequeno, de vidro lapidado. Viu a escova de cabo de
+madrepérola pousada com o pente do lado. Viu, na cabeceira, o volume
+de Oehlenschläger de capa marrom que tinha sido do Aarav, com a fita
+azul ainda entre as páginas. Viu, no peitoril da janela, a muda de
+macieira da Meridiana num vaso de barro, já com terra fresca, já
+regada. Viu, dobrado com cuidado sobre a escrivaninha, o lenço branco
+com as iniciais dela que a mãe dele tinha bordado.
+
+Aurora tinha trazido Sorø pro quarto dela. Tinha plantado pedaços da
+casa dele dentro da própria intimidade no espaço de uma tarde de
+desempacotar mala.
+
+Josh olhou pra muda de macieira no peitoril por um tempo longo. Pensou
+que aquela muda ia crescer naquele jardim, e ia dar maçã daqui a uns
+anos, e que ele queria estar vivo e perto pra ver a primeira maçã.
+Pensou que tinha um homem chamado Henning Lindberg planejando tornar
+isso impossível.
+
+Pensou na carta da mãe na escrivaninha do quarto leste.
+
+Já estava na hora.
+
+Saiu da cama com cuidado. Aurora se ajeitou, sem acordar, e procurou
+no escuro o lugar onde o corpo dele tinha estado. Josh pôs o
+travesseiro no lugar. Aurora abraçou o travesseiro. Deu pra ele um
+segundo de dor no peito que ele não soube nomear.
+
+Beijou a testa dela. Uma vez. Devagar. Ela não acordou.
+
+Tirou as botas da mão, abriu a porta sem barulho, saiu, fechou.
+
+*
+
+Atravessou o corredor de tábuas decorando as que rangiam. Eram quatro.
+A terceira a partir da porta dela, a sexta, a nona, e a do meio do
+corredor que era a pior de todas. Pisou na borda das quatro. Chegou no
+quarto leste sem fazer um som.
 
 Acendeu a vela. Sentou na escrivaninha. E pegou a carta da mãe.
+
+A mão dele tremeu um pouco. Josh notou. Pousou a carta. Esperou a mão
+parar. Pegou de novo.
 
 Quebrou o lacre.
 
@@ -293,23 +497,32 @@ as cartas que ela tinha mandado nos cinco meses. Mas o conteúdo não
 era de carta de mãe. Era contábil. Frio. Cheio de números.
 
 A Casandra escrevia sobre uma sociedade comercial. Anos 1810. O
-Henrik tinha entrado com o que tinha numa empreitada do Raj — uma rota
-de comércio, um carregamento, Josh leu os termos sem entender todos.
-O que ele entendeu foi o suficiente: a operação tinha dado lucro. O
-lucro do Henrik tinha sido depositado, junto com o do Raj, numa casa
-comercial de Copenhague, na Højbro. E o depósito tinha uma cláusula:
-só se sacava com a assinatura dos dois sócios.
+Henrik tinha entrado com o que tinha numa empreitada do Raj (uma rota
+de comércio, um carregamento, Josh leu os termos sem entender todos). O que ele entendeu foi o suficiente: a operação tinha dado
+lucro. O lucro do Henrik tinha sido depositado, junto com o do Raj,
+numa casa comercial de Copenhague, na Højbro. E o depósito tinha uma
+cláusula: só se sacava com a assinatura dos dois sócios.
 
 O Henrik morreu. A parte dos Russels ficou trancada havia quatro anos,
 porque faltava a segunda assinatura, e a segunda assinatura era do
 Raj.
 
-*A parte que é tua está lá, intacta*, escrevia a Casandra. *Eu nunca
-quis mexer enquanto a fazenda deu conta. A fazenda deu conta. Mas você
-foi pra cidade construir uma vida que não é a da terra, e pra isso
-você vai precisar do que é teu. Eu sempre soube que ia chegar a hora.
-Eu guardei tudo pra você. Quando você ler isto, vá ao Raj, peça a
-assinatura dele, e saque. É teu, filho. Faz o que precisar.*
+Mais embaixo, a letra da mãe mudava de cadência. Continuava firme, mas
+sem o tom de inventário. Era a Casandra de novo, falando de homem que
+ela tinha amado e de filho que ela tinha visto crescer.
+
+*A terra é do Joseph por direito de mais velho, e ela sustenta a
+família, e ela vai sustentar. A Meridiana tem dote no que vier de
+casamento, e eu cuido. O Dylan vai precisar do tempo dele pra
+escolher o caminho dele, e o Matias ainda nem fez treze anos
+direito, e o tempo deles é outro. Mas você, Josh. Você não tem terra
+pra herdar nem papel definido pra cumprir, e foi por isso que eu te
+mandei pra cidade. Era essa a parte do teu pai que ele e eu guardamos
+em vida, em pensamento, pro filho que tivesse que sair daqui pra
+construir vida que a fazenda não dá. Aquele filho foi você, Josh. Eu
+sempre soube que ia chegar a hora. Eu guardei tudo pra você. Quando
+você ler isto, vá ao Raj, peça a assinatura dele, e saque. É teu,
+filho. Faz o que precisar.*
 
 Tinha um número no fim. A quantia.
 
@@ -323,383 +536,51 @@ a soleira.
 
 Durou o tempo de ele fazer a conta.
 
-Porque Josh tinha ouvido, semanas antes, atrás da estante grande da
+*
+
+Josh tinha ouvido, semanas antes, atrás da estante grande da
 biblioteca, numa manhã que tinha começado às cinco e quarenta e cinco
 e tinha mudado tudo, o Raj e a Eleonora medirem o tamanho da dívida do
 naufrágio. Não era pequeno. Era do tamanho de um homem entregar a
 filha pra fechar a conta. E o prazo era outubro.
 
-Josh pôs a herança da carta contra a dívida do naufrágio.
+Josh pôs a quantia da herança da carta contra o tamanho da dívida que
+ele tinha ouvido na biblioteca.
 
 Contou uma vez. Contou de novo, devagar, como se contar devagar
 mudasse o resultado.
 
 Não cobria.
 
-Não chegava nem perto de cobrir tudo. Era muito dinheiro, e não era
-suficiente, e essas duas coisas, Josh descobriu naquela escrivaninha
-com a vela tremendo e o céu clareando de cinza pra leite na janela,
-podiam ser verdade ao mesmo tempo, e juntas eram a pior verdade que
-ele já tinha segurado na mão.
+Não chegava nem perto de cobrir tudo. Faltava bastante. Era muito
+dinheiro, e não era suficiente, e essas duas coisas, Josh descobriu
+naquela escrivaninha, podiam ser verdade ao mesmo tempo.
 
-Ele tinha dado a palavra pra Aurora havia poucas horas. *Eu não vou
-deixar isso acontecer.* E agora tinha na mão a única coisa que ele
-poderia ter usado pra cumprir essa palavra, e a coisa não bastava.
+Pôs o pedaço de papel onde tinha rascunhado as contas em cima do
+número que a mãe tinha escrito no fim da carta. Subtraiu de novo.
+Subtraiu olhando, como se olhar mudasse. Não mudou.
+
+Ele tinha dado a palavra pra Aurora havia poucas horas. *Eu te dou a
+minha palavra de uma coisa, Aurora. Você não vai casar com esse
+homem.* E antes disso, havia catorze dias, tinha dado outra. *Eu vou
+trabalhar pra isso.*
+
+E agora tinha na mão a única coisa que ele poderia ter usado pra
+cumprir as duas palavras, e a coisa não bastava.
 
 Josh dobrou a carta. Pôs de volta no envelope rompido. E ficou sentado
-na escrivaninha enquanto o dia nascia, com a fortuna que não bastava
-numa mão e a palavra que ele não ia conseguir cumprir na outra.
-
-*
-
-A notícia se espalhou pela casa antes do café.
-
-O Raj convocou todos à sala depois que a mesa foi tirada. Aurora estava
-em pé ao lado da janela, de novo de porcelana, com o queixo no ângulo
-de sempre. A Eleonora sentou no banco do cravo, mas não tocou. A Vibeke
-entrou por último, ainda sem saber, e foi ficar perto da Aurora. Josh
-ficou em pé perto da porta, onde um afilhado fica.
-
-O Raj não fez rodeio. Disse que tinha uma notícia da família. Disse que
-Aurora estava prometida em casamento ao Herr Henning Lindberg, e que o
-casamento seria em outubro, e que o Herr Lindberg faria a primeira
-visita formal naquela mesma tarde, às quatro horas.
-
-Josh sentiu o próprio maxilar travar. Pôs as mãos atrás do corpo e
-fechou as duas em punho onde ninguém via. Não disse nada. Um afilhado
-não dizia nada.
-
-A Vibeke disse.
-
-— Não. — A Vibeke deu um passo à frente, e o rosto dela tinha passado
-de confuso a horrorizado em três segundos. — Não, tio Raj, a Aurora
-não pode casar com esse homem. A Aurora não pode. A Aurora não...
-
-— Vibeke — disse a Eleonora, baixo. Foi um aviso.
-
-— ...a Aurora sente outra coisa, ela tem o coração em outro... — A
-Vibeke parou. Tarde. A frase já tinha saído metade.
-
-O silêncio na sala mudou de qualidade.
-
-Josh não respirou. Viu, sem virar a cabeça, a Eleonora erguer os olhos
-do colo devagar e pousá-los na Vibeke. Depois viu os olhos da Eleonora
-deslizarem da Vibeke pra Aurora. Depois (e foi aqui que o sangue dele
-gelou) viu os olhos da Eleonora deslizarem da Aurora pra ele, e
-pararem nele meio segundo, e Josh fez a única coisa que podia fazer,
-que foi não desviar e não confirmar, ficar de pedra olhando o nada com
-a cara de afilhado que não tem nada com o assunto.
-
-A Eleonora não disse nada. Mas guardou. Josh viu ela guardar.
-
-— A Aurora sente o quê, Vibeke? — perguntou o Raj. Não era um homem
-desatento; tinha ouvido a metade da frase como todo mundo.
-
-A Vibeke engoliu.
-
-— Que ela é nova demais — disse a Vibeke, e foi uma recuperação
-decente pra alguém apavorada. — Que ela tem dezesseis anos e o coração
-dela ainda é de menina e que esse homem é velho e ela merece... merece
-escolher.
-
-O Raj olhou pra Vibeke por um instante. Josh viu o padrinho decidir
-não levar a sério. O Raj estava cansado, e tinha uma filha pra entregar
-contra a própria vontade, e não tinha sobra de alma naquela manhã pra
-investigar o que uma sobrinha de dezessete anos quis dizer com uma
-frase pela metade.
-
-— Ninguém aqui está feliz com isso, Vibeke — disse o Raj, e a voz dele
-saiu com um cansaço que Josh nunca tinha ouvido nele. — Eu menos do que
-todos. Mas tem coisa que não é sobre ser feliz. É sobre o que precisa
-ser feito pra família ficar de pé. Um dia você entende.
-
-Saiu da sala. A Eleonora levantou do banco do cravo, passou pela
-Vibeke, e antes de sair olhou mais uma vez — não pra Vibeke. Pra Josh.
-
-Josh sustentou. Mas soube, quando ela saiu, que a Eleonora ia voltar
-àquele olhar.
-
-*
-
-O Herr Henning Lindberg chegou às quatro horas em ponto.
-
-Josh o viu da janela do quarto leste e desceu pra sala porque não
-conseguiu não descer. Ficou no canto, perto da porta, onde um afilhado
-podia ficar.
-
-À primeira vista, Lindberg era um homem comum. Bem-vestido. Casaco bom,
-de corte recente, botões de bom metal. Cinquenta e poucos anos. Cabelo
-grisalho penteado com cuidado. Fazia reverência na medida, falava na
-medida, sorria na medida. Um homem de negócios que tinha aprendido as
-maneiras tarde na vida e que as executava com a perfeição artificial de
-quem decorou cada uma.
-
-Foi de perto que a coisa apareceu.
-
-Josh viu quando Lindberg pegou a mão de Aurora pra cumprimentar. Viu o
-dente faltando no canto da boca, que só aparecia no sorriso largo. Viu
-a mão de Lindberg, grande e úmida, segurar a de Aurora um segundo mais
-do que a cortesia pedia, e viu o polegar de Lindberg passar pelas
-costas da mão dela num afago que não tinha nada de formal. Viu Aurora
-não mexer um músculo do rosto, de porcelana, e viu o esforço que a
-porcelana custou.
-
-A Eleonora sentou ao cravo e tocou Bach, baixo, e ficou vigiando entre
-uma peça e outra com os olhos por cima do teclado, e Josh nunca tinha
-gostado tanto da Eleonora quanto naquela tarde, porque os olhos dela
-em cima do Lindberg eram a única proteção que Aurora tinha naquela
-sala.
-
-Lindberg conversou. Falou de coisas que possuía. Uma casa nova na
-Bredgade, mais perto do canal. Móveis encomendados de Hamburgo. Falou
-disso pra Aurora como quem mostra um estábulo a uma égua que acabou de
-comprar, e Josh, no canto, fechou e abriu a mão três vezes pra não
-fazer nada com ela.
-
-E então Lindberg pediu.
-
-— Eu gostaria de um momento a sós com a senhorita Aurora — disse ele à
-Eleonora, com o sorriso na medida. — Um passeio pelo jardim, talvez. Os
-noivos precisam se conhecer.
-
-Josh viu a Eleonora hesitar. Viu o desgosto passar pelo rosto dela, um
-desgosto que ela não escondeu inteiro, e viu a Eleonora pesar a
-indecência de um passeio a sós contra a indecência maior de ofender o
-homem de quem dependia a família. A Eleonora cedeu. Foi a coisa mais
-contra a vontade que Josh já a viu fazer.
-
-— Os portões do jardim ficam à vista da janela — disse a Eleonora, e a
-frase era pro Lindberg, e era um aviso. — Não demorem.
-
-*
-
-Josh devia ter ido embora.
-
-Tinha decidido, naquela manhã, depois de fechar a carta, que ia se
-mudar pro Regensen. Tinha até começado a juntar os livros. Não tinha
-o que fazer naquele jardim. Ia só se torturar olhando o homem
-caminhar com a Aurora entre as roseiras do Aarav.
-
-Mas tinha ido ao jardim mesmo assim, pela porta dos fundos, pra ficar
-um último minuto perto do banco da pérgola antes de juntar o resto das
-coisas. E estava ali, na sombra da pérgola, quando Lindberg e Aurora
-dobraram o caminho de cascalho e sumiram da linha da janela da sala,
-atrás da sebe de hera que separava a pérgola do resto do jardim.
-
-À vista da janela, como a Eleonora tinha exigido, não estavam mais.
-
-Josh ouviu antes de ver. Ouviu o cascalho parar. Ouviu a voz de
-Lindberg baixar pra um registro que não era o da sala. Ouviu Aurora
-dizer *não*, baixo, uma vez, com a porcelana rachando na palavra.
-
-Quando Josh contornou a hera, viu Lindberg com uma mão no braço de
-Aurora, segurando, e a outra mão subindo pra cintura dela, e Aurora
-recuando contra a sebe com o rosto virado pro lado e as duas mãos no
-peito do homem tentando empurrar um corpo que pesava o dobro do dela.
-
-Josh não pensou.
-
-Atravessou os passos que faltavam e bateu. Não foi um tapa de
-cavalheiro. Foi um soco fechado, de quem rachou lenha a vida inteira,
-de quem ergueu viga e carregou tora, e acertou Lindberg no canto da
-boca, exatamente onde faltava o dente, e o homem girou meio corpo e
-caiu de joelhos no cascalho com a mão na cara.
-
-Aurora soltou um som. Josh a puxou pra trás de si, pôs o corpo dele
-entre ela e o homem no chão, e ficou ali, com a respiração alta e a
-mão direita latejando e o sangue do Lindberg nos nós dos dedos.
-
-— Levanta e sai — disse Josh. A voz saiu baixa, e foi pior do que se
-tivesse saído alta. — Antes que eu esqueça de quem eu sou.
-
-Lindberg levantou devagar, com a mão na boca, e olhou pra Josh com um
-olho que não tinha mais nada de polido. Era o olho de um homem que
-arquivava ofensas pra cobrar com juros. Não disse nada. Cuspiu sangue
-no cascalho branco do jardim do Aarav, ajeitou o casaco, e saiu pela
-lateral sem olhar pra trás.
-
-Aurora, atrás de Josh, tinha a mão na boca e os olhos cheios.
-
-— A sua mão — disse ela.
-
-— Não é nada.
-
-— Josh, a sua mão.
-
-— Aurora. — Ele virou. Pegou o rosto dela. — Você está bem? Ele
-machucou você?
-
-Ela balançou a cabeça que não. E Josh fechou os olhos de alívio, e foi
-só aí que ele percebeu o tamanho do que tinha acabado de fazer, e pra
-quem, e quem estava devendo a quem naquela casa.
-
-*
-
-O Raj o chamou ao escritório antes do jantar.
-
-Josh entrou sabendo o que vinha. O Lindberg tinha ido embora sem o
-acordo selado em papel, com o lábio partido, e devia ter dito alguma
-coisa na saída, porque o Raj estava de pé atrás da escrivaninha com o
-rosto fechado.
-
-— Você bateu no homem com quem a minha filha vai casar.
-
-— Bati.
-
-— Você tem ideia do que você fez, Josh? Você tem ideia da posição em
-que você me pôs?
-
-— Eu tenho. — Josh não baixou os olhos. — E eu faria de novo, padrinho.
-Qualquer homem que pusesse a mão numa moça dessa casa contra a vontade
-dela levava o mesmo. Não importa quem ele é nem o que o senhor deve a
-ele. Eu fui criado assim. O senhor sabe por quem.
-
-Era verdade. Cada palavra era verdade. E era também uma mentira, porque
-Josh não tinha batido em Lindberg só por ser uma moça da casa. Tinha
-batido porque era Aurora. E ele deixou o padrinho acreditar na verdade
-pra esconder a mentira que estava por baixo dela. Usar uma verdade pra
-abrigar uma mentira era a coisa mais desonesta que Josh tinha feito na
-vida inteira, e ele fez olhando o Raj nos olhos.
-
-O Raj olhou pra ele um tempo longo. Depois o rosto dele amoleceu, e
-ficou só cansado, e por um instante Josh quase preferia que o padrinho
-tivesse gritado.
-
-— Eu sei por quem você foi criado — disse o Raj, baixo. — A Casandra
-criou bem. — Sentou na cadeira. Passou a mão no rosto. — Você não
-entende o que está em jogo, meu rapaz. Você acha que isso é sobre uma
-dívida. Não é só sobre uma dívida. Esse homem... — parou. Escolheu não
-terminar. — Tem coisa que é melhor você não saber. Faz o favor de não
-chegar perto do Lindberg de novo. Por você. Pela Aurora. Por mim.
-
-Josh ouviu o que o Raj não disse. Ouviu o suficiente pra entender que o
-Lindberg era mais perigoso do que um credor cobrando, e que o Raj não
-estava entregando a filha só por dinheiro, e que havia uma ameaça
-naquilo que o padrinho carregava sozinho e não ia dividir com ninguém.
-
-— Padrinho — disse Josh. — Eu vim aqui pra outra coisa também.
-
-— Diz.
-
-E Josh mentiu pela segunda vez em uma hora.
-
-— A minha prova de ingresso é em outubro. Faltam seis semanas. O senhor
-tem ensinado a mim com a própria mão esses cinco meses, e eu sou grato,
-mas o senhor agora tem a casa pra cuidar, e a Aurora, e essa situação
-toda, e não é justo eu tomar o tempo do senhor pra estudar Locke quando
-o senhor tem isso tudo na cabeça. Tem uns grupos de estudo no Regensen,
-com outros candidatos. A biblioteca da universidade fica logo ali. Eu
-queria me mudar pra lá pra essas últimas semanas. Eu acho que é melhor
-pra prova.
-
-Era uma mentira boa, porque era feita de verdades. A prova era em
-outubro. O Raj estava sem tempo. Os grupos de estudo existiam.
-
-A mentira era o motivo. O motivo era que Josh não conseguia mais dormir
-a um corredor de distância da Aurora prometida a outro homem sem ter o
-que oferecer a ela. O motivo era que ele tinha lido a carta e a conta
-não fechava, e que um homem que dá a palavra e não pode cumprir não
-tem o direito de ficar por perto fingindo que pode. O motivo era que
-ele precisava sair daquela casa pra conseguir pensar em como cumprir
-uma promessa que, naquela manhã, parecia impossível.
-
-— Tudo bem — disse o Raj. E acrescentou, sem saber o tamanho do
-estrago que a frase ia fazer no Josh: — Você é um bom rapaz, Josh. Eu
-tenho sorte de ter você em casa.
-
-Josh saiu do escritório com o gosto da segunda mentira na boca. Tinha
-mentido duas vezes pro homem que o tinha recebido com a confiança
-inteira. E nenhuma das duas mentiras ele conseguia desfazer, porque as
-duas, no fundo, protegiam Aurora. E proteger Aurora tinha virado, em
-catorze dias de Sorø, a coisa que ele punha acima até de ser quem ele
-era.
-
-*
-
-Josh não se despediu da Aurora. Não como despedida.
-
-Encontrou ela no corredor à noite, depois que a casa se aquietou.
-Aurora tinha ouvido ele passar e abriu a porta do quarto. Tinha os
-olhos ainda inchados do dia, e o cabelo solto, e estava com a expressão
-de quem não sabia o tamanho do que ia perder porque ninguém tinha
-contado.
-
-— Obrigada — disse ela. — Pelo jardim. Pelo soco. Por hoje de manhã.
-
-— Não diz isso.
-
-— Por quê?
-
-— Porque eu não fiz por gentileza, Aurora. Eu não quero que você me
-agradeça como se eu tivesse feito um favor.
-
-Aurora olhou pra ele. Josh viu que ela queria dizer mais, e que não
-tinha palavra pra mais, do mesmo jeito que ele não tinha.
-
-Josh pôs a mão na lateral do rosto dela. Uma última vez, embora ela
-não soubesse que era uma última vez.
-
-— Aurora. Escuta uma coisa. — A voz dele saiu firme, mas Josh teve que
-forçar a firmeza, e esperou que ela não percebesse. — Você é a coisa
-mais importante que já me aconteceu. Foi desde o primeiro dia, naquela
-escada, quando você me odiou com vontade. Vai ser sempre. Não importa o
-que aconteça daqui pra frente, não importa o que você ouça, não importa
-quem te diga o quê. Isso não muda. Você é forte. Mais forte do que essa
-casa inteira sabe. Não esquece disso quando você mais precisar.
-
-Aurora franziu a testa.
-
-— Por que você está falando assim?
-
-— Porque é verdade. — Josh tirou a mão do rosto dela. — Vai dormir.
-Amanhã é um dia melhor que hoje. Eu prometo.
-
-Era a única promessa que ele tinha certeza de poder cumprir, porque
-qualquer dia ia ser melhor do que aquele, e porque amanhã, quando ela
-acordasse, ele não ia mais estar ali pra tornar pior a despedida que
-ele não teve coragem de dar.
-
-Aurora foi dormir. Olhou pra ele uma vez antes de fechar a porta, e
-Josh gravou o rosto dela na porta entreaberta, e levou pra dentro
-junto com tudo que ele tinha decidido não esquecer, e desejou boa
-noite.
-
-*
-
-Josh partiu antes do sol.
-
-Juntou os livros, os cinco que tinha trazido da fazenda em abril e os
-que o Raj tinha emprestado e que ele ia devolver pelo correio. Pôs a
-carta da mãe no fundo da mala, junto com o número que não bastava. Pôs
-o lenço com as iniciais J.R. que a mãe tinha bordado, o mesmo modelo do
-que ela tinha dado pra Aurora em Sorø.
-
-Desceu a escada decorando os degraus pela última vez. O décimo segundo
-rangeu, baixo, e Josh parou nele um segundo, porque tinha sido naquela
-escada que ele tinha visto a Aurora pela primeira vez, cinco meses
-antes, furiosa e pequena e com olhos de mel, decidida a odiá-lo por ele
-ter ousado existir na cadeira que não era do irmão dela.
-
-Deixou um bilhete pro Raj na mesa do escritório, agradecendo a
-hospedagem e confirmando o Regensen. Não deixou bilhete pra Aurora. Não
-tinha o que escrever que coubesse num bilhete, e o que cabia ele não
-podia escrever.
-
-Saiu pela porta lateral, a mesma que a Helle deixava destrancada pra
-ele à noite nos primeiros meses, e fechou atrás de si sem fazer
-barulho.
-
-O céu estava cinza, indo pra leite. A Bredgade estava vazia àquela
-hora. Josh atravessou o portão e virou na direção do Bairro Latino, com
-a mala num ombro e a fortuna que não bastava no fundo dela, com seis
-semanas até a prova e o resto da vida até conseguir cumprir a palavra
-que tinha dado a uma moça que ainda dormia, sem saber, no quarto que
-ele tinha entrado uma vez e que ele não ia entrar de novo até ter o que
-oferecer.
-
-Atrás dele, a casa dormia. Aurora dormia.
-
-Quando ela acordasse, ele não ia estar lá.
+na escrivaninha enquanto o dia nascia.
+
+A janela foi clareando de cinza fundo pra cinza claro, depois pra
+leite, depois pra um amarelo pálido que ia virar manhã de fim de
+agosto em Copenhague. Josh ficou olhando o céu mudar de cor e não se
+mexeu.
+
+Lá no outro lado do corredor, Aurora ainda dormia, abraçada num
+travesseiro que tinha sido o peito dele havia uma hora, sem saber, na
+calma do sono, que o homem que tinha dado a palavra estava sentado a
+quinze passos com a fortuna da vida na mão direita e a conta que não
+fechava na esquerda.
 
 ---
 
