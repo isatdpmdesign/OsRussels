@@ -47,19 +47,39 @@ o gosto de ver o efeito.
 
 Doeu nele ver aquilo. Mais do que ele esperava.
 
-— Bem-vindo de volta, meu rapaz. — Raj desceu os
-três degraus, abraçou Josh do jeito de afilhado,
-breve, com a mão direita batendo duas vezes nas
-costas dele e a esquerda no braço. — Aurora.
+Aurora desceu primeiro. Pisou na pedra da Bredgade
+e ergueu o rosto pro pai.
 
-Raj abraçou a filha mais demorado. Mais firme. Sem
-dizer nada.
+— Papai.
 
-A Eleonora, que tinha ficado em pé na soleira,
-desceu também e beijou a testa de Aurora.
+— Filha.
+
+O Raj desceu os três degraus, abriu os braços, e
+abraçou Aurora. Demorado. Firme. Sem dizer nada
+além daquele "filha" que tinha saído seco como
+quem tinha decorado a palavra na garganta antes de
+deixar a porta abrir.
+
+A Eleonora desceu também e beijou a testa de
+Aurora.
 
 — Você emagreceu — disse a Eleonora. — Vamos pra
 dentro, está esfriando.
+
+Só depois o Raj virou pro Josh. Soltou a Aurora.
+Estendeu a mão.
+
+— Bem-vindo de volta, meu rapaz.
+
+— Padrinho.
+
+O aperto foi breve, com a mão direita do Raj
+batendo duas vezes nas costas do Josh e a esquerda
+no braço. Era o cumprimento de afilhado de sempre.
+Mas Josh sentiu a pressão um milímetro mais firme
+do que o normal, e entendeu que o padrinho estava
+dizendo, sem palavra, *fica perto, eu vou precisar
+de você nas próximas horas*.
 
 Os olhos da Eleonora subiram pro Josh meio
 segundo. Foi um meio segundo só, mas a Eleonora
