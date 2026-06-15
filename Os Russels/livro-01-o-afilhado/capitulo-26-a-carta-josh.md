@@ -58,7 +58,21 @@ O Raj desceu os três degraus, abriu os braços, e
 abraçou Aurora. Demorado. Firme. Sem dizer nada
 além daquele "filha" que tinha saído seco como
 quem tinha decorado a palavra na garganta antes de
-deixar a porta abrir.
+deixar a porta abrir. Quando soltou a filha, falou
+sem rodeio, antes mesmo de cumprimentar o Josh:
+
+— Aurora. A gente precisa conversar. Depois do
+jantar. No escritório.
+
+— Tá bom, papai.
+
+Josh ouviu a frase e o céu ficou um milímetro mais
+baixo em cima dele. Não tinha sido nenhuma das
+saudações que o Raj costumava fazer pra quem
+voltava de viagem. Não era frase de hóspede de
+soleira. Era frase de pai que tinha uma decisão na
+mão e tinha decidido só esperar a filha terminar o
+prato antes de mostrar a mão.
 
 A Eleonora desceu também e beijou a testa de
 Aurora.
@@ -66,8 +80,7 @@ Aurora.
 — Você emagreceu — disse a Eleonora. — Vamos pra
 dentro, está esfriando.
 
-Só depois o Raj virou pro Josh. Soltou a Aurora.
-Estendeu a mão.
+Só depois o Raj virou pro Josh. Estendeu a mão.
 
 — Bem-vindo de volta, meu rapaz.
 
@@ -115,16 +128,30 @@ ensinado. Helle ergueu o olho pro Josh enquanto
 passava com o pano da mala no ombro, e Josh viu,
 naquele meio segundo, que ela tinha visto tudo.
 Que aquela mulher trabalhava naquela casa havia
-anos, ouvia tudo, limpava tudo, levava bandeja,
-recolhia copo, e sabia exatamente o que tinha
-rolado entre o Josh e a Aurora dentro daqueles
-cômodos nos cinco meses, provavelmente antes deles
-mesmos saberem. Helle não disse nada. Não
-precisava dizer. Os olhos dela foram pro Josh um
-instante, depois pra escada onde a Aurora tinha
-subido, depois pro chão, e nesse trajeto Josh
-entendeu que tinha uma aliada calada naquela casa
-que ele não tinha contado.
+anos. Que era a Helle que recolhia copo, levava
+bandeja, ficava em pé na porta da biblioteca
+esperando o Raj sair pra entrar e limpar. Que era
+ela que tinha visto, sem precisar olhar, a
+Eleonora chorar no quarto fechado três vezes nos
+últimos quatorze dias. Que era ela que tinha visto
+o Raj sair às quatro da manhã pra encontro com
+gente de cidade nesses mesmos catorze dias, e
+voltar com o casaco amassado e o queixo
+endurecido. Que era ela que tinha visto, pelo
+canto do olho, o Josh e a Aurora passarem um pelo
+outro nos corredores da Bredgade nesses cinco
+meses, e tinha sabido nos dois ou três primeiros
+meses o que eles dois só foram saber em junho. As
+criadas sabem. As criadas sabem porque escutam
+tudo, limpam tudo, vão e voltam por trás das
+portas sem ninguém notar, e o que elas guardam é a
+verdade da casa que os patrões não têm tempo de
+ver. Helle não disse nada. Não precisava dizer. Os
+olhos dela foram pro Josh um instante, depois pra
+escada onde a Aurora tinha subido, depois pro
+chão, e nesse trajeto Josh entendeu que tinha uma
+aliada calada naquela casa que ele não tinha
+contado.
 
 Josh subiu pro quarto leste pra dar espaço. Era o
 que um afilhado fazia. Fechou a porta. E a
@@ -194,26 +221,23 @@ soube por quê. A Aurora também tinha lido o queixo
 do pai.
 
 O Raj pousou o guardanapo antes da sobremesa.
+Levantou da mesa sem dizer mais nada além de
+"Aurora, eu te espero no escritório quando você
+terminar" — frase repetida do que tinha sido dito
+na soleira, agora seca, sem afeto, pra a Vibeke
+ouvir que tinha hora marcada.
 
-— Aurora. — Foi a primeira vez na refeição inteira
-que ele falou na mesa. — Vem ao escritório quando
-terminar. Eu preciso falar com você.
+A Vibeke, que tinha falado a refeição inteira,
+parou de falar. Olhou pra Aurora. Olhou pra porta
+por onde o Raj tinha saído. Olhou pra Aurora de
+novo. E foi nesse silêncio dela que Josh viu a
+Vibeke começar a entender que tinha alguma coisa
+acontecendo que ela não tinha visto chegar.
 
-Não foi uma pergunta. Aurora pousou a colher.
+— Tia — disse a Vibeke, baixo, pra Eleonora. — É
+sobre alguma...
 
-— Sim, papai.
-
-A Vibeke parou de falar pela primeira vez na
-refeição inteira. Olhou pra Aurora. Olhou pro Raj.
-Olhou pra Aurora de novo. E foi nesse silêncio
-dela que Josh viu a Vibeke começar a entender que
-tinha alguma coisa acontecendo que ela não tinha
-visto chegar.
-
-— Tio. — A Vibeke tentou. — É sobre alguma...
-
-— Vibeke. — A Eleonora, baixo. — Pede sobremesa,
-querida. A Helle está esperando.
+— Pede sobremesa, querida. A Helle está esperando.
 
 A Vibeke fechou a boca devagar.
 
@@ -362,8 +386,8 @@ raiva dele. Era de outra coisa.
 
 — Como assim? — disse Josh, e a voz saiu rouca, e
 ele teve que repetir num tom menor pra ela não
-sentir a raiva por baixo. — Aurora. Como assim,
-casar com um homem que você nunca viu.
+sentir a raiva por baixo. — Aurora. Como assim
+casar com um homem que você nunca viu?
 
 Aurora ergueu o rosto o suficiente pra falar. A
 face dela estava molhada da bochecha ao queixo, e
@@ -436,11 +460,12 @@ dele do quarto da Meridiana e estava contando
 nela.
 
 — Eu sei — disse Josh. — Em Sorø. Você me disse
-que ia casar comigo, e eu te disse que ia
-trabalhar pra isso. Pra isso era pra te casar,
-Aurora. Era pra ser eu na frente do altar, não um
-velho que te comprou com a dívida do teu pai. Eu
-te disse e eu vou. Olha pra mim. Eu vou.
+que ia casar comigo. Eu te disse que ia trabalhar
+pra conseguir isso. Trabalhar pra te casar, é o
+que eu te disse, Aurora. Era pra ser eu na frente
+do altar, não um velho que te comprou com a dívida
+do teu pai. Eu te disse e eu vou. Olha pra mim. Eu
+vou.
 
 — Eu acredito.
 
@@ -452,6 +477,16 @@ duas mãos. — Eu acredito porque é você.
 Josh ficou um segundo sem ar.
 
 *
+
+Josh respirou. Levantou meio corpo do chão como
+quem ia se acomodar pra falar mais.
+
+— Aurora. Você precisa dormir. Foi notícia demais
+pra uma noite só. O sono vai te fazer bem. Você
+acorda amanhã com a cabeça um pouco mais clara, e
+a gente vai conseguir pensar direito no que fazer.
+
+Aurora ficou olhando pra ele um segundo.
 
 — Fica — disse Aurora.
 
@@ -493,7 +528,12 @@ tecido e a mão ficou só pousada ali, no esterno
 dele, subindo e descendo com a respiração dele.
 
 Josh fechou os olhos. Pensou que não ia conseguir
-dormir. Adormeceu ao lado dela em pouco tempo.
+dormir. Mas o calor de Aurora no peito dele, e o
+compasso da respiração dela contra a costela, e o
+peso do braço dela pousado no esterno, foram
+soltando os ombros que ele tinha mantido travados
+desde a soleira. Em pouco tempo, sem perceber, ele
+adormeceu também.
 
 *
 
