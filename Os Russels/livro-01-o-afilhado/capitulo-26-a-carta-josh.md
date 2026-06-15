@@ -12,17 +12,18 @@ Josh soube que tinha dado errado antes de descer
 da carruagem.
 
 Soube pelo Raj na soleira. O Raj estava no alto
-dos três degraus do portão como sempre estava
-quando alguém chegava de viagem, com as mãos
-cruzadas atrás do corpo e o casaco escuro fechado
-até o último botão. Era o lugar e era a postura.
-Mas o queixo do Raj estava um milímetro abaixado,
-e a cabeça inclinada meio grau pra direita, e Josh
-tinha passado cinco meses estudando a economia de
-gestos daquele homem. O queixo abaixado e a cabeça
-inclinada não eram a postura de quem recebe gente.
-Eram a postura de quem ia ter que dizer alguma
-coisa que ele preferia não dizer.
+dos três degraus do portão, com as mãos cruzadas
+atrás do corpo e o casaco escuro fechado até o
+último botão. Não era a postura dele de receber
+gente. Não era o lugar. O Raj recebia hóspede no
+hall, com a porta aberta, com a Eleonora um passo
+atrás e o sorriso de educação na medida. Aquela
+postura ali, no portão, com as mãos atrás do corpo
+e o queixo um milímetro abaixado e a cabeça
+inclinada meio grau pra direita, era a postura de
+quem ia ter que dizer alguma coisa que ele
+preferia não dizer, antes mesmo do hóspede entrar
+em casa.
 
 E soube pela Eleonora. A Eleonora estava ao lado
 do marido, do tamanho de uma mulher que não dormia
@@ -86,10 +87,24 @@ A Eleonora pôs a mão na bochecha da Vibeke.
 
 Entraram. Josh ficou por último, segurando a porta
 pra Helle, que veio correndo do salão pra pegar o
-pano da mala. Helle viu a cara dele e não falou
-nada. Só ergueu a sobrancelha meio milímetro e
-desviou os olhos, do jeito de quem já leu a cena
-toda na soleira e não vai pedir explicação.
+pano da mala. O gesto era o que ele tinha
+aprendido na fazenda e nunca tinha desaprendido:
+criado da casa carregando coisa pesada de hóspede,
+hóspede segurando a porta. Casandra tinha
+ensinado. Helle ergueu o olho pro Josh enquanto
+passava com o pano da mala no ombro, e Josh viu,
+naquele meio segundo, que ela tinha visto tudo.
+Que aquela mulher trabalhava naquela casa havia
+anos, ouvia tudo, limpava tudo, levava bandeja,
+recolhia copo, e sabia exatamente o que tinha
+rolado entre o Josh e a Aurora dentro daqueles
+cômodos nos cinco meses, provavelmente antes deles
+mesmos saberem. Helle não disse nada. Não
+precisava dizer. Os olhos dela foram pro Josh um
+instante, depois pra escada onde a Aurora tinha
+subido, depois pro chão, e nesse trajeto Josh
+entendeu que tinha uma aliada calada naquela casa
+que ele não tinha contado.
 
 Josh subiu pro quarto leste pra dar espaço. Era o
 que um afilhado fazia. Fechou a porta. E a
@@ -230,7 +245,7 @@ Josh ficou de pé.
 
 Ficou de pé e não soube o que fazer com o próprio
 corpo. Entrar no quarto de uma moça, naquela casa,
-naquele ano, era uma coisa que não tinha
+naquela época, era uma coisa que não tinha
 desfazimento. Era a coisa que o Raj nunca
 perdoaria. Era a primeira parede inteira, a
 lealdade ao padrinho, de pé na frente dele em
@@ -311,9 +326,24 @@ o peito dele.
 — Eu vou ter que casar com um homem que eu nunca
 vi.
 
-Josh fechou os olhos.
+A mandíbula de Josh travou tão forte que ele
+sentiu o dente ranger. A mão que estava nas costas
+dela fechou em punho, atrás dela, onde ela não
+podia ver. O sangue subiu pelo pescoço dele com
+uma vontade que ele não tinha sentido nunca na
+vida: vontade de levantar daquele chão, descer a
+escada, entrar no escritório do Raj e perguntar
+*como*, como, um homem manda a filha pra cama de
+um credor pra fechar uma conta.
 
-— Conta.
+Não fez nada disso. Aurora estava chorando no
+peito dele. O que ela precisava agora não era da
+raiva dele. Era de outra coisa.
+
+— Como assim? — disse Josh, e a voz saiu rouca, e
+ele teve que repetir num tom menor pra ela não
+sentir a raiva por baixo. — Aurora. Como assim,
+casar com um homem que você nunca viu.
 
 Aurora ergueu o rosto o suficiente pra falar. A
 face dela estava molhada da bochecha ao queixo, e
@@ -323,7 +353,7 @@ odiou um pouco por achar.
 
 — Um tal de Henning Lindberg.
 
-— Quem é ele.
+— Quem é ele?
 
 — Eu não sei, Josh. Eu nunca vi esse homem na
 minha vida. Sei o nome dele só porque o papai
@@ -334,25 +364,12 @@ carga inteira e o papai ficou devendo, e esse
 homem é o maior dos credores, e ele... ele só
 perdoa a dívida se eu casar com ele.
 
-— Quando.
+— Quando?
 
 — Em outubro.
 
-Josh contou seis semanas na cabeça e a conta saiu
-pelo corpo dele todo de uma vez. A mandíbula
-travou tão forte que ele sentiu o dente ranger. A
-mão que estava nas costas dela fechou em punho,
-atrás dela, onde ela não podia ver. O sangue subiu
-pelo pescoço dele com uma vontade que ele não
-tinha sentido nunca na vida: vontade de levantar
-daquele chão, descer a escada, entrar no
-escritório do Raj e perguntar *como*, como, um
-homem manda a filha pra cama de um credor pra
-fechar uma conta.
-
-Não fez nada disso. Aurora estava chorando no
-peito dele. O que ela precisava agora não era da
-raiva dele. Era de outra coisa.
+Josh contou seis semanas na cabeça. Seis semanas.
+Não eram seis semanas, eram seis pestanejos.
 
 — O papai já aceitou — disse Aurora. — Eu
 perguntei se tinha o que discutir e ele disse que
@@ -375,8 +392,8 @@ Aurora levantou o rosto. Josh pegou as duas faces
 dela nas mãos. Enxugou com os polegares, primeiro
 um lado, depois o outro, devagar.
 
-— Eu te dou minha palavra de uma coisa, Aurora.
-Você não vai casar com esse homem.
+— A gente vai dar um jeito, Aurora. Eu te dou
+minha palavra. Você não vai casar com esse homem.
 
 Aurora respirou fundo. Os olhos dela buscaram os
 dele.
@@ -386,7 +403,7 @@ dele.
 — Eu não sei como ainda. — A honestidade saiu
 inteira, porque ele não sabia mentir, e menos
 ainda pra ela. — Mas eu sei que eu não vou deixar
-isso acontecer. Eu te dou a minha palavra.
+isso acontecer.
 
 — Você já me deu a sua palavra uma vez.
 
@@ -398,9 +415,12 @@ dizendo, sem dizer, que tinha guardado a palavra
 dele do quarto da Meridiana e estava contando
 nela.
 
-— Eu sei — disse Josh. — Em Sorø. Eu te disse que
-ia trabalhar pra isso. E eu vou. Aurora, olha pra
-mim. Eu vou.
+— Eu sei — disse Josh. — Em Sorø. Você me disse
+que ia casar comigo, e eu te disse que ia
+trabalhar pra isso. Pra isso era pra te casar,
+Aurora. Era pra ser eu na frente do altar, não um
+velho que te comprou com a dívida do teu pai. Eu
+te disse e eu vou. Olha pra mim. Eu vou.
 
 — Eu acredito.
 
@@ -445,64 +465,6 @@ ombros dela e a segurou ali. Não foi um gesto de
 amante. Foi um gesto de quem segura uma pessoa pra
 ela não afundar.
 
-O quarto foi ficando escuro devagar. A vela da
-escrivaninha começou a falhar.
-
-— Josh.
-
-— Diz.
-
-— Por que você ficou parado naquela noite, em
-Sorø, quando eu disse?
-
-Ele não precisou perguntar que noite. Sabia.
-
-— Eu não fiquei parado. Eu fiquei sem fôlego.
-
-— Eu vi. — Aurora ajeitou a cabeça no peito dele,
-ouvindo o coração dele bater por baixo do tecido.
-— Você ficou um tempão sem falar nada. Eu achei
-que tinha falado coisa errada.
-
-— Você falou a coisa mais certa que eu já ouvi na
-vida.
-
-Aurora ficou quieta um segundo.
-
-— Por que então você ficou tanto tempo sem falar?
-
-Josh respirou fundo. A mão dele tinha encontrado o
-cabelo dela e estava passando os dedos por uma
-mecha sem pressa, sem chegar a afagar, só medindo.
-
-— Porque eu nunca tinha ouvido nada que doesse
-mais e curasse mais ao mesmo tempo. Quando você
-falou, eu fiquei com vontade de te casar ali
-mesmo, naquela cama, no quarto da minha irmã, com
-a minha mãe na cozinha, sem padre, sem cartório,
-sem nada. E ao mesmo tempo eu vi o tamanho do que
-eu tinha pra te oferecer. E o tamanho não fechava
-com o tamanho de você.
-
-— Josh.
-
-— Deixa eu terminar. — A voz dele estava rouca. —
-Eu fiquei sem falar porque eu estava fazendo a
-conta. Eu fiz a conta vinte vezes naqueles
-segundos. Não fechava. Eu te dei a palavra mesmo
-assim. Porque tinha que dar.
-
-Aurora estendeu a mão. Encontrou a mão dele no
-cabelo dela. Levou a mão dele pra boca dela e
-beijou o nó dos dedos. Beijo de pouco segundo, sem
-promessa, só de quem reconhece o que recebeu.
-
-— Eu também não consegui fazer a conta — disse
-Aurora, baixo. — Não fechava do meu lado nem. Mas
-a gente disse mesmo assim.
-
-— A gente disse.
-
 Aurora dormiu em poucos minutos. O choro tinha
 esvaziado ela. A respiração dela foi ficando funda
 contra o peito dele, e a mão fechada na camisa foi
@@ -511,7 +473,7 @@ tecido e a mão ficou só pousada ali, no esterno
 dele, subindo e descendo com a respiração dele.
 
 Josh fechou os olhos. Pensou que não ia conseguir
-dormir. Adormeceu em quinze minutos.
+dormir. Adormeceu ao lado dela em pouco tempo.
 
 *
 
@@ -585,7 +547,7 @@ nomear.
 Beijou a testa dela. Uma vez. Devagar. Ela não
 acordou.
 
-Tirou as botas da mão, abriu a porta sem barulho,
+Pegou as botas do chão, abriu a porta sem barulho,
 saiu, fechou.
 
 *
@@ -667,9 +629,9 @@ Josh tinha ouvido, semanas antes, atrás da estante
 grande da biblioteca, numa manhã que tinha
 começado às cinco e quarenta e cinco e tinha
 mudado tudo, o Raj e a Eleonora medirem o tamanho
-da dívida do naufrágio. Não era pequeno. Era do
-tamanho de um homem entregar a filha pra fechar a
-conta. E o prazo era outubro.
+da dívida do naufrágio. A dívida não era pequena.
+Era do tamanho de um homem entregar a filha pra
+fechar a conta. E o prazo era outubro.
 
 Josh pôs a quantia da herança da carta contra o
 tamanho da dívida que ele tinha ouvido na
@@ -692,10 +654,14 @@ no fim da carta. Subtraiu de novo. Subtraiu
 olhando, como se olhar mudasse. Não mudou.
 
 Ele tinha dado a palavra pra Aurora havia poucas
-horas. *Eu te dou a minha palavra de uma coisa,
-Aurora. Você não vai casar com esse homem.* E
-antes disso, havia catorze dias, tinha dado outra.
-*Eu vou trabalhar pra isso.*
+horas. *A gente vai dar um jeito. Você não vai
+casar com esse homem.* E antes disso, havia
+catorze dias, no quarto da Meridiana, depois que
+ela tinha dito que ia casar com ele, ele tinha
+dado a primeira palavra: *Eu vou trabalhar pra
+isso.* Pra isso era pra casar com ela. Pra isso
+era ele de pé no altar, ele na frente do padre,
+ele e Aurora.
 
 E agora tinha na mão a única coisa que ele poderia
 ter usado pra cumprir as duas palavras, e a coisa
