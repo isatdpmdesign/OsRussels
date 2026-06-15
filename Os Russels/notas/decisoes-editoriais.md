@@ -19,7 +19,7 @@
 | **Régua dos personagens** | Cada personagem cria a própria imagem do mundo. Aurora descreve o Dylan com a régua dela (Bredgade dela, contraste com Erik etc.), não eco do que o Josh já falou. | jun/2026 |
 | **Cota de fórmulas** | Máximo ~10 construções "como quem X / do jeito que Y / com a Z de quem W" por capítulo de 4-5 mil palavras. | jun/2026 |
 | **Travessão SÓ em fala** | Narração usa parênteses, dois-pontos, vírgula ou ponto. Travessão fica reservado pra fala e interrupção dramática (gritos, repetição enfática, intercalação fala-narração). | jan/2026 (já no CLAUDE.md original) |
-| **Sem artigo antes de Josh/Aurora em narração** | "Josh desceu" / "Aurora viu", não "o Josh desceu". Em FALA o artigo é permitido. | jan/2026 |
+| **Sem artigo antes de NOME PRÓPRIO em narração e fala** | Expandido em jun/2026: regra vale pra **todos os personagens** (Raj, Eleonora, Vibeke, Helle, Casandra, Meridiana, Joseph, Dylan, Matias, Henrik, Lindberg, Aarav, Erik, Ingrid, Aksel, etc.), tanto em narração quanto em fala. Antes era só Josh/Aurora. **A fazer:** rodar regra retroativa nos caps 1-27 já em `main`. | jan/2026 + jun/2026 |
 | **Anti-aforismo de fechamento** | Parágrafos podem terminar mal, no meio, secos. Não fechar tudo redondo. | jun/2026 |
 | **Cenas íntimas: a cena DO LIVRO** | Sem explícito gráfico/mecânico, mas com sensorial intenso. Metáfora e ritmo a ponto de **arrepiar a leitora**. Não fade preguiçoso. | jun/2026 |
 | **Pingue-pongue monossilábico** | No máximo 2 trocas seguidas. | jun/2026 |
