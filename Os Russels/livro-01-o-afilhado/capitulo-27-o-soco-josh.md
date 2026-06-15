@@ -24,17 +24,17 @@ ele sabia bater enchia uma conta daquele tamanho
 em seis semanas.
 
 Lavou o rosto. Vestiu a camisa de gola alta com o
-bordado da mãe na lapela, porque era a camisa que
-ele vestia quando não tinha forças pra escolher
-camisa, e desceu pro café.
+broche bordado pela mãe preso na lapela, porque
+era a camisa que ele vestia quando não tinha
+forças pra escolher camisa, e desceu pro café.
 
 A mesa estava posta com a precisão da Eleonora.
 Pão, manteiga, geleia de morango do verão, café
 fumegando. Mas só a Vibeke estava sentada. Vibeke
-tinha os olhos vermelhos de quem tinha dormido
-pouco, e o cabelo preso meio caído, e a mão
-segurando a xícara como se a xícara fosse mais
-quente do que era.
+estava com cara de sono de quem tinha acompanhado
+as movimentações na madrugada, com o cabelo preso
+meio caído, e a mão segurando a xícara como se a
+xícara fosse mais quente do que era.
 
 — Tio Raj pediu pra esperar — disse a Vibeke
 quando viu o Josh entrar. — Ele vai falar com a
@@ -72,14 +72,13 @@ tinha os olhos úmidos.
 
 — Ela tá bem?
 
-— Tá viva — disse Josh. E ouviu o que ele mesmo
-tinha dito, e quis recolher, mas era tarde. —
-Vibeke. Olha pra mim. Seja o que for que o tio Raj
-falar daqui a pouco, você fica do lado da Aurora.
-Não importa o que a tua tia disser, não importa o
-que o tio Raj disser. Você fica do lado dela. Você
-é a prima dela e é a única amiga de verdade que
-ela tem nessa casa. Tá bom?
+— Tá na medida do possível — disse Josh. — Vibeke.
+Olha pra mim. Seja o que for que o tio Raj falar
+daqui a pouco, você fica do lado da Aurora. Não
+importa o que a tua tia disser, não importa o que
+o tio Raj disser. Você fica do lado dela. Você é a
+prima dela e é a única amiga de verdade que ela
+tem nessa casa. Tá bom?
 
 A Vibeke sustentou o olhar. E fez uma coisa que
 Josh não tinha visto ela fazer em cinco meses, que
@@ -109,7 +108,8 @@ Josh ficou em pé perto da porta, onde um afilhado
 fica. O Raj atravessou a sala devagar e parou de
 costas pra lareira apagada.
 
-— Eu tenho uma notícia da família — disse o Raj.
+— Eu tenho uma notícia para a família — disse o
+Raj.
 
 A voz dele saiu medida. Mas Josh, que tinha
 aprendido a ler aquele homem em cinco meses, ouviu
@@ -661,7 +661,7 @@ rosto. Sentou na cadeira. Pareceu, por um segundo,
 vinte anos mais velho. — Eu sei que você faria,
 meu rapaz. A Casandra criou bem. Eu te conheço
 desde que você tinha as pernas finas demais pro
-corpo e a Meridiana usava de cavalo de
+corpo e a Meridiana te usava de cavalo de
 brincadeira. Eu sei como você foi criado. E eu vou
 te dizer uma coisa, porque eu te devo essa.
 
@@ -729,9 +729,8 @@ sala. Não era a hora.
 — Diz.
 
 — Eu posso voltar daqui a uma hora? Eu tenho uma
-coisa pra te dizer também. Não é hoje pra ser
-conversado agora. Eu preciso de uma hora pra pôr
-na cabeça.
+coisa pra te dizer também. Eu não consigo dizer
+agora. Eu preciso de uma hora pra pôr na cabeça.
 
 O Raj olhou pro Josh. Não perguntou o que era.
 Talvez já tivesse desconfiado. Talvez não.
@@ -758,21 +757,19 @@ fria que descia em barra reta no chão de madeira
 clara.
 
 Josh foi até a poltrona. Sentou no chão, encostado
-na lateral dela, na emenda do assoalho que a
-Eleonora nunca tinha consertado e que tinha
-incomodado a Aurora a vida inteira segundo a
-Aurora tinha contado naquela noite cinco meses
-atrás.
+na lateral dela.
 
-Era ali que ele tinha beijado a Aurora pela
-primeira vez, naquela madrugada de junho ou julho,
-ele não tinha certeza mais do mês, com a vela
-falhando na mesa lateral, com ela vinda de pé
-descalço pelo corredor procurando o livro de
-botânica que ela não ia ler. Era ali que ele tinha
-encostado a boca na clavícula dela pela primeira
-vez. Era ali que ela tinha dito *você nunca
-pergunta o que não te cabe perguntar, Josh*.
+Era ali que ele tinha beijado Aurora pela primeira
+vez, havia pouco mais de duas semanas, com a vela
+falhando na mesa lateral. Aurora já estava ali
+quando ele desceu — sentada no chão com o livro de
+Oehlenschläger do Aarav aberto no colo, xale nos
+ombros, vela acesa. Ele tinha descido descalço com
+uma vela apagada na mão, procurando outra coisa
+que não era livro. Era ali que ele tinha encostado
+a boca na clavícula dela pela primeira vez. Era
+ali que ela tinha dito *você nunca pergunta o que
+não te cabe perguntar, Josh*.
 
 Era o lugar certo pra pensar.
 
@@ -813,7 +810,7 @@ cobrir o que faltava em seis semanas de homem que
 tinha dado a palavra duas vezes pra uma moça e não
 ia voltar atrás.
 
-Pôde fazer alguma coisa nesse caminho?
+Poderia fazer alguma coisa nesse caminho?
 
 Talvez. Não sabia. Mas era o único caminho em que
 ele não fazia besteira maior do que já tinha
@@ -860,8 +857,8 @@ escritório do Raj. Bateu duas vezes.
 
 *
 
-— Padrinho, aproveitando que o senhor me chamou
-aqui mais cedo, eu tenho uma coisa pra te dizer.
+— Padrinho, voltei. Como o senhor disse que eu
+poderia voltar. Eu tenho uma coisa pra te dizer.
 
 — Diz.
 
@@ -917,9 +914,37 @@ Josh respirou. O padrinho não era bobo.
 
 — Da Casandra.
 
-— Da Casandra.
+— Da Casandra. — Josh ficou meio segundo sem
+entender como o padrinho tinha sabido. Depois
+entendeu, e doeu um pouco a confirmação. — A mãe
+te escreveu sobre ela?
 
-— Selada desde abril.
+— A Casandra me escreveu duas vezes nesses cinco
+meses sem fingir que era pra mim e não pra você.
+Uma vez em junho, contando que a Meridiana tinha
+visto uma poesia tua riscada e tinha entendido a
+mulher que estava entre as linhas. Outra em
+agosto, antes da tua viagem pra Sorø, dizendo só
+*"você vai entender quando ele chegar com a
+sobrinha da Eleonora"*. Eu li essa carta de pé na
+janela do escritório, três vezes, e entendi sem
+ela me explicar.
+
+Josh fechou os olhos.
+
+— A senhora deveria ter falado comigo.
+
+— Eu deveria. Eu não falei porque eu sou homem de
+casa antes de ser homem de fora, Josh, e essa não
+era a conversa que eu queria ter com o teu
+padrinho. A coisa subiu pela tua mãe primeiro, e
+eu deixei.
+
+— A carta selada de abril.
+
+— A carta selada de abril é a tua carta. — O Raj
+fechou o assunto. — A gente conversa quando você
+estiver pronto.
 
 — Selada desde abril. Eu li ontem à noite. Não dá
 pra te explicar hoje, padrinho. Me dá uns dias.
@@ -928,8 +953,8 @@ pra te explicar hoje, padrinho. Me dá uns dias.
 vai pro Regensen. Toma o tempo que precisar.
 Quando você quiser falar comigo, você me manda
 recado pelo correio interno ou aparece aqui na
-hora do café. Você está sempre bem-vindo nessa
-casa. Você entendeu?
+hora do café. Você é sempre bem-vindo nessa casa.
+Você entendeu?
 
 — Entendi.
 
@@ -1010,7 +1035,7 @@ Por hoje de manhã.
 
 — Não diz isso.
 
-— Por quê.
+— Por quê?
 
 — Porque eu não fiz por gentileza, Aurora. Eu não
 quero que você me agradeça como se eu tivesse
