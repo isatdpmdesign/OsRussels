@@ -252,7 +252,7 @@ Josh era educado com todas. Igualmente educado. Igualmente atencioso. Igualmente
 
 Aurora o conhecia bem.
 
-A percepção a assaltou sem aviso, como um degrau que se pisa no escuro. *Eu o conheço bem.* Dois meses. Manhãs na cozinha. Silêncios no corredor. A tesoura de poda. O livro de botânica. O verniz. O banco. A pérgola. A carta não entregue de Casandra. O sorriso torto que ela nunca vira de frente mas que adivinhava pela curvatura da voz. Dois meses, e Aurora conhecia Josh Russel melhor do que conhecia pessoas com quem convivia há anos.
+A percepção a assaltou sem aviso, como um degrau que se pisa no escuro. *Eu o conheço bem.* Dois meses. Manhãs na cozinha. Silêncios no corredor. A tesoura de poda. O livro de botânica. O verniz. O banco. A pérgola. O sorriso torto que ela nunca vira de frente mas que adivinhava pela curvatura da voz. Dois meses, e Aurora conhecia Josh Russel melhor do que conhecia pessoas com quem convivia há anos.
 
 Isso a irritou.
 

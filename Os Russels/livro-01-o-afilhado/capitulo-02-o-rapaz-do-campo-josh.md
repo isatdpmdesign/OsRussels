@@ -12,7 +12,7 @@ A última coisa que Josh viu antes da estrada engolir o horizonte foi a figura d
 
 Casandra Russel não chorava. Não era do feitio dela. Chorar era coisa que acontecia para dentro, como chuva que cai em poço fundo, e se alguém reparasse que os olhos estavam úmidos, a culpa era do vento. Sempre do vento. Mesmo quando não ventava.
 
-Ela estava com o avental de trabalho, as mãos vermelhas de quem tinha acabado de tirar pão do forno, os cabelos castanhos presos num coque que já perdia a batalha contra as mechas rebeldes das têmporas. Ao lado dela, encostado no pilar da varanda com os braços cruzados e uma expressão que tentava ser indiferente e falhava terrivelmente, estava Matias, dezesseis anos, o caçula, o que menos sabia disfarçar qualquer coisa.
+Ela estava com o avental de trabalho, as mãos vermelhas de quem tinha acabado de tirar pão do forno, os cabelos castanhos presos num coque que já perdia a batalha contra as mechas rebeldes das têmporas. Ao lado dela, encostado no pilar da varanda com os braços cruzados e uma expressão que tentava ser indiferente e falhava terrivelmente, estava Matias, treze anos, o caçula, o que menos sabia disfarçar qualquer coisa.
 
 — Ele vai chorar — disse Dylan, sentado ao lado de Josh na carruagem, olhando pela janela traseira. Dylan tinha dezenove anos e aquela capacidade irritante de dizer exatamente o que todos estavam pensando sem parecer afetado por nada. — Aposto meu canivete que ele chora antes de a gente virar a curva.
 
@@ -36,7 +36,7 @@ Dylan acompanhava Josh apenas até Roskilde, onde pegaria uma carona de volta co
 
 Dylan riu. Era um riso curto, seco, muito parecido com o do pai, ou pelo menos com o que Josh lembrava do riso do pai, que com o tempo ia ficando menos nítido, como uma pintura exposta ao sol por tempo demais.
 
-Henrik Russel morrera quando Matias tinha doze anos. Uma febre que começou como nada e terminou como tudo. Três semanas entre os primeiros calafrios e o último suspiro. Josh tinha dezessete. Lembrava-se de ter segurado a mão do pai no final e de ter sentido o exato momento em que a força daquela mão, uma mão que podia partir lenha e embalar um recém-nascido com a mesma destreza, se esvaiu como água escorrendo entre dedos.
+Henrik Russel morrera quando Matias tinha nove anos. Uma febre que começou como nada e terminou como tudo. Três semanas entre os primeiros calafrios e o último suspiro. Josh tinha dezessete. Lembrava-se de ter segurado a mão do pai no final e de ter sentido o exato momento em que a força daquela mão, uma mão que podia partir lenha e embalar um recém-nascido com a mesma destreza, se esvaiu como água escorrendo entre dedos.
 
 Depois disso, tudo mudou e nada mudou. A terra continuou precisando ser arada. Os animais continuaram precisando ser alimentados. O inverno continuou chegando sem pedir licença. E os cinco filhos de Casandra Russel continuaram sendo exatamente quem eram — só que agora sem a voz grave e calma do pai para dizer, no final de um dia longo, que tudo ficaria bem.
 

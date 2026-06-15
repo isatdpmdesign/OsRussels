@@ -136,7 +136,7 @@ Josh as observava à distância, sentado no degrau da porta dos fundos, com um l
 
 Levantou-se. Caminhou até a pérgola. E viu o problema.
 
-Uma das vigas de madeira que sustentava a estrutura, a viga lateral esquerda, a mais antiga, que já estava escurecida pela chuva e pelo tempo, tinha rachado. Não partido, não ainda, mas cedido o suficiente para que toda a lateral esquerda da pérgola se inclinasse perigosamente, puxando as glicínias para baixo e ameaçando desabar sobre o banco de ferro onde Aurora costumava sentar.
+Uma das vigas de madeira que sustentava a estrutura, a viga lateral esquerda, a mais antiga, que já estava escurecida pela chuva e pelo tempo, tinha rachado. Não partido, não ainda, mas cedido o suficiente para que toda a lateral esquerda da pérgola se inclinasse perigosamente, puxando as glicínias para baixo e ameaçando desabar sobre o banco de madeira onde Aurora costumava sentar.
 
 Josh avaliou o estrago com o olho de quem nasceu consertando coisas. A viga precisava ser substituída, mas por enquanto podia ser escorada. O problema era o peso das glicínias: os cachos de flores, bonitos como eram, acrescentavam quilos sobre uma estrutura que já estava comprometida. Se não aliviasse o peso e não pusesse um apoio temporário, a pérgola inteira cederia na próxima chuva forte.
 
@@ -184,7 +184,7 @@ Não tinha nada a ver com Josh.
 
 Quando chegou ao jardim, ele tinha terminado.
 
-A pérgola estava escorada. A lateral que ameaçava ceder estava firme, sustentada por duas toras posicionadas com uma precisão que revelava conhecimento, não improviso. Os galhos pesados das glicínias tinham sido reorganizados, amarrados com tiras do que parecia ser… o cinto do casaco dele? Sim. Ele cortara o cinto do casaco e o usara como amarra. O casaco estava pendurado no encosto do banco de ferro, órfão de cinto, e Josh estava sentado no degrau da porta, exatamente onde estivera antes, com o livro no colo, como se nada tivesse acontecido.
+A pérgola estava escorada. A lateral que ameaçava ceder estava firme, sustentada por duas toras posicionadas com uma precisão que revelava conhecimento, não improviso. Os galhos pesados das glicínias tinham sido reorganizados, amarrados com tiras do que parecia ser… o cinto do casaco dele? Sim. Ele cortara o cinto do casaco e o usara como amarra. O casaco estava pendurado no encosto do banco de madeira, órfão de cinto, e Josh estava sentado no degrau da porta, exatamente onde estivera antes, com o livro no colo, como se nada tivesse acontecido.
 
 Exceto que os cabelos estavam colados à testa de suor. A camisa estava úmida e tinha pétalas roxas grudadas no ombro esquerdo. Os pés descalços estavam sujos de terra. E as mãos, aquelas mãos que Aurora não conseguia parar de notar, tinham arranhões finos nos nós dos dedos, do tipo que se ganha ao trabalhar com madeira bruta.
 
@@ -206,7 +206,7 @@ A palavra saiu diferente. Não tinha a camada de porcelana. Não tinha o verniz.
 
 Aurora ficou parada por um momento. Queria dizer mais alguma coisa. Algo que reconhecesse o que ele fizera sem dar a esse reconhecimento um peso que ela não estava preparada para carregar. Algo que fosse mais do que *obrigada* e menos do que tudo o que estava se acumulando atrás das muralhas.
 
-— O banco — disse ela, apontando para o banco de ferro sob a pérgola. O banco onde ela lia. O banco onde cuidava das roseiras. O banco que era, de certa forma, o trono do seu território. — Aarav mandou fazer. Quando a pérgola ficou pronta. Disse que toda pérgola precisa de um banco, porque de que adianta ter sombra se não se tem onde sentar.
+— O banco — disse ela, apontando para o banco de madeira sob a pérgola. O banco onde ela lia. O banco onde cuidava das roseiras. O banco que era, de certa forma, o trono do seu território. — Aarav mandou fazer. Quando a pérgola ficou pronta. Disse que toda pérgola precisa de um banco, porque de que adianta ter sombra se não se tem onde sentar.
 
 Josh olhou para o banco. Depois para ela. Os olhos verdes, alaranjados agora, com a luz do fim de tarde e a barba de um dia refletindo na íris, tinham uma expressão que Aurora começava a reconhecer: atenção. Não a atenção educada dos salões. Atenção real. A atenção de quem guarda.
 
