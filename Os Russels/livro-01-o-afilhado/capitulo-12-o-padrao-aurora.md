@@ -76,7 +76,7 @@ Ingrid não reagiu imediatamente. Ficou parada com aquela imobilidade calculada 
 
 Aurora contou.
 
-Não tudo — não a cozinha às seis da manhã, não a caneca fria, não o *"fez falta"*, não o *"não confio em mim perto de você"*. Essas coisas eram dela e de Josh e não pertenciam a mais ninguém, nem mesmo a Ingrid. Mas contou sobre as aulas. Sobre o sorriso, o olhar, o toque, a pergunta. Sobre o jardim. Sobre os conselhos que Josh dava antes de cada encontro com pretendentes.
+Não tudo — não a cozinha às seis da manhã, não a caneca fria, não o *"fez falta"*, não o *"não confio em mim perto de você"*. Essas coisas eram dela e de Josh e não pertenciam a mais ninguém, nem mesmo Ingrid. Mas contou sobre as aulas. Sobre o sorriso, o olhar, o toque, a pergunta. Sobre o jardim. Sobre os conselhos que Josh dava antes de cada encontro com pretendentes.
 
 Ingrid ouviu em silêncio. Sem interromper. Sem comentar. Com aquela atenção feroz que transformava o simples ato de ouvir numa forma de raio-X.
 

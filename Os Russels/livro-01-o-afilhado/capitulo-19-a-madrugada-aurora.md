@@ -24,7 +24,7 @@ Página trinta e sete. Onde a fita azul estava. Aurora tinha colocado a fita ali
 
 "Hvad er det at leve, om ikke at brænde..."
 
-A linha era em dinamarquês antigo, do tipo que o Aarav lia em voz alta no jardim com os gestos teatrais que faziam Eleonora levantar uma sobrancelha e dar algumas risadas. Aurora reconheceu o ritmo antes mesmo de entender as palavras. O que é viver, senão arder. A frase soou na cabeça dela com a voz de Aarav, mais rouca do que ela lembrava do irmão, talvez porque a memória já estivesse perdendo um pouquinho do timbre dele e improvisando o resto.
+A linha era em dinamarquês antigo, do tipo que Aarav lia em voz alta no jardim com os gestos teatrais que faziam Eleonora levantar uma sobrancelha e dar algumas risadas. Aurora reconheceu o ritmo antes mesmo de entender as palavras. O que é viver, senão arder. A frase soou na cabeça dela com a voz de Aarav, mais rouca do que ela lembrava do irmão, talvez porque a memória já estivesse perdendo um pouquinho do timbre dele e improvisando o resto.
 
 Aurora segurou a página com mais firmeza.
 
@@ -144,13 +144,13 @@ Aurora não tinha pensado na frase antes de dizer. Saiu como se já estivesse pr
 
 Aurora abriu a boca para responder. Fechou. Aquilo era verdade, e a verdade tinha o tipo de peso que tornava resposta imediata uma traição da própria verdade. Aurora deixou a frase de Josh ocupar o cômodo por uns dois segundos antes de tentar a próxima.
 
-— Eu dancei com o Erik porque a mamãe queria que eu dançasse com alguém — disse ela, e enquanto falava notou que a voz não estava tremendo. Estava firme. Não era a firmeza confortável da Aurora de porcelana — era a firmeza desconfortável de quem está dizendo a verdade pela primeira vez sem ter ensaiado. — Dancei com um primo dos Lundgren cujo nome eu não consegui memorizar nem enquanto ele estava me dizendo. Olhei pra pista uma vez por dança e voltei o rosto pro ombro de quem eu dançava. E quando a carruagem chegou em casa eu fui pro quarto, deitei, e minha cabeça não parou de pensar. Aí eu desci. É por isso que eu estou aqui no chão, com um livro do meu irmão morto, às tantas da noite. Por que você está, Josh?
+— Eu dancei com Erik porque a mamãe queria que eu dançasse com alguém — disse ela, e enquanto falava notou que a voz não estava tremendo. Estava firme. Não era a firmeza confortável da Aurora de porcelana — era a firmeza desconfortável de quem está dizendo a verdade pela primeira vez sem ter ensaiado. — Dancei com um primo dos Lundgren cujo nome eu não consegui memorizar nem enquanto ele estava me dizendo. Olhei pra pista uma vez por dança e voltei o rosto pro ombro de quem eu dançava. E quando a carruagem chegou em casa eu fui pro quarto, deitei, e minha cabeça não parou de pensar. Aí eu desci. É por isso que eu estou aqui no chão, com um livro do meu irmão morto, às tantas da noite. Por que você está, Josh?
 
 Josh ficou um tempo sem responder. Quando respondeu, foi com a frase que Aurora não esperava.
 
 — Você contornou, mas não disse a verdade. A verdade de você estar aqui é que a sua cabeça não parou de pensar. Pensar em quê?
 
-— Em você dançando a noite toda com a Vibeke e não comigo — Aurora soltou num ímpeto irritadiço.
+— Em você dançando a noite toda com Vibeke e não comigo — Aurora soltou num ímpeto irritadiço.
 
 Josh não se moveu. A resposta tinha sido dita, e só Deus sabia o quanto ele teria preferido passar aquela noite dançando com Aurora, sentindo o corpo dela colado ao seu, podendo tocar a cintura dela e a conduzir pelo salão. Só Deus sabia o quanto ele tinha desejado aquilo e não tinha podido fazer.
 
@@ -158,11 +158,11 @@ Josh não se moveu. A resposta tinha sido dita, e só Deus sabia o quanto ele te
 
 — Por quê? — Aurora soltou um riso curto, sarcástico. — Realmente não aprecia minha companhia, não é? Naquela noite no celeiro, em que eu... — Aurora parou. Não soube como mencionar que tinha pedido um beijo. — Enfim. Você também fugiu.
 
-— Não fugi. O Erik chegou.
+— Não fugi. Erik chegou.
 
 — Mas fugiria, não é?
 
-Josh desistiu de se levantar. Virou o corpo em direção a Aurora e a encarou. Podia ver nos olhos dela a dúvida e o medo do que ele poderia responder, percorrendo a pupila cor de mel.
+Josh desistiu de se levantar. Virou o corpo em direção Aurora e a encarou. Podia ver nos olhos dela a dúvida e o medo do que ele poderia responder, percorrendo a pupila cor de mel.
 
 — Sim, eu fugiria. Sempre vou fugir. Agora mesmo estou fugindo, e é o melhor que eu consigo fazer. — Ele se pôs agachado na ponta dos pés, já pronto para levantar, mas foi interrompido.
 
@@ -238,7 +238,7 @@ Aurora ficou em silêncio. A vela pulsou. A chama nervosa deu um daqueles tremor
 
 Josh respirou. Olhou pro chão. Olhou pra ela. Olhou pra própria mão direita, pousada no joelho dobrado, com o calo da pena visível no segundo abaixo do nó do dedo médio. Quando voltou a falar, a voz dele estava mais baixa do que as duas anteriores.
 
-— A terceira é a que me mata. — Pausa. — Eu te quero feliz, Aurora. Eu te quero casada com alguém que te leve pra um lugar que honre o que o Aarav deixou de herdar. Que honre a vida que o seu pai construiu pra você. Que honre o que a sua mãe quer pra você, mesmo que ela não saiba dizer o que quer com clareza. Eu fiz essa conta vinte vezes no quarto leste nestes cinco meses, e a conta nunca fecha do meu lado. Você merece subir. Comigo você desce. — Os olhos dele estavam marejados — não chorando, mas com a pele de cima do choro, daquela parte que ainda dá pra conter se a pessoa segurar firme. — Eu não posso ser o homem que pede pra você descer. Não consigo me olhar no espelho sendo esse homem.
+— A terceira é a que me mata. — Pausa. — Eu te quero feliz, Aurora. Eu te quero casada com alguém que te leve pra um lugar que honre o que Aarav deixou de herdar. Que honre a vida que o seu pai construiu pra você. Que honre o que a sua mãe quer pra você, mesmo que ela não saiba dizer o que quer com clareza. Eu fiz essa conta vinte vezes no quarto leste nestes cinco meses, e a conta nunca fecha do meu lado. Você merece subir. Comigo você desce. — Os olhos dele estavam marejados — não chorando, mas com a pele de cima do choro, daquela parte que ainda dá pra conter se a pessoa segurar firme. — Eu não posso ser o homem que pede pra você descer. Não consigo me olhar no espelho sendo esse homem.
 
 Aurora ficou em silêncio mais um tempo.
 
@@ -296,7 +296,7 @@ Josh fechou a boca.
 
 Josh fechou os olhos por um segundo. Quando abriu, estavam mais úmidos.
 
-— E a terceira — disse Aurora, e a voz dela ficou mais baixa, porque a terceira era a que tinha doído nela também. — A terceira é mentira. Não é mentira sua. É mentira do mundo. Você não tem o direito de decidir o que honra o Aarav. Quem decide o que honra o Aarav sou eu. E eu te digo agora: o Aarav teria gostado de você. Ele teria te levado pro jardim e te dado um galho de roseira pra plantar. Ele teria escrito poesia sobre o seu modo de cuidar das coisas. Você não rebaixa a memória dele. Você é o que a memória dele queria pra mim, mesmo que o mundo não tenha vocabulário pra entender isso ainda.
+— E a terceira — disse Aurora, e a voz dela ficou mais baixa, porque a terceira era a que tinha doído nela também. — A terceira é mentira. Não é mentira sua. É mentira do mundo. Você não tem o direito de decidir o que honra Aarav. Quem decide o que honra Aarav sou eu. E eu te digo agora: Aarav teria gostado de você. Ele teria te levado pro jardim e te dado um galho de roseira pra plantar. Ele teria escrito poesia sobre o seu modo de cuidar das coisas. Você não rebaixa a memória dele. Você é o que a memória dele queria pra mim, mesmo que o mundo não tenha vocabulário pra entender isso ainda.
 
 A vela tremeu de novo. Faltava muito pouco.
 
@@ -424,7 +424,7 @@ Ele afastou a testa. Olhou pra ela. Tinha os olhos marejados de uma forma que Au
 
 — Eu sei.
 
-— Eu não sei o que vou fazer amanhã, Aurora. Eu vou acordar e a casa vai estar como sempre, e o seu pai vai estar tomando café com o jornal, e a sua mãe vai estar com a Vibeke na sala de costura, e eu vou ter que olhar pro seu pai sabendo o que eu fiz, e eu não sei se eu consigo.
+— Eu não sei o que vou fazer amanhã, Aurora. Eu vou acordar e a casa vai estar como sempre, e o seu pai vai estar tomando café com o jornal, e a sua mãe vai estar com Vibeke na sala de costura, e eu vou ter que olhar pro seu pai sabendo o que eu fiz, e eu não sei se eu consigo.
 
 — Você consegue.
 
@@ -460,7 +460,7 @@ Aurora abriu o livro na página trinta e sete. Procurou a linha do Oehlenschläg
 
 *O que é viver, senão arder.*
 
-Leu em voz baixa, mas em voz alta o suficiente pra ouvir o próprio som no cômodo vazio. Não com a voz do Aarav. Com a voz dela. Foi a primeira vez na vida que ela leu o irmão com a voz dela e não com a voz dele, e Aurora pensou, com uma pontada que era ao mesmo tempo tristeza e outra coisa que ela ainda não tinha vocabulário pra nomear, que talvez fosse esse o jeito de o Aarav continuar existindo: deixar de ser uma voz emprestada e virar uma frase própria.
+Leu em voz baixa, mas em voz alta o suficiente pra ouvir o próprio som no cômodo vazio. Não com a voz do Aarav. Com a voz dela. Foi a primeira vez na vida que ela leu o irmão com a voz dela e não com a voz dele, e Aurora pensou, com uma pontada que era ao mesmo tempo tristeza e outra coisa que ela ainda não tinha vocabulário pra nomear, que talvez fosse esse o jeito de Aarav continuar existindo: deixar de ser uma voz emprestada e virar uma frase própria.
 
 Fechou o livro.
 

@@ -219,7 +219,7 @@ Pensou em tudo que ela tinha ensaiado a tarde
 inteira e que não ia precisar dizer agora. Pensou
 em todas as acusações que ela tinha guardado pra
 essa noite e que tinha morrido na boca dela porque
-a versão das coisas que o Josh tinha contado fazia
+a versão das coisas que Josh tinha contado fazia
 sentido (mesmo que tivesse sido errada, mesmo que
 tivesse machucado, fazia sentido).
 
@@ -230,8 +230,8 @@ ter pegado o rosto dele e dito *fica*, do mesmo
 jeito que ela tinha dito *fica* há duas noites no
 quarto dela. E ele ia ter ficado. E ele ia ter
 feito besteira. E ela ia ter perdido o pai, e a
-mãe, e a casa, e o Josh ia ter perdido o padrinho,
-e os dois ainda iam estar do lado errado da dívida
+mãe, e a casa, e Josh ia ter perdido o padrinho, e
+os dois ainda iam estar do lado errado da dívida
 do Lindberg.
 
 Ele tinha pensado essa conta enquanto ela dormia.

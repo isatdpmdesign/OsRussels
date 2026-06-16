@@ -57,7 +57,7 @@ Chegou na porta do quarto leste.
 
 Estava entreaberta.
 
-Aurora ficou parada na soleira um segundo. O Josh
+Aurora ficou parada na soleira um segundo. Josh
 nunca dormia com a porta entreaberta. Josh era
 homem do campo, dormia com porta fechada, com
 sapatos junto da cama, com o relógio do pai
@@ -147,7 +147,7 @@ estava acontecendo.
 
 — Que horas são?
 
-— O Josh foi embora.
+— Josh foi embora.
 
 Vibeke piscou três vezes.
 
@@ -190,7 +190,7 @@ escritório dele, ouvindo aquilo, pensava em uma
 única coisa por dentro: que se a situação
 apertasse de verdade, eu ia atravessar o corredor
 na hora errada da noite, ia bater no quarto leste,
-e o Josh ia me ouvir, e a gente ia decidir alguma
+e Josh ia me ouvir, e a gente ia decidir alguma
 coisa juntos. Eu cheguei a pensar em fugir,
 Vibeke. Não disse a ninguém. Mas pensei. E o papai
 sabe ler a minha cara. O papai mandou Josh embora
@@ -217,7 +217,7 @@ do corpo. Vibeke sentou do lado e pôs o braço por
 cima dos ombros dela e não disse nada por um
 tempo, e foi essa quietude da Vibeke, mais do que
 qualquer fala que ela pudesse ter dado, o que
-segurou a Aurora.
+segurou Aurora.
 
 *
 
@@ -252,7 +252,7 @@ Aurora sentou.
 Raj passou o envelope pra cima da escrivaninha,
 deslizando devagar.
 
-— O Josh deixou isso aqui pra mim. Encontrei agora
+— Josh deixou isso aqui pra mim. Encontrei agora
 cedo. Achei melhor você ler.
 
 Aurora pegou o envelope. Tirou a folha. Reconheceu
@@ -288,7 +288,7 @@ Aurora leu uma vez. Leu de novo. A letra era do
 Josh. A caligrafia era do Josh. As frases curtas e
 econômicas eram do Josh.
 
-Mas a frase *"cumprimento a Aurora"* foi o que
+Mas a frase *"cumprimento Aurora"* foi o que
 rasgou ela. Aurora sentiu o ar sair pelo nariz
 dela em jato curto, como quem leva um peso na
 barriga e devolve sem querer. *Cumprimento a
@@ -310,8 +310,8 @@ caneca de chá. Olhou pra Aurora.
 endurecer. — O senhor pediu perdão a mim ontem.
 Disse que tinha que ser Lindberg, que era a única
 saída, que o senhor não conseguia nada melhor. E
-aí, na mesma noite, o Josh sai de casa. Antes de
-eu acordar. Sem despedida. Sem aviso. Por acaso,
+aí, na mesma noite, Josh sai de casa. Antes de eu
+acordar. Sem despedida. Sem aviso. Por acaso,
 papai?
 
 — Aurora.
@@ -344,13 +344,13 @@ me disse aqui no escritório ontem à noite.
 
 Aurora ficou um segundo sem palavra.
 
-O Josh tinha decidido sair ontem à noite.
-**Antes** de ela ter dormido. **Depois** dele ter
-batido no Lindberg (que ela tinha visto de perto,
-porque estava lá no jardim, encurralada entre a
-sebe e o homem). Josh tinha batido. Tinha vindo
-aqui no escritório com Raj depois disso. Tinha
-decidido sair.
+Josh tinha decidido sair ontem à noite. **Antes**
+de ela ter dormido. **Depois** dele ter batido no
+Lindberg (que ela tinha visto de perto, porque
+estava lá no jardim, encurralada entre a sebe e o
+homem). Josh tinha batido. Tinha vindo aqui no
+escritório com Raj depois disso. Tinha decidido
+sair.
 
 Sem falar com ela.
 
@@ -362,7 +362,7 @@ Raj não respondeu logo. Olhou pra Aurora um tempo.
 Aurora viu o pai dela escolher uma frase com
 cuidado entre várias.
 
-— Aurora. O Josh é meu afilhado. É filho da
+— Aurora. Josh é meu afilhado. É filho da
 Casandra, que é amiga da nossa família há mais de
 trinta anos. O pai dele era meu sócio em 1810. É
 irmão de consideração teu, do mesmo jeito que
@@ -381,7 +381,7 @@ bilhete de cada pretendente nos cinco meses, o
 homem que tinha avaliado a forma como ela
 respirava num jantar e tirado conclusão sobre o
 Erik Mortensen sem nunca ter visto os dois
-conversarem, o homem que sabia ler a Aurora com a
+conversarem, o homem que sabia ler Aurora com a
 precisão de quem tinha estudado a filha como se
 estuda uma língua antiga, fingir agora que não
 tinha entendido o que ela tinha acabado de dizer.
@@ -426,7 +426,7 @@ dela, esperando.
 
 Aurora fechou a porta. Encostou nela.
 
-— O Josh decidiu sair sozinho. Não foi o papai.
+— Josh decidiu sair sozinho. Não foi o papai.
 
 Vibeke ergueu uma sobrancelha. Ficou meio segundo
 sem entender. Depois entendeu, e o rosto dela
@@ -456,7 +456,7 @@ muita seriedade. Aurora percebeu naquele momento
 que Vibeke pensava com o corpo todo (andando,
 virando-se, agarrando o próprio cotovelo). Tinha
 visto ela fazer assim duas ou três vezes em Sorø,
-mas só agora a Aurora deu nome ao gesto. Depois de
+mas só agora Aurora deu nome ao gesto. Depois de
 duas voltas, Vibeke parou na frente dela.
 
 — Helle.
@@ -581,21 +581,21 @@ terceira frase, porque ela não sabia se ia chegar
 lá e bater na porta, ou se ia chegar lá e voltar
 correndo, ou se ia chegar lá e desmoronar antes de
 conseguir falar qualquer coisa. Não sabia o que ia
-sentir quando visse o Josh do outro lado da porta
-de um quarto de estudante numa residência que ela
+sentir quando visse Josh do outro lado da porta de
+um quarto de estudante numa residência que ela
 nunca tinha visto, num bairro que ela conhecia só
 de nome.
 
 Sabia uma coisa.
 
-Sabia que não acreditava que o Josh tinha saído de
+Sabia que não acreditava que Josh tinha saído de
 casa só pra estudar pra prova. Não acreditava que
 o homem que tinha posto a mão no rosto dela no
 corredor na noite anterior e tinha dito *você é a
 coisa mais importante que já me aconteceu* ia,
 três horas depois, dobrar a calça na mala e sair
 pela porta lateral com pretexto de estudar melhor
-Locke. O Josh tinha tido um motivo. E Aurora ia
+Locke. Josh tinha tido um motivo. E Aurora ia
 exigir o motivo da boca dele.
 
 Era pra isso que ela ia. Pra ouvir, no rosto dele,
@@ -633,7 +633,7 @@ segurou Aurora pelos braços, olhou pra ela.
 Aurora desceu a escada com a capa puxada sobre o
 rosto, evitando os degraus que rangiam. O décimo
 segundo rangeu, baixo, e Aurora parou nele um
-segundo, do jeito que o Josh tinha parado nele na
+segundo, do jeito que Josh tinha parado nele na
 alvorada (ela ia descobrir isso semanas depois,
 quando soubesse de tudo). Atravessou o corredor de
 baixo. Passou pelo escritório do Raj com a porta
@@ -708,7 +708,7 @@ colo. Loiro, baixo, com casaco preto sem botão.
 Aurora reconheceu o tipo sem nunca ter visto o
 rapaz na vida: era o tipo de estudante pobre do
 interior que vinha pra Copenhague tentar a
-universidade. Tipo que o Josh teria sido se a
+universidade. Tipo que Josh teria sido se a
 Casandra não tivesse mandado ele pra casa dela,
 estudar com Raj.
 
@@ -770,8 +770,8 @@ Aurora olhou pra ele.
 
 Aksel Holm deu meio sorriso.
 
-— Porque minha irmã pediu. Mas eu conheci o Russel
-e vi que ele é um cara correto. — Pausa. — E você
+— Porque minha irmã pediu. Mas eu conheci Russel e
+vi que ele é um cara correto. — Pausa. — E você
 tem a cara de quem precisa resolver uma coisa que
 ninguém devia te impedir de resolver.
 
