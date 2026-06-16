@@ -94,9 +94,9 @@ Aurora não se mexeu.
 
 — Eu pedi ontem à noite, depois que o seu pai me
 chamou no escritório por causa do soco no
-Lindberg. Conversamos por um tempo. No fim da conversa,
-eu pedi pra me mudar pro Regensen. Não foi o Raj que
-decidiu. Fui eu.
+Lindberg. Conversamos por um tempo. No fim da
+conversa, eu pedi pra me mudar pro Regensen. Não
+foi o Raj que decidiu. Fui eu.
 
 Aurora respirou.
 
