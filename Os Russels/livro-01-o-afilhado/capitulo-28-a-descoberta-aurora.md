@@ -488,7 +488,7 @@ Aurora riu, sem querer. Foi um riso curto, seco,
 mais soluço do que riso.
 
 — Vibeke. Helle é criada da casa. Ela não vai me
-ajudar a sair escondido pelo amor de Deus. Ela vai
+ajudar a sair escondido sem ganhar nada em troca. Ela vai
 me ajudar se a gente oferecer alguma coisa.
 
 Vibeke pensou meio segundo. Depois sorriu.
@@ -502,19 +502,18 @@ direito civil, gramática latina. Uns sete ou oito
 volumes por candidato. Custa a metade do salário
 anual da Helle. — Vibeke abriu mais a frase. — A
 gente oferece pagar os livros do irmão. Pelo
-silêncio dela e pela ajuda de hoje à noite. Eu
-falo. Helle vai entender.
+silêncio dela e pela ajuda de hoje à noite. Helle não vai ter coragem de negar ajuda..
 
-— De onde vou tirar dinheiro.
+— E de onde vou tirar dinheiro?
 
 — Da tua mesada. Eu junto a minha à tua. A gente
 junta o que falta com o broche pequeno de prata
-que a tua mãe te deu aos catorze, que tu nunca
-usa, e que vale o que vale. — Vibeke sustentou o
+que a tua mãe te deu aos catorze anos, que tu nunca
+usa, e que vale um dinheiro. — Vibeke sustentou o
 olhar. — Tem coisa que está em jogo hoje, Aurora.
-Coisa maior que broche de prata.
+Coisa maior que um broche de prata.
 
-— Tem.
+— Tem. Você tem razão.l
 
 — Então tá.
 
@@ -543,7 +542,7 @@ Aurora olhou pra prima.
 — Você pensou em tudo.
 
 — Eu venho pensando desde que vi vocês de mãos
-dadas na carruagem de Sorø. Não nesse plano
+dadas na carruagem voltando de Sorø. Não nesse plano
 específico. Mas em como te ajudar quando chegasse
 a hora.
 
@@ -564,7 +563,7 @@ Eleonora estava em algum lugar da casa com uma dor
 de cabeça que tinha começado na noite anterior
 (que era a verdade dela pro mundo; pra Aurora era
 óbvio que era a dor de cabeça de uma mãe que
-estava entregando a filha em outubro). Raj não
+estava entregando a filha para um homem velho aproveitador). Raj não
 saiu do escritório. Vibeke desceu três vezes — uma
 pra ver Helle, uma pra trazer chá pra Aurora, uma
 pra avisar baixo na soleira do quarto que tinha
@@ -599,16 +598,16 @@ o homem que tinha posto a mão no rosto dela no
 corredor na noite anterior e tinha dito *você é a
 coisa mais importante que já me aconteceu* ia,
 três horas depois, dobrar a calça na mala e sair
-pela porta lateral com pretexto de Locke. O Josh
+pela porta lateral com pretexto de estudar melhor Locke. O Josh
 tinha tido um motivo. E Aurora ia exigir o motivo
-no rosto dele.
+da boca dele.
 
 Era pra isso que ela ia. Pra ouvir, no rosto dele,
 por que ele tinha saído. Pra ele se explicar. Pra
-ela decidir o que sentir depois disso.
+ela decidir o que fazer depois disso.
 
 Quatro horas se arrastaram. Cinco. Seis. A luz no
-canal foi virando alaranjada, depois rosada,
+canal foi ficando alaranjada, depois rosada,
 depois azul fria. Vibeke trouxe a capa marrom da
 Helle e deixou em cima da cama. Aurora vestiu por
 cima do vestido mais simples que ela tinha, sem
@@ -623,7 +622,7 @@ cama. Esperou.
 Às nove, o cravo da Eleonora começou no andar de
 baixo. Bach, baixo, daqueles que Eleonora tocava
 quando tinha que tocar sem ter vontade de tocar. A
-Vibeke apareceu na porta do quarto, baixo:
+Vibeke apareceu na porta do quarto, e sussurrou:
 
 — Vai.
 
@@ -636,7 +635,7 @@ segurou Aurora pelos braços, olhou pra ela.
 — Eu volto.
 
 Aurora desceu a escada com a capa puxada sobre o
-rosto, decorando os degraus que rangiam. O décimo
+rosto, evitando os degraus que rangiam. O décimo
 segundo rangeu, baixo, e Aurora parou nele um
 segundo, do jeito que o Josh tinha parado nele na
 alvorada (ela ia descobrir isso semanas depois,
@@ -678,8 +677,8 @@ portão. Virou na direção do Bairro Latino.
 
 Andou.
 
-Era a primeira vez que ela andava sozinha em rua
-de Copenhague à noite. Tinha dezesseis anos, quase
+Era a primeira vez que ela andava sozinha nas ruas
+de Copenhague à noite. Tinha dezesseis anos e onze meses, quase
 dezessete, e em todos os dezesseis anos da vida
 dela nunca tinha posto o pé numa rua sem alguém do
 lado (o pai, a mãe, Vibeke, Ingrid, o Josh, uma
@@ -694,8 +693,7 @@ Continuou andando.
 
 O Regensen ficava no Bairro Latino, atravessando
 duas pontes a partir da Bredgade. Aurora
-reconheceu o prédio antes mesmo da Vibeke ter
-contado o sinal: era de pedra escura, três
+reconheceu o prédio antes mesmo de lembrar do sinal dado por Vibeke: era de pedra escura, três
 andares, com janelas estreitas iluminadas em
 alguns andares (estudantes acordados a estudar à
 noite, vela acesa em quase metade das janelas),
@@ -703,7 +701,7 @@ com uma porta verde grande de carvalho fechada.
 Tinha um pátio à esquerda, com uma entrada de
 serviço menor.
 
-Aurora caminhou pro pátio.
+Aurora passou a entrada de serviço e caminhou pro pátio.
 
 Tinha um rapaz lá dentro, sentado num banco de
 pedra, fumando um cachimbo, com um livro aberto no
@@ -712,7 +710,7 @@ Aurora reconheceu o tipo sem nunca ter visto o
 rapaz na vida: era o tipo de estudante pobre do
 interior que vinha pra Copenhague tentar a
 universidade. Tipo que o Josh teria sido se a
-Casandra não tivesse mandado ele pro Raj.
+Casandra não tivesse mandado ele pra casa dela, estudar com Raj.
 
 Aurora respirou. Tirou o capuz parcialmente, o
 suficiente pra ele ver o rosto dela.
@@ -738,7 +736,7 @@ atrás de mim. A regra é que mulher não entra na
 residência depois das oito. Mas a essa hora as
 autoridades estão jantando, e os outros rapazes
 não vão dizer nada se você passar rápido. Você
-quer que eu te leve até lá.
+quer que eu te leve até lá?
 
 — Eu quero.
 
@@ -754,7 +752,7 @@ lateral, subiram uma escada estreita de pedra. O
 cheiro era de tinta de papel velho e de fumaça de
 vela e de tabaco e de pão guardado na noite.
 Aurora ouviu vozes baixas atrás de algumas portas,
-ouviu uma risada de homem em outro andar, ouviu
+ouviu umas risadas de rapazes em outro andar, ouviu
 alguém recitando latim no terceiro. Aksel andava
 com passo de quem morava ali, sem barulho
 desnecessário.
@@ -768,15 +766,15 @@ até a Bredgade.
 
 Aurora olhou pra ele.
 
-— Por que você está me ajudando.
+— Por que você está me ajudando?
 
 Aksel Holm deu meio sorriso.
 
-— Russel é um cara correto. — Pausa. — E você tem
-a cara de quem precisa fazer uma coisa que ninguém
-devia te impedir de fazer.
+— Porque minha irmã pediu. Mas eu conheci o Russel e vi que ele é um cara correto. — Pausa. — E você tem
+a cara de quem precisa resolver uma coisa que ninguém
+devia te impedir de resolver.
 
-Saiu. Aurora ficou na frente da porta.
+O rapaz sorriu, acenou com a cabeça e se afastou. Aurora ficou sozinha na frente da porta.
 
 Respirou.
 
