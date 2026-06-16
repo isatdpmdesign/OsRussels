@@ -24,11 +24,11 @@ Josh viu Aurora.
 
 O rosto dele perdeu cor por um segundo. Depois
 ganhou outra cor que não era a de antes — uma cor
-que Aurora nunca tinha visto nele em cinco meses,
-uma cor de homem que tinha aberto uma porta
-achando que ia ver outra pessoa e tinha visto a
-única pessoa que ele esperava nunca mais ver
-naquele cômodo.
+de homem que tinha aberto a porta de um quarto
+achando que ia ver um colega de estudo com algum
+tratado pra discutir, e tinha visto a única mulher
+do mundo que ele tinha jurado, na noite anterior,
+nunca mais ter num quarto sozinha com ele.
 
 — Aurora.
 
@@ -161,9 +161,18 @@ plano, Josh. Eu vim com Vibeke armando logística,
 com Helle deixando porta aberta, com a capa marrom
 no ombro, com o broche dos meus catorze anos sendo
 trocado por moeda pra pagar livro de irmão de
-criada. Tudo pra te buscar de volta. E você não
-estava sendo levado. Você estava aqui por escolha
-sua. Sem mim ter sabido.
+criada. Tudo pra te buscar de volta. Tudo pra te
+dizer que não era pra você temer, que eu não tô
+temendo. Que se a saída fosse fugir, eu fugia. Que
+se a saída fosse virar as costas pro meu pai e pra
+minha mãe e nunca mais entrar naquela casa, eu
+virava. Eu vim te dizer que eu não me importava
+mais com reputação nem com sociedade nem com nada
+que sustentasse essa casa de pé enquanto eu fosse
+entregue ao Lindberg. Era pra ser uma coisa que a
+gente decidia junto. E você não estava sendo
+levado. Você estava aqui por escolha sua. Sem eu
+ter sabido.
 
 Josh não respondeu.
 
@@ -194,7 +203,7 @@ dentro daquela casa era ferir mais gente que sair.
 — Aurora.
 
 — Deixa eu terminar. — Aurora respirou. — Eu vim
-aqui hoje pra ouvir, no rosto seu, por que você
+aqui hoje pra ouvir, da sua boca, por que você
 saiu. Eu vim pra você se explicar. Você se
 explicou. Eu entendi. Agora eu preciso de um
 minuto pra absorver. Só um minuto. Depois a gente
@@ -237,12 +246,12 @@ Ele tinha pensado essa conta enquanto ela dormia.
 Tinha pensado pelos dois.
 
 Doeu. Mas Aurora pensou: *é isso que homem faz,
-quando ama bem. Pensa pelos dois quando a paixão
-da menina ainda não tinha pensado.*
+quando ama de verdade. Pensa pelos dois quando a
+paixão da menina ainda não tinha pensado.*
 
-Era o melhor que ele tinha a oferecer naquela
-noite. Não tinha sido o que ela tinha querido. Mas
-tinha sido o que ele tinha conseguido.
+Era o melhor que ele tinha a oferecer naquele
+momento. Não tinha sido o que ela tinha querido.
+Mas tinha sido o que ele tinha conseguido.
 
 Aurora respirou fundo.
 
@@ -269,13 +278,44 @@ Eu vou levantar o que falta. Eu vou...
 — Eu sei que você vai tentar. — Aurora atravessou
 o quarto. Parou na frente dele, em pé entre os
 joelhos abertos dele. — Eu te conheço. Mas eu
-também sei a aritmética, Josh. Eu sei o tamanho da
-dívida do meu pai. Você ouviu na biblioteca, eu
-sei que você ouviu. Eu sei que a herança da sua
-mãe não cobre tudo. Eu sei que seis semanas é
-pouco pra levantar o resto. Você pode falhar.
+também sei a aritmética, Josh. O que falta?
 
-— Eu posso falhar.
+Josh ergueu o rosto.
+
+— O quê.
+
+— Da conta. Você falou que vai bater nas portas,
+levantar o que falta. Falta quanto, Josh? Me
+conta. Eu sei que tem uma carta da sua mãe. Eu
+ouvi a sua mãe te mandar abrir antes de entregar
+ao papai, naquela tarde em Sorø, atrás da janela
+da cozinha. Eu sei que tem alguma coisa nessa
+carta que era pra te ajudar. O que tem? O que
+falta?
+
+Josh respirou fundo. Olhou pra ela um tempo.
+Decidiu contar.
+
+— A carta da minha mãe é uma quantia. Uma parte do
+meu pai depositada numa casa comercial da Højbro,
+junto com o Raj, dos anos dez. Travada desde que o
+meu pai morreu, porque só sai com duas
+assinaturas. Eu não sabia que era minha. A minha
+mãe nunca tinha me contado. Abri a carta na
+madrugada da volta de Sorø e descobri.
+
+— E o tamanho.
+
+— Cobre uma parte da dívida do teu pai com o
+Lindberg. Não cobre tudo. Falta bastante. — Josh
+fechou os olhos um segundo. — Eu fiz a conta cinco
+vezes naquela noite. Não fecha. E é por isso que
+eu vou bater em todas as portas dessa cidade, pra
+levantar o que falta em seis semanas.
+
+— E se não bastar?
+
+— Eu posso falhar, Aurora.
 
 — Então me ouve. — Aurora ajoelhou no chão na
 frente dele. Ficou na altura dos olhos dele. Pegou
@@ -286,10 +326,11 @@ ele que vai me tirar o vestido na primeira noite,
 vai ser ele que vai me ensinar o que é ser com
 homem. Vai ser ele.
 
-— Aurora. Não fala.
+— Aurora. — Josh fechou os olhos. — Eu te peço,
+não fala isso.
 
-— Vai ser ele, Josh. Eu vou ter dezesseis anos e
-onze meses ainda quando isso acontecer. E eu não
+— Vai ser ele, Josh. Eu vou ter dezessete anos
+recém-feitos quando isso acontecer. E eu não
 escolhi. Eu não vou ter escolhido nada na minha
 vida quando aquela porta fechar atrás de mim e do
 Lindberg numa noite de outubro. Eu vou ter sido
@@ -300,11 +341,11 @@ Josh respirou fundo, contendo alguma coisa.
 — Mas eu posso escolher uma coisa. — Aurora
 apertou as mãos dele. — Eu posso escolher quem vai
 ser o primeiro. E eu escolho você, Josh. Eu vim
-aqui pra te ouvir, sim. Mas eu vou ficar aqui
-agora pra mais uma coisa. Eu quero ter você uma
-vez. Antes do velho. Quero que esse pedaço da
-minha vida tenha sido meu, decidido por mim,
-vivido por mim. Não dele.
+aqui pra te ouvir, sim. Mas se você quiser, o que
+pode acontecer aqui hoje vai ser o pedaço da minha
+vida que vai ter sido meu. Decidido por mim.
+Vivido por mim. Antes que eu seja entregue àquele
+velho nojento.
 
 *
 
@@ -319,11 +360,12 @@ devagar dentro da mão dela.
 
 — Eu sou uma mulher que vai casar em seis semanas.
 
-— Você tem dezesseis anos e onze meses.
+— Você tem dezesseis anos.
 
-— E eu vou ter exatamente os mesmos dezesseis anos
-e onze meses na noite de outubro com Lindberg. A
-diferença é com quem.
+— E eu vou fazer dezessete daqui a um mês. Um mês,
+Josh. E quando aquela noite chegar com o Lindberg,
+a diferença não vai ser de idade. Vai ser de com
+quem.
 
 — Eu não desonro mulheres, Aurora. Não foi como eu
 fui criado.
@@ -336,7 +378,7 @@ desonra. Vai ser amor.
 
 Josh fechou os olhos.
 
-— Eu tô quebrando a confiança do seu pai.
+— Eu estaria quebrando a confiança do seu pai.
 
 — Você bateu no homem que ele tinha aceitado como
 genro. Você já quebrou. — Aurora não soltou as
@@ -399,9 +441,10 @@ Foi diferente do beijo da sala de estar.
 
 Foi diferente do beijo do bosque dos Russels.
 
-Foi um beijo que tinha cinco meses guardados
-dentro dele e que agora podia sair inteiro. Aurora
-sentiu a contenção dele virar entrega em camadas:
+Foi um beijo de quem tinha aguardado uma vida
+inteira pra encostar a boca naquela boca sem ter
+que se policiar no segundo segundo. Aurora sentiu
+a contenção dele virar entrega em camadas:
 primeiro a boca pousando devagar, depois a língua
 encontrando a língua dela com cuidado, depois a
 mão esquerda dele descendo pelo pescoço dela,
@@ -699,7 +742,7 @@ acontecido.
 
 — Diz.
 
-— Foi assim?
+— É assim?
 
 Josh demorou meio segundo pra entender a pergunta.
 Quando entendeu, riu, baixo. Era um riso de homem
@@ -707,7 +750,7 @@ cansado, derrotado de bom jeito, abrindo a boca
 pela primeira vez desde que tinha começado a coisa
 toda.
 
-— Foi assim.
+— É assim.
 
 — Sempre é assim?
 
@@ -770,9 +813,20 @@ Josh respirou.
 
 — Se eu não conseguir, eu apareço na porta da
 igreja em outubro pra te ver entrar. Pra você
-saber que eu estive lá. Pra você levar isso pro
-resto da vida, mesmo que eu não tenha conseguido
-te tirar das mãos dele.
+saber que eu estive lá. — Josh respirou. — E se
+você quiser, Aurora, no segundo em que eu te vir
+naquela porta, eu te tiro daquela igreja. Eu pego
+você pela mão e a gente foge. A gente sai de
+Copenhague na hora. Eu te levo. Mas você precisa
+saber o que isso custa antes de pedir. Você vai
+perder a tua família. O teu pai vai ter o
+escândalo na cara, e o Lindberg vai ter visto a
+noiva ser arrebatada da igreja, e o Lindberg é
+homem que arquiva ofensas pra cobrar com juros. O
+teu pai vai correr risco de verdade depois disso,
+e a tua mãe também. Não risco de orgulho. Risco de
+vida. Eu te tiro se você pedir. Mas eu não vou
+pedir por você. Essa decisão tem que ser tua.
 
 — Você ia fazer isso por mim?
 
