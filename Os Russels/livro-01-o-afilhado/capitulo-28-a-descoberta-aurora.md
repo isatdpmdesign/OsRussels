@@ -78,22 +78,15 @@ sete.
 
 A segunda coisa foi a escrivaninha vazia.
 
-A escrivaninha onde a carta da Casandra tinha
-estado lacrada cinco meses não estava mais ali.
-Tinha um pedaço de cera vermelha pequeno no canto.
-Cera vermelha era o que Casandra usava pra selar
-carta em Sorø — Aurora sabia que era de Sorø
-porque tinha ouvido Casandra mandar Josh ler a
-carta antes de entregar ao Raj, naquela tarde na
-cozinha quando ela passou por trás da janela
-aberta e ficou parada sem entrar. Tinha ouvido a
-Casandra dizer *você lê antes de entregar*. Josh
-tinha lido. O lacre estava ali quebrado, o pedaço
-solto no tampo. Os livros tinham sumido. O
-tinteiro tinha sumido. A pena tinha sumido. A
-caneca lascada que ele usava pra tomar café às
-cinco e quarenta e cinco na cozinha não estava na
-cabeceira.
+A escrivaninha estava limpa, com um pedaço pequeno
+de cera vermelha no canto, fragmento de lacre que
+alguém tinha quebrado recente e não tinha
+conseguido tirar do tampo. Foi o único sinal de
+que Josh tinha estado ali há pouco. Os livros
+tinham sumido. O tinteiro tinha sumido. A pena
+tinha sumido. A caneca lascada que ele usava pra
+tomar café às cinco e quarenta e cinco na cozinha
+não estava na cabeceira.
 
 A terceira coisa foi a mala que não estava ali.
 
@@ -135,9 +128,9 @@ Aurora ficou um segundo ali. Confirmou.
 
 Subiu a escada de volta. Não fechou a porta do
 quarto leste de propósito (deixou entreaberta,
-como tinha encontrado, pra Helle ver mais tarde
-sem perceber que ela tinha estado ali). Atravessou
-o corredor. Bateu na porta do quarto da Vibeke.
+como tinha encontrado, pra Helle, mais tarde, não
+perceber que ela tinha estado ali). Atravessou o
+corredor. Bateu na porta do quarto da Vibeke.
 
 — Vibeke.
 
@@ -152,7 +145,7 @@ amassada da posição em que tinha dormido. Olhou
 pra Aurora dois segundos antes de processar o que
 estava acontecendo.
 
-— Que horas são.
+— Que horas são?
 
 — O Josh foi embora.
 
@@ -193,11 +186,11 @@ na espinha dela sem deixar espaço pra outra. — O
 papai me pediu perdão ontem por me casar com o
 Lindberg, Vibeke. Disse que era a única saída, que
 não conseguia outra. E eu ali, sentada no
-escritório dele, ouvindo aquilo, pensando em uma
+escritório dele, ouvindo aquilo, pensava em uma
 única coisa por dentro: que se a situação
-apertasse de verdade, eu ia descer a escada na
-hora errada da noite, ia bater no quarto leste, e
-o Josh ia me ouvir, e a gente ia decidir alguma
+apertasse de verdade, eu ia atravessar o corredor
+na hora errada da noite, ia bater no quarto leste,
+e o Josh ia me ouvir, e a gente ia decidir alguma
 coisa juntos. Eu cheguei a pensar em fugir,
 Vibeke. Não disse a ninguém. Mas pensei. E o papai
 sabe ler a minha cara. O papai mandou Josh embora
@@ -208,14 +201,14 @@ pra eu não ter pra onde ir.
 — Eu sei.
 
 — Aurora. — Vibeke pegou o rosto dela. — A gente
-não sabe. Você não viu carta. Você não ouviu
-conversa. Vai até o teu pai. Pergunta. Olha pra
-ele quando ele responder. E aí a gente decide o
-que fazer.
+não sabe. Você não falou com ele. Você não viu
+nada que confirme isso. Vai até o teu pai.
+Pergunta. Olha pra ele quando ele responder. E aí
+a gente decide o que fazer.
 
 Aurora respirou. Vibeke segurou.
 
-— Senta um segundo. Eu vou contigo. Senta.
+— Senta um segundo. Eu tô aqui contigo. Senta.
 
 Aurora sentou na beira da cama da Vibeke. O
 coração dela batia no alto do peito, no lugar onde
@@ -230,18 +223,18 @@ segurou a Aurora.
 
 Raj chamou Aurora ao escritório depois do café.
 
-Aurora desceu com a trança lateral que tinha
-trazido de Sorø, ainda. Não trocou. Lavou a face
-com água fria duas vezes, prendeu a respiração
-três vezes antes de bater, e atravessou o corredor
-de baixo já sabendo que toda vez que o pai dela
+Aurora refez a trança lateral que tinha trazido de
+Sorø. Não trocou de penteado. Lavou a face com
+água fria duas vezes, prendeu a respiração três
+vezes antes de bater, e atravessou o corredor de
+baixo já sabendo que toda vez que o pai dela
 chamava ela ao escritório nos últimos meses, nunca
 tinha sido pra notícia boa. Era a única coisa que
 ela tinha em que se apoiar naquele corredor: a
 previsibilidade de que ia ouvir alguma coisa
 difícil, e que ela já tinha sobrevivido a duas ou
 três coisas difíceis na vida, e que ia sobreviver
-mais uma.
+a mais uma.
 
 Bateu na porta.
 
@@ -371,9 +364,9 @@ cuidado entre várias.
 
 — Aurora. O Josh é meu afilhado. É filho da
 Casandra, que é amiga da nossa família há mais de
-trinta anos. O pai dele era meu sócio nos anos
-dez. É irmão de consideração teu, do mesmo jeito
-que Aarav era irmão de criação do Josh, mesmo sem
+trinta anos. O pai dele era meu sócio em 1810. É
+irmão de consideração teu, do mesmo jeito que
+Aarav era irmão de criação do Josh, mesmo sem
 nunca terem cruzado de perto. O que você sente
 pelo Josh é o que se sente por um homem que chegou
 nessa casa com o nome da nossa família na boca.
@@ -488,8 +481,9 @@ Aurora riu, sem querer. Foi um riso curto, seco,
 mais soluço do que riso.
 
 — Vibeke. Helle é criada da casa. Ela não vai me
-ajudar a sair escondido sem ganhar nada em troca. Ela vai
-me ajudar se a gente oferecer alguma coisa.
+ajudar a sair escondido sem ganhar nada em troca.
+Ela vai me ajudar se a gente oferecer alguma
+coisa.
 
 Vibeke pensou meio segundo. Depois sorriu.
 
@@ -502,18 +496,19 @@ direito civil, gramática latina. Uns sete ou oito
 volumes por candidato. Custa a metade do salário
 anual da Helle. — Vibeke abriu mais a frase. — A
 gente oferece pagar os livros do irmão. Pelo
-silêncio dela e pela ajuda de hoje à noite. Helle não vai ter coragem de negar ajuda..
+silêncio dela e pela ajuda de hoje à noite. Helle
+não vai ter coragem de negar ajuda..
 
 — E de onde vou tirar dinheiro?
 
 — Da tua mesada. Eu junto a minha à tua. A gente
 junta o que falta com o broche pequeno de prata
-que a tua mãe te deu aos catorze anos, que tu nunca
-usa, e que vale um dinheiro. — Vibeke sustentou o
-olhar. — Tem coisa que está em jogo hoje, Aurora.
-Coisa maior que um broche de prata.
+que a tua mãe te deu aos catorze anos, que tu
+nunca usa, e que vale um dinheiro. — Vibeke
+sustentou o olhar. — Tem coisa que está em jogo
+hoje, Aurora. Coisa maior que um broche de prata.
 
-— Tem. Você tem razão.l
+— Tem. Você tem razão.
 
 — Então tá.
 
@@ -542,9 +537,9 @@ Aurora olhou pra prima.
 — Você pensou em tudo.
 
 — Eu venho pensando desde que vi vocês de mãos
-dadas na carruagem voltando de Sorø. Não nesse plano
-específico. Mas em como te ajudar quando chegasse
-a hora.
+dadas na carruagem voltando de Sorø. Não nesse
+plano específico. Mas em como te ajudar quando
+chegasse a hora.
 
 Aurora não soube o que dizer. Pegou a mão da
 Vibeke. Apertou.
@@ -563,16 +558,17 @@ Eleonora estava em algum lugar da casa com uma dor
 de cabeça que tinha começado na noite anterior
 (que era a verdade dela pro mundo; pra Aurora era
 óbvio que era a dor de cabeça de uma mãe que
-estava entregando a filha para um homem velho aproveitador). Raj não
-saiu do escritório. Vibeke desceu três vezes — uma
-pra ver Helle, uma pra trazer chá pra Aurora, uma
-pra avisar baixo na soleira do quarto que tinha
-conseguido o endereço (*"é em frente à porta
-verde, no Bairro Latino, perto da biblioteca da
-universidade, perguntar pelo Aksel Holm no pátio,
-é o irmão da Helle, dizer que é da família dos
-Svensson e que Helle mandou, ele vai entender e
-fingir que não entendeu"*).
+estava entregando a filha para um homem velho
+aproveitador). Raj não saiu do escritório. Vibeke
+desceu três vezes — uma pra ver Helle, uma pra
+trazer chá pra Aurora, uma pra avisar baixo na
+soleira do quarto que tinha conseguido o endereço
+(*"é em frente à porta verde, no Bairro Latino,
+perto da biblioteca da universidade, perguntar
+pelo Aksel Holm no pátio, é o irmão da Helle,
+dizer que é da família dos Svensson e que Helle
+mandou, ele vai entender e fingir que não
+entendeu"*).
 
 Aurora não comeu no almoço.
 
@@ -598,9 +594,9 @@ o homem que tinha posto a mão no rosto dela no
 corredor na noite anterior e tinha dito *você é a
 coisa mais importante que já me aconteceu* ia,
 três horas depois, dobrar a calça na mala e sair
-pela porta lateral com pretexto de estudar melhor Locke. O Josh
-tinha tido um motivo. E Aurora ia exigir o motivo
-da boca dele.
+pela porta lateral com pretexto de estudar melhor
+Locke. O Josh tinha tido um motivo. E Aurora ia
+exigir o motivo da boca dele.
 
 Era pra isso que ela ia. Pra ouvir, no rosto dele,
 por que ele tinha saído. Pra ele se explicar. Pra
@@ -678,12 +674,13 @@ portão. Virou na direção do Bairro Latino.
 Andou.
 
 Era a primeira vez que ela andava sozinha nas ruas
-de Copenhague à noite. Tinha dezesseis anos e onze meses, quase
-dezessete, e em todos os dezesseis anos da vida
-dela nunca tinha posto o pé numa rua sem alguém do
-lado (o pai, a mãe, Vibeke, Ingrid, o Josh, uma
-carruagem, alguém). O coração dela batia no alto
-do peito num ritmo que ela não conhecia.
+de Copenhague à noite. Tinha dezesseis anos e onze
+meses, quase dezessete, e em todos os dezesseis
+anos da vida dela nunca tinha posto o pé numa rua
+sem alguém do lado (o pai, a mãe, Vibeke, Ingrid,
+o Josh, uma carruagem, alguém). O coração dela
+batia no alto do peito num ritmo que ela não
+conhecia.
 
 Mas as pernas iam.
 
@@ -693,7 +690,8 @@ Continuou andando.
 
 O Regensen ficava no Bairro Latino, atravessando
 duas pontes a partir da Bredgade. Aurora
-reconheceu o prédio antes mesmo de lembrar do sinal dado por Vibeke: era de pedra escura, três
+reconheceu o prédio antes mesmo de lembrar do
+sinal dado por Vibeke: era de pedra escura, três
 andares, com janelas estreitas iluminadas em
 alguns andares (estudantes acordados a estudar à
 noite, vela acesa em quase metade das janelas),
@@ -701,7 +699,8 @@ com uma porta verde grande de carvalho fechada.
 Tinha um pátio à esquerda, com uma entrada de
 serviço menor.
 
-Aurora passou a entrada de serviço e caminhou pro pátio.
+Aurora passou a entrada de serviço e caminhou pro
+pátio.
 
 Tinha um rapaz lá dentro, sentado num banco de
 pedra, fumando um cachimbo, com um livro aberto no
@@ -710,7 +709,8 @@ Aurora reconheceu o tipo sem nunca ter visto o
 rapaz na vida: era o tipo de estudante pobre do
 interior que vinha pra Copenhague tentar a
 universidade. Tipo que o Josh teria sido se a
-Casandra não tivesse mandado ele pra casa dela, estudar com Raj.
+Casandra não tivesse mandado ele pra casa dela,
+estudar com Raj.
 
 Aurora respirou. Tirou o capuz parcialmente, o
 suficiente pra ele ver o rosto dela.
@@ -752,9 +752,9 @@ lateral, subiram uma escada estreita de pedra. O
 cheiro era de tinta de papel velho e de fumaça de
 vela e de tabaco e de pão guardado na noite.
 Aurora ouviu vozes baixas atrás de algumas portas,
-ouviu umas risadas de rapazes em outro andar, ouviu
-alguém recitando latim no terceiro. Aksel andava
-com passo de quem morava ali, sem barulho
+ouviu umas risadas de rapazes em outro andar,
+ouviu alguém recitando latim no terceiro. Aksel
+andava com passo de quem morava ali, sem barulho
 desnecessário.
 
 Pararam na frente de uma porta. Quarto sete. Fim
@@ -770,11 +770,13 @@ Aurora olhou pra ele.
 
 Aksel Holm deu meio sorriso.
 
-— Porque minha irmã pediu. Mas eu conheci o Russel e vi que ele é um cara correto. — Pausa. — E você tem
-a cara de quem precisa resolver uma coisa que ninguém
-devia te impedir de resolver.
+— Porque minha irmã pediu. Mas eu conheci o Russel
+e vi que ele é um cara correto. — Pausa. — E você
+tem a cara de quem precisa resolver uma coisa que
+ninguém devia te impedir de resolver.
 
-O rapaz sorriu, acenou com a cabeça e se afastou. Aurora ficou sozinha na frente da porta.
+O rapaz sorriu, acenou com a cabeça e se afastou.
+Aurora ficou sozinha na frente da porta.
 
 Respirou.
 
