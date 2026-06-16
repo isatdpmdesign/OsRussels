@@ -75,7 +75,7 @@ tinha os olhos úmidos.
 — Tá na medida do possível — disse Josh. — Vibeke.
 Olha pra mim. Seja o que for que o tio Raj falar
 daqui a pouco, você fica do lado da Aurora. Não
-importa o que a tua tia disser, não importa o que
+importa o que a sua tia disser, não importa o que
 o tio Raj disser. Você fica do lado dela. Você é a
 prima dela e é a única amiga de verdade que ela
 tem nessa casa. Tá bom?
@@ -678,7 +678,7 @@ ele segurou a mão dela, e eu queria ter tirado ela
 da poltrona ali mesmo e tirado o cinto e batido
 naquele homem até ele sair carregado da minha
 casa. Eu queria. — Raj parou. Respirou. — E não
-pude. Porque ele tem a minha conta na mão, e a tua
+pude. Porque ele tem a minha conta na mão, e a sua
 palavra de afilhado é minha de outra forma, e a
 única coisa que sobra entre eu ter a família na
 rua em outubro e eu ter a minha filha casada com
@@ -921,9 +921,9 @@ te escreveu sobre ela?
 — Casandra me escreveu duas vezes nesses cinco
 meses sem fingir que era pra mim e não pra você.
 Uma vez em junho, contando que Meridiana tinha
-visto uma poesia tua riscada e tinha entendido a
+visto uma poesia sua riscada e tinha entendido a
 mulher que estava entre as linhas. Outra em
-agosto, antes da tua viagem pra Sorø, dizendo só
+agosto, antes da sua viagem pra Sorø, dizendo só
 *"você vai entender quando ele chegar com a
 sobrinha da Eleonora"*. Eu li essa carta de pé na
 janela do escritório, três vezes, e entendi sem
@@ -935,13 +935,13 @@ Josh fechou os olhos.
 
 — Eu deveria. Eu não falei porque eu sou homem de
 casa antes de ser homem de fora, Josh, e essa não
-era a conversa que eu queria ter com o teu
-padrinho. A coisa subiu pela tua mãe primeiro, e
+era a conversa que eu queria ter com o seu
+padrinho. A coisa subiu pela sua mãe primeiro, e
 eu deixei.
 
 — A carta selada de abril.
 
-— A carta selada de abril é a tua carta. — Raj
+— A carta selada de abril é a sua carta. — Raj
 fechou o assunto. — A gente conversa quando você
 estiver pronto.
 

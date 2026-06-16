@@ -202,13 +202,13 @@ pra eu não ter pra onde ir.
 
 — Aurora. — Vibeke pegou o rosto dela. — A gente
 não sabe. Você não falou com ele. Você não viu
-nada que confirme isso. Vai até o teu pai.
+nada que confirme isso. Vai até o seu pai.
 Pergunta. Olha pra ele quando ele responder. E aí
 a gente decide o que fazer.
 
 Aurora respirou. Vibeke segurou.
 
-— Senta um segundo. Eu tô aqui contigo. Senta.
+— Senta um segundo. Eu tô aqui com você. Senta.
 
 Aurora sentou na beira da cama da Vibeke. O
 coração dela batia no alto do peito, no lugar onde
@@ -365,7 +365,7 @@ cuidado entre várias.
 — Aurora. Josh é meu afilhado. É filho da
 Casandra, que é amiga da nossa família há mais de
 trinta anos. O pai dele era meu sócio em 1810. É
-irmão de consideração teu, do mesmo jeito que
+irmão de consideração seu, do mesmo jeito que
 Aarav era irmão de criação do Josh, mesmo sem
 nunca terem cruzado de perto. O que você sente
 pelo Josh é o que se sente por um homem que chegou
@@ -437,7 +437,7 @@ preocupado, tudo ao mesmo tempo.
 disse o que sinto pelo Josh — continuou Aurora. —
 Não negou que sabia. Falou alguma coisa de irmão
 de consideração e mandou eu sair. — Pausa. —
-Vibeke, eu preciso da tua ajuda.
+Vibeke, eu preciso da sua ajuda.
 
 — Ajuda com o quê?
 
@@ -501,9 +501,9 @@ não vai ter coragem de negar ajuda..
 
 — E de onde vou tirar dinheiro?
 
-— Da tua mesada. Eu junto a minha à tua. A gente
+— Da sua mesada. Eu junto a minha à sua. A gente
 junta o que falta com o broche pequeno de prata
-que a tua mãe te deu aos catorze anos, que tu
+que a sua mãe te deu aos catorze anos, que você
 nunca usa, e que vale um dinheiro. — Vibeke
 sustentou o olhar. — Tem coisa que está em jogo
 hoje, Aurora. Coisa maior que um broche de prata.
@@ -527,7 +527,7 @@ escritório com a porta fechada. Helle vai estar na
 sala de costura ajudando a tia com o bordado. A
 Fru Larsen vai já ter ido embora. Eu te encontro
 lá embaixo na cozinha às nove da noite. Você sai.
-Eu fico aqui no teu quarto fingindo que você
+Eu fico aqui no seu quarto fingindo que você
 dormiu cedo, e se alguém vier bater eu digo que
 você está com dor de cabeça e que não quer ser
 perturbada.

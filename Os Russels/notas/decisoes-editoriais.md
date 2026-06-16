@@ -25,6 +25,7 @@
 | **Pingue-pongue monossilábico** | No máximo 2 trocas seguidas. | jun/2026 |
 | **Hard wrap dos capítulos** | Largura **50 chars** (cabe sem scroll horizontal no diff do GitHub no iPhone 16). Aplicar a partir do Cap 26. Caps anteriores podem ser rewrap retroativo se a autora pedir. | jun/2026 |
 | **PT-BR brasileiro contemporâneo** | "é sério", "pro/pra", "tá", "a gente". Sem floreio pseudo-época. | jan/2026 |
+| **Sem "tu/teu/tua/teus/tuas/contigo/ti"** | Trocar por "você/seu/sua/seus/suas/com você". Verbo segue na 3ª pessoa. Aplicado retroativo no livro inteiro em jun/2026. Exceções: citação em outra língua (francês: *tu regrettes*). | jun/2026 |
 | **Mais diálogo / fala / expressão dos personagens** | Apontamento geral pra todos os caps daqui pra frente. O livro está pendendo pra **introspecção narrada** quando devia ter mais **troca direta entre personagens**. Cada cena emocional pede diálogo real, não só pensamento interior + síntese do narrador. Cuidar do silêncio (que tem peso) e do falado (que tem ainda mais). | jun/2026 |
 | **Não se apegar a número de capítulos** | Deixar fluir. Mais conteúdo é melhor. Se um capítulo planejado se desdobra em dois, ok. O Livro 1 pode passar de 29-30 caps tranquilamente. | jun/2026 |
 | **Diretrizes de diálogo Aurora–Josh** | 6 princípios em `notas/diretrizes.md`. | jan/2026 |

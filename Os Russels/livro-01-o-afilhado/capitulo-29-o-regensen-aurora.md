@@ -85,14 +85,14 @@ mãos no rosto. Ficou assim um segundo.
 
 Quando ergueu o rosto, tinha decidido a verdade.
 
-— Não foi o teu pai. Fui eu, Aurora. Eu pedi pra
+— Não foi o seu pai. Fui eu, Aurora. Eu pedi pra
 sair.
 
 Aurora não se mexeu.
 
 — Como assim foi você que pediu?
 
-— Eu pedi ontem à noite, depois que o teu pai me
+— Eu pedi ontem à noite, depois que o seu pai me
 chamou no escritório por causa do soco no
 Lindberg. Conversamos por um tempo. No fim da conversa,
 eu pedi pra me mudar pro Regensen. Não foi o Raj que
@@ -138,8 +138,8 @@ Aurora ficou olhando a janela.
 ficar. E ficar ia ser pior. Eu ia bater no
 Lindberg de novo. Eu ia te encurralar contra uma
 porta no corredor e te beijar de novo, e do meu
-lado pior que do lado de ontem, e o teu pai ia me
-expulsar com escândalo, e tu ia perder a família
+lado pior que do lado de ontem, e o seu pai ia me
+expulsar com escândalo, e você ia perder a família
 que ainda te resta. Eu não podia te falar, Aurora.
 Eu não tinha como te falar e ainda assim sair.
 
@@ -163,7 +163,7 @@ no ombro, com o broche dos meus catorze anos sendo
 trocado por moeda pra pagar livro de irmão de
 criada. Tudo pra te buscar de volta. E você não
 estava sendo levado. Você estava aqui por escolha
-tua. Sem mim ter sabido.
+sua. Sem mim ter sabido.
 
 Josh não respondeu.
 
@@ -194,7 +194,7 @@ dentro daquela casa era ferir mais gente que sair.
 — Aurora.
 
 — Deixa eu terminar. — Aurora respirou. — Eu vim
-aqui hoje pra ouvir, no rosto teu, por que você
+aqui hoje pra ouvir, no rosto seu, por que você
 saiu. Eu vim pra você se explicar. Você se
 explicou. Eu entendi. Agora eu preciso de um
 minuto pra absorver. Só um minuto. Depois a gente
@@ -271,7 +271,7 @@ o quarto. Parou na frente dele, em pé entre os
 joelhos abertos dele. — Eu te conheço. Mas eu
 também sei a aritmética, Josh. Eu sei o tamanho da
 dívida do meu pai. Você ouviu na biblioteca, eu
-sei que você ouviu. Eu sei que a herança da tua
+sei que você ouviu. Eu sei que a herança da sua
 mãe não cobre tudo. Eu sei que seis semanas é
 pouco pra levantar o resto. Você pode falhar.
 
@@ -336,7 +336,7 @@ desonra. Vai ser amor.
 
 Josh fechou os olhos.
 
-— Eu tô quebrando a confiança do teu pai.
+— Eu tô quebrando a confiança do seu pai.
 
 — Você bateu no homem que ele tinha aceitado como
 genro. Você já quebrou. — Aurora não soltou as
@@ -406,35 +406,27 @@ primeiro a boca pousando devagar, depois a língua
 encontrando a língua dela com cuidado, depois a
 mão esquerda dele descendo pelo pescoço dela,
 depois o braço direito dele (com a bandagem ainda)
-puxando ela mais pro corpo dele. Aurora ficou em
-pé entre os joelhos dele, ele sentado na cama, e o
-beijo subiu de temperatura como vela acesa em
+puxando ela mais pro corpo dele.
+
+Aurora se acomodou entre os joelhos do Josh
+sentado na cama. As coxas dele de cada lado das
+dela. Aurora encaixada na cintura dele, com o
+vestido subido na altura do meio das coxas, e o
+peso dela apoiado nele. Sentiu, naquele encaixe,
+alguma coisa quente e rija debaixo da calça dele
+roçar a extremidade do corpo dela por baixo do
+tecido fino do vestido. Aurora não tinha nome pra
+aquilo. O corpo dela teve. Aurora arqueou as
+costas quando a boca do Josh desceu da boca dela
+pra encontrar a pele desnuda na curva do colo,
+onde o vestido descobria o ombro.
+
+Aurora segurou a nuca do Josh com as duas mãos.
+Voltou a boca dele pra boca dela com pressa.
+
+O beijo subiu de temperatura como vela acesa em
 quarto fechado: começou em chama pequena e foi
 cobrindo o cômodo.
-
-Josh parou. A testa dele encostou na testa dela.
-
-— Tem mais uma coisa.
-
-— Diz.
-
-— Se você quiser parar, a qualquer minuto, você
-diz. Eu paro. Não tem o que você tenha começado
-que você não possa terminar antes de ter virado o
-que não pode voltar. Você diz uma palavra e eu
-paro. Entendeu?
-
-— Entendi.
-
-— Entendeu, Aurora?
-
-— Entendi, Josh. Eu prometo.
-
-Josh respirou.
-
-— Bom.
-
-E aí desceu.
 
 *
 
@@ -456,12 +448,16 @@ inteiro à luz da vela: o ombro largo de quem tinha
 rachado lenha a vida inteira, a clavícula que ela
 tinha tocado uma vez na madrugada de Bredgade, a
 linha do tórax descendo até onde a calça começava,
-o calo do machado no antebraço, o arranhão antigo
-da pérgola de maio na palma. Aurora pôs a mão no
-esterno dele. Sentiu o calor da pele. Sentiu o
-coração dele bater forte por baixo da palma, mais
-rápido do que ela tinha imaginado que um coração
-de homem batesse.
+os gomos do abdome em fileira, marcando uma escada
+até a linha do umbigo. O calo do machado no
+antebraço, onde as veias marcadas pulsavam com o
+mesmo ritmo do coração que ela ia sentir nos dedos
+em um segundo. O arranhão antigo da pérgola de
+maio na palma. Aurora pôs a mão no esterno dele.
+Sentiu o calor da pele. Sentiu o coração dele
+bater forte por baixo da palma, mais rápido do que
+ela tinha imaginado que um coração de homem
+batesse.
 
 — Tá com medo? — perguntou ela.
 
@@ -476,72 +472,172 @@ tanto que valia a pena ter medo.
 
 — Eu também — disse Aurora.
 
-— Vem.
+Josh desceu as duas mãos pelas costas de Aurora,
+devagar, encontrando o laço do vestido na altura
+da cintura. Começou a desamarrar. Aurora sentiu o
+nó afrouxar atrás dela em três puxadas firmes. O
+laço cedeu, e o vestido escorregou pelas laterais
+dos ombros dela com o próprio peso do tecido,
+parando na altura dos cotovelos.
 
-Josh deitou ela na cama com a calma de quem tinha
-aprendido a tratar coisa frágil na fazenda. Deitou
-a cabeça dela no travesseiro de palha que cheirava
-a sabão de estudante pobre. Tirou as botas dele.
-Subiu na cama por cima dela com o cuidado de não
-pesar.
+Aurora ficou de camisola fina de algodão branco.
 
-Aurora estava de vestido. Josh começou a desfazer
-o vestido pelas costas (ela se sentou, ele atrás
-dela, o dedo dele tropeçando no primeiro laço como
-o dedo dela tinha tropeçado no segundo botão
-dele). Aurora riu de novo, e foi um riso curto,
-nervoso, que Josh devolveu com a boca encostada no
-ombro dela enquanto trabalhava o laço.
+Os dois se olharam um segundo a mais do que
+precisavam, com a vela quase apagando, com o
+quarto pequeno todo iluminado por aquela chama
+amarela tremendo.
 
-O vestido desceu.
+— Aurora. — Josh pousou a testa na testa dela. —
+Se você quiser parar, a qualquer minuto, você diz.
+Eu paro. Não tem o que você tenha começado que
+você não possa terminar antes de ter virado o que
+não pode voltar. Você diz uma palavra e eu paro.
+Entendeu?
 
-Aurora ficou de camisola fina de algodão branco, e
-Josh ficou só de calça, e os dois se olharam um
-segundo a mais do que precisavam, com a vela quase
-apagando, com o quarto pequeno todo iluminado por
-aquela chama amarela tremendo.
+— Entendi.
 
-— Você é linda.
+— Entendeu, Aurora?
 
-— Eu não sei se sou.
+— Entendi, Josh. Eu prometo.
 
-— Você é. Eu te olho há cinco meses, eu sei.
+Josh respirou.
 
-Aurora não soube o que dizer. Pôs a mão na nuca
-dele e puxou ele de volta pra boca dela.
+— Bom.
 
-Aí o tempo afrouxou.
+E aí desceu.
 
-Aurora não soube mais medir, depois de algum
-minuto, quanto tempo passou. Soube só que a boca
-dele tinha começado a descer — primeiro pra
-clavícula dela (o lugar do primeiro beijo de sala
-de estar, ela reconheceu, e arrepiou de novo do
-mesmo jeito que tinha arrepiado naquela
-madrugada), depois pra base do pescoço, depois pra
-cima do ombro nu onde a camisola tinha caído.
-Soube que a mão esquerda dele descobriu a cintura
-dela por baixo da camisola e ficou ali um tempo só
-medindo, antes de subir. Soube que ela aprendeu,
-naqueles minutos, que o corpo dela tinha mais
-lugares onde a pele acordava do que ela tinha
-sabido em dezesseis anos e onze meses.
+*
 
-Soube que a primeira vez que Josh fez ela arrepiar
-do umbigo até a nuca, ele parou. Ergueu o rosto.
-Perguntou *você quer parar*. Aurora disse *não*.
+Josh pousou a boca no colo de Aurora enquanto
+arrastava as alças da camisola pra baixo pelos
+ombros dela. A camisola desceu até a altura do
+peito, e parou, presa na curva do braço dela um
+instante antes do tecido ceder e descer mais. Os
+seios de Aurora apareceram à luz da vela e o ar
+frio do quarto pequeno tocou a pele dela pela
+primeira vez. Aurora arqueou a cabeça pra trás sem
+decidir arquear. O corpo dela decidiu por ela.
 
-Soube que ele perguntou de novo, mais embaixo, com
-a boca dele numa altura do corpo dela que ela
-nunca tinha tido boca de homem antes. Aurora disse
-*não, Josh, vai*.
+Josh pousou a boca no peito dela. Devagar.
 
-Soube que ele perguntou uma terceira vez, no
-momento em que parecia haver uma pergunta final a
-ser feita, e Aurora segurou o rosto dele entre as
-duas mãos dela, olhou nos olhos verdes que tinham
-ficado quase pretos no escuro da vela quase
-apagada, e disse *eu te escolhi, Josh. Vai*.
+Aurora fechou os olhos. A respiração dela ficou
+entrecortada por um motivo que ela não tinha tido
+em dezesseis anos e onze meses inteiros. A boca do
+Josh percorreu o centro do corpo dela, descendo
+pelo esterno, contornando a curva do peito,
+pousando na ponta do seio e ficando ali um
+instante, e Aurora sentiu uma onda subir do meio
+do corpo dela pra o alto do peito dela com a
+velocidade de água que finalmente encontra o
+caminho que estava procurando.
+
+Josh se afastou meio passo. Aurora abriu os olhos.
+
+Ele estava de joelhos no chão na frente da cama, e
+ela sentada na beira do colchão, com o vestido
+caído na cintura e a camisola descida até quase
+poder cair. Josh olhou pra ela com uma admiração
+que Aurora nunca tinha visto na cara de homem
+algum. Olhou pra cara dela, pro pescoço dela, pro
+ombro dela, pro peito dela, pra cintura dela onde
+o tecido ainda segurava. Olhou cada centímetro do
+corpo dela com a calma de quem tinha esperado
+cinco meses pra ter o direito de olhar.
+
+— Meu Deus, Aurora. Você é linda.
+
+— Eu sou?
+
+— A mulher mais linda deste mundo.
+
+Aurora sentiu o calor subir pelo pescoço dela com
+uma velocidade que ela não tinha calculado. Ergueu
+as duas mãos. Pegou a nuca do Josh. Puxou a boca
+dele de volta pra dela.
+
+O beijo dessa vez foi mais fundo. Aurora envolveu
+os dedos no cabelo dele, loiro quase ruivo, mais
+desorganizado de perto do que ela tinha catalogado
+nos cinco meses. Sem saber como e sem saber
+quando, Aurora começou a se mover contra o corpo
+dele — devagar primeiro, com a cintura procurando
+contato, depois com uma firmeza que ela mesma não
+tinha planejado. Josh ainda estava de calça.
+Aurora sentiu, debaixo do tecido grosso da calça,
+a forma dele endurecida contra ela, e o atrito
+acordou no corpo dela uma coisa que ela ia ter que
+catalogar muito tempo depois pra entender que era
+desejo na sua forma mais bruta.
+
+Josh respirou fundo contra a boca dela.
+
+— Aurora.
+
+— Continua.
+
+Num ímpeto, Josh terminou de remover a camisola
+dela. O tecido fino caiu no chão sem som. Aurora
+ficou nua à luz da vela quase apagada. Josh
+encostou as duas mãos na cintura dela, do mesmo
+modo que ela tinha visto homem da fazenda erguer
+saca de farinha (com a firmeza econômica de quem
+sabia a força do braço sem precisar demonstrar), e
+levantou Aurora do colchão, enrolada na cintura
+dele, com as pernas dela abraçando o quadril dele
+e o corpo dela colado no peito dele.
+
+Andaram dois passos. Josh deitou Aurora de costas
+no colchão, com cuidado, com a cabeça dela no
+travesseiro de palha. Aurora sentiu o pano áspero
+do lençol nas costas nuas. Sentiu o ar do quarto
+no corpo inteiro.
+
+Josh se endireitou. Ficou de pé na beira da cama.
+
+Começou a desabotoar a calça.
+
+Aurora não conseguiu não olhar.
+
+A calça caiu. Josh ficou inteiro na frente dela.
+
+Aurora ficou estarrecida com a visão. Nunca tinha
+visto nada parecido com aquilo, mesmo tendo lido,
+escondido, alguns volumes que estavam na quarta
+prateleira da biblioteca do pai dela atrás dos
+tratados de direito civil (livros que o Aarav
+tinha lido primeiro e marcado as páginas com fita
+fina, e que Aurora tinha descoberto aos catorze
+anos numa tarde de chuva, e que a tinham informado
+sobre certas coisas que mulher de dezesseis anos
+não devia saber). Mas livro não preparava pra ver.
+A imagem não cabia no tipo de coisa que ela tinha
+formado na cabeça lendo. Era maior, era mais
+próximo, era mais real, era mais humano (com pele,
+com pelo, com veia, com peso) do que qualquer
+linha de tratado poético podia descrever.
+
+Aurora respirou.
+
+Josh viu a cara dela. Ergueu a sobrancelha.
+
+— Aurora?
+
+— Tô bem. Vem.
+
+Josh se aproximou. Subiu na cama. Afastou as
+pernas dela com cuidado e se posicionou ao meio,
+com o cotovelo apoiado no colchão acima do ombro
+dela pra não pesar, com a outra mão pousada na
+lateral da cintura dela. Pousou a testa na testa
+dela.
+
+— Olha pra mim.
+
+Aurora olhou. Os olhos verdes dele estavam quase
+pretos no escuro. A respiração dele saía na
+têmpora dela.
+
+— Eu te escolhi, Josh. Vai.
 
 *
 
@@ -654,7 +750,7 @@ coque baixo. Pôs a capa marrom da Helle por cima.
 Olhou pra ele.
 
 — Eu vou trabalhar — disse Josh. — Hoje mesmo. Eu
-vou no teu pai, eu vou na casa comercial da
+vou no seu pai, eu vou na casa comercial da
 Højbro, eu vou em toda banca de empréstimo dessa
 cidade. Em seis semanas eu vou tentar levantar o
 que falta. Eu posso falhar, Aurora. Mas eu prometo
@@ -666,7 +762,7 @@ que se eu falhar não vai ser por falta de tentar.
 
 — Você fala com o meu pai.
 
-— Eu falo com o teu pai.
+— Eu falo com o seu pai.
 
 — E se você não conseguir?
 
@@ -709,7 +805,7 @@ tudo a ela. Sem disfarce. Vou pedir.
 
 — Eu acho que vale tentar. — Aurora pegou o capuz.
 — A gente trabalha do nosso lado. Você trabalha do
-teu. Em seis semanas a gente vê.
+seu. Em seis semanas a gente vê.
 
 Josh assentiu uma vez.
 

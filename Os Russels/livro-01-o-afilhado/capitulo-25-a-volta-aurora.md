@@ -77,7 +77,7 @@ mulheres dessa casa conversam por olhar.
 pegou a de Aurora por baixo da manta. A mão da Vibeke estava quente.
 — Mas hoje eu vou dizer uma coisa. Anteontem, na tarde em que você
 caiu no lago e ficou de cama com febre, Casandra me mandou levar o
-chá pro teu quarto. Eu peguei a xícara na mão e fui pela escada com
+chá pro seu quarto. Eu peguei a xícara na mão e fui pela escada com
 toda a intenção de subir, e no meio do caminho cruzei com Josh no
 patamar do segundo andar e entreguei a xícara pra ele. Eu disse: *leva
 você, eu esqueci de uma coisa lá embaixo.*
@@ -160,13 +160,13 @@ Vibeke apertou a mão de Aurora por baixo da manta.
 — Vive isso, Aurora. Vive o que aconteceu no quarto. Vive o que vier
 em Copenhague. Não desonra ninguém: eu sei, eu sei, Casandra disse
 essa frase a vida inteira pro Josh, eu ouvi do corredor numa tarde
-qualquer. Mas não fica vivendo a tua vida toda achando que o que você
+qualquer. Mas não fica vivendo a sua vida toda achando que o que você
 está fazendo é coisa de gente libertina. Não é. Paixão é o que vem
 antes do amor, e muitas vezes paixão e amor são a mesma coisa, e é
 muito raro a gente se apaixonar de verdade por alguém que se
 apaixona de volta. A maioria das pessoas no mundo se apaixona pra um
 lado só. Erik está apaixonado por você, e olha o que você sente
-quando ele fala teu nome: nada. Imagina como ele se sente. Agora pega
+quando ele fala seu nome: nada. Imagina como ele se sente. Agora pega
 essa raridade que você tem na mão e não solta. Se você soltar, você
 vai morrer um dia se arrependendo de não ter vivido.
 
@@ -260,7 +260,7 @@ Casandra foi a primeira. Tinha um embrulho pequeno na mão, de pano
 azul-claro lavado mil vezes, do mesmo tecido do lenço que ela usava
 pra prender o cabelo. Estendeu pra Aurora.
 
-— Eu bordei isso ontem à noite — disse. — Tem as tuas iniciais. Não
+— Eu bordei isso ontem à noite — disse. — Tem as suas iniciais. Não
 é nada demais. É uma coisa que eu só faço pra quem foi bem-vindo nessa
 casa e ficou querido. Os meus filhos ganharam quando nasceram. Faz
 quase trinta anos que eu não bordo um novo. Eu quero que você leve
@@ -303,7 +303,7 @@ mente tortinha, parecida com a letra da Casandra mas mais larga. A
 dedicatória dizia: *Pra Casandra, no Natal de 1812. H.* Aurora fechou
 o livro com cuidado e segurou contra o peito.
 
-— Matias, esse livro é da tua mãe.
+— Matias, esse livro é da sua mãe.
 
 — A mãe disse que eu podia dar. — Matias deu de ombros como menino
 de treze anos dá de ombros. — Ela disse que poesia é pra gente que lê.
@@ -334,7 +334,7 @@ Dylan veio por último, e foi Dylan que quebrou o tom.
 — Aurora — disse ele, com aquele riso seco do pai —, eu não trouxe
 presente porque eu sou um péssimo irmão.
 
-— Eu não sou tua irmã, Dylan.
+— Eu não sou sua irmã, Dylan.
 
 — Vai ser uma hora. — Dylan deu um beijo na bochecha de Aurora sem
 aviso. Foi rápido, foi seco, foi do tipo de beijo que se dá numa

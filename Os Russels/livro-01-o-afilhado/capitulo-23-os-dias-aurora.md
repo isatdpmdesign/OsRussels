@@ -170,17 +170,17 @@ Foi sem querer. Era o sétimo dia, fim de tarde, e Aurora tinha descido pra devo
 
 Ela devia ter ido embora. Sabia que devia. Ficou.
 
-— ...eu escrevo pra você toda noite faz cinco meses, Josh. — A voz de Casandra. — Cinco meses. Você acha que eu não leio? Eu leio cada linha. E eu vou te dizer o que eu vi, porque eu sou tua mãe e eu não vou fingir que não vi. Nos dois primeiros meses você escrevia da cidade, do Raj, dos estudos, da casa grande. E aí, em algum lugar do terceiro mês, começou a aparecer um nome. Devagar. Uma vez por carta. Depois duas. E teve uma carta, lá pra agosto, que chegou diferente de todas as outras.
+— ...eu escrevo pra você toda noite faz cinco meses, Josh. — A voz de Casandra. — Cinco meses. Você acha que eu não leio? Eu leio cada linha. E eu vou te dizer o que eu vi, porque eu sou sua mãe e eu não vou fingir que não vi. Nos dois primeiros meses você escrevia da cidade, do Raj, dos estudos, da casa grande. E aí, em algum lugar do terceiro mês, começou a aparecer um nome. Devagar. Uma vez por carta. Depois duas. E teve uma carta, lá pra agosto, que chegou diferente de todas as outras.
 
 Silêncio.
 
 — Diferente como — disse Josh, e a voz dele estava rouca.
 
-— Sem risco. — Casandra. — Você risca, Josh. Você sempre riscou. Desde menino, quando você escreve uma coisa que é verdade demais, você risca e escreve por cima uma coisa mais segura. As tuas cartas vêm cheias de frase riscada que eu seguro contra a luz pra ler o que você riscou, porque o que você risca é sempre o que importa. E teve uma carta, em agosto, que veio sem um risco. A letra inteira limpa. Pela primeira vez em três semanas você escreveu uma coisa e não teve coragem nem necessidade de riscar, e essa coisa tinha o nome dela.
+— Sem risco. — Casandra. — Você risca, Josh. Você sempre riscou. Desde menino, quando você escreve uma coisa que é verdade demais, você risca e escreve por cima uma coisa mais segura. As suas cartas vêm cheias de frase riscada que eu seguro contra a luz pra ler o que você riscou, porque o que você risca é sempre o que importa. E teve uma carta, em agosto, que veio sem um risco. A letra inteira limpa. Pela primeira vez em três semanas você escreveu uma coisa e não teve coragem nem necessidade de riscar, e essa coisa tinha o nome dela.
 
 Aurora pôs a mão na parede.
 
-— Me conta — disse Casandra, e agora a voz dela estava mais doce do que Aurora tinha ouvido em sete dias. — Eu sou tua mãe. Me conta.
+— Me conta — disse Casandra, e agora a voz dela estava mais doce do que Aurora tinha ouvido em sete dias. — Eu sou sua mãe. Me conta.
 
 E Josh contou.
 
@@ -192,21 +192,21 @@ E ouviu outra voz.
 
 Joseph. Aurora não tinha ouvido Joseph chegar. Ele devia ter vindo pegar água e ficado. A voz dele era baixa, grave, econômica, e dizia cada palavra como quem assina embaixo.
 
-— Isso eu te garanto — disse Joseph. — Eu te conheço a vida inteira. Você não tem um osso desonesto no corpo. Se essa moça é pra ser tua, vai ser do jeito limpo. E se não for, você vai sofrer feito um cão, mas vai sair de cabeça erguida. Não tem outro jeito em você. Eu invejo isso, irmão. Eu nunca consegui.
+— Isso eu te garanto — disse Joseph. — Eu te conheço a vida inteira. Você não tem um osso desonesto no corpo. Se essa moça é pra ser sua, vai ser do jeito limpo. E se não for, você vai sofrer feito um cão, mas vai sair de cabeça erguida. Não tem outro jeito em você. Eu invejo isso, irmão. Eu nunca consegui.
 
 Silêncio de novo.
 
 E então Casandra falou, e Aurora ia carregar o que Casandra falou pelo resto daquela semana e por muitas semanas depois.
 
-— Filho. Olha pra mim. — Pausa. — Eu sei o que é isso. Você acha que eu não sei? Eu corri descalça atrás do teu pai na frente da minha mãe gritando na varanda. Eu sei exatamente o que é querer uma pessoa que o mundo inteiro diz que não é pra você. Eu vivi isso. E eu vou te dizer a única coisa que eu aprendi em toda uma vida que presta pra esse assunto: não desrespeita a menina, nunca, em nada. Mas também não se castiga fingindo que não sente. Essas duas coisas cabem juntas, Josh. Dá pra ser homem direito e viver a paixão ao mesmo tempo. Não são opostos. Quem te disse que são opostos te mentiu.
+— Filho. Olha pra mim. — Pausa. — Eu sei o que é isso. Você acha que eu não sei? Eu corri descalça atrás do seu pai na frente da minha mãe gritando na varanda. Eu sei exatamente o que é querer uma pessoa que o mundo inteiro diz que não é pra você. Eu vivi isso. E eu vou te dizer a única coisa que eu aprendi em toda uma vida que presta pra esse assunto: não desrespeita a menina, nunca, em nada. Mas também não se castiga fingindo que não sente. Essas duas coisas cabem juntas, Josh. Dá pra ser homem direito e viver a paixão ao mesmo tempo. Não são opostos. Quem te disse que são opostos te mentiu.
 
 — E a desigualdade, mãe? E Raj? E o dinheiro?
 
-— Isso a gente resolve. — Casandra disse com uma certeza tão lisa que Aurora acreditou nela de fora da parede. — Tem mais coisa em jogo do que você sabe, filho. Quando você chegar em Copenhague, antes de entregar aquela carta ao Raj, você lê. Você me ouviu? Você abre e lê. Eu não vou te contar agora o que tem nela, porque se eu contar você vai passar a viagem inteira fazendo conta na cabeça e não vai viver esses dias que você tem aqui com ela. Mas você lê antes de entregar. Promete pra tua mãe.
+— Isso a gente resolve. — Casandra disse com uma certeza tão lisa que Aurora acreditou nela de fora da parede. — Tem mais coisa em jogo do que você sabe, filho. Quando você chegar em Copenhague, antes de entregar aquela carta ao Raj, você lê. Você me ouviu? Você abre e lê. Eu não vou te contar agora o que tem nela, porque se eu contar você vai passar a viagem inteira fazendo conta na cabeça e não vai viver esses dias que você tem aqui com ela. Mas você lê antes de entregar. Promete pra sua mãe.
 
 — Eu prometo.
 
-— E enquanto você está aqui — Casandra, mais baixo, e Aurora teve que segurar a respiração pra ouvir —, na minha casa, na minha terra, sob o meu teto, você tem licença. Tá me ouvindo? Eu te dou licença. Não pra desonrar ninguém. Pra viver. Olha pra ela como ela merece ser olhada. Deixa de ser tão duro contigo mesmo por um dia que seja. O resto a gente organiza depois.
+— E enquanto você está aqui — Casandra, mais baixo, e Aurora teve que segurar a respiração pra ouvir —, na minha casa, na minha terra, sob o meu teto, você tem licença. Tá me ouvindo? Eu te dou licença. Não pra desonrar ninguém. Pra viver. Olha pra ela como ela merece ser olhada. Deixa de ser tão duro com você mesmo por um dia que seja. O resto a gente organiza depois.
 
 Aurora saiu de fininho antes de ser vista.
 

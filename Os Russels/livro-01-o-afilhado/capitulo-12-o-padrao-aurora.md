@@ -68,7 +68,7 @@ O nome saiu pequeno. Quase sussurrado. Como uma confissão num confessionário �
 
 Ingrid não reagiu imediatamente. Ficou parada com aquela imobilidade calculada que era marca registrada dela: a imobilidade de quem processa informação antes de responder, como uma máquina que recebe dados e precisa de um momento para computar.
 
-— Josh — repetiu Ingrid. — O afilhado do teu pai. Que mora na tua casa. O rapaz do campo com cara de deus nórdico que todas as moças de Copenhague querem e que tu finges que não notas.
+— Josh — repetiu Ingrid. — O afilhado do seu pai. Que mora na sua casa. O rapaz do campo com cara de deus nórdico que todas as moças de Copenhague querem e que você finge que não nota.
 
 — Eu não finjo que não noto.
 

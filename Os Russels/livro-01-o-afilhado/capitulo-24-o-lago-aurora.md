@@ -192,7 +192,7 @@ Casandra estava no terreiro com um cesto. Levantou a cabeça quando viu Josh atr
 
 Não fez pergunta. Não gritou. Só organizou. Vibeke apareceu na porta da cozinha com cara de quem tinha acabado de ouvir corre-corre. Joseph apareceu do estábulo. Dylan apareceu do nada, do jeito que Dylan sempre apareceu do nada quando alguma coisa importante estava acontecendo. Matias ficou parado na soleira sem saber pra onde olhar.
 
-— Joseph, fogo na lareira da Meridiana. Agora. Dylan, água quente da bacia, e busca outra muda de pano que tá no armário do fundo. Vibeke, sai da frente, menina. Matias, fica fora do quarto. Aurora, escuta a tua tia: você vai vestir uma roupa seca em três minutos e vai pra cama. Josh, leva ela pro quarto. Não fica.
+— Joseph, fogo na lareira da Meridiana. Agora. Dylan, água quente da bacia, e busca outra muda de pano que tá no armário do fundo. Vibeke, sai da frente, menina. Matias, fica fora do quarto. Aurora, escuta a sua tia: você vai vestir uma roupa seca em três minutos e vai pra cama. Josh, leva ela pro quarto. Não fica.
 
 Tudo aconteceu na velocidade do que Casandra ia mandando. Joseph subiu. Dylan correu pra cozinha. Vibeke ficou com Casandra. Josh subiu Aurora a escada e a deitou na cama da Meridiana com cuidado redobrado, como se Aurora tivesse virado louça num intervalo de quinze minutos. Aurora viu o rosto dele uma última vez antes de Josh sair (Casandra ali, mandando ele sair com o olho), e Aurora reconheceu nesse rosto a primeira parede dele subindo de novo. Não muito. Mas o suficiente pra ela ver.
 
@@ -222,7 +222,7 @@ Meridiana saiu com Casandra. A porta fechou. Aurora ficou na cama com Vibeke do 
 
 Vibeke ficou um instante calada, olhando pra Aurora com uma cara nova que Aurora não tinha visto na prima em onze dias e que ela não soube classificar. Não era preocupação. Não era curiosidade. Era uma terceira coisa que Aurora ia ter tempo de entender depois.
 
-— Eu vou descer e buscar o teu chá — disse Vibeke. — Casandra deve ter terminado.
+— Eu vou descer e buscar o seu chá — disse Vibeke. — Casandra deve ter terminado.
 
 — Tá.
 
@@ -258,7 +258,7 @@ Josh fechou a porta atrás de si.
 
 Olharam um segundo.
 
-— Trouxe o teu chá.
+— Trouxe o seu chá.
 
 — Obrigada.
 
@@ -448,7 +448,7 @@ Aurora desceu do quadril dele. Sentou no colchão ao lado. Puxou a camisola pra 
 
 — Diz.
 
-— Aqui não é só pela minha mãe. Aqui não é só porque Raj te confiou a mim. Aqui também é porque você ainda está sob a casa do teu pai, do outro lado da Zelândia, e eu não vou ter atravessado essa parede embaixo do teto dele sem ter atravessado com ele primeiro. Você entende isso.
+— Aqui não é só pela minha mãe. Aqui não é só porque Raj te confiou a mim. Aqui também é porque você ainda está sob a casa do seu pai, do outro lado da Zelândia, e eu não vou ter atravessado essa parede embaixo do teto dele sem ter atravessado com ele primeiro. Você entende isso.
 
 — Eu entendo.
 

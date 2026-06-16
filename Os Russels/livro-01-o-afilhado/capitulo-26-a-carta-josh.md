@@ -460,7 +460,7 @@ que ia casar comigo. Eu te disse que ia trabalhar
 pra conseguir isso. Trabalhar pra te casar, é o
 que eu te disse, Aurora. Era pra ser eu na frente
 do altar, não um velho que te comprou com a dívida
-do teu pai. Eu te disse e eu vou. Olha pra mim. Eu
+do seu pai. Eu te disse e eu vou. Olha pra mim. Eu
 vou.
 
 — Eu acredito.
@@ -656,13 +656,13 @@ escolher o caminho dele, e Matias ainda nem fez
 treze anos direito, e o tempo deles é outro. Mas
 você, Josh. Você não tem terra pra herdar nem
 papel definido pra cumprir, e foi por isso que eu
-te mandei pra cidade. Era essa a parte do teu pai
+te mandei pra cidade. Era essa a parte do seu pai
 que ele e eu guardamos em vida, em pensamento, pro
 filho que tivesse que sair daqui pra construir
 vida que a fazenda não dá. Aquele filho foi você,
 Josh. Eu sempre soube que ia chegar a hora. Eu
 guardei tudo pra você. Quando você ler isto, vá ao
-Raj, peça a assinatura dele, e saque. É teu,
+Raj, peça a assinatura dele, e saque. É seu,
 filho. Faz o que precisar.*
 
 Tinha um número no fim. A quantia.
