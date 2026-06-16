@@ -47,8 +47,7 @@ braço dele que segurava a porta e entrou.
 estar aqui *agora*, à essa hora. Se alguém te
 viu...
 
-— Foi Aksel Holm que me trouxe. Não me viu
-ninguém.
+— Foi Aksel Holm que me trouxe. Ninguém me viu.
 
 Josh fechou a porta atrás dela. Encostou as costas
 nela. Pousou a vela na mesa lateral. A mão dele
@@ -72,7 +71,7 @@ onde ir. — Aurora sustentou o olhar dele. — Ele
 pediu perdão a mim ontem por me casar com
 Lindberg. Disse que era a única saída. Disse que
 já tinha aceitado. E aí, na mesma noite, você sai
-da casa. Sem despedida. Sem aviso. Por acaso,
+de casa. Sem despedida. Sem aviso. Por acaso,
 Josh? Foi por acaso?
 
 — Aurora.
@@ -91,12 +90,12 @@ sair.
 
 Aurora não se mexeu.
 
-— Como assim foi você que pediu.
+— Como assim foi você que pediu?
 
 — Eu pedi ontem à noite, depois que o teu pai me
 chamou no escritório por causa do soco no
-Lindberg. Conversamos longo. No fim da conversa,
-eu pedi pra me mudar pro Regensen. Não foi Raj que
+Lindberg. Conversamos por um tempo. No fim da conversa,
+eu pedi pra me mudar pro Regensen. Não foi o Raj que
 decidiu. Fui eu.
 
 Aurora respirou.
@@ -133,7 +132,7 @@ Aurora ficou olhando a janela.
 
 — Eu não consegui te falar olhando no rosto.
 
-— Por que não.
+— Por que não?
 
 — Porque se eu te falasse, você ia me convencer a
 ficar. E ficar ia ser pior. Eu ia bater no
