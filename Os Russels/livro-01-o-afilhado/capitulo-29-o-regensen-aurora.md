@@ -698,8 +698,8 @@ os dedos no cabelo dele, loiro quase ruivo, mais
 desorganizado de perto do que ela tinha catalogado
 em meses de observação à mesa de jantar. Sem saber
 como e sem saber quando, Aurora começou a se mover
-contra o corpo dele — devagar primeiro, com a
-cintura procurando contato, depois com uma firmeza
+contra o corpo dele. Devagar primeiro, com a
+cintura procurando contato. Depois com uma firmeza
 que ela mesma não tinha planejado. Josh ainda
 estava de calça. Aurora sentiu, debaixo do tecido,
 a forma dele endurecida contra ela, e o atrito
