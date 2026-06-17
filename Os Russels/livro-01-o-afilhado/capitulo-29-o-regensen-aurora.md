@@ -156,26 +156,50 @@ convencesse a ficar. Você devia ter falado.
 — Eu sei.
 
 — Eu acordei achando que o meu pai tinha te
-mandado embora. Eu cheguei aqui achando que ia
-chegar pra te tirar das mãos dele. Eu vim com um
-plano, Josh. Eu vim com Vibeke armando logística,
-com Helle deixando porta aberta. Eu vim correndo
-perigo de ser descoberta no meio da rua com nada
-além de uma capa marrom me cobrindo. Eu vim com o
-broche dos meus catorze anos sendo trocado por
-moeda pra pagar livro de irmão de criada. Tudo pra
-te buscar de volta. Tudo pra te dizer que não era
-pra você temer, que eu não tô temendo. Que se a
-saída fosse fugir, eu fugia. Que se a saída fosse
-virar as costas pro meu pai e pra minha mãe e
-nunca mais entrar naquela casa, eu virava. Eu vim
-te dizer que eu não me importava mais com
+mandado embora. Eu cheguei aqui achando que ia te
+tirar das mãos dele.
+
+Aurora respirou.
+
+— A Helle tem um irmão que mora aqui pra tentar a
+prova de outubro. A Vibeke me contou. Eu propus
+pagar os livros da prova dele com o broche pequeno
+de prata que a minha mãe me deu de presente aos
+catorze anos. A Helle aceitou. Me deu o nome do
+irmão dela na portaria do Regensen, me deixou a
+porta lateral da Bredgade aberta pra noite, e me
+emprestou a capa marrom dela pra eu sair sem ser
+vista.
+
+Josh fechou os olhos.
+
+— Eu atravessei a Bredgade às nove da noite com a
+capa, Josh. Sozinha. Atravessei o Bairro Latino
+sem nunca ter pisado nele antes na vida. Bati na
+porta de um estudante que eu nem sabia o nome de
+pai, falei o sobrenome dele uma vez e pedi pra ele
+me trazer até a tua porta.
+
+Josh não abriu os olhos. Aurora viu, na luz da
+vela, a mão direita dele (a enfaixada) abrir e
+fechar uma vez no ar antes de pousar de novo na
+beira do colchão.
+
+— Eu fiz tudo isso porque achei que o meu pai
+tinha te tirado de mim, e que eu tinha que te
+buscar. Pra te dizer que se a saída fosse fugir,
+eu fugia. Que se a saída fosse virar as costas pro
+meu pai e pra minha mãe e nunca mais entrar
+naquela casa, eu virava. Eu não me importava com
 reputação nem com sociedade nem com nada que
 sustentasse essa casa de pé enquanto eu fosse
-entregue ao Lindberg. Era pra ser uma coisa que a
-gente decidia junto. E você não estava sendo
-despejado. Você veio pra cá por escolha sua. Sem
-eu ter sabido.
+entregue ao Lindberg.
+
+Aurora ficou um segundo em silêncio.
+
+— Era pra ser uma coisa que a gente decidia junto,
+Josh. E você não estava sendo despejado. Você
+escolheu sair. Você me deixou só.
 
 Josh respirou fundo. Ergueu o rosto.
 
@@ -211,8 +235,18 @@ risco de reputação. Era risco de vida.
 
 Aurora ficou em silêncio.
 
+Sentiu o quarto inteiro ficar um milímetro menos
+firme em volta dela. Risco de vida. Se ela tivesse
+atravessado o corredor ontem à noite, tivesse
+acordado Josh no quarto leste, tivesse pedido pra
+fugir — e ele tivesse cedido —, ela teria mandado
+o pai dela pra um beco com o capanga do Lindberg
+na esquina. Teria mandado a mãe dela pro mesmo
+beco. *Pelas mãos dela.* Aurora segurou a
+respiração até a frase passar.
+
 — Eu não podia te falar dessa parte, Aurora. Eu
-não podia te entrar no quarto ontem à noite e te
+não podia entrar no teu quarto ontem à noite e te
 contar que o teu pai me deu aviso desse tamanho.
 Eu não podia te dar pesadelo pra você dormir. E
 não podia ficar na casa. Não ia conseguir. Eu não
@@ -349,10 +383,20 @@ tudo.
 
 — Quanto falta?
 
-— Bastante. Eu fiz a conta cinco vezes naquela
-noite. Não fecha. E é por isso que eu vou bater
-nas portas. Pra levantar o que falta nessas seis
-semanas.
+Josh demorou meio segundo. Aurora viu o queixo
+dele travar antes da resposta.
+
+— Bastante.
+
+*Bastante.* A palavra entrou em Aurora como pedra
+atirada num poço fundo: caiu, caiu, e Aurora não
+ouviu o som de bater no fundo. Bastante. Bastante
+era de outro tamanho. Bastante era o tamanho do
+Lindberg em outubro.
+
+— Eu fiz a conta cinco vezes naquela noite. Não
+fecha. E é por isso que eu vou bater nas portas.
+Pra levantar o que falta nessas seis semanas.
 
 — E se não bastar?
 
@@ -446,11 +490,14 @@ Josh respirou. A frase entrou nele inteira.
 Josh ficou um segundo a mais sem responder.
 
 Aurora viu o momento exato em que a contenção dele
-cedeu. Viu o ombro dele descer um milímetro. Viu o
-queixo soltar a tensão que ele vinha mantendo
-desde que ela tinha entrado pela porta. Viu, na
-luz da vela, o olho dele molhar de novo, mais
-fundo dessa vez.
+cedeu. O ombro dele baixou um milímetro. O queixo
+soltou a tensão que ele vinha mantendo desde que
+ela tinha entrado pela porta. Na luz da vela, o
+olho dele molhou de novo, mais fundo dessa vez, e
+Aurora sentiu por dentro alguma coisa que era ao
+mesmo tempo vitória e gratidão e medo, e que era
+principalmente amor por um homem que tinha
+resistido tanto tempo pelo motivo certo.
 
 Josh tirou a mão direita da mão dela com cuidado.
 Levou a mão esquerda (a íntegra) até o rosto dela,
@@ -461,15 +508,28 @@ Aurora fechou os olhos sob o toque.
 — Você precisa saber uma coisa — disse Josh, e a
 voz dele saiu mais baixa do que ela ainda tinha
 ouvido nele. — Eu te amo desde o primeiro dia,
-Aurora. Desde aquela escada da Bredgade em abril,
-quando você desceu de luto pelo Aarav e me odiou
-com vontade. Eu queimo por você há cinco meses.
-Cada manhã na cozinha, cada noite na biblioteca,
-cada baile, cada conversa, cada vez que você riu
-por nariz, cada vez que você ergueu o queixo no
-ângulo de sempre. Eu te quero há cinco meses
-inteiros. Eu nunca disse porque eu não tinha
-direito.
+Aurora.
+
+Aurora não respirou.
+
+— Desde aquela escada da Bredgade em abril, quando
+você desceu de luto pelo Aarav e me odiou com
+vontade. Eu queimo por você há cinco meses.
+
+Aurora sentiu o ar entrar no peito com falha. A
+mão dela, que estava no joelho dele, pressionou
+sem ela ter mandado pressionar.
+
+— Cada manhã na cozinha às cinco e quarenta e
+cinco. Cada vez que você riu por nariz. Cada vez
+que você deixou de ser a filha do Raj e foi a
+Aurora — na festa do celeiro com a Ingrid, na
+cozinha da minha mãe em Sorø com o Dylan rindo, no
+pomar com a Meridiana com terra debaixo das unhas.
+Eu te olhei toda vez. Cada vez que você se
+permitiu ser você sem casca, eu vi. Eu te quero há
+cinco meses inteiros, Aurora. Eu nunca disse
+porque eu não tinha direito.
 
 — Você tem direito agora.
 
@@ -611,13 +671,16 @@ inclinou o tronco pra trás, com Aurora ainda no
 colo, sustentada pelos braços dele em volta da
 cintura dela. Olhou pra ela.
 
-A admiração no rosto dele era algo que Aurora
-nunca tinha visto em cara de homem. Olhou pra cara
-dela, pro pescoço dela, pro ombro dela nu, pro
-peito dela, pra cintura dela onde a camisola ainda
-caía dobrada. Olhou cada centímetro do corpo dela
-com a calma de quem tinha esperado a vida inteira
-pra ter o direito de olhar.
+Aurora sentiu o olho dele atravessar ela. Começou
+pelo rosto dela. Desceu pelo pescoço, e a pele do
+pescoço dela arrepiou sem ela ter mandado.
+Continuou pelo ombro nu. Pelos seios. Pela cintura
+onde a camisola ainda caía dobrada. Aurora ficou
+parada no colo dele sentindo cada centímetro de
+pele dela ser visto pela primeira vez em dezesseis
+anos e onze meses, e descobriu que ser olhada
+daquele jeito era uma coisa que aquecia o corpo de
+dentro pra fora.
 
 — Meu Deus, Aurora. Você é linda.
 
@@ -819,18 +882,17 @@ dela, com a respiração saindo na têmpora dela.
 
 E ela tava bem.
 
-Em pouco tempo a coisa virou outra. Virou o ritmo
-dele encontrando o ritmo dela. Virou Aurora
-descobrindo que o corpo dela tinha uma resposta
-pra cada gesto do corpo dele que ela não tinha
-sabido. Virou Josh, em algum momento, deixar
-escapar pelo dente fechado um som baixo de homem
-que tinha estado segurando uma coisa há muito
-tempo e que agora podia soltar. Virou Aurora
-arquear o corpo dela contra o corpo dele e sentir,
-na primeira onda do que ela ia descobrir muito
-tempo depois ter nome, alguma coisa que ela achou
-que ia parar o coração dela ali mesmo.
+Em pouco tempo a coisa virou outra. O ritmo dele
+encontrou o ritmo dela. O corpo de Aurora
+descobriu que tinha uma resposta pra cada gesto do
+corpo dele que ela não tinha sabido. Josh, em
+algum momento, deixou escapar pelo dente fechado
+um som baixo de homem que tinha estado segurando
+uma coisa há muito tempo e que agora podia soltar.
+Aurora arqueou o corpo dela contra o corpo dele e
+sentiu, na primeira onda do que ela ia descobrir
+muito tempo depois ter nome, alguma coisa que ela
+achou que ia parar o coração dela ali mesmo.
 
 A vela apagou em algum momento.
 
