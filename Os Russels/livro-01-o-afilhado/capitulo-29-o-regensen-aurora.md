@@ -303,8 +303,8 @@ Josh assentiu uma vez, devagar.
 *
 
 Aurora andou até a janela. Encostou a testa no
-vidro. Estava frio. Olhou pra fora: o pátio do
-Regensen, escuro, sem movimento algum, com um
+vidro. Estava frio. Olhou pra fora, o pátio do
+Regensen estava escuro, sem movimento algum, com um
 lampião aceso na esquina.
 
 Olhou. Pensou.
