@@ -390,9 +390,8 @@ dele travar antes da resposta.
 
 *Bastante.* A palavra entrou em Aurora como pedra
 atirada num poço fundo: caiu, caiu, e Aurora não
-ouviu o som de bater no fundo. Bastante. Bastante
-era de outro tamanho. Bastante era o tamanho do
-Lindberg em outubro.
+ouviu o som de bater no fundo. Bastante era o
+tamanho do Lindberg em outubro.
 
 — Eu fiz a conta cinco vezes naquela noite. Não
 fecha. E é por isso que eu vou bater nas portas.
@@ -682,6 +681,8 @@ anos e onze meses, e descobriu que ser olhada
 daquele jeito era uma coisa que aquecia o corpo de
 dentro pra fora.
 
+Aurora pensou que ia morrer ali.
+
 — Meu Deus, Aurora. Você é linda.
 
 — Eu sou?
@@ -799,15 +800,13 @@ licença a cada milímetro.
 Aurora fechou os olhos.
 
 O que veio a seguir não tinha referência em livro,
-não tinha referência em conversa de salão, não
-tinha referência em nada que Aurora soubesse
-nomear. Tinha pulso. Tinha calor subindo. Tinha o
-corpo dela respondendo a cada movimento da mão
-dele com uma vontade que ela não tinha pedido
-permissão pra ter. Tinha a boca do Josh
-encontrando a boca dela de novo, abafando o som da
-respiração dela que tinha começado a sair mais
-alta do que ela queria.
+nem em nada que Aurora soubesse nomear. Tinha
+pulso. Tinha calor subindo. O corpo dela respondia
+a cada movimento da mão dele com uma vontade que
+ela não tinha pedido permissão pra ter, e a boca
+do Josh tinha encontrado a boca dela de novo,
+abafando o som da respiração dela que tinha
+começado a sair mais alta do que ela queria.
 
 Tinha uma onda subindo.
 
@@ -837,7 +836,10 @@ mão.
 — Tô. — A voz de Aurora saiu rouca. — O que foi
 isso, Josh?
 
-— Foi o que devia ser sempre.
+Josh não respondeu logo. Encostou a testa na testa
+dela.
+
+— Vem aqui.
 
 *
 
@@ -885,14 +887,13 @@ E ela tava bem.
 Em pouco tempo a coisa virou outra. O ritmo dele
 encontrou o ritmo dela. O corpo de Aurora
 descobriu que tinha uma resposta pra cada gesto do
-corpo dele que ela não tinha sabido. Josh, em
-algum momento, deixou escapar pelo dente fechado
-um som baixo de homem que tinha estado segurando
-uma coisa há muito tempo e que agora podia soltar.
-Aurora arqueou o corpo dela contra o corpo dele e
-sentiu, na primeira onda do que ela ia descobrir
-muito tempo depois ter nome, alguma coisa que ela
-achou que ia parar o coração dela ali mesmo.
+corpo dele. Em algum momento Josh deixou escapar
+pelo dente fechado um som baixo, de homem que
+tinha estado segurando uma coisa há muito tempo, e
+agora podia soltar. Aurora arqueou. Sentiu, na
+primeira onda do que ela ia descobrir muito tempo
+depois ter nome, alguma coisa que ela achou que ia
+parar o coração dela ali mesmo.
 
 A vela apagou em algum momento.
 
