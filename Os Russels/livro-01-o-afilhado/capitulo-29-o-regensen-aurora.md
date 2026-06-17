@@ -10,7 +10,7 @@
 
 Aurora bateu.
 
-Ouviu passos do outro lado da porta. Devagar — não
+Ouviu passos do outro lado da porta. Devagar; não
 devagar de cansaço, devagar de quem tinha
 levantado da escrivaninha sem saber quem ia estar
 do outro lado àquela hora. Ouviu a chave girar.
@@ -23,7 +23,7 @@ inteira debruçado sobre alguma coisa.
 Josh viu Aurora.
 
 O rosto dele perdeu cor por um segundo. Depois
-ganhou outra cor que não era a de antes — uma cor
+ganhou outra cor que não era a de antes. Uma cor
 de homem que tinha aberto a porta de um quarto
 achando que ia ver um colega de estudo com algum
 tratado pra discutir, e tinha visto a única mulher
@@ -107,7 +107,7 @@ também a primeira respiração que doeu.
 Porque era melhor que tivesse sido o pai dela.
 
 Se tivesse sido o pai dela, era injustiça do mundo
-agindo sobre os dois — era coisa que ela e Josh
+agindo sobre os dois. Era coisa que ela e Josh
 podiam enfrentar de mãos dadas. Mas tendo sido
 ele, era escolha dele. Era ele tendo decidido sair
 e deixado ela para trás.
@@ -239,11 +239,11 @@ Sentiu o quarto inteiro ficar um milímetro menos
 firme em volta dela. Risco de vida. Se ela tivesse
 atravessado o corredor ontem à noite, tivesse
 acordado Josh no quarto leste, tivesse pedido pra
-fugir — e ele tivesse cedido —, ela teria mandado
-o pai dela pra um beco com o capanga do Lindberg
-na esquina. Teria mandado a mãe dela pro mesmo
-beco. *Pelas mãos dela.* Aurora segurou a
-respiração até a frase passar.
+fugir (e ele tivesse cedido), ela teria mandado o
+pai dela pra um beco com o capanga do Lindberg na
+esquina. Teria mandado a mãe dela pro mesmo beco.
+*Pelas mãos dela.* Aurora segurou a respiração até
+a frase passar.
 
 — Eu não podia te falar dessa parte, Aurora. Eu
 não podia entrar no teu quarto ontem à noite e te
@@ -288,7 +288,7 @@ Josh assentiu uma vez, devagar.
 *
 
 Aurora andou até a janela. Encostou a testa no
-vidro. Estava frio. Olhou pra fora — o pátio do
+vidro. Estava frio. Olhou pra fora: o pátio do
 Regensen, escuro, com um lampião aceso na esquina,
 com o livro do Aksel Holm esquecido no banco de
 pedra. Olhou.
@@ -958,7 +958,7 @@ Levantou.
 Josh levantou também. Acendeu a vela nova da
 escrivaninha. A luz amarela voltou ao quarto, e
 Aurora viu, pela primeira vez de pé com a camisola
-caída no chão, o quarto dele — pequeno, com a
+caída no chão, o quarto dele: pequeno, com a
 estante de livros do Raj alinhada no canto, com a
 carta da Casandra em cima dos livros, com o
 rascunho da conta que não fechava ao lado da
