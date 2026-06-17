@@ -377,12 +377,43 @@ onde sairia metade.
 mesmo que tivesse o valor inteiro, você não tem
 que arcar com nada!
 
-— Eu faço qualquer coisa pra não te ver casar com
-Lindberg, Aurora. — Josh passou as mãos pelos
-cabelos, antes de continuar explicando. — Minha
-mãe me deixou uma carta dizendo que eu tenho
-direito a um dinheiro guardado que eu nem sabia
-que existia.
+— Você não tem que pagar essa dívida, Josh. Essa
+dívida é do meu pai. Você não tem nada com isso.
+
+— Mas é essa dívida que te condena ao Lindberg,
+Aurora. E isso me influencia diretamente. Eu não
+posso e eu não vou permitir esse casamento. Tudo
+que eu precisar fazer e tudo que eu puder fazer
+pra impedir, eu faço. Não importa o que me custar.
+
+Aurora sentiu o ar sair do peito dela com aquela
+falha curta que ela tinha aprendido a reconhecer
+nos cinco meses como sinal de quando o corpo dela
+ia atrás do Josh antes da cabeça autorizar. Olhou
+pra ele um segundo sem responder. Pensou que devia
+falar alguma coisa de cabeça, alguma coisa
+sensata, mas o que veio foi uma vontade boba de
+encostar a mão no rosto dele só pra confirmar com
+a palma que ele estava ali, falando aquilo, pra
+ela.
+
+— Josh.
+
+— Diz.
+
+— Você falando assim me desarma, sabia? — Aurora
+respirou. — Eu vim aqui pra brigar e você não tá
+me deixando.
+
+Josh quase sorriu. Quase. O canto da boca subiu
+meio milímetro e desceu de novo.
+
+— Conta tudo. — Aurora endireitou o ombro. — A
+carta da sua mãe. Quanto é. Quanto falta.
+
+— A minha mãe me deixou uma carta dizendo que eu
+tenho direito a um dinheiro guardado que eu nem
+sabia que existia.
 
 Aurora respirou. *A carta.* A carta que ela tinha
 ouvido a Casandra mandar ele abrir, atrás da
@@ -391,7 +422,7 @@ entregar.* Aurora tinha guardado a frase sem saber
 pra que servia. Agora servia.
 
 — Era isso que tinha na carta. — Aurora disse
-baixo como se falasse para ela mesma.
+baixo, como se falasse para si mesma.
 
 — Era. — Josh assentiu uma vez com o cenho
 franzido como quem não entende como ela saberia da
@@ -574,13 +605,25 @@ o Dylan rindo, no pomar com a Meridiana. Com terra
 debaixo das unhas podando as rosas do Aarav no
 jardim. Eu te admirei todas as vezes. Cada vez que
 você se permitiu ser você sem casca, eu me
-apaixonei mais e mais. Quando você caiu no lago,
-eu pensei que você iria morrer e meu coração se
-despedaçou dentro do meu peito em desespero. Eu te
-quero há cinco meses inteiros, Aurora e não sei
-mais o que fazer com isso. Eu me sinto
-terrivelmente apaixonado por você e eu nunca te
-disse porque eu não tinha direito.
+apaixonei mais e mais.
+
+Aurora sentiu o ar entrar no peito com falha. A
+mão dela, que estava no joelho dele, pressionou
+sem ela ter mandado pressionar.
+
+— Quando você caiu no lago, eu pensei que você ia
+morrer e o meu coração se despedaçou dentro do
+peito em desespero. Eu te quero há cinco meses
+inteiros, Aurora. Eu nunca te disse porque eu não
+tinha direito. Mas eu te amo.
+
+Aurora não conseguiu responder. Tinha duas
+lágrimas descendo pelo rosto dela sem ela ter
+mandado descer. Sentiu o peito dela inteiro tomado
+por uma coisa que ela não tinha como controlar e
+que ela só tinha lido em livro do Aarav: era amor
+em corpo de menina que acabou de ouvir um homem
+dizer que a ama em voz alta pela primeira vez.
 
 — Você tem direito agora.
 
