@@ -110,7 +110,7 @@ Se tivesse sido o pai dela, era injustiça do mundo
 agindo sobre os dois — era coisa que ela e Josh
 podiam enfrentar de mãos dadas. Mas tendo sido
 ele, era escolha dele. Era ele tendo decidido sair
-sem ela ter participado da decisão.
+e deixado ela para trás.
 
 Aurora virou o rosto pra o lado. Olhou pra janela
 estreita do quarto de estudante, com a vela
