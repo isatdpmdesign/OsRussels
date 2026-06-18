@@ -57,9 +57,11 @@
 | Cap 24: dia 11 — lago + quarto à noite | Sorø | `cap24` |
 | Cap 25 (a escrever): última manhã, dia 14 — partida | Sorø → Copenhague | (plano) |
 | Cap 26: chegada Bredgade, Josh entra no quarto Aurora, abre carta, soco no Lindberg, vai pro Regensen | Copenhague, dia da volta + dia seguinte | `cap26` |
-| Cap 27 (a escrever): notícia Lindberg + Aurora vai ao Regensen (cena íntima) | Copenhague | (plano) |
-| Cap 28 (a escrever): oferta do Josh, joias da Eleonora, noivado | Copenhague | (plano) |
-| Cap 29 (a escrever): coda — Aarav vivo numa ilha | onisciente | (plano) |
+| Cap 27: anúncio do casamento na sala, Vibeke contesta, visita do Lindberg, Josh sai pro Regensen | Copenhague, dia seguinte à chegada | `cap27` |
+| Cap 28: Aurora acorda, descobre Josh foi pro Regensen, confronta Raj, vai ao Regensen à noite | Copenhague, mais um dia depois | `cap28` |
+| Cap 29: A CENA no Regensen, consumação, declaração Bridgerton, Aurora volta às 4:42 | Copenhague, mesma noite + madrugada | `cap29` |
+| Cap 30: amanhecer na Bredgade, conversa Aurora-Vibeke, Eleonora percebe no café | Copenhague, segunda de manhã | `cap30` |
+| Caps 31-39 (a escrever): seis semanas + casamento em Sorø + coda | (plano) | |
 
 ## Casas (geografia)
 
@@ -114,6 +116,12 @@
 | Vibeke teve experiência sexual com Lauritz no inverno/colheita | Vibeke, Lauritz | Karoline, Eleonora, Aurora (até Cap 27), todos |
 | Aarav está vivo | **Ninguém no Livro 1.** Só o leitor (coda Cap 29) | Todos os personagens |
 | Plano de carreira do Josh com banca jurídica | Josh, Raj (após Cap 26 — quando Josh abre a carta) | Aurora, Eleonora (até Cap 28) |
+| Aurora consumou com Josh no Regensen | Aurora, Josh, Vibeke (Aurora contou no Cap 30); Helle infere | Raj, Eleonora, todos os outros |
+| Aurora teve prazer na primeira vez | Aurora, Josh, Vibeke (Aurora contou) | todos os outros |
+| Vibeke não teve prazer na primeira vez com Lauritz | Vibeke, Aurora (Vibeke contou no Cap 30); Lauritz | todos os outros |
+| Vibeke vai casar com Lauritz antes do Natal | Vibeke, Aurora (Cap 30), Karoline e pai da Vibeke (cartas trocadas), Lauritz | Eleonora (ainda não), Raj, todos os outros |
+| Aurora pretende falar com Eleonora sem disfarce sobre o Josh + joias Bjerg | Aurora, Vibeke (Cap 30), Josh (Cap 29) | Eleonora (ainda não), Raj |
+| Helle sabe de Aurora-Josh desde o primeiro mês | Helle, Aurora (Cap 30 inferiu), Vibeke (inferiu) | Raj, Eleonora (provavelmente sabe que Helle sabe) |
 
 ## Padrões/assinaturas sensoriais
 
@@ -145,7 +153,7 @@ Ver `decisoes-editoriais.md`.
 
 ---
 
-*Última atualização: junho de 2026, após Cap 26 escrito.*
+*Última atualização: junho de 2026, após Cap 30 escrito.*
 
 ## Cap 26 — fatos novos cristalizados
 
@@ -158,3 +166,37 @@ Ver `decisoes-editoriais.md`.
 - **Despedida-não-despedida Aurora-Josh:** *"Você é a coisa mais importante que já me aconteceu. Foi desde o primeiro dia, naquela escada, quando você me odiou com vontade. Vai ser sempre. Não importa o que aconteça daqui pra frente, não importa o que você ouça, não importa quem te diga o quê. Isso não muda. Você é forte. Mais forte do que essa casa inteira sabe. Não esquece disso quando você mais precisar."* `cap26`
 - **Porta lateral da Bredgade destrancada pela Helle** — canon confirmado em `cap15:345`: Helle (criada) deixa a porta dos criados destrancada pro Josh desde a terceira semana, por iniciativa própria. Cap 26 usa pra ele partir na alvorada.
 - **Bilhete pro Raj na escrivaninha do escritório** — Josh deixou bilhete agradecendo a hospedagem e confirmando Regensen. **Não deixou bilhete pra Aurora.** `cap26`
+
+## Cap 27 — fatos novos cristalizados
+
+- **Anúncio do casamento na sala** depois do café da manhã: Raj reúne todos, anuncia Aurora vai casar com Herr Henning Lindberg em outubro. Lindberg fará primeira visita formal às quatro da tarde. `cap27`
+- **Vibeke contesta na frente da Eleonora:** *"Não, tio Raj. Aurora não pode casar com esse homem."* Quase entrega o sentimento da Aurora pelo Josh (*"a Aurora sente outra coisa, ela tem o coração em outro..."*). Recupera dizendo que Aurora é nova demais. `cap27:147-200`
+- **Eleonora viu (e guardou):** olhar deslizando de Vibeke pra Aurora pra Josh, parou meio segundo no Josh. *"Eleonora não disse nada. Mas guardou. Josh viu ela guardar."* `cap27:175-186`
+- **Eleonora à Vibeke:** *"Eu aceito porque eu tenho que aceitar, querida."* `cap27:222`
+
+## Cap 28 — fatos novos cristalizados
+
+- **Helle troca os lençóis da cama de Aurora na manhã seguinte ao Josh sair** — Aurora acorda num quarto que não cheirava a nada. `cap28:11-21`
+- **Quatro tábuas que rangem no corredor da Bredgade:** a terceira, a sexta, a nona, a do meio. Aurora decorou na adolescência quando tinha Aarav esperando ela na biblioteca pra ler de madrugada. `cap28:50-54`
+- **Aksel Holm:** rapaz do interior tentando entrar na universidade, mora no Regensen, **irmão da Helle** (criada da Bredgade). Recepcionou Aurora no pátio, levou até o quarto sete do Josh. *"Por que você está me ajudando?" / "Porque minha irmã pediu. Mas eu conheci Russel e vi que ele é um cara correto."* `cap28:563-776`
+- **Quarto do Josh no Regensen = quarto sete**, segundo andar, fim do corredor à esquerda. Mulheres não entram depois das oito. `cap28:733`
+- **Indicação chegou via Helle, NÃO via Josh.** Vibeke conseguiu o endereço com Helle (Helle sabe que o irmão dela está no Regensen). `cap28:466-571`
+
+## Cap 29 — fatos novos cristalizados
+
+- **Declaração Bridgerton do Josh:** *"Queimei por você desde a segunda semana que cheguei na Bredgade. Eu lutei contra isso o tempo todo. Eu me odiei por estar sentindo o que estava sentindo morando na casa do seu pai. Mas eu te amo do jeito que eu sei amar uma pessoa, com tudo, pra a vida inteira."* (Aurora repete partes pra Vibeke no Cap 30.) `cap29`
+- **Aurora teve prazer na primeira vez** — raro, ela mesma sabe. `cap29`, `cap30`
+- **Promessa do Josh:** se Aurora pedir, ele a tira da igreja em outubro. Mas o custo é risco de vida (Lindberg tem capangas, arquiva ofensas). A decisão tem que ser dela. `cap29:1148-1168`
+- **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
+- **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
+
+## Cap 30 — fatos novos cristalizados
+
+- **Sequência da volta:** Aurora cochila três vezes entre 4:42 e 5h. **Cinco horas da manhã** a torre da igreja toca. Vibeke acorda devagar, sem alarde. *"Você foi." / "Fui."* `cap30`
+- **Conversa íntima Aurora-Vibeke:** Aurora conta em pedaços o que aconteceu no Regensen (sem detalhes mecânicos). Vibeke compartilha mais da primeira vez com Lauritz — ela **não teve prazer na primeira**, foi depois em outra noite. `cap30`
+- **Vibeke vai voltar pra Viborg em duas ou três semanas.** Lauritz escreveu (chegou a carta ontem); pai dele falou com pai da Vibeke; Karoline está se arrumando pra aceitar. Casamento Vibeke-Lauritz **antes do Natal, antes da primeira neve.** `cap30`
+- **Aurora promete a Vibeke:** quando casar com Josh em Sorø, no pomar de macieiras, **Vibeke e Ingrid madrinhas.** `cap30`
+- **Eleonora pediu que Helle chamasse Aurora e Vibeke mais cedo no café da manhã** seguinte. Motivo não revelado em cena (plant do Cap 31 ou 33). `cap30`
+- **Helle sabe há tempo (desde o primeiro mês na Bredgade)** que Aurora-Josh têm algo, mas nunca falou uma palavra a ninguém. `cap30`
+- **Marca da barba do Josh** embaixo do queixo da Aurora, lado esquerdo. Vibeke cobre com fita larga cor de creme. Gota de água de laranjeira na têmpora pra cortar o cheiro do tabaco do Josh. `cap30`
+- **Aurora descer no café da manhã = Eleonora entendendo de meio segundo a mais:** Eleonora levanta os olhos do bordado, olha pra Aurora um segundo, olha meio segundo a mais. Aurora sabe que a mãe percebeu. `cap30`
