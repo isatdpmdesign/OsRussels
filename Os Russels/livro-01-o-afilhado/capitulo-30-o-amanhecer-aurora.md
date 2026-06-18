@@ -47,7 +47,7 @@ Fechou o olho. Abriu os dois.
 
 Demorou três respirações pra falar.
 
-— Você foi.
+— Você voltou.
 
 A voz da Vibeke era a voz dela acabada de
 acordar: rouca, baixa, sem o saltitamento de dia.
@@ -59,7 +59,7 @@ olhando o cabelo da Aurora, que tinha estado num
 coque baixo às nove da noite e que agora estava
 solto, com os ganchos no colchão entre as duas.
 
-— Fui — disse Aurora.
+— Voltei — disse Aurora.
 
 Vibeke ficou um momento sem fazer nada.
 
@@ -75,8 +75,8 @@ inteiros, com Vibeke inteira do outro lado.
 — Conta, Aurora. Eu não acordei às cinco da
 manhã porque eu quis acordar às cinco da manhã.
 Eu acordei porque a minha cama está cheia de uma
-prima recém-mulher que cheira de homem e que olha
-pro teto há quem sabe quanto tempo. Conta.
+prima que cheira a homem e que olha pro teto há
+quem sabe quanto tempo. Conta.
 
 Aurora começou a rir. O riso saiu antes que ela
 quisesse, baixinho, pelo nariz, com a boca
@@ -107,16 +107,11 @@ novo.
 — Aksel Holm estava no pátio na hora certa.
 Você falou que ele ia estar e ele estava.
 
-— Eu falei. Helle tinha mandado lembrança ao
-irmão.
+— Helle me garantiu que ele estaria.
 
-— Aksel deu meio sorriso quando eu falei o nome
-da Helle. Falou que ela mandava bem.
-
-— Ela manda bem.
-
-— E aí ele me levou até o quarto sete. Bateu
-três vezes e foi embora.
+— Eu falei o nome da Helle, ele deu meio sorriso
+e me levou até o quarto sete. Bateu três vezes e
+foi embora.
 
 — E quando Josh abriu a porta?
 
@@ -135,26 +130,46 @@ Aurora sorriu.
 — Quando ele abriu a porta, ele fez uma cara
 que eu nunca tinha visto nele.
 
-— Espanto.
+— Espanto?
 
 — Mais que espanto. Foi como se ele tivesse
-levado um soco e tivesse fechado a porta na cara
-do soco.
+levado um soco na barriga.
 
 — Ele tentou te mandar de volta.
 
-— Por uns quinze minutos. Sentou na cadeira do
-quarto e ficou tentando me convencer que eu tinha
-que ir embora. Que ele não ia fazer o que ele
-ia fazer. Que ele já tinha decidido que ia ser
-homem com a minha vida e ia ficar longe.
+— Tentou. Disse que eu não podia estar ali, que
+se alguém me visse. Eu cortei dizendo que Aksel
+tinha me trazido escondida. Ele fechou a porta,
+encostou as costas nela. A mão dele tremia.
+
+— Conta mais.
+
+— Eu fui direto. Acusei o meu pai de ter mandado
+ele embora pra me deixar sem saída. Ele
+atravessou o quarto, sentou na beira da cama, e
+me contou a verdade: foi ele que pediu pra sair.
+Não foi o meu pai. Ele tinha pensado a noite
+inteira pelos dois.
 
 — E aí?
 
-— E aí eu falei.
+— E aí ele me contou da carta da Casandra. Que
+tinha aberto. Que tinha uma quantia depositada
+em Højbro pelo pai dele junto com o meu, e que
+ele tinha metade do que faltava pra cobrir a
+dívida do Lindberg. Que ia bater em todas as
+portas dessa cidade nas seis semanas pra
+levantar a outra metade.
+
+Vibeke fez um som baixo de quem ouviu uma coisa
+grande.
 
 Aurora respirou. Olhou pro teto. A rachadura
 estava ali. Cento e cinquenta e uma.
+
+— Aí eu falei.
+
+— O quê?
 
 — Eu disse a ele que eu não queria que Lindberg
 fosse o primeiro. Eu disse que eu já tinha
@@ -172,7 +187,7 @@ Vibeke ficou quieta.
 
 — Falei.
 
-— Caralho, Aurora.
+— Caramba, Aurora.
 
 Aurora cobriu a boca com a mão pra rir baixo.
 Vibeke pegou o pulso dela e ficou assim, com a
@@ -198,55 +213,37 @@ Aurora respirou. A boca dela tinha resolvido
 falar mas a garganta não tinha resolvido ajudar.
 Engoliu.
 
-— Ele disse que tinha queimado por mim.
+— Ele disse que me amava desde o primeiro dia.
 
 — Aurora.
 
-— Desde a segunda semana que ele chegou na
-Bredgade. Ele falou em semana. Ele contou as
-semanas, Vibeke.
+— Desde aquela escada da Bredgade em abril,
+Vibeke. Quando eu desci de luto pelo Aarav e
+odiei ele com vontade por achar que ele ia
+ocupar o lugar do meu irmão. Desde aquele dia.
 
 Vibeke apertou a mão dela debaixo do cobertor.
 
-— Ele disse que tinha lutado contra isso o tempo
-todo. Que ele se odiou.
-
-— Por quê?
-
-— Por estar sentindo o que estava sentindo
-morando na casa do meu pai. Ele disse essa frase
-três vezes em momentos diferentes da noite. Ele
-ficou muito agarrado a essa frase porque foi a
-frase que segurou ele durante cinco meses.
-
-Vibeke não respondeu.
-
-Aurora continuou, mais baixa.
-
-— Mas ele disse que me amava. Do jeito que ele
-sabia amar uma pessoa. Com tudo. Pra a vida
-inteira.
+— Ele disse que tinha queimado por mim por
+exatos cinco meses. Que segurou tudo esse tempo
+todo porque ferir a confiança do meu pai era a
+coisa que ele mais temia no mundo.
 
 — Aurora.
 
-— Eu sei.
+— Mas que me amava. E que se eu queria que ele
+me amasse naquela noite, ele ia me amar.
 
-— Aurora, ele disse pra a vida inteira.
+— Aurora, ele te amou desde o primeiro dia?
 
 — Eu sei, Vibeke. Eu sei. Eu sei. Eu sei.
 
 Aurora repetiu o "eu sei" porque não tinha o que
 fazer com aquela frase ainda. A frase era grande
-demais pra caber no quarto da Aurora às cinco
-e cinco da manhã com a prima do lado e o cocheiro
+demais pra caber no quarto da Aurora às cinco e
+cinco da manhã com a prima do lado e o cocheiro
 do vizinho engatando um cavalo na rua. A frase
 ia ter que esperar a vida pra caber.
-
-— E aí ele disse que se eu queria que ele me
-amasse naquela noite — Aurora respirou de novo,
-porque a fala daqui pra frente era dela
-escolhendo, e ela queria escolher direito —, ele
-ia me amar.
 
 — Aurora.
 
@@ -332,28 +329,41 @@ foi sobre ele.
 
 — Sim.
 
-— Eu te disse que ia chorar.
+— Eu não acredito que isso aconteceu com você.
 
-— Não chora de novo.
+— Vibeke.
 
-— Quero chorar.
+— Eu tô boquiaberta. Eu tô surtando. Eu vou
+precisar ficar deitada o dia inteiro pra
+processar essa informação. Eu não vou conseguir
+ir ao café da manhã. Eu vou pedir pra Helle
+mandar dizer que eu morri durante a noite.
 
-— Tá. Chora.
+Aurora riu pelo nariz, baixo.
 
-Vibeke chorou de novo, dessa vez com mais
-ruído, mas ainda baixo, com a mão na boca. Aurora
-deixou.
+— Vibeke.
+
+— A minha prima virou mulher e teve prazer na
+primeira vez. Eu vou abrir uma garrafa de licor
+de groselha. De manhã. Antes do café. Em jejum.
+Você merece comemoração.
+
+— Tá louca.
+
+— Você merece sim. Você merece tudo. Eu juro,
+prima, eu não vou dormir uma noite a mais nessa
+cama do teu lado sem essa informação assentando
+direito na minha cabeça.
 
 Ficaram quietas um tempo.
 
 Lá fora, do outro lado da janela, o cocheiro do
 vizinho da esquerda tinha começado a engatar o
-cavalo na carruagem. Era a primeira batida do dia
-na Bredgade. O som dos arreios, o relinchar
+cavalo na carruagem. Era a primeira batida do
+dia na Bredgade. O som dos arreios, o relinchar
 manso do cavalo dele que era um cavalo velho e
 queixoso, o murmúrio do cocheiro falando
-sozinho. Coisa de cinco da manhã, que Aurora não
-costumava ouvir porque costumava estar dormindo.
+sozinho.
 
 — A gente vai ter que descer daqui a pouco —
 disse Aurora.
@@ -386,9 +396,10 @@ trança.
 
 — Eu vou falar com a minha mãe.
 
-— Sua mãe.
+— Ah, tá bom. Enlouqueceu. Vai falar com a sua
+mãe?
 
-— Eu sei.
+— Vibeke.
 
 — A mulher que te alfaiata todos os dias da sua
 vida, Aurora.
@@ -405,14 +416,11 @@ Aurora respirou.
 
 — Mas ela não aceitou bem. Foi do jeito de mãe
 nórdica dela, que não chora na frente, mas eu
-percebi. Eu percebi naquele dia no escritório. E
-depois, no anteontem na sala, quando você
-contestou o noivado na frente dela. Eu estava de
-porcelana, eu não olhei direito. Mas eu senti.
-Eu senti a minha mãe olhar pra mim e olhar pro
-Josh. Mulher percebe quando outra mulher percebe.
-Não foi mãe nórdica treinada que reagiu. Foi
-mulher.
+percebi. Anteontem, na sala, quando você
+contestou o noivado, eu senti. Eu estava de
+porcelana, não olhei direito. Mas senti a minha
+mãe olhar pra mim e olhar pro Josh. Mulher
+percebe outra mulher.
 
 Vibeke ficou olhando.
 
@@ -449,9 +457,9 @@ Depois sorriu meio torto e disse:
 
 — Você endireitou. Eu não tinha reparado.
 
-— Endireitei.
+— Como assim endireitei?
 
-— Sim. Você não era assim quando eu cheguei. Você
+— Você não era assim quando eu cheguei. Você
 era Aurora elegante que falava bonito e que
 abaixava a cabeça pra mãe. Você não é mais essa.
 
@@ -479,6 +487,9 @@ Aurora virou a cabeça.
 — Logo. Eu acho que duas semanas, três. Eu vou
 falar com a minha tia hoje no café.
 
+Aurora apertou a mão da Vibeke debaixo da manta
+com uma força que ela não tinha planejado fazer.
+
 — Vibeke.
 
 — Eu sei. Mas eu preciso, Aurora. Eu vim aqui
@@ -489,11 +500,11 @@ em que entrei na carruagem que me trouxe.
 
 — Eu sei.
 
-— E agora você está cuidada. Você tem Josh.
-Você tem um plano. Você tem a mãe pra conversar.
-Você endireitou. Você não precisa mais de prima
-distante saltando no quarto do lado pra te
-empurrar pro homem que você ama. Você se
+— E agora você está cuidada. Você e Josh têm um
+plano. Você vai falar com a sua mãe porque criou
+coragem e enfrenta as coisas sozinha. Não
+precisa mais de mim pra te ajudar a ter o homem
+que você ama. Você já está encaminhada. Se
 empurrou sozinha.
 
 Aurora não respondeu.
@@ -501,14 +512,16 @@ Aurora não respondeu.
 Vibeke continuou.
 
 — E Lauritz me escreveu. Chegou ontem a carta
-e eu não tinha te contado porque eu queria
-contar hoje. Ele falou com o pai dele e o pai
-dele disse pra ele falar com o meu pai. E o meu
-pai escreveu pra Karoline ontem cedo, e Karoline
-está há quatro dias me deixando fingir que eu
-não sei do assunto enquanto ela arruma a cabeça
-dela pra aceitar o que já estava aceito. Vai
-acontecer, Aurora. Vai acontecer rápido.
+e eu não te contei porque não queria ocupar a
+sua cabeça com outro assunto. Você estava com
+coisa demais pra resolver. Mas agora a gente
+tem tempo. Lauritz falou com o pai dele e o pai
+dele falou com o meu pai. E meu pai falou com
+a minha mãe ontem cedo, e a Karoline está há
+quatro dias me deixando fingir que eu não sei do
+assunto enquanto ela arruma a cabeça dela pra
+aceitar o que já estava aceito. Vai acontecer,
+Aurora. Vai acontecer rápido.
 
 — Vibeke.
 
@@ -516,43 +529,41 @@ acontecer, Aurora. Vai acontecer rápido.
 
 — Você vai casar.
 
-— Eu vou. Antes do Natal, eu acho. Lauritz quer
-me do lado dele antes da primeira neve.
+— Eu vou. Antes do Natal, eu acho. Lauritz me
+quer ao lado dele antes da primeira neve.
 
-Aurora começou a chorar. Não foi escolha. Foi do
-jeito que o choro vem quando uma pessoa está
-muito acordada, muito cheia de noite, muito
-cheia de tudo que tinha sentido nas últimas seis
-horas e ainda recebe mais uma coisa pra carregar.
+Aurora abriu um sorriso grande no escuro.
+Vibeke não viu, mas sentiu o sorriso pelo ar do
+lado dela.
 
-Vibeke virou pra ela.
+— Você vai casar. Você vai casar com o Lauritz.
+
+— Vou.
+
+— Antes do Natal.
+
+— Antes do Natal.
+
+— Vibeke, eu estou tão feliz por você que eu
+nem sei o que fazer com essa felicidade aqui no
+peito.
 
 — Aurora.
 
-— Eu não estou triste.
-
-— Eu sei que você não está triste.
-
-— Eu estou feliz. É feliz. Eu estou chorando
-porque é feliz, Vibeke.
-
-— Eu sei.
-
-— A senhora Karoline vai...
+— A Karoline vai surtar?
 
 — A minha mãe vai surtar de alegria fingindo que
 está surtando de outra coisa. Ela vai dizer que é
 Lauritz, que é o trigo, que é o lado de baixo da
 família dele que mal tem terra. Ela vai dizer.
 Mas no fundo ela vai me deixar casar porque a
-minha mãe sabe escolher as guerras dela, Aurora.
-Ela já sabe que perdeu essa.
+minha mãe sabe escolher as guerras dela. Ela já
+sabe que perdeu essa.
 
-— Você vai ficar bem.
+— Você vai ficar muito bem.
 
-— Eu vou ficar muito bem. — Vibeke pegou a manta
-e enxugou a bochecha da Aurora com a beirada. —
-Você vai ficar mais bem ainda.
+— Eu vou ficar muito bem. Você vai ficar mais
+bem ainda.
 
 — Vibeke.
 
@@ -564,9 +575,13 @@ Vibeke parou de respirar por meio segundo.
 
 — Você vai casar com Josh, Aurora?
 
-— Vou. Em algum momento. Eu não sei quando ainda.
-Mas vou. E quando isso acontecer, você vai ser
-madrinha. Você e Ingrid.
+— Vou. Eu não sei quando ainda. Eu sei que tem
+o Lindberg no caminho, e a dívida, e seis
+semanas até a igreja. Mas eu vou casar com o
+Josh. Eu acredito que vou. E quando isso
+acontecer, você vai ser madrinha. Você e a
+minha amiga Ingrid, que você ainda não
+conhece.
 
 — Aurora.
 
@@ -575,27 +590,30 @@ madrinha. Você e Ingrid.
 — Eu venho de Viborg a Copenhague na hora que
 você falar. Se for no meio do parto da minha
 primeira vaca eu venho. Eu venho a cavalo, eu
-venho de pé, eu venho como precisar vir.
+venho à pé, eu venho como precisar vir.
 
 — Vai ser em Sorø.
 
 — Como?
 
 — Vai ser em Sorø. Na fazenda da família dele. No
-pomar de macieiras. Eu não sei como ainda mas eu
-sei que vai ser lá.
+pomar de macieiras. Eu não sei como ainda, mas
+eu quero que seja lá.
 
 Vibeke deu uma risada de surpresa.
 
 — Aurora, você já decidiu até o lugar.
 
-— Eu decidi de noite. Quando ele estava em cima
-de mim e eu olhei pro rosto dele eu pensei: o
-nosso casamento vai ser no pomar. Vai ter cheiro
-de maçã madura. Vai ter Casandra com avental
-sujo de farinha. Vai ter Meridiana descalça. Vai
-ter Matias lendo poesia do pai pra gente. Vai ter
-todo mundo. E você. E Ingrid.
+— Eu decidi deitada no peito dele, ouvindo o
+coração dele, na hora que sobrou antes da gente
+dormir. Eu olhei pro teto do quarto sete e
+pensei: o nosso casamento vai ser no pomar.
+Vai ter cheiro de maçã madura. Vai ter Casandra
+com o vestido bonito que ela só tira do baú em
+ocasião grande. Vai ter Meridiana com sapato
+nos pés pela primeira vez em meses. Vai ter
+Matias lendo poesia do pai pra gente. Vai ter
+todo mundo. E você. E a Ingrid.
 
 — Aurora.
 
@@ -647,7 +665,7 @@ Cara de moça que aceitou.
 o que vem depois. Você não está fingindo por
 fraqueza. Você está fingindo por estratégia.
 Estratégia é a arma da gente. Sua mãe te ensinou
-isso sem ela mesma ter aprendido a usar.
+isso sem ela mesma saber que ensinou.
 
 Aurora virou a cabeça e olhou pra Vibeke.
 
@@ -807,7 +825,7 @@ Vibeke foi ao armário. Tirou o vestido cor de
 creme com a fita de seda azul-clara no busto, que
 Aurora tinha mandado fazer no começo do verão. O
 vestido mais simples dela. Sem os apliques. Sem
-o renda do colarinho. O que ela botava em manhã
+a renda do colarinho. O que ela botava em manhã
 de quarta-feira pra ficar em casa lendo.
 
 — Esse — disse Vibeke. — Esse não chama atenção
