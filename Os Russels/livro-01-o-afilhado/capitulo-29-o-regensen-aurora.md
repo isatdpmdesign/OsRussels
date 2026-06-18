@@ -476,17 +476,17 @@ olhar em direção ao chão de forma derrotada.
 Aurora observou os cílios loiros sombreando as
 bochechas rosadas sob a luz amarelada da vela. O
 rubor no rosto dele era sinal de impotência, de
-vergonha ou de qualquer coisa que se assemelhasse
-a isso. Josh era um Russel e não havia nada pior
-pra um Russel do que não cumprir a própria
-palavra. Ele tinha prometido a ela que daria um
-jeito; então ele daria. E Aurora ainda tentava
-absorver tudo. Tentava entender como aquele homem
-estava disposto a abrir mão de qualquer coisa.
-Abria mão até de uma quantia significativa que
-poderia fazer total diferença na vida dele. Ele
-faria qualquer coisa por ela, e saber disso fazia
-com que ela o quisesse mais e mais.
+vergonha ou de qualquer coisa que se assimilasse a
+isso. Josh era um Russel e não havia nada pior pra
+um Russel do que não cumprir a própria palavra.
+Ele tinha prometido a ela que daria um jeito;
+então ele daria. E Aurora ainda tentava absorver
+tudo. Tentava entender como aquele homem estava
+disposto a abrir mão de qualquer coisa. Abria mão
+até de uma quantia significativa que poderia fazer
+total diferença na vida dele. Ele faria qualquer
+coisa por ela, e saber disso fazia com que ela o
+quisesse mais e mais.
 
 — Josh... — Aurora rompeu o silêncio. — E se você
 não conseguir levantar o que falta?
@@ -802,8 +802,8 @@ do pescoço com a velocidade de água que finalmente
 encontra o caminho.
 
 Josh se afastou um pouco. Inclinou o tronco pra
-trás, com Aurora ainda no colo, sustentada pelos
-braços dele em volta da cintura dela, e olhou pra
+trás, com Aurora ainda no colo, sustentada sobre
+as pernas dele em volta da cintura, e olhou pra
 ela.
 
 Aurora sentiu o olho dele atravessar ela. Começou
