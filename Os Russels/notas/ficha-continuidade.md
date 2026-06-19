@@ -61,7 +61,8 @@
 | Cap 28: Aurora acorda, descobre Josh foi pro Regensen, confronta Raj, vai ao Regensen à noite | Copenhague, mais um dia depois | `cap28` |
 | Cap 29: A CENA no Regensen, consumação, declaração Bridgerton, Aurora volta às 4:42 | Copenhague, mesma noite + madrugada | `cap29` |
 | Cap 30: amanhecer na Bredgade, conversa Aurora-Vibeke, Eleonora percebe no café | Copenhague, segunda de manhã | `cap30` |
-| Caps 31-39 (a escrever): seis semanas + casamento em Sorø + coda | (plano) | |
+| Cap 31: Erik volta, despedida digna; Ingrid reata; carta do Josh chega via Eleonora | Copenhague, mesmo dia do Cap 30 | `cap31` |
+| Caps 32-39 (a escrever): seis semanas + casamento em Sorø + coda | (plano) | |
 
 ## Casas (geografia)
 
@@ -189,6 +190,17 @@ Ver `decisoes-editoriais.md`.
 - **Promessa do Josh:** se Aurora pedir, ele a tira da igreja em outubro. Mas o custo é risco de vida (Lindberg tem capangas, arquiva ofensas). A decisão tem que ser dela. `cap29:1148-1168`
 - **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
 - **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
+
+## Cap 31 — fatos novos cristalizados
+
+- **Erik volta à Bredgade** com pretexto de devolver livro do Raj emprestado em junho. Vinha pra fazer pedido formal essa semana. Percebe Aurora diferente. `cap31`
+- **Erik tinha sempre soubedo do Josh** — viu na primeira noite no sarau dos Holst que Aurora e Josh "cruzaram a sala sem se olharem". Mandou Ingrid não falar. *"Era a coisa que ele mais respeitaria em você."* (Inferência via fala de Ingrid; não cravada como canon de cena vivida.) `cap31`
+- **Erik se oferece como amigo se o noivado se desfizer** — *"Amigo, com letra grande."* Pede só uma coisa antes de sair: *"que você não se case com o homem cujo nome não cabe na sua boca."* `cap31`
+- **Ingrid mandou Erik vir** — não pra pressionar Aurora, pra ele entender por que Aurora se trancou faz semanas. `cap31`
+- **Ingrid reata** — sempre foi amiga; calma sólida; promete madrinha em Sorø no pomar (com Vibeke). *"Para o lado em que você esteja, Aurora."* (eco do Cap 16:233) `cap31`
+- **Carta do Josh pra Aurora** — entregue via Helle → Eleonora (que põe sem ler). Letra firme, sem rasura, pequena. *"Hoje é dia 1 das seis semanas. Eu estou no Regensen. Eu não dormi... Já bati em três casas comerciais. Já levei dois 'não' e um 'talvez com uma carta de recomendação'. ... Vai dar certo, Aurora... Eu te amo. J."* Guardada no livro de Oehlenschläger do Aarav, fita azul entre pp. 37-38. `cap31`
+- **Eleonora é cúmplice silenciosa confirmada** — aceitou colocar a carta do Josh sem abrir. `cap31`
+- **Aurora decide falar com a mãe naquela noite** — não amanhã. `cap31`
 
 ## Cap 30 — fatos novos cristalizados
 
