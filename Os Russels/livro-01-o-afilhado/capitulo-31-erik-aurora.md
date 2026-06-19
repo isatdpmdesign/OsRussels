@@ -104,8 +104,8 @@ segundo.
 
 — Você quer companhia? — perguntou Vibeke, baixo.
 
-— Não. Erik merece o respeito da conversa só com a
-gente.
+— Não. Erik merece ouvir o que eu vou dizer só de
+mim.
 
 — Tem certeza?
 
@@ -179,8 +179,8 @@ Eu vim porque há quase um mês que eu não te vejo
 sentada na cadeira de sempre na ópera da senhora
 Frederiksen. Eu vim porque a Ingrid disse, em
 algum momento na semana passada, com o jeito dela
-de comentar uma coisa sem comentar, que Aurora não
-estava aceitando as visitas das amigas. E eu
+de comentar uma coisa sem comentar, que você não
+escreveu pra ela desde que voltou de Sorø. E eu
 fiquei meio preocupado.
 
 Erik respirou.
@@ -230,10 +230,10 @@ rangeu sob os sapatos do Erik.
 — Você está diferente — disse Erik depois de uns
 passos.
 
-— Estou.
+— Estou?
 
-— Não é só viagem. Sorø não faz isso. Não com
-você.
+— Está. E não acho que a viagem a Sorø tenha tido
+o potencial de fazer isso. Não com você.
 
 Aurora olhou pra ele. Não tentou negar.
 
@@ -248,21 +248,21 @@ cobrar. Não olhou pra Aurora. Olhou pras roseiras.
 
 — Sim.
 
-— Eu venho do baile dos Frederiksen pensando em te
-fazer um pedido formal essa semana. — A voz dele
-saiu baixa, sem dor, com a precisão de quem diz
-uma verdade simples. — Eu queria te dizer isso
-antes, pra você saber que minha vinda hoje não foi
-por curiosidade. Foi por intenção.
+— Eu venho desde o baile dos Frederiksen
+pensando em te fazer um pedido formal. — A voz
+dele saiu baixa, sem dor, com a precisão de quem
+diz uma verdade simples. — Eu queria te dizer
+isso antes, pra você saber que minha vinda hoje
+não foi por curiosidade. Foi por intenção.
 
 Aurora respirou.
 
 — Erik.
 
 — Você não precisa responder. Eu sei que você está
-diferente. Eu sei que tem alguma coisa que não é
-minha. Mas eu queria que você soubesse o que eu
-vinha pensar há semanas. Por respeito.
+diferente. Eu sei que tem alguma coisa que não tem
+a ver comigo. Mas eu queria que você soubesse o
+que eu venho pensando há semanas. Por respeito.
 
 A frase ficou no jardim por um segundo antes de
 Aurora conseguir responder.
@@ -281,32 +281,64 @@ E Aurora soube que tinha que retribuir o respeito.
 
 — Eu estou noiva.
 
-Erik não se virou de imediato. Levou meio segundo.
-Quando se virou, o rosto dele tinha a cor lavada
-do homem que estava processando uma coisa que ele
-já sabia que estava perto, mas que ainda assim
-acabava de ser dita.
+Erik não se virou de imediato. Levou meio
+segundo. Quando se virou, o rosto dele estava
+lavado. Tinha aquele medo prévio de quem podia
+esperar uma coisa há semanas e mesmo assim ser
+pego de surpresa quando ela acontecia. Estava em
+choque sem deixar de estar processando.
 
-— Desde quando.
+— Desde quando?
 
 — Desde a quarta passada.
 
-— De quem foi a ideia.
+— Aurora — disse Erik, e a voz dele saiu mais
+baixa. — É do Josh Russel?
 
-— Do meu pai. — Aurora endireitou um pouco mais. —
-Por motivo que eu não posso te explicar todo.
+Aurora ergueu o rosto, e o coração dela bateu
+duas vezes mais alto.
+
+— Por que você pergunta isso, Erik?
+
+— Eu vi vocês dois saindo do fundo do celeiro
+naquela festa em Christianshavn. Eu vi como você
+olhou pra ele no baile dos Lundgren e como ele
+olhou pra você quando achou que ninguém estava
+prestando atenção. Eu fingi não ver, Aurora.
+Porque ele é afilhado do seu pai. Porque vocês
+são tratados como parentes. Porque eu mesmo não
+quis dar nome.
+
+Aurora suspirou. Devagar.
+
+— Não é com o Josh, Erik.
+
+Erik ficou olhando ela um segundo a mais. Aurora
+sustentou.
+
+— Mas tem a ver com ele.
+
+— Tem a ver com o que eu queria, e com o que
+eu não vou ter.
+
+— De quem foi a ideia desse noivado?
+
+— Do meu pai. — Aurora endireitou um pouco
+mais. — Por motivo que eu não posso te explicar
+todo.
 
 Erik assentiu uma vez. Devagar.
 
 — Quem é?
 
 Aurora abriu a boca. A garganta dela travou. A
-boca dela formou a primeira sílaba e desistiu da
-segunda. Aurora respirou. Tentou. Não conseguiu.
-Olhou pro chão. Olhou pras roseiras. Olhou pro
-Erik. E o nome do Lindberg ficou preso atrás dos
-dentes da Aurora como uma coisa muito feia que ela
-não queria pôr pra fora dentro da boca dela.
+boca dela formou a primeira sílaba e desistiu
+da segunda. Aurora respirou. Tentou. Não
+conseguiu. Olhou pro chão. Olhou pras roseiras.
+Olhou pro Erik. E o nome do Lindberg ficou
+preso atrás dos dentes da Aurora como uma coisa
+muito feia que ela não queria pôr pra fora
+dentro da boca dela.
 
 Erik viu. Erik viu na hora.
 
@@ -360,11 +392,12 @@ merecia ser o homem certo de outra mulher.
 
 — Você é um bom homem.
 
-— Eu sei. Eu tive sorte de mãe.
+— Eu sei. Eu tive sorte de ter uma boa mãe que
+me educou.
 
 Aurora deu um meio riso pelo nariz.
 
-— Eu não vou te esquecer disso.
+— Eu não vou esquecer disso.
 
 — Eu sei que não vai.
 
@@ -385,18 +418,23 @@ Aurora ficou em silêncio.
 
 — Erik, eu tô trabalhando pra isso.
 
-— Boa.
+— Que bom.
 
 — A pessoa com quem eu quero estar também tá
 trabalhando.
 
-— Eu sabia, no fundo, que existia essa pessoa.
+— Ah, eu sabia, no fundo, que existia essa
+pessoa. — Erik deu meio sorriso, derrotado. — E
+que pena que não sou eu.
 
-— Foi tão visível.
+Aurora ficou um segundo sem responder. O peito
+dela apertou de um jeito que ela não esperava.
 
-— Não. — Erik deu meio sorriso, curto, contido, o
-sorriso da derrota digna. — Foi visível só porque
-eu olhava muito pra você. Pra os outros não foi.
+— Foi tão visível?
+
+— Não. — Erik balançou a cabeça devagar. — Foi
+visível só porque eu olhava muito pra você. Pra
+os outros não foi.
 
 Aurora deu uma risada pequena que ela mesma não
 esperou.
@@ -409,9 +447,10 @@ esperou.
 
 — Por favor, Aurora. Eu fiz o mínimo de homem
 educado. Não me transforme em santo. — Erik
-ofereceu o braço pra Aurora voltar. — Vamos subir.
-Sua mãe vai ficar feliz se a gente voltar pela
-porta de baile, e não pela do jardim. Aparência.
+ofereceu o braço pra Aurora voltar. — Vamos
+subir. Sua mãe vai ficar feliz se a gente voltar
+pela porta da entrada usada para bailes, e não
+pela do jardim. Aparências importam.
 
 Aurora aceitou o braço dele. Subiram juntos os
 três degraus.
@@ -443,7 +482,7 @@ Erik virou meio passo pra Aurora.
 
 — Cuide-se.
 
-— A senhora também.
+— O senhor também.
 
 Erik se curvou pela última vez. Saiu pela porta da
 rua com o passo medido. A porta fechou.
@@ -451,7 +490,7 @@ rua com o passo medido. A porta fechou.
 Eleonora ficou na soleira da sala um segundo antes
 de virar pra Aurora.
 
-— Foi tudo bem, querida.
+— Foi tudo bem, querida?
 
 — Foi.
 
@@ -459,7 +498,7 @@ de virar pra Aurora.
 
 — Eu sei.
 
-— Você se houve bem.
+— Vocês se dão bem.
 
 A frase da Eleonora não era pergunta. Era
 constatação de mãe nórdica que tinha estado de
@@ -488,7 +527,7 @@ paz, ou com a primeira camada de paz, a camada
 fina que cobre uma decisão antes de ela virar
 prática.
 
-A Vibeke entrou três minutos depois.
+Vibeke entrou três minutos depois.
 
 — Como foi?
 
@@ -502,10 +541,10 @@ A Vibeke entrou três minutos depois.
 
 — Contei a parte. Não consegui dizer o nome do
 Lindberg. — Aurora respirou. — E Erik não me fez
-dizer. Ele entendeu. Disse que ia esperar ser
-amigo, se o noivado se desfizer.
+dizer. Ele entendeu. Disse que esperava ter
+amizade comigo, se o noivado se desfizer.
 
-— Caramba.
+— Nossa.
 
 — Eu sei.
 
@@ -515,17 +554,12 @@ amigo, se o noivado se desfizer.
 
 — Você acha que ele sempre soube do Josh?
 
-— Acho que ele sentiu sem saber o nome. Igual a
-Eleonora. Igual a Ingrid, da última vez. Igual
-muita gente.
+— Acho que ele percebeu sem saber, sem ter
+certeza. Como a minha mãe percebeu. Como Ingrid
+percebeu lá atrás. Talvez como meia Copenhague
+sente sem nomear.
 
-— Igual a Helle.
-
-— Igual a Helle.
-
-— Igual a meia Copenhague.
-
-Aurora deu uma risada pelo nariz.
+Vibeke deu uma risada pelo nariz.
 
 — Vibeke.
 
@@ -537,9 +571,9 @@ minha mãe?
 — Eu fico de fora da sala mas dentro da casa,
 Aurora. Eu não posso entrar. Mas eu fico do lado.
 
-— Tá. Boa.
+— Tudo bem.
 
-— Boa.
+Vibeke sorriu pra ela.
 
 *
 
@@ -548,7 +582,7 @@ na porta do quarto outra vez.
 
 — Senhorita Aurora.
 
-— Helle.
+— Sim, Helle.
 
 — A senhorita Ingrid Mortensen na soleira. Disse
 que veio pegar o irmão, e que ouviu da porta do
@@ -567,13 +601,14 @@ Vibeke se levantou da cama.
 
 — Vibeke.
 
-— Aurora, Ingrid é sua. Eu sou de outra parte da
-história. Eu não preciso ouvir o que vai ser dito
-aqui.
+— Aurora, Ingrid é sua amiga. Eu sou de outra
+parte da história. Eu não preciso ouvir o que vai
+ser dito aqui.
 
-— Você é minha.
+— Mas você também é minha amiga. Você é minha
+prima e também é minha amiga.
 
-— Eu sou sua. Mas eu também sei quando outra amiga
+— Eu sei. Mas eu também sei quando outra amiga
 sua precisa do espaço dela com você. — Vibeke
 beijou a têmpora da Aurora. — Vai. Eu te espero no
 jardim. A gente almoça depois.
@@ -613,20 +648,20 @@ decidiu não pedir.
 — Foi.
 
 — Ele veio porque eu mandei, Aurora. Não pra
-pressionar você. Pra ele entender por que você se
-trancou de mim faz semanas.
+pressionar você. Pra ele entender por que você
+não escreveu pra mim desde que voltou de Sorø.
 
 Aurora respirou.
 
-— Eu não me tranquei de você de propósito.
+— Eu não me afastei de você de propósito.
 
-— Eu sei. Eu vi de longe que você estava
-desmoronando aos poucos. Eu não vim porque você
-não me chamou. Eu queria que você me chamasse. Mas
-você não chamou. E eu fui esperando, e fui
-esperando, e em algum momento essa espera virou
-seis semanas, e aí eu mandei o Erik vir porque era
-a desculpa que eu tinha pra entrar.
+— Eu sei. Eu vi você chegar de Sorø e sumir, e
+fiquei esperando. Quis te chamar três vezes,
+mandei recado uma. Você não respondeu. Aí eu
+parei. Eu queria que você me chamasse, Aurora.
+Mas você não chamou. E aí eu mandei o Erik vir
+porque era a desculpa que eu tinha pra te ver
+sem cobrar nada de você.
 
 — Ingrid.
 
@@ -643,8 +678,7 @@ firmes nas costas da Aurora, a postura ereta, o
 queixo no ombro da amiga. Não falou.
 
 Aurora chorou pela primeira vez naquele dia. Não
-foi um choro grande. Foi um choro de seis semanas
-guardadas, descendo aos poucos, silencioso, no
+foi um choro grande. Foi baixo, silencioso, no
 ombro do casaco azul-marinho da Ingrid.
 
 Ingrid esperou.
@@ -662,13 +696,13 @@ zoando todo mundo. Contou Joseph silencioso.
 Contou Matias querendo poesia. Contou Vibeke
 virando irmã.
 
-— Aurora, eu nunca vi você falar de uma família do
-jeito que você tá falando dessa.
+— Aurora, eu nunca vi você falar de uma família
+do jeito que você tá falando dessa.
 
 — É porque me deixaram ser eu lá, Ingrid. Sem
 máscara. Sem postura. Sem mãe nórdica olhando.
 
-— Caramba.
+— Que coisa.
 
 — Eu sei.
 
@@ -693,49 +727,49 @@ seguinte à festa do celeiro.
 — Eu não falei só naquela manhã, Aurora. Eu vi
 desde a primeira noite que vocês cruzaram a sala
 dos Holst sem se olharem. Foi tão visível que eu
-cheguei em casa, contei pra Erik. Erik mandou eu
-não falar. Disse que era a coisa que ele mais
-respeitaria em você.
+cheguei em casa e contei pro Erik. Erik me disse
+que era coisa da minha cabeça. Eu disse pra ele,
+desde o início, que ele não tinha chance com
+você. Ele teimou em insistir.
 
 Aurora ficou parada.
 
 — Erik sabia.
 
-— Erik sabia. Erik sempre soube. Foi por isso que
-ele veio hoje sem cobrar nada.
+— Erik sabia. Erik sempre soube, lá no fundo.
+Foi por isso que ele veio hoje sem cobrar nada.
 
-— Caramba, Ingrid.
+— Nossa, Ingrid.
 
 — Eu sei.
 
-Aurora ficou em silêncio. Lembrou da mesura curta
-do Erik depois da dança no baile dos Lundgren.
-Lembrou do canto da boca dele subindo quando ela
-tinha feito uma piada qualquer no jantar da casa
-dos Mortensen. Lembrou da frase *eu vou esperar
-ser amigo*. E entendeu.
+Aurora ficou em silêncio. Lembrou da mesura
+curta do Erik depois da dança no baile dos
+Lundgren. Lembrou do meio sorriso dele de
+saída, no jardim, falando a frase *eu vou
+esperar ser amigo*. E entendeu.
 
 — Ingrid.
 
 — Sim.
 
-— Quando eu casar com o Josh, eu quero você na
-frente da igreja.
+— Quando eu casar com o Josh, eu quero que você
+seja minha madrinha.
 
 Ingrid olhou pra Aurora um segundo a mais.
 
-— Você vai casar com o Josh.
+— Você vai casar com o Josh?!
 
-— Eu vou. Eu não sei o quando ainda. Eu sei o que
-falta resolver. Mas eu vou.
+— Eu vou. Eu não sei o quando ainda. Eu sei o
+que falta resolver. Mas eu vou.
 
 — Aurora.
 
 — Diz.
 
-— Eu vou estar na frente da igreja com você. Eu
-não me importo se for em Copenhague, em Sorø, ou
-em Viborg. Eu vou estar. Onde você falar.
+— É claro que vou ser sua madrinha. Vai ser
+uma honra. Não me importa quanto tempo demorar,
+nem onde. Serei sim sua madrinha.
 
 — Vai ser em Sorø. No pomar de macieiras.
 
@@ -746,10 +780,10 @@ entrado no quarto.
 
 — Eu sempre tive.
 
-— Madrinha?
+— Eu e quem mais?
 
-— Madrinha. Você e a Vibeke. Duas. Eu não tenho
-três irmãs, mas eu tenho vocês duas.
+— Você e a Vibeke. Duas. Eu não tenho três
+irmãs, mas eu tenho vocês duas.
 
 — Aurora.
 
@@ -796,10 +830,10 @@ está avisada.
 
 — Não fico, Ingrid. Não fico.
 
-— Boa.
+— Combinado.
 
-Ingrid abraçou Aurora uma última vez na soleira do
-quarto. Apertou. Soltou. Saiu pelo corredor, com o
+Ingrid abraçou Aurora uma última vez na soleira
+do quarto. Apertou. Soltou. Saiu pelo corredor, com o
 passo firme dela, com o casaco azul-marinho
 descendo as escadas.
 
@@ -815,43 +849,54 @@ o corredor sem dizer nada.
 
 Parou na frente da porta da sala de música.
 
-Eleonora não estava ali. Tinha terminado de tocar.
-Mas o cravo estava aberto, com a partitura no
-suporte (era Bach, Aurora reconheceu pela letra do
-nome no canto, mesmo sem saber ler partitura
-direito). E em cima da escrivaninha pequena ao
-lado do cravo, onde Eleonora costumava deixar as
-cartas que ainda não tinha lido, tinha uma carta
-lacrada com o nome da Aurora.
+Eleonora não estava ali. Tinha terminado de
+tocar. O cravo estava aberto, com a partitura no
+suporte (era Bach, como sempre — Eleonora só
+tocava Bach).
 
-A letra era do Josh.
+Aurora atravessou de volta pelo corredor e
+encontrou Helle na sala de costura, com a cesta
+de remendos na mão. Helle viu Aurora, pôs a
+cesta na mesinha, e sem dizer nada tirou de
+dentro do avental um envelope dobrado em dois.
 
-Aurora levou um segundo pra processar.
+— Senhorita Aurora.
 
-Pegou a carta. O lacre era de cera vermelha sem
-brasão (Josh não tinha brasão; tinha cera comum).
-Estava intacto. Eleonora não tinha aberto.
+— Helle.
 
-Aurora subiu pro quarto. Fechou a porta.
+— Chegou pra senhora hoje pela manhã. Eu não
+entreguei antes porque a senhora estava recebendo
+visita. Eu guardei aqui comigo. Ninguém mais
+viu.
 
-Encostou as costas na porta.
+Aurora pegou o envelope. O lacre era de cera
+vermelha sem brasão (Josh não tinha brasão;
+tinha cera comum). Estava intacto.
 
-Quebrou o lacre.
+— Obrigada, Helle.
 
-A letra do Josh era a mesma do bilhete que ele
-tinha deixado pro Raj na escrivaninha do
+— Eu não vi nada, senhorita.
+
+— Eu sei.
+
+Helle voltou pra cesta de remendos. Aurora subiu
+pro quarto. Fechou a porta. Encostou as costas
+na porta.
+
+A letra no envelope era a mesma do bilhete que
+Josh tinha deixado pro Raj na escrivaninha do
 escritório no dia que saiu da casa. Letra firme.
 Sem rasura. Pequena.
 
+Aurora quebrou o lacre.
+
 > *Aurora.*
 >
-> *Eu não vou te mandar isso pela porta da
+> *Eu não posso te mandar isso pela porta da
 > frente porque eu não posso te comprometer. Vai
-> chegar pela Helle, que vai pôr nas mãos da sua
-> mãe, que vai cuidar do meio do caminho. Eu sei
-> que ela vai cuidar porque eu vi ela me olhando
-> quando você saiu da sala anteontem. Não pergunta
-> mais, Aurora. Aceita.*
+> chegar pelas mãos da Helle. Ela me prometeu na
+> noite que eu saí que ia cuidar do meio do
+> caminho.*
 >
 > *Hoje é dia 1 das seis semanas. Eu estou no
 > Regensen. Eu não dormi. Eu não vou dormir até
@@ -861,7 +906,8 @@ Sem rasura. Pequena.
 > recomendação vai depender do Raj. Vamos ver.*
 >
 > *Vai dar certo, Aurora. Eu não tenho como te
-> provar agora. Mas eu sei. Eu te amo.*
+> provar agora. Mas eu sinto e tenho fé que vai
+> dar certo. Eu te amo.*
 >
 > *J.*
 
@@ -883,22 +929,22 @@ de manhã na cozinha às cinco e quarenta e cinco,
 de noite na sala de estar, de tarde no jardim
 podando rosa, e que agora estava num quarto do
 Regensen sem dormir, batendo em portas, levando
-não.
+não. Tudo pra poder ficar com ela. Tudo pra ter
+ela.
 
 Aurora dobrou a carta. Pôs entre as páginas do
 livro de Oehlenschläger do Aarav, na fita azul
 entre as páginas 37 e 38. Era o lugar mais seguro
-da casa pra ela guardar uma coisa. A Eleonora não
+da casa pra ela guardar uma coisa. Eleonora não
 abriria o livro do Aarav. Ninguém abriria.
 
 Sentou na cama.
 
 E ali, com a carta do Josh guardada do lado do
 livro do irmão dela, com Ingrid voltando amanhã,
-com Vibeke embaixo, com Eleonora fingindo que não
-tinha sido cúmplice silenciosa de uma carta de
-homem moço pra uma moça noiva de outro homem,
-Aurora decidiu uma coisa pequena, mas firme:
+com Vibeke embaixo, com Helle no térreo guardando
+o silêncio da casa, Aurora decidiu uma coisa
+pequena, mas firme:
 
 Ia falar com a mãe naquela noite.
 

@@ -193,13 +193,14 @@ Ver `decisoes-editoriais.md`.
 
 ## Cap 31 — fatos novos cristalizados
 
-- **Erik volta à Bredgade** com pretexto de devolver livro do Raj emprestado em junho. Vinha pra fazer pedido formal essa semana. Percebe Aurora diferente. `cap31`
-- **Erik tinha sempre soubedo do Josh** — viu na primeira noite no sarau dos Holst que Aurora e Josh "cruzaram a sala sem se olharem". Mandou Ingrid não falar. *"Era a coisa que ele mais respeitaria em você."* (Inferência via fala de Ingrid; não cravada como canon de cena vivida.) `cap31`
+- **Erik volta à Bredgade** com pretexto de devolver livro do Raj emprestado em junho. Vinha **desde o baile dos Frederiksen** pensando em fazer pedido formal. Percebe Aurora diferente. `cap31`
+- **Erik desconfia que o homem é Josh** — diz a Aurora que viu os dois saírem do fundo do celeiro em Christianshavn (canon `cap15`) e como se olharam no baile dos Lundgren. Fingiu não ver. Aurora sustenta: *"Não é com o Josh, Erik. Mas tem a ver com ele."* `cap31`
 - **Erik se oferece como amigo se o noivado se desfizer** — *"Amigo, com letra grande."* Pede só uma coisa antes de sair: *"que você não se case com o homem cujo nome não cabe na sua boca."* `cap31`
-- **Ingrid mandou Erik vir** — não pra pressionar Aurora, pra ele entender por que Aurora se trancou faz semanas. `cap31`
-- **Ingrid reata** — sempre foi amiga; calma sólida; promete madrinha em Sorø no pomar (com Vibeke). *"Para o lado em que você esteja, Aurora."* (eco do Cap 16:233) `cap31`
-- **Carta do Josh pra Aurora** — entregue via Helle → Eleonora (que põe sem ler). Letra firme, sem rasura, pequena. *"Hoje é dia 1 das seis semanas. Eu estou no Regensen. Eu não dormi... Já bati em três casas comerciais. Já levei dois 'não' e um 'talvez com uma carta de recomendação'. ... Vai dar certo, Aurora... Eu te amo. J."* Guardada no livro de Oehlenschläger do Aarav, fita azul entre pp. 37-38. `cap31`
-- **Eleonora é cúmplice silenciosa confirmada** — aceitou colocar a carta do Josh sem abrir. `cap31`
+- **Ingrid mandou Erik vir** — porque Aurora não escreveu pra ela desde que voltou de Sorø. Ingrid **não sabia de Lindberg, nem da dívida, nem de nada concreto** — só sabia que Aurora se afastou. `cap31`
+- **Ingrid revela o que aconteceu com Erik:** Ingrid contou a Erik desde o início que ele não tinha chance. Erik teimou em insistir. *"Erik sabia, lá no fundo. Foi por isso que ele veio hoje sem cobrar nada."* `cap31`
+- **Ingrid reata** — promete madrinha em Sorø no pomar (com Vibeke). Pede pra Aurora avisar com três semanas de antecedência por causa do vestido sob medida. `cap31`
+- **Helle é cúmplice silenciosa confirmada** — guardou a carta do Josh no avental até a visita do Erik acabar, entregou em mãos a Aurora na sala de costura. *"Eu não vi nada, senhorita."* `cap31`
+- **Carta do Josh pra Aurora** — entregue em mãos por Helle. Letra firme, sem rasura, pequena. *"Hoje é dia 1 das seis semanas. Eu estou no Regensen. Eu não dormi... Já bati em três casas comerciais. Já levei dois 'não' e um 'talvez com uma carta de recomendação'. ... Eu sinto e tenho fé que vai dar certo. Eu te amo. J."* Guardada no livro de Oehlenschläger do Aarav, fita azul entre pp. 37-38. `cap31`
 - **Aurora decide falar com a mãe naquela noite** — não amanhã. `cap31`
 
 ## Cap 30 — fatos novos cristalizados
