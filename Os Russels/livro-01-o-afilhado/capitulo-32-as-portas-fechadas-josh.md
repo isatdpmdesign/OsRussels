@@ -22,16 +22,17 @@ três delas inúteis pra o que ele precisava.
 
 A cabeça dele não saía da Aurora.
 
-Aurora descendo a escada da Bredgade naquela
-manhã com o vestido cor de creme. Aurora no
-banco da pérgola. Aurora no quarto sete com a
-camisola caindo no chão. Aurora no fundo da
-carruagem na volta de Sorø. Aurora dizendo
-*Lindberg*. Aurora dizendo *eu já tinha
-escolhido*. Aurora dormindo no peito dele às
-três e quarenta da madrugada de domingo, com a
-respiração subindo e descendo embaixo da palma
-da mão dele.
+Aurora chegando na porta do quarto sete com a
+capa marrom de Helle no ombro. Aurora dizendo
+*eu já tinha escolhido*. Aurora dizendo
+*Lindberg*. Aurora desistindo de cobrar dele
+porque a verdade dele dolorida era ainda
+verdade. Aurora vendo a contenção dele ceder.
+Aurora deixando a camisola cair no chão. Aurora
+em cima dele, segurada pelas pernas dele no
+colo. Aurora dormindo no peito dele uma hora
+antes do amanhecer, com a respiração subindo e
+descendo embaixo da palma da mão dele.
 
 Josh respirou, fechou o livro, abriu de novo.
 
@@ -101,12 +102,11 @@ caixa olhou pra ele, registrou o casaco de
 tweed marrom (o casaco que Josh tinha trazido de
 Sorø em abril, que já tinha sido do pai dele),
 e fez a cara discreta de quem reconhece um
-candidato a colocação assim que um candidato a
-colocação atravessa a soleira.
+candidato a colocação na soleira.
 
-— Boa manhã.
+— Bom dia.
 
-— Boa manhã.
+— Bom dia.
 
 — Joshua Russel. Eu venho falar com Herr Heering
 sobre uma colocação. Eu escrevi pra ele na
@@ -171,9 +171,8 @@ Josh esperou na sala de fora durante quarenta
 minutos.
 
 Quando o Senhor Lindstrøm o recebeu, foi cordial,
-foi olho no olho, foi de mão estendida e firme.
-Josh quase respirou aliviado antes da segunda
-frase.
+mão estendida e firme. Josh quase respirou
+aliviado antes da segunda frase.
 
 — Senhor Russel. Eu li a sua carta. Eu fiquei
 impressionado. Você escreve bem. Letra firme. Eu
@@ -280,24 +279,30 @@ Russel. Com a carta na mão.
 — Estarei aqui.
 
 Josh apertou a mão de Herr Sørensen. Saiu da
-banca com uma esperança contida, do tamanho
-exato que ele aceitava se permitir naquela
-semana. Esperança ainda não era contagem. A
-contagem precisava da carta do Raj. A contagem
-precisava da segunda porta dele bater na
-Bredgade depois de ter saído dela.
+banca na rua estreita, e o sol da tarde bateu
+em cima dele com uma cor que ele não tinha
+notado de manhã. O peito dele soltou, sem ele
+ter mandado. A esperança era pequena, mas era
+nova. Era a primeira coisa nova daquela semana
+inteira. Josh respirou fundo uma vez e se
+permitiu sentir, antes de cortar a permissão.
+Esperança ainda não era contagem. A contagem
+precisava da carta do Raj. A contagem precisava
+da segunda porta dele bater na Bredgade depois
+de ter saído dela.
 
 *
 
 A Bredgade ficava a vinte minutos a pé da banca
-de Sørensen. Josh fez o caminho devagar, pensando
-no que ia dizer ao padrinho. Não tinha conversado
-com Raj de verdade desde a manhã em que tinha
-pedido pra sair de casa, na semana anterior. Não
-sabia em que estado Raj ia estar. Não sabia
-se ia ter que esperar na soleira, ou se ia ser
-recebido com a cortesia de sempre, ou se Raj ia
-fingir que não tinha visto.
+de Sørensen. Josh fez o caminho devagar,
+pensando no que ia dizer ao padrinho. Não tinha
+conversado com Raj de verdade desde a tarde em
+que tinha pedido, antes do jantar, pra sair de
+casa. Não sabia em que estado Raj ia estar. Não
+sabia se ia ter que esperar na soleira, ou se ia
+ser recebido com a cortesia de sempre, ou se Raj
+ia dizer que não podia recebê-lo naquele
+momento.
 
 Bateu na aldrava de leão.
 
@@ -426,24 +431,10 @@ fundo, do jeito que entra em homem que conhece o
 homem que está falando. Raj não estava se
 desculpando. Raj estava registrando.
 
-— Padrinho.
-
-— Diz.
-
-— Eu vou resolver a parte que cabe a mim. A
-parte que cabe ao senhor é com o senhor. Eu não
-vim aqui pedir mais nada além da carta.
-
-— Eu sei.
-
-— Mas eu vou vir te pedir uma outra coisa em
-algum dia. Não hoje.
-
 — Eu te recebo, Josh. Toda vez. Você não precisa
 bater.
 
-— Eu preciso, padrinho. Por enquanto, eu
-preciso.
+— Obrigado, padrinho.
 
 Raj assentiu uma vez.
 
@@ -462,13 +453,8 @@ três segundos antes de responder.
 — Ela está endireitada de um jeito que eu não
 tinha visto desde o ano do Aarav.
 
-Josh não disse nada.
-
-— Não pergunto mais — disse Josh, depois de um
-tempo.
-
-— Eu também não respondo mais. Mas isso eu te
-respondi.
+Josh não disse nada. Mas o canto da boca dele
+subiu um milímetro, e Raj viu.
 
 Josh assentiu. Saiu do escritório. Atravessou o
 corredor sem olhar pra sala de estar (a porta
@@ -530,12 +516,10 @@ mais. Dormia três horas.
 Emagreceu.
 
 O casaco de tweed marrom começou a sobrar nos
-ombros. O chapéu de feltro começou a descer um
-milímetro a mais sobre as sobrancelhas. As mãos
-brutas dele perderam um pouco da cor de campo
-e ganharam um pouco da cor de tinta de pena. O
-nó dos dedos, o que tinha rachado no soco do
-Lindberg, cicatrizou de jeito torto.
+ombros. As mãos brutas dele ganharam mancha de
+tinta de pena que não saía com sabão. O nó dos
+dedos, o que tinha rachado no soco do Lindberg,
+cicatrizou de jeito torto.
 
 Josh não se olhou no espelho durante essas três
 semanas inteiras.
@@ -547,84 +531,67 @@ das seis.
 
 Aksel bateu na porta do quarto sete às onze da
 noite. Tinha o envelope na mão. O lacre era
-amarelo (Aurora tinha cera amarela na escrivaninha
-do quarto dela; Josh sabia porque tinha visto na
-noite que tinha entrado lá depois da chegada de
-Sorø).
+amarelo (Aurora tinha cera amarela na
+escrivaninha do quarto dela; Josh sabia porque
+tinha visto na noite que tinha entrado lá depois
+da chegada de Sorø).
 
-— Helle te mandou pelo o meu irmão de novo.
-Pede pra você queimar o envelope depois de ler.
+— Helle me passou agora pouco. Pede pra você
+queimar o envelope depois de ler.
 
-— Eu sei.
+— Pode deixar.
 
-— Josh.
+— Boa noite, Josh.
 
-— Aksel.
-
-— A Helle me disse uma coisa hoje pelo Magnus
-que eu vou te repassar porque eu acho que você
-precisa saber.
-
-— Diz.
-
-— Aurora falou com a mãe ontem à noite. Eleonora
-aceitou ajudar.
-
-Josh respirou. Foi um respiro fundo, o primeiro
-do dia, o primeiro talvez da semana. Sentiu o
-peito dele soltar.
-
-— Obrigado, Aksel.
-
-— Eu não te disse nada.
-
-— Eu sei.
+— Boa noite, Aksel.
 
 Aksel saiu. Fechou a porta.
 
 Josh sentou na beira da cama com o envelope
-amarelo na mão. Ficou parado uns segundos antes
-de quebrar o lacre, porque a carta ia ser real
-de outro jeito assim que ele lesse, e ele
-queria a frase do Aksel sozinha no peito mais
-um minuto antes de receber a confirmação na
-letra da Aurora.
-
-Depois quebrou o lacre.
+amarelo na mão. Quebrou o lacre.
 
 A letra da Aurora era arredondada, com o cuidado
-de quem aprendeu a escrever com Madame Solberg.
-Cheirava a jasmim e canela. Josh segurou o
-papel com as duas mãos.
+de quem aprendeu a escrever em caderno de menina
+nobre. Cheirava a jasmim e canela. Josh segurou
+o papel com as duas mãos.
 
 > *Josh.*
 >
-> *Eu falei com a minha mãe. Falei do começo ao
-> fim. Não escondi nada que ela ainda não
-> soubesse, e mostrei a ela que ela já sabia
-> bastante. Ela ouviu sem chorar (você sabe que
-> a minha mãe não chora na frente). Quando eu
-> terminei, ela ficou em silêncio um tempo. E
-> aí ela disse, com a voz dela de mãe nórdica
-> que decide com precisão: que vai me ajudar.*
+> *Eu escrevo essa pra você na escrivaninha do
+> meu quarto, com a porta encostada, com a
+> Vibeke dormindo do meu lado fingindo que não
+> está vigiando o corredor. Já é o décimo dia
+> que eu acordo sem você na cozinha às cinco e
+> quarenta e cinco. Eu desço todo dia mesmo
+> assim. Helle agora desce comigo. Não diz nada.
+> Faz café pra duas. Acho que ela entende o que
+> eu não falo.*
 >
-> *Ela aceitou tirar as joias Bjerg do cofre.
-> Disse que prefere ser a mãe que vendeu as
-> joias da mãe dela do que a mãe que me vendeu
-> ao Lindberg. Foi a frase dela inteira, sem
-> mudar nenhuma palavra.*
+> *Eu ainda não tive a conversa que eu te
+> prometi. Eu sei que eu preciso. Eu adiei
+> ontem porque a tarde de ontem teve Erik na
+> casa (eu te conto isso outro dia, calma, sem
+> susto), e adiei hoje porque o meu coração
+> estava do tamanho da minha mão e a minha mãe
+> estava com os olhos vermelhos e eu não tive
+> coragem de chegar perto dela com pergunta
+> grande. Mas eu vou falar. Eu te prometi.
+> Antes do fim dessa semana.*
 >
-> *A conta ainda não fecha sem o resto. Eu sei
-> que você sabe a parte que falta. Eu vou ficar
-> esperando você resolver a parte do seu lado.
-> Eu acredito que você vai conseguir.*
+> *A Vibeke tá do meu lado e a Ingrid voltou.
+> Eu te falei da Ingrid? Eu não falei. Ela
+> sempre soube de nós dois, Josh. Foi a Ingrid
+> que mandou o Erik vir, e foi a Ingrid que
+> abriu a porta do meu quarto depois e
+> sentou na minha cama e me deixou desabar.
+> Você vai gostar dela quando vocês se
+> conhecerem direito.*
 >
 > *Eu tô bem, Josh. Eu não tô comendo bem
-> nenhum dia, mas eu durmo. A Vibeke fica do
-> meu lado. A Ingrid também voltou. Estão
-> cuidando de mim.*
+> nenhum dia, mas eu durmo. Tenho cuidado.*
 >
-> *Trabalha. Eu trabalho do meu lado.*
+> *Trabalha. Eu também tô trabalhando, do meu
+> jeito, daqui de dentro.*
 >
 > *Te amo.*
 >
@@ -632,7 +599,10 @@ papel com as duas mãos.
 
 Josh leu uma vez. Leu de novo.
 
-Releu a frase "ela vai me ajudar" três vezes.
+Parou na frase *Eu também tô trabalhando, do meu
+jeito, daqui de dentro.* Releu. Encostou o papel
+no peito. Sentiu o cheiro de jasmim e canela
+ficar dentro dele um segundo.
 
 Pôs a carta na mesa, do lado do livro de Ørsted
 copiado. Levantou. Foi até a janela do quarto
@@ -641,35 +611,28 @@ cheiro de outono que já tinha começado a chegar
 em Copenhague. Josh respirou. Encheu o peito.
 Soltou.
 
-Pela primeira vez em onze dias, ele permitiu
-que uma coisa parecida com alívio entrasse
-nele.
-
-A conta ainda não fechava.
-
-Mas tinha agora uma metade da família da Aurora
-do lado dele.
-
-E Josh sabia, com a precisão de homem que
-contou cada moeda da própria vida desde que o
-pai morreu, o que faltava resolver.
-
-Faltava a casa comercial da Højbro. Faltava
-abrir a porta que ele tinha desviado duas vezes
-no caminho da casa de Heering. Faltava entrar
-ali, falar com o gerente da casa, e ver se a
-assinatura do Raj e a assinatura do pai morto
-do Josh, juntas no livro de depósitos dos anos
-dez, ainda valiam alguma coisa em 1830.
+Pela primeira vez em onze dias, ele se permitiu
+sentir uma coisa que estava entre alívio e medo.
+Alívio porque ela estava bem, porque tinha duas
+mulheres do lado dela, porque ainda tinha o
+plano vivo. Medo porque a parte que dependia
+dele continuava na parte dele, e a parte que
+dependia dela ainda não tinha sido feita, e
+porque cada dia que passava era um dia a menos
+das seis semanas.
 
 Josh fechou a janela.
 
 Sentou na escrivaninha.
 
-Pegou uma folha em branco.
-
-Começou a escrever uma carta pro padrinho,
-pedindo a próxima coisa que precisava pedir.
+Pegou uma folha em branco. Começou a escrever
+uma carta pro padrinho, sobre a próxima coisa
+que ele precisava pedir: abrir a porta da casa
+comercial da Højbro, a que ele tinha desviado
+duas vezes no caminho da casa de Heering, e ver
+se a assinatura do Raj e a assinatura do pai
+morto dele, juntas no livro de depósitos dos
+anos dez, ainda valiam alguma coisa em 1830.
 
 ---
 

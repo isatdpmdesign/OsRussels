@@ -202,8 +202,9 @@ Ver `decisoes-editoriais.md`.
 - **Aksel Holm sustenta Josh em parte** — leva pão e queijo de noite. Magnus (irmão de Aksel/Helle? recado) é o canal de mensagens com Helle. `cap32`
 - **Casaco de tweed marrom do Josh** — tinha sido do pai dele, Henrik. Casaco do dia a dia em Copenhague. `cap32`
 - **Chapéu de feltro escuro** — do pai dele também. Josh passou a usar todo dia depois que saiu da Bredgade. `cap32`
-- **Carta da Aurora pro Josh (dia 11 das seis semanas)** — cera amarela. *"Ela aceitou tirar as joias Bjerg do cofre. Disse que prefere ser a mãe que vendeu as joias da mãe dela do que a mãe que me vendeu ao Lindberg."* `cap32`
-- **Conta ainda não fecha** mesmo com as joias Bjerg + herança do Josh. Falta o que vai vir do Aamann/Højbro (Cap 34). `cap32`
+- **Carta da Aurora pro Josh (dia 11 das seis semanas)** — cera amarela. Tom cálido, cotidiano. Aurora ainda **não falou com a mãe** (adiou por causa da visita do Erik e por encontrar a mãe com olhos vermelhos), mas promete falar antes do fim da semana. Conta da Helle descendo com ela na cozinha às 5:45 ("faz café pra duas. Acho que ela entende o que eu não falo"). Cita Ingrid voltando, Vibeke do lado fingindo dormir. `cap32`
+- **Aurora-Helle cumplice silenciosa** — Helle desce com Aurora na cozinha as 5:45 desde que Josh saiu. Sem palavra. `cap32` (plant)
+- **Aurora promete falar com a mãe antes do fim da semana** — adiada por causa do Erik na casa e pela Eleonora estar com olhos vermelhos. Plant pro Cap 33. `cap32`
 - **Josh começa a escrever carta ao Raj pedindo pra abrir o depósito conjunto da Højbro** — plant pro Cap 34. `cap32`
 
 ## Cap 31 — fatos novos cristalizados
