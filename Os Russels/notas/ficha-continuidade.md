@@ -61,8 +61,9 @@
 | Cap 28: Aurora acorda, descobre Josh foi pro Regensen, confronta Raj, vai ao Regensen à noite | Copenhague, mais um dia depois | `cap28` |
 | Cap 29: A CENA no Regensen, consumação, declaração Bridgerton, Aurora volta às 4:42 | Copenhague, mesma noite + madrugada | `cap29` |
 | Cap 30: amanhecer na Bredgade, conversa Aurora-Vibeke, Eleonora percebe no café | Copenhague, segunda de manhã | `cap30` |
-| Cap 31: Erik volta, despedida digna; Ingrid reata; carta do Josh chega via Eleonora | Copenhague, mesmo dia do Cap 30 | `cap31` |
-| Caps 32-39 (a escrever): seis semanas + casamento em Sorø + coda | (plano) | |
+| Cap 31: Erik volta, despedida digna; Ingrid reata; carta do Josh chega via Helle | Copenhague, mesmo dia do Cap 30 | `cap31` |
+| Cap 32: Josh batendo em portas comerciais, Sørensen aceita; carta da Aurora confirma joias Bjerg | Copenhague, dias 1-11 das seis semanas | `cap32` |
+| Caps 33-39 (a escrever): seis semanas + casamento em Sorø + coda | (plano) | |
 
 ## Casas (geografia)
 
@@ -190,6 +191,20 @@ Ver `decisoes-editoriais.md`.
 - **Promessa do Josh:** se Aurora pedir, ele a tira da igreja em outubro. Mas o custo é risco de vida (Lindberg tem capangas, arquiva ofensas). A decisão tem que ser dela. `cap29:1148-1168`
 - **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
 - **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
+
+## Cap 32 — fatos novos cristalizados
+
+- **Casa comercial de Heering (chá e especiarias) na Højbro** — três portas adiante da casa do depósito Henrik-Raj. Recusou Josh por sombra de dívida na família. `cap32`
+- **Senhor Lindstrøm (Strøget, tecidos)** — jutlandês, atende a casa do depósito do Raj. Cordial mas recusou. Disse que se em 3-6 meses a situação mudar, Josh escreva de novo. `cap32`
+- **Herr Sørensen (banca de advocacia no Bairro Latino, velho aluno de Anders Sandøe Ørsted)** — gostou de Josh, pediu carta de recomendação do Raj, aceitou. **Salário: 4½ corões por semana.** Josh trabalha das 8 às 16. `cap32`
+- **Carta de recomendação do Raj a Sørensen** — escrita na hora no escritório da Bredgade, lacrada com sinete da casa. *"Era pra eu ter feito isso antes de você precisar pedir."* `cap32`
+- **Fala do Raj ao Josh:** *"Eu sei o que te disseram. Foi minha culpa."* + *"Ela está endireitada de um jeito que eu não tinha visto desde o ano do Aarav."* `cap32`
+- **Aksel Holm sustenta Josh em parte** — leva pão e queijo de noite. Magnus (irmão de Aksel/Helle? recado) é o canal de mensagens com Helle. `cap32`
+- **Casaco de tweed marrom do Josh** — tinha sido do pai dele, Henrik. Casaco do dia a dia em Copenhague. `cap32`
+- **Chapéu de feltro escuro** — do pai dele também. Josh passou a usar todo dia depois que saiu da Bredgade. `cap32`
+- **Carta da Aurora pro Josh (dia 11 das seis semanas)** — cera amarela. *"Ela aceitou tirar as joias Bjerg do cofre. Disse que prefere ser a mãe que vendeu as joias da mãe dela do que a mãe que me vendeu ao Lindberg."* `cap32`
+- **Conta ainda não fecha** mesmo com as joias Bjerg + herança do Josh. Falta o que vai vir do Aamann/Højbro (Cap 34). `cap32`
+- **Josh começa a escrever carta ao Raj pedindo pra abrir o depósito conjunto da Højbro** — plant pro Cap 34. `cap32`
 
 ## Cap 31 — fatos novos cristalizados
 
