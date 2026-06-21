@@ -568,15 +568,13 @@ o papel com as duas mãos.
 > eu não falo.*
 >
 > *Eu ainda não tive a conversa que eu te
-> prometi. Eu sei que eu preciso. Eu adiei
-> ontem porque a tarde de ontem teve Erik na
-> casa (eu te conto isso outro dia, calma, sem
-> susto), e adiei hoje porque o meu coração
-> estava do tamanho da minha mão e a minha mãe
-> estava com os olhos vermelhos e eu não tive
-> coragem de chegar perto dela com pergunta
-> grande. Mas eu vou falar. Eu te prometi.
-> Antes do fim dessa semana.*
+> prometi. Eu sei que eu preciso. Adiei vários
+> dias seguidos porque cada um deles teve uma
+> coisa que atravessou (eu te conto sobre o
+> Erik depois, calma, sem susto), e porque eu
+> tô precisando de uma coragem que não chegou
+> ainda. Mas eu vou falar. Eu te prometi. Antes
+> do fim dessa semana.*
 >
 > *A Vibeke tá do meu lado e a Ingrid voltou.
 > Eu te falei da Ingrid? Eu não falei. Ela
