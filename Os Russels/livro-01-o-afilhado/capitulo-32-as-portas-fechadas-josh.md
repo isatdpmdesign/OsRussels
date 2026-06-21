@@ -346,14 +346,11 @@ naquele último dia. Olhou pra Josh. Não levantou.
 Josh sentou na cadeira do outro lado da
 escrivaninha. Pôs o chapéu no joelho.
 
-— Eu vim pedir uma coisa.
-
-— Diz.
-
-— Eu fui hoje numa banca de advocacia no Bairro
-Latino. Herr Sørensen. Ele me ofereceu colocação
-de auxiliar. Mas pediu uma carta de recomendação
-sua, antes de fechar.
+— Eu vim pedir uma coisa. Eu fui hoje numa banca
+de advocacia no Bairro Latino. Herr Sørensen.
+Ele me ofereceu colocação de auxiliar. Mas
+pediu uma carta de recomendação sua, antes de
+fechar.
 
 Raj olhou pra Josh um segundo.
 
@@ -413,13 +410,9 @@ Raj olhou pra Josh mais um segundo. Tinha alguma
 coisa na boca dele que ele não disse. Josh viu
 a frase formar e desfazer. Esperou. Não cobrou.
 
-— Josh.
-
-— Diz, padrinho.
-
-— Você sabe que essa cidade é pequena. Eu sei
-que você bateu em três portas essa semana e que
-foi recebido com cuidado. Eu sei o que te
+— Josh, você sabe que essa cidade é pequena. Eu
+sei que você bateu em três portas essa semana e
+que foi recebido com cuidado. Eu sei o que te
 disseram. Eu sinto.
 
 — Não foi culpa sua, padrinho. Foi consequência.
@@ -441,11 +434,7 @@ Raj assentiu uma vez.
 Josh levantou. Pôs o chapéu. Foi até a porta.
 Antes de sair, virou meio passo.
 
-— Padrinho.
-
-— Diz.
-
-— Como ela está?
+— Padrinho, como ela está?
 
 Raj não fingiu não entender. Olhou pro Josh por
 três segundos antes de responder.

@@ -248,12 +248,8 @@ cinco da manhã com a prima do lado e o cocheiro
 do vizinho engatando um cavalo na rua. A frase
 ia ter que esperar a vida pra caber.
 
-— Aurora.
-
-— Sim.
-
-— Eu vou fingir que estou chorando agora porque
-eu não tenho como reagir à altura dessa
+— Aurora, eu vou fingir que estou chorando agora
+porque eu não tenho como reagir à altura dessa
 informação de outro jeito.
 
 Vibeke fungou alto, de propósito, encenando. Aurora
@@ -286,7 +282,7 @@ sem perceber. — Ai meu Deus, Vibeke. Ele foi um
 cavalheiro. Ele foi um cavalheiro do começo ao
 fim.
 
-— Aurora.
+— Aurora — Vibeke sussurrou.
 
 — Foi devagar. Ele me perguntou três vezes se eu
 tinha certeza. Eu respondi três vezes. Na quarta
@@ -330,11 +326,8 @@ sobre mim sentindo qualquer coisa.
 — A minha foi as duas coisas. Foi sobre mim e
 foi sobre ele.
 
-— Aurora.
-
-— Sim.
-
-— Eu não acredito que isso aconteceu com você.
+— Aurora, eu não acredito que isso aconteceu com
+você.
 
 — Vibeke — disse Aurora baixo, ainda no susto
 de ouvir em voz alta.
@@ -467,16 +460,12 @@ abaixava a cabeça pra mãe. Você não é mais essa.
 
 — Não sou.
 
-— Boa.
+— Ainda bem.
 
 Vibeke deitou de novo. Ficou olhando pro teto do
 lado da Aurora.
 
-— Aurora.
-
-— Sim.
-
-— Sobre mim agora.
+— Aurora, sobre mim agora.
 
 — Conta.
 
@@ -565,11 +554,7 @@ certeza.
 
 — Você também vai, Aurora. Vai dar tudo certo.
 
-— Vibeke.
-
-— Sim.
-
-— Você vai voltar pro meu casamento?
+— Vibeke, você vai voltar pro meu casamento?
 
 Vibeke parou de respirar por meio segundo.
 
@@ -615,19 +600,12 @@ nos pés pela primeira vez em meses. Vai ter
 Matias lendo poesia do pai pra gente. Vai ter
 todo mundo. E você. E a Ingrid.
 
-— Aurora — disse Vibeke, fingindo escândalo.
-
-— Sim.
-
-— Eu vou parar de surtar quando você parar de
+— Aurora — disse Vibeke, fingindo escândalo. —
+Eu vou parar de surtar quando você parar de
 falar essas coisas pra mim. Não tem essa de
 chorar, combinamos.
 
 — Combinamos.
-
-— Boa.
-
-— Boa.
 
 Aurora riu pelo nariz. Vibeke também.
 
@@ -651,11 +629,7 @@ tia Eleonora.
 — Pior. Com cara de noiva resignada do Lindberg.
 Cara de moça que aceitou.
 
-— Aurora.
-
-— Sim.
-
-— Você consegue.
+— Aurora, você consegue.
 
 — Eu consigo.
 
@@ -674,9 +648,9 @@ Aurora virou a cabeça e olhou pra Vibeke.
 — Você fala de coisa séria com a leveza de
 quem está combinando o jantar.
 
-— É como eu falo. Se eu fosse falar do jeito do
-jantar com a seriedade de coisa séria eu não
-saberia falar de jeito nenhum. Eu sou Vibeke.
+— É como eu sou. Se eu tratasse coisa séria com
+cara de coisa séria, eu não conseguia falar
+nada. Eu sou Vibeke.
 
 — É.
 
@@ -713,12 +687,8 @@ Vibeke sentou na cama.
 
 — Eu vou descobrir.
 
-— Aurora.
-
-— Sim.
-
-— Sai do vestido de ontem. Vai. Eu te ajudo a
-trocar.
+— Aurora, sai do vestido de ontem. Vai. Eu te
+ajudo a trocar.
 
 Aurora sentou. As duas pernas dela protestaram
 um pouco. Vibeke percebeu e fez cara de quem ia
@@ -749,12 +719,12 @@ de creme. Vai parecer adorno, não esconderijo.
 Você tem aquela larga que sua mãe te deu no
 Natal.
 
-— Boa.
+— Ótimo.
 
 — A gente vai te transformar em moça que dormiu
 oito horas profundo, Aurora.
 
-— Boa.
+— Ótimo.
 
 — Tira essa cara também.
 
@@ -886,11 +856,7 @@ quem dormiu por anos no mesmo quarto que primas.
 
 — Vou.
 
-— Aurora.
-
-— Sim.
-
-— Cabeça pra cima.
+— Aurora, cabeça pra cima.
 
 — Cabeça pra cima.
 

@@ -111,11 +111,7 @@ mim.
 
 — Tenho.
 
-— Aurora.
-
-— Diz.
-
-— Erik não sabe.
+— Aurora, Erik não sabe.
 
 — Eu sei que ele não sabe.
 
@@ -342,9 +338,8 @@ dentro da boca dela.
 
 Erik viu. Erik viu na hora.
 
-— Aurora.
-
-— Erik, eu não consigo dizer.
+— Erik, eu não consigo dizer — disse Aurora,
+baixo.
 
 — Eu não vou te fazer dizer. Eu já entendi.
 
@@ -386,11 +381,7 @@ gratidão. A gratidão que se sente quando o homem
 errado pra você prova, na saída da sua vida, que
 merecia ser o homem certo de outra mulher.
 
-— Erik.
-
-— Sim.
-
-— Você é um bom homem.
+— Erik, você é um bom homem.
 
 — Eu sei. Eu tive sorte de ter uma boa mãe que
 me educou.
@@ -439,11 +430,7 @@ os outros não foi.
 Aurora deu uma risada pequena que ela mesma não
 esperou.
 
-— Erik.
-
-— Diz.
-
-— Obrigada.
+— Erik, obrigada.
 
 — Por favor, Aurora. Eu fiz o mínimo de homem
 educado. Não me transforme em santo. — Erik
@@ -548,11 +535,8 @@ amizade comigo, se o noivado se desfizer.
 
 — Eu sei.
 
-— Aurora.
-
-— Diz.
-
-— Você acha que ele sempre soube do Josh?
+— Aurora, você acha que ele sempre soube do
+Josh?
 
 — Acho que ele percebeu sem saber, sem ter
 certeza. Como a minha mãe percebeu. Como Ingrid
@@ -561,12 +545,8 @@ sente sem nomear.
 
 Vibeke deu uma risada pelo nariz.
 
-— Vibeke.
-
-— Aurora.
-
-— Você fica do meu lado quando eu for falar com a
-minha mãe?
+— Vibeke, você fica do meu lado quando eu for
+falar com a minha mãe?
 
 — Eu fico de fora da sala mas dentro da casa,
 Aurora. Eu não posso entrar. Mas eu fico do lado.
@@ -599,7 +579,7 @@ Vibeke se levantou da cama.
 
 — Eu vou pro jardim com Fru Larsen.
 
-— Vibeke.
+— Mas, Vibeke...
 
 — Aurora, Ingrid é sua amiga. Eu sou de outra
 parte da história. Eu não preciso ouvir o que vai
@@ -749,12 +729,8 @@ Lundgren. Lembrou do meio sorriso dele de
 saída, no jardim, falando a frase *eu vou
 esperar ser amigo*. E entendeu.
 
-— Ingrid.
-
-— Sim.
-
-— Quando eu casar com o Josh, eu quero que você
-seja minha madrinha.
+— Ingrid, quando eu casar com o Josh, eu quero
+que você seja minha madrinha.
 
 Ingrid olhou pra Aurora um segundo a mais.
 
@@ -763,13 +739,9 @@ Ingrid olhou pra Aurora um segundo a mais.
 — Eu vou. Eu não sei o quando ainda. Eu sei o
 que falta resolver. Mas eu vou.
 
-— Aurora.
-
-— Diz.
-
-— É claro que vou ser sua madrinha. Vai ser
-uma honra. Não me importa quanto tempo demorar,
-nem onde. Serei sim sua madrinha.
+— Aurora, é claro que vou ser sua madrinha. Vai
+ser uma honra. Não me importa quanto tempo
+demorar, nem onde. Serei sim sua madrinha.
 
 — Vai ser em Sorø. No pomar de macieiras.
 
@@ -785,12 +757,8 @@ entrado no quarto.
 — Você e a Vibeke. Duas. Eu não tenho três
 irmãs, mas eu tenho vocês duas.
 
-— Aurora.
-
-— Sim.
-
-— Você sabe que isso é uma promessa, né. Não é
-fala de manhã. Eu vou cobrar.
+— Aurora, você sabe que isso é uma promessa, né.
+Não é fala de manhã. Eu vou cobrar.
 
 — Pode cobrar. Eu cumpro.
 
@@ -798,14 +766,11 @@ fala de manhã. Eu vou cobrar.
 
 Ingrid apertou a mão da Aurora.
 
-— Aurora, eu vou pedir uma coisa.
-
-— Diz.
-
-— Quando você tiver decidido o dia, me avise com
-pelo menos três semanas, porque eu quero fazer o
-meu vestido sob medida e o sapatinho da costureira
-da nossa rua precisa de tempo pra trabalhar.
+— Aurora, eu vou pedir uma coisa: quando você
+tiver decidido o dia, me avise com pelo menos
+três semanas. Eu quero fazer o meu vestido sob
+medida e o sapatinho da costureira da nossa rua
+precisa de tempo pra trabalhar.
 
 Aurora começou a rir.
 
@@ -862,7 +827,7 @@ dentro do avental um envelope dobrado em dois.
 
 — Senhorita Aurora.
 
-— Helle.
+— Sim, Helle.
 
 — Chegou pra senhora hoje pela manhã. Eu não
 entreguei antes porque a senhora estava recebendo
