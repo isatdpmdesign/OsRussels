@@ -1,0 +1,6 @@
+interface:
+  display_name: "Leitoras de Romance"
+  short_description: "Recepção simulada com pesquisa de leitoras reais"
+  default_prompt: "Use $ouvir-leitoras-romance para avaliar este capítulo como leitoras brasileiras de romance."
+policy:
+  allow_implicit_invocation: true

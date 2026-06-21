@@ -1,0 +1,6 @@
+interface:
+  display_name: "Revisora de Os Russels"
+  short_description: "Revisão literária e antídoto de prosa automatizada"
+  default_prompt: "Use $revisar-romance-os-russels para fazer um parecer editorial do manuscrito."
+policy:
+  allow_implicit_invocation: true
