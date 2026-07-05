@@ -95,14 +95,30 @@ vocativo pro trailer)`
   upgrade).
 
 ### Personagens (biblioteca Magnific)
-- **Josh** — já existe: `joshrealista` (realista) e `joshrussel` (ilustração).
-- **Aurora** — a criar. Canon: mestiça indo-dinamarquesa, ~1,61m, pele
-  âmbar-bronze, cabelos grossos escuros ondulados até meio das costas, olhos
-  castanho-mel (dourados ao sol), lábios cheios.
+- **Aurora** ✅ TRAVADA — personagem `aurora_svensson`. Rosto aprovado pela
+  autora (criação-base `swbBzmJl8e`, estilo pintado). Canon: mestiça
+  indo-dinamarquesa, ~1,61m, pele âmbar-bronze, cabelos grossos escuros
+  ondulados até meio das costas (fita vermelha), olhos castanho-mel, lábios
+  cheios.
+- **Josh** ✅ TRAVADO — personagem `josh_oficial_afilhado`. Rosto/traço
+  definitivo escolhido pela autora (criação-base `xgFVPgEjfW`). Canon: 21 anos,
+  cabelo cobre/loiro-avermelhado penteado, barba ruiva curta, olhos verdes,
+  pele clara com sardas, mandíbula forte mas jovem, corpo largo de campo.
+  (Referência viva: influencer Benjamin Jopke.) Assets antigos `joshrealista`
+  / `joshrussel` ficam como histórico.
 - **Raj** — a criar (jantar). Canon: pele cor de terra molhada, olhos escuros,
   cabelos negros prateando nas têmporas, aristocrático.
 - **Eleonora** — a criar (jantar, fundo). Canon: loira, cabelos finos, pálida,
   olhos azuis.
+
+**Nota de estilo:** Aurora está num traço mais **pintado**; o Josh escolhido
+tem um traço mais **limpo/lineart**. Confirmar coesão no primeiro plano de
+casal (repintar o repaint do Josh foi rejeitado pela autora — manter o traço
+`xgFVPgEjfW` dele).
+
+**Restrição de ambiente:** upload de arquivo e download das imagens geradas
+estão bloqueados pela política de rede da sessão. Geração roda via MCP; a
+autora revê os resultados pelos links `magnific.com/app/creation/...`.
 
 ### Pipeline
 1. Travar os rostos (Aurora, Raj, Eleonora). Josh ✅.
@@ -112,12 +128,24 @@ vocativo pro trailer)`
 5. Trilha de cordas.
 6. Montar: emendar clipes + VO + música + legendas → 9:16 final.
 
+### Decisões resolvidas
+- [x] Estilo do trailer: **ilustração** (bate com a capa ilustrada).
+- [x] Aurora: rosto gerado a partir do canon, aprovado (`swbBzmJl8e`).
+- [x] Josh: rosto/traço `xgFVPgEjfW` (base influencer Benjamin Jopke).
+- [x] Voz: **TTS de IA** (testar vozes PT-BR no Magnific; fallback Google/Gemini).
+
 ### Decisões pendentes
-- [ ] Estilo: **realista** (`joshrealista`) ou **ilustração** (`joshrussel`)?
-- [ ] Aurora: referência da autora ou candidatas geradas a partir do canon?
-- [ ] Voz: TTS de IA ou gravação com voz real?
+- [ ] Coesão de estilo Aurora (pintado) × Josh (lineart) — confirmar no 1º
+  plano de casal.
 - [ ] Beat 7 (o quase): a autora começou a pedir "quero que Aurora…" —
   frase ficou incompleta; hoje o beat está mudo com Aurora avançando.
+- [ ] Personagens de apoio (Raj, Eleonora) a travar antes do plano do jantar.
+
+### Log de produção
+- Aurora aprovada e travada (`aurora_svensson`).
+- Josh travado (`josh_oficial_afilhado`) após várias iterações; face definida
+  pela criação da própria autora `xgFVPgEjfW`.
+- Próximo: gerar Plano 1 (Aurora de luto na janela) — solo, baixo risco.
 
 ---
 
