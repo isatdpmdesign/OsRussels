@@ -101,7 +101,7 @@ vocativo pro trailer)`
   ondulados até meio das costas (fita vermelha), olhos castanho-mel, lábios
   cheios.
 - **Josh** ✅ TRAVADO — personagem `josh_oficial_afilhado`. Rosto/traço
-  definitivo escolhido pela autora (criação-base `xgFVPgEjfW`). Canon: 21 anos,
+  definitivo escolhido pela autora (criação-base `mCp3x1VhJQ`). Canon: 21 anos,
   cabelo cobre/loiro-avermelhado penteado, barba ruiva curta, olhos verdes,
   pele clara com sardas, mandíbula forte mas jovem, corpo largo de campo.
   (Referência viva: influencer Benjamin Jopke.) Assets antigos `joshrealista`
@@ -143,9 +143,11 @@ autora revê os resultados pelos links `magnific.com/app/creation/...`.
 
 ### Log de produção
 - Aurora aprovada e travada (`aurora_svensson`).
-- Josh travado (`josh_oficial_afilhado`) após várias iterações; face definida
-  pela criação da própria autora `xgFVPgEjfW`.
-- Próximo: gerar Plano 1 (Aurora de luto na janela) — solo, baixo risco.
+- Josh travado (`josh_oficial_afilhado`); face definitiva = criação da autora
+  `mCp3x1VhJQ` (após várias iterações; assets antigos como histórico).
+- **Plano 1 (Aurora de luto na janela) APROVADO** — creation `xgFdJYijfW`.
+- Próximo: Plano 3 (chegada do Josh, solo) valida o Josh travado; o Plano 2
+  (jantar) exige travar Raj + Eleonora antes.
 
 ---
 
