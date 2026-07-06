@@ -150,7 +150,9 @@ autora revê os resultados pelos links `magnific.com/app/creation/...`.
 - **Correção de canon visual:** Josh é **LOIRO** (loiro escuro/dourado), não
   ruivo/cobre. Aplicar "loiro" em todo prompt dele; evitar ginger/orange/red.
   Gerando um retrato limpo do Josh já loiro pra virar a referência oficial.
-- Próximo: travar retrato loiro do Josh; depois Raj + Eleonora (jantar).
+- **Retrato loiro do Josh travado** como referência oficial — creation
+  `J9jKQGeOq4` (agora `josh_oficial_afilhado` aponta pra ela).
+- Próximo: Plano 2 (jantar) — precisa de Raj + Eleonora.
 
 ---
 
