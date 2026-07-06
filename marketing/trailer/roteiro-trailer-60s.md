@@ -146,8 +146,11 @@ autora revê os resultados pelos links `magnific.com/app/creation/...`.
 - Josh travado (`josh_oficial_afilhado`); face definitiva = criação da autora
   `mCp3x1VhJQ` (após várias iterações; assets antigos como histórico).
 - **Plano 1 (Aurora de luto na janela) APROVADO** — creation `xgFdJYijfW`.
-- Próximo: Plano 3 (chegada do Josh, solo) valida o Josh travado; o Plano 2
-  (jantar) exige travar Raj + Eleonora antes.
+- **Plano 3 (A Chegada do Josh) APROVADO** — creation `Te2PCNIVNR`.
+- **Correção de canon visual:** Josh é **LOIRO** (loiro escuro/dourado), não
+  ruivo/cobre. Aplicar "loiro" em todo prompt dele; evitar ginger/orange/red.
+  Gerando um retrato limpo do Josh já loiro pra virar a referência oficial.
+- Próximo: travar retrato loiro do Josh; depois Raj + Eleonora (jantar).
 
 ---
 
