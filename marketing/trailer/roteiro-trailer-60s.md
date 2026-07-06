@@ -152,7 +152,25 @@ autora revê os resultados pelos links `magnific.com/app/creation/...`.
   Gerando um retrato limpo do Josh já loiro pra virar a referência oficial.
 - **Retrato loiro do Josh travado** como referência oficial — creation
   `J9jKQGeOq4` (agora `josh_oficial_afilhado` aponta pra ela).
-- Próximo: Plano 2 (jantar) — precisa de Raj + Eleonora.
+- **Raj travado** — personagem `raj_kapoor` (id 2006871, creation `IaMWz77tvE`).
+- **Eleonora travada** — personagem `eleonora_bjerg` (id 2006872, creation
+  `74x5HoFJAL`).
+- **Plano 2 (O Jantar) APROVADO** — composição `SOkHbbTUb8` (mesa íntima, Raj
+  na cabeceira, cadeira vazia de frente pra Eleonora, criada jovem + criada
+  velha ao fundo, Aurora cabisbaixa com garfo no prato). Versão em alta
+  qualidade: `1suvQJYr4r`.
+- **Nota técnica:** o upscaler `precision`/`ultra` deu timeout (2x); o modo
+  `creative` preset `subtle` (creativity -4, resemblance 9) funcionou. Usar
+  esse pra enhance daqui pra frente.
+
+### PONTO DE RETOMADA (próxima sessão)
+Elenco travado: Aurora (`aurora_svensson`), Josh loiro
+(`josh_oficial_afilhado`), Raj (`raj_kapoor`), Eleonora (`eleonora_bjerg`).
+Planos aprovados: **1** (Aurora janela `xgFdJYijfW`), **2** (jantar
+`SOkHbbTUb8` / HQ `1suvQJYr4r`), **3** (chegada Josh `Te2PCNIVNR`).
+**Próximo:** Plano 4 (o primeiro olhar — Josh no hall + Aurora no alto da
+escada). Depois: biblioteca, baile, o quase, a pergunta. Regra do Josh:
+sempre **loiro** (nunca ruivo/cobre) e **corpo largo/triângulo**.
 
 ---
 
