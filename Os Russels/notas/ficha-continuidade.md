@@ -192,6 +192,19 @@ Ver `decisoes-editoriais.md`.
 - **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
 - **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
 
+## Cap 38 — fatos novos cristalizados
+
+- **Casamento realizado**: último sábado de outubro de 1830, pomar da fazenda Russel, debaixo da Berta, pastor Krag. Primeiro beijo público. `cap38`
+- **Brincos de pérola-do-báltico NÃO foram vendidos** — Eleonora guardou pra Aurora por ordem da avó (*"esses são da filha da sua filha"*). Aurora casa com eles. `cap38`
+- **Vestido de noiva**: Madame Solberg; algodão fino e seda crua, cor de creme, simples; renda só numa tira do punho. `cap38`
+- **Alianças**: ouro liso, compradas com os primeiros salários da banca do Sørensen. Aurora usa aliança + anel de âmbar dos Bjerg. `cap38`
+- **Sociedade Raj-Josh**: Raj vai passando o negócio gradualmente; papéis assinados quando Josh se formar. *"Lugar de filho não vaga. Estou te pondo no seu."* Josh recusou primeiro, aceitou. Contado a Aurora na noite de núpcias. `cap38`
+- **Noite de núpcias**: antigo quarto do Josh na fazenda; colcha de retalhos com roupa da família (camisa do Henrik, avental da Casandra, vestido de criança da Meridiana); alecrim nos lençóis. `cap38`
+- **Aurora dançou descalça** no terreiro — Eleonora ergueu a taça (aprovação muda). `cap38`
+- **Casandra e Eleonora viraram amigas** — conversa de mães que "não ia terminar nunca mais". `cap38`
+- **Matias leu Oehlenschläger** do livro do Henrik na cerimônia (treinou 20 noites pro Dylan). `cap38`
+- **Convidados**: família Russel completa, Raj, Eleonora, Vibeke + Lauritz Brandt, Ingrid, Helle (convidada) + Aksel, Fru Larsen (veio com panelas), vizinho Eriksen no violino + filho na sanfona. `cap38`
+
 ## Cap 37 — fatos novos cristalizados
 
 - **Data do casamento: último sábado de outubro de 1830**, no pomar da fazenda Russel. Condição da Casandra: depois da prova do dia 18. `cap37`

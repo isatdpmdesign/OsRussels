@@ -120,7 +120,7 @@ escondida no quarto. Leu em voz alta.
 > carregadas esse ano que o Joseph teve que
 > escorar dois galhos da Berta, e não existe
 > igreja em Copenhague com esse teto. O
-> pastor Holm, de Sorø, batizou o Josh e
+> pastor Krag, de Sorø, batizou o Josh e
 > enterrou o Henrik, e já me disse que celebra
 > no pomar se o bispo não souber e que o bispo
 > não vai saber porque quem conta pra bispo é
