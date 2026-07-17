@@ -40,9 +40,26 @@
 | 17 | A prima | Josh | 🟠 | Chegada da Vibeke (quarta, 11:15). Almoço. Eleonora pede a Josh para acompanhar Vibeke ao baile dos Lundgren. Soleira com Aurora — silêncio do celeiro. Primeira frase resumo das três paredes do Josh. | `livro-01-o-afilhado/capitulo-17-a-prima-josh.md` |
 | 18 | O baile | Aurora | 🟠 | Baile dos Lundgren em Frederiksberg. Aurora vê Josh-Vibeke. Dança com Erik e primo dos Lundgren. Conversa carregada com Josh na janela. Vibeke desmonta a manobra sem perceber. Aurora desce às 00:10 com vela e livro do Aarav para a sala de estar. | `livro-01-o-afilhado/capitulo-18-o-baile-aurora.md` |
 | 19 | A madrugada | Aurora | 🟠 | Sala de estar, madrugada. Josh desce. **As três paredes do Josh reveladas inteiras** (lealdade ao Raj, desigualdade social, querer o melhor para Aurora). Aurora derruba cada uma. **Primeiro beijo, sensorial.** Josh sobe. | `livro-01-o-afilhado/capitulo-19-a-madrugada-aurora.md` |
-| 20 | manhã seguinte | a definir | 🔴 | Consequências do beijo. POV e beats a planejar. | A escrever |
-| 21+ | (sequência a replanejar) | — | 🔴 | **O primeiro beijo aconteceu no Cap 19, não no Cap 23.** A sequência prevista do ato 3 precisa ser redesenhada. Carta da Casandra, Lindberg, primeira declaração verbal, noivado público, Sorø, Regensen, entrega física, coda — tudo pendente de reposicionamento. | Bloqueado em planejamento |
-| — | Coda | onisciente | 🔴 | Ilha remota, marinheiro magro, navio. Sem nomear Aarav. | Plantio do Livro 2 |
+| 20 | A escuta | Josh | 🟢 | Cozinha 5:45 + biblioteca: Josh ouve a dívida do naufrágio e o nome do Lindberg. | `livro-01-o-afilhado/capitulo-20-a-escuta-josh.md` |
+| 21 | A viagem | Aurora | 🟢 | Anúncio da viagem a Sorø. Partida segunda 4:30. | `livro-01-o-afilhado/capitulo-21-a-viagem-aurora.md` |
+| 22 | A fazenda | Aurora | 🟢 | Chegada em Sorø. Família Russel. Jantar. Pomar. | `livro-01-o-afilhado/capitulo-22-a-fazenda-aurora.md` |
+| 23 | Os dias | Aurora | 🟢 | Mão na terra + conversa Casandra-Josh + cabra-cega + beijo no bosque. | `livro-01-o-afilhado/capitulo-23-os-dias-aurora.md` |
+| 24 | O lago | Aurora | 🟢 | Queda no lago, salvamento, quarto à noite (sem consumação). | `livro-01-o-afilhado/capitulo-24-o-lago-aurora.md` |
+| 25 | A volta | Aurora | 🟢 | Vibeke revela cumplicidade + Lauritz. Despedidas com presentes-senha. Volta. | `livro-01-o-afilhado/capitulo-25-a-volta-aurora.md` |
+| 26 | A carta | Josh | 🟢 | Notícia do Lindberg. Noite no quarto da Aurora. Josh abre a carta da Casandra. | `livro-01-o-afilhado/capitulo-26-a-carta-josh.md` |
+| 27 | O soco | Josh | 🟢 | Anúncio do casamento. Visita do Lindberg. Soco no jardim. Josh sai pro Regensen. | `livro-01-o-afilhado/capitulo-27-o-soco-josh.md` |
+| 28 | A descoberta | Aurora | 🟢 | Aurora descobre a partida do Josh. Vai ao Regensen à noite (Aksel Holm). | `livro-01-o-afilhado/capitulo-28-a-descoberta-aurora.md` |
+| 29 | O Regensen | Aurora | 🟢 | **A CENA.** Consumação + declaração. "Em seis semanas a gente vê." | `livro-01-o-afilhado/capitulo-29-o-regensen-aurora.md` |
+| 30 | O amanhecer | Aurora | 🟢 | Aurora conta a Vibeke. Primeiro café do depois. | `livro-01-o-afilhado/capitulo-30-o-amanhecer-aurora.md` |
+| 31 | Erik | Aurora | 🟢 | Despedida digna do Erik. Ingrid reata. Carta do Josh via Helle. | `livro-01-o-afilhado/capitulo-31-erik-aurora.md` |
+| 32 | As portas fechadas | Josh | 🟢 | Josh batendo em portas. Sørensen aceita com carta do Raj. | `livro-01-o-afilhado/capitulo-32-as-portas-fechadas-josh.md` |
+| 33 | A confissão | Aurora | 🟢 | "Mamãe, eu amo o Josh." / "Eu sei." Joias Bjerg. | `livro-01-o-afilhado/capitulo-33-a-confissao-aurora.md` |
+| 34 | Højbro | Josh | 🟢 | Aamann & Berg. Depósito destravado (11.800) + empréstimo do Aamann (2.000). | `livro-01-o-afilhado/capitulo-34-hojbro-josh.md` |
+| 35 | A oferta | Alternado | 🟢 | Reunião dos quatro. Pedido separado do dinheiro. Anel dos Bjerg. Noivado. | `livro-01-o-afilhado/capitulo-35-a-oferta-alternado.md` |
+| 36 | Lindberg | Aurora | 🟢 | Quitação integral. A lâmina da Eleonora (Helsingør). Lindberg fora de cena. | `livro-01-o-afilhado/capitulo-36-lindberg-aurora.md` |
+| 37 | A carta de Sorø | Aurora | 🟢 | Casandra oferece o pomar. Vibeke parte. Josh aprovado em 7º. Viagem. | `livro-01-o-afilhado/capitulo-37-a-carta-de-soro-aurora.md` |
+| 38 | O casamento | Aurora | 🟢 | Pomar, Berta, votos, festa descalça, sociedade Raj-Josh, noite de núpcias. | `livro-01-o-afilhado/capitulo-38-o-casamento-aurora.md` |
+| 39 | Coda | Aurora | 🟢 | Bredgade romântica → gravidez → mudança pra Sorø. **FIM DO LIVRO 1.** | `livro-01-o-afilhado/capitulo-39-coda-aurora.md` |
 
 ### Arquivos descartados (manter como referência, não deletar sem confirmação)
 

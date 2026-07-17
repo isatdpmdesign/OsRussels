@@ -229,7 +229,7 @@ Erratas remanescentes em `notas/errata.md` para varrer na revisão final.
 
 ## 13. Onde paramos e qual o próximo passo
 
-**Estado atual:** Caps 16–19 escritos. **Primeiro beijo aconteceu no Cap 19** — mudança estrutural significativa em relação ao plano original (estava previsto pro Cap 23). As três paredes do Josh estão canonizadas. A Vibeke é canon ingênuo (aliada-sem-saber). A carta da Casandra ainda não foi aberta.
+**Estado atual: LIVRO 1 COMPLETO — Caps 1 a 39 escritos.** Casamento de Aurora e Josh no pomar de Sorø (Cap 38); coda dupla com a mudança pra Sorø e a gravidez (Cap 39). Família Svensson encerra o arco no Livro 1 (Aarav não volta — decisão da autora). Livro 2 em aberto, provável protagonista entre os irmãos Russel (cogita-se Joseph). Pendente: revisão de leitura da autora nos Caps 33–39 e eventual merge em `main` (só com pedido explícito dela).
 
 **Próximo passo concreto:**
 1. Replanejar o ato 3 a partir do Cap 20 — definir POV, abertura, e como reposicionar carta da Casandra + Lindberg + naufrágio + declaração verbal + noivado + entrega física
@@ -262,4 +262,4 @@ Erratas remanescentes em `notas/errata.md` para varrer na revisão final.
 
 ---
 
-*Última atualização: maio de 2026 — refletindo canon real dos Caps 16–19.*
+*Última atualização: julho de 2026 — Livro 1 completo (Caps 1–39).*

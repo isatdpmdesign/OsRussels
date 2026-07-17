@@ -192,6 +192,17 @@ Ver `decisoes-editoriais.md`.
 - **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
 - **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
 
+## Cap 39 — fatos novos cristalizados (FIM DO LIVRO 1)
+
+- **Outubro** — cachorro de Aurora e Josh, filhote da Liv, trazido pelo Matias na manhã seguinte ao casamento; nome pelo mês em que tudo deu certo. Em 1832, latido grave que não assusta ninguém. `cap39`
+- **Muda de macieira ("filha da Berta")**: plantada primeiro no jardim da Bredgade ao lado das roseiras do Aarav (nov/1830), transplantada pra frente da casa nova em Sorø (ago/1832), à esquerda da varanda. Primeira colheita da Berta em 1832 vira torta ("benção de avó"). `cap39`
+- **Roseiras do Aarav ficam na Bredgade** com Raj e Eleonora. `cap39`
+- **Gravidez da Aurora**: descoberta em abril/1832; parto previsto pra ~outubro/1832; sexo em aberto. Josh no 4º período de 8 da universidade. `cap39`
+- **Terra do casal em Sorø**: canto sul da propriedade Russel, desce pro lago, meia hora a pé da casa grande; presente dos irmãos via carta do Joseph (fev/1832) — *"presente pro que vier"*. Casa de pedra e madeira, 2 quartos, cozinha grande, varanda pro poente; erguida em mutirão no verão de 1832. `cap39`
+- **Logística Copenhague**: Josh vai a cada quinze dias (exames por período); dorme no quarto leste, mantido pronto pela Eleonora. Casa Svensson ganhou braço comercial no interior. `cap39`
+- **Timeline final do Livro 1**: casamento out/1830 → coda Bredgade nov/1830 → descoberta da gravidez abr/1832 → mudança ago/1832 → varanda set/1832. `cap39`
+- **Família Svensson encerra o arco no Livro 1.** Aarav não volta. Livros seguintes = irmãos Russel. (decisão da autora)
+
 ## Cap 38 — fatos novos cristalizados
 
 - **Casamento realizado**: último sábado de outubro de 1830, pomar da fazenda Russel, debaixo da Berta, pastor Krag. Primeiro beijo público. `cap38`
