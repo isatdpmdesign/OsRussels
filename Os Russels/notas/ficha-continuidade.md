@@ -192,6 +192,17 @@ Ver `decisoes-editoriais.md`.
 - **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
 - **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
 
+## Cap 37 — fatos novos cristalizados
+
+- **Data do casamento: último sábado de outubro de 1830**, no pomar da fazenda Russel. Condição da Casandra: depois da prova do dia 18. `cap37`
+- **Pastor Holm de Sorø** — batizou Josh, enterrou Henrik; celebra no pomar (*"se o bispo não souber... quem conta pra bispo é pastor"*). `cap37`
+- **Josh aprovado em 7º lugar** na prova de ingresso (lista de 23 nomes na porta da universidade); **Aksel Holm em 11º**. Resultado na quinta seguinte ao dia 18. `cap37`
+- **Vibeke voltou pra Viborg** no sábado antes do anúncio; volta pro casamento **com Lauritz** (Aurora mandou trazer). Raj deu a ela uma moeda dinamarquesa antiga ("fecha a coleção" iniciada quando ela tinha 7 anos — eco cap17:115). `cap37`
+- **Estratégia social da Eleonora**: nota formal + três jantares (senhora Frederiksen como boca principal; narrativa = aliança de famílias com três décadas de negócio + mérito acadêmico). *"A sociedade não tem memória. Tem apetite."* `cap37`
+- **Piada conjugal Raj-Eleonora**: colchão ruim de hospedaria na estrada de Roskilde, 1817. `cap37`
+- **Helle vai ao casamento como convidada** (exigência da Aurora), não como criada. `cap37`
+- **Viagem**: quinta antes do casamento, duas carruagens; Aurora e Josh sozinhos na segunda. `cap37`
+
 ## Cap 36 — fatos novos cristalizados
 
 - **Lindberg pago e quitado**: 18.600 rigsdalers (3 ordens Aamann & Berg + notas), quitação assinada e selada na segunda (~dia 32). Sai da Bredgade pela última vez. **Sem plant pro Livro 2 — fora de cena.** `cap36`
