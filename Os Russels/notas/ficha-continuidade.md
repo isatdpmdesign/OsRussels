@@ -192,6 +192,15 @@ Ver `decisoes-editoriais.md`.
 - **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
 - **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
 
+## Cap 36 — fatos novos cristalizados
+
+- **Lindberg pago e quitado**: 18.600 rigsdalers (3 ordens Aamann & Berg + notas), quitação assinada e selada na segunda (~dia 32). Sai da Bredgade pela última vez. **Sem plant pro Livro 2 — fora de cena.** `cap36`
+- **Motivo escroto cravado**: filha dos Møller (15 anos, Helsingør, família saiu em 1824, saída abafada); primeira esposa casou aos 16, morreu aos 25 de "fraqueza" sem nome; a irmã da esposa está viva e fala. Fonte da Eleonora: prima **Dagmar**, casada com o **juiz Winther de Helsingør**. `cap36`
+- **A arma da Eleonora**: as salas — *"Eu recebo três salas por semana. A escolha do assunto é sempre da anfitriã."* `cap36`
+- **Aurora escuta do patamar** (descalça, pulando as tábuas) — espelho da escuta do Josh no cap20. Eleonora percebe e não briga (brinde mudo de chá). `cap36`
+- **Cartas pra Sorø**: Josh mandou a dele no sábado (noivado + pedido); Aurora manda a dela na segunda (se apresenta como noiva). Viajam juntas. **Resposta da Casandra chega em ~5 dias e muda o lugar do casamento** (plant Cap 37). `cap36`
+- **Vibeke ainda na Bredgade** — adiou a volta pra Viborg pra ver a história fechar. `cap33-36`
+
 ## Caps 33-35 — fatos novos cristalizados
 
 - **Eleonora sabia de tudo** — desde as manhãs 5:45, a mesa do jantar, a noite da contestação da Vibeke. *"Eu não vejo pra dizer. Eu vejo pra guardar."* Helle conta tudo a Eleonora (inclusive a saída noturna de Aurora — sem detalhes). `cap33`
