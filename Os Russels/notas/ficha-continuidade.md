@@ -192,6 +192,19 @@ Ver `decisoes-editoriais.md`.
 - **Plano de Aurora:** trabalhar do lado dela (joias da mãe), enquanto Josh trabalha do dele. **"Em seis semanas a gente vê."** `cap29:1175-1210`
 - **Aurora volta às quatro e quarenta e dois** pela porta lateral destrancada pela Helle. Sobe a escada pulando o décimo segundo degrau. Deita ao lado da Vibeke (que estava dormindo no quarto da Aurora, não no quarto dela — Vibeke veio esperar). `cap29:1214-1254`
 
+## Caps 33-35 — fatos novos cristalizados
+
+- **Eleonora sabia de tudo** — desde as manhãs 5:45, a mesa do jantar, a noite da contestação da Vibeke. *"Eu não vejo pra dizer. Eu vejo pra guardar."* Helle conta tudo a Eleonora (inclusive a saída noturna de Aurora — sem detalhes). `cap33`
+- **Joias Bjerg**: caixa de veludo azul-escuro; colares de âmbar, broche de opala, brincos de pérola-do-báltico trazidos de Estocolmo ~1700 pela bisavó. Joalheiro: **Kristensen da Købmagergade** (compra sem perguntar, paga à vista, sem livro). `cap33`
+- **Casa comercial = Aamann & Berg**, esquina Højbro com Vimmelskaftet, fundada 1798. Gerente: **Herr Aamann, 73 anos**, ex-comerciante de grãos, conheceu Henrik em 1809 (Roskilde, negócio de cevada), articulou e testemunhou a sociedade Henrik-Raj de **8 de junho de 1813**. Escrivão: **Klemens** (óculos). `cap34`
+- **Números cravados**: herança do Josh = **11.800 rigsdalers** (com 30 anos de juros). Dívida do Lindberg = **18.600**. Joias Bjerg ~5.000. **Empréstimo do Aamann = 2.000** do bolso próprio (3% ao ano, até 20 anos, motivo: Henrik adiantou 300 rigsdalers a ele em 5 de junho de 1809 sem juros nem garantia e salvou o negócio dele). Total 18.800 → sobra ~200. `cap34`
+- **Prova de ingresso do Josh: 18 de outubro.** Banca do Sørensen segue (8h-16h). Plano: universidade 4 anos, depois sócio de banca ou banca própria. `cap35`
+- **Noivado oficial**: pedido formal no escritório com os quatro; Aurora aceita; Raj aceita ordens + plano + pedido; completa padrão de vida até Josh se formar. **Anúncio à sociedade em uma semana (Eleonora cuida).** `cap35`
+- **Anel dos Bjerg**: ouro amarelo em fio duplo, âmbar oval; era do pai da Eleonora, usado pela avó e bisavó de Aurora. Josh põe no dedo de Aurora na frente dos pais. `cap35`
+- **Josh fica no Regensen até o casamento** por escolha própria (*"voltar pra casa como marido, não como afilhado"*). `cap35`
+- **Lindberg convocado pra segunda** — Raj resolve pessoalmente, sem os noivos presentes (plant Cap 36). `cap35`
+- **Aksel e Josh**: aquavit no quarto seis pra celebrar o noivado. `cap35`
+
 ## Cap 32 — fatos novos cristalizados
 
 - **Casa comercial de Heering (chá e especiarias) na Højbro** — três portas adiante da casa do depósito Henrik-Raj. Recusou Josh por sombra de dívida na família. `cap32`
