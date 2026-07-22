@@ -39,7 +39,7 @@ meio grau na direção da filha.
 
 Aurora entrou. Fechou a porta atrás dela. Foi até
 a poltrona ao lado do cravo, a poltrona onde
-Eleonora deixava os xales quando calor, e sentou
+Eleonora deixava os xales no calor, e sentou
 com as duas pernas encolhidas embaixo do robe.
 Eleonora terminou a frase musical. Baixou as mãos.
 Fechou o cravo.
@@ -316,8 +316,8 @@ balcões da cozinha) andou de um lado pro outro por
 um minuto. Aurora ouviu como quem ouve som de
 outro mundo.
 
-Quando Aurora ergueu o rosto, tinha marca de pano
-no bochecha do colo do robe da mãe.
+Quando Aurora ergueu o rosto, tinha na bochecha a
+marca do tecido do colo da mãe.
 
 — Mamãe, e o papai?
 
@@ -366,7 +366,7 @@ Aurora não respondeu logo. Ficou olhando pra mãe.
 
 — Foi, mamãe. Foi.
 
-— Então tá.
+— Então está bem.
 
 Aurora ergueu de vez. Sentou de volta na poltrona.
 Enxugou o rosto pela terceira vez.
@@ -416,8 +416,8 @@ Eleonora franziu meio milímetro a sobrancelha.
 
 — Assim como?
 
-— Direta desse jeito. Sem envolver com renda de
-palavra.
+— Direta desse jeito. Sem enfeitar cada frase
+com renda.
 
 — Aurora, eu sou sua mãe. Você acha que eu não
 tenho as palavras de menina que eu tinha antes de
@@ -483,9 +483,9 @@ Chorou de novo, mais um pouco, sozinha, com o
 sorriso e as duas mãos abertas no rosto e o robe
 ainda cheirando ao colo da mãe.
 
-Depois foi até a escrivaninha, pegou a pena da
-Aurora, mergulhou no tinteiro, e começou a
-escrever a carta que ela tinha prometido.
+Depois foi até a escrivaninha, pegou a pena,
+mergulhou no tinteiro, e começou a escrever a
+carta que ela tinha prometido.
 
 > *Josh.*
 >
@@ -499,14 +499,13 @@ escrever a carta que ela tinha prometido.
 > joalheiro. Vai na próxima quarta.*
 >
 > *Ela pediu duas coisas. A primeira: você não
-> fale do lado dela com o meu pai antes que ela
-> mesma fale. Ela vai escolher a hora. A
-> segunda: eu tenho que fingir hoje no jantar
-> que essa conversa não aconteceu. Você faz
-> parte dessa segunda pedido também, porque se
-> a Helle te levar recado meu na correria hoje,
-> não muda nada aqui na casa até a mãe falar
-> com o pai.*
+> fala do lado dela com o meu pai antes que ela
+> mesma fale. Ela escolhe a hora. A segunda: eu
+> tenho que fingir hoje no jantar que essa
+> conversa não aconteceu, até ela contar tudo
+> pro meu pai do jeito dela. Então nada muda
+> aqui em casa por enquanto, mesmo com a minha
+> mãe já do nosso lado.*
 >
 > *A senhora Eleonora te mandou lembrança sem
 > mandar. Você entende.*
@@ -576,7 +575,7 @@ Vibeke ficou um segundo olhando a Aurora.
 
 — Fez.
 
-— Nossa. Nunca imaginei que ver isso ia me comover
+— Eu nunca imaginei que ver isso ia me comover
 assim.
 
 Aurora deu meio riso.
