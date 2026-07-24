@@ -74,9 +74,15 @@ saísse. O importante era começar.
 
 Começou.
 
+Aurora abriu a boca e sentiu a palavra "amo"
+raspar na garganta seca. Nunca tinha dito aquilo em
+voz alta pra ninguém. Disse antes que o medo a
+puxasse de volta pra dentro.
+
 — Mamãe. Eu amo o Josh.
 
-Eleonora não piscou.
+A frase ficou solta no meio da sala, impossível de
+recolher. Eleonora não piscou.
 
 Aurora esperou uma reação. A reação demorou. A mãe
 olhou pra ela com aquela precisão nórdica que era
@@ -108,9 +114,11 @@ era uma coisa só. Eu não disse nada. Eu nunca digo
 na hora. Eu guardo pra hora certa. Essa é a hora
 certa.
 
-Aurora ficou sem chão por um segundo. Não era
-tristeza. Era susto, e era um alívio tão grande
-que doía quase igual.
+Aurora ficou sem chão por um segundo. As pernas
+amoleceram embaixo do robe. Uma coisa quente subiu
+do peito pra garganta, e ela não soube se era pra
+rir ou pra chorar. Os olhos arderam. Não era de
+tristeza.
 
 — Eu passei três semanas achando que estava
 escondendo da senhora.
@@ -241,12 +249,16 @@ rapaz que te fez jogar tudo isso no chão por ele?
 Aurora não precisou pensar.
 
 — Ele é inteiro, mamãe. Não tem uma parte dele pra
-sociedade e outra pra dentro de casa. É o mesmo com
-o papai, com a Fru Larsen, comigo. Ele repara no
-que os outros não reparam. Ele é leal com a família
-dele de um jeito que eu nunca vi de perto. E ele me
-trata como gente, não como enfeite de sala. Ele
-nunca me pediu pra ser menos pra ele caber.
+sociedade e outra pra dentro de casa. — Aurora
+procurou a coisa certa pra dizer, e ela veio
+pequena. — A senhora sabe aquela caneca lascada?
+De manhã cedo, na cozinha, ele fazia café nela,
+podendo pegar qualquer outra do armário. É pouca
+coisa, mas é ele: não descarta o que ainda serve só
+porque rachou. Ele repara no que os outros nem
+veem. É leal com a família dele de um jeito que eu
+nunca tinha visto de perto. E nunca me pediu pra
+ser menos pra ele caber.
 
 Eleonora escutou sem interromper.
 
@@ -261,9 +273,13 @@ de lá. Eu vi o rosto dele quando ele me pôs na
 margem. Era o rosto de quem tinha acabado de
 imaginar o mundo sem mim.
 
-Pela primeira vez naquela manhã alguma coisa se
-mexeu no rosto da Eleonora. Não foi ternura. Foi
-susto atrasado, e foi bronca segurada.
+Pela primeira vez naquela manhã o rosto de
+porcelana da Eleonora rachou. Foi um milímetro. A
+mão dela parou no colo. Puxou o ar devagar demais,
+do jeito de quem segura duas coisas ao mesmo tempo
+pra que nenhuma escape, e o azul-claro ficou fixo
+na filha um segundo a mais do que a Eleonora
+costumava deixar.
 
 — Você quase se afogou e não me contou.
 
@@ -399,7 +415,15 @@ Aurora assentiu de novo.
 — Ele vai, mamãe. Ele já provou isso mais de uma
 vez.
 
-— Então isso é o que importa.
+A mão da Eleonora parou um instante no cabelo da
+filha. Quando voltou a falar, a voz veio meio tom
+mais baixa, e não foi a voz de quem resolve assunto
+de casa.
+
+— Então isso é o que importa. É a única coisa que
+eu pedi pra você desde que você era do tamanho do
+meu braço. Não riqueza, não nome. Um homem que não
+fosse te fazer pequena.
 
 Eleonora ficou passando a mão no cabelo da filha
 por um tempo que Aurora não contou. Não tinha
