@@ -66,18 +66,19 @@ def ler_capitulos(base: str, cfg: dict) -> list[dict]:
     return caps
 
 
-# Guias que acompanham o andamento dos capítulos. Perfil de voz e de
-# estilo não rastreiam capítulo nenhum — citar o cap 25 numa regra de
-# hard wrap não os torna desatualizados.
-GUIAS_QUE_RASTREIAM = {"canon", "ficha", "sinopse", "decisoes",
-                       "diretrizes", "errata"}
-
-
 def frescor_dos_guias(base: str, cfg: dict, ultimo: int) -> list[tuple[str, int, str]]:
-    """Compara o capítulo mais alto citado em cada guia com o que existe."""
+    """Compara o capítulo mais alto citado em cada guia com o que existe.
+
+    Só faz sentido para os guias que acompanham o andamento — quais são
+    é o `livro.yaml` que diz. A errata cita o capítulo dos itens que
+    resolveu e o perfil de estilo cita o capítulo em que uma regra
+    passou a valer: nenhum dos dois fica velho por isso.
+    """
+    rastreiam = set(cfg.get("rastreiam_capitulos")
+                    or ["canon", "ficha", "sinopse", "decisoes"])
     saida = []
     for chave, rel in cfg["caminhos"].items():
-        if chave not in GUIAS_QUE_RASTREIAM:
+        if chave not in rastreiam:
             continue
         caminho = os.path.join(base, rel)
         if not os.path.isfile(caminho):

@@ -43,6 +43,13 @@ precedencia:
   - sinopse
   - ficha
 
+# Guias que acompanham o andamento capítulo a capítulo — são os únicos
+# em que "citar um capítulo antigo" significa estar desatualizado.
+# A errata cita os capítulos dos itens que resolveu; as diretrizes citam
+# o capítulo em que uma regra mudou. Nem uma nem outra ficam velhas por
+# isso, e cobrá-las disso só produz alarme falso.
+rastreiam_capitulos: [canon, ficha, sinopse, decisoes]
+
 convencoes:
   nome_arquivo: "capitulo-{NN}-{slug}-{pov}.md"
   hard_wrap: 50            # largura máxima de linha (iPhone 16 no diff do GitHub)

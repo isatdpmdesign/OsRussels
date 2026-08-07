@@ -135,6 +135,22 @@
 - **Travessão de palha**: sapatos de Josh são botas; em Sorø, descalço com calça dobrada
 - **Sorriso torto do Josh**: "cara de idiota satisfeito" (Dylan apelidou)
 
+### Escada do riso da Aurora na presença do Josh
+
+Curva de soltura corporal. **Não pular degrau nem repetir um já usado** —
+o riso dela é medida de quanto ela já baixou a guarda.
+
+| Onde | O que acontece |
+|---|---|
+| `cap07` | primeiro **fragmento** — "estilhaço, lasca", curto, rouco, surpreendido com a própria existência |
+| `cap14` | o fragmento **retorna** depois da briga — ainda curto, ainda rouco |
+| `cap15` | o riso **abre pela primeira vez** (cabeça para trás, garganta exposta), na roda das mulheres da festa |
+| `cap17` | ri na frente da mesa inteira pela primeira vez em semanas (piada da Vibeke; Josh engasga no suco) |
+| `cap22`+ | em Sorø a curva continua: riso sem plateia, sem cálculo social |
+
+*(migrado do `RETOMADA.md` em ago/2026, antes de aposentá-lo — era o único
+lugar onde este canon estava escrito.)*
+
 ## Frases-senha já usadas (não reciclar)
 
 - *"Você nunca pergunta o que não te cabe perguntar, Josh."* (Aurora, cap19)
