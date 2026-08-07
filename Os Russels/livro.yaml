@@ -91,17 +91,30 @@ revisao:
      "Acha", "Consegue", "Precisa", "Faz", "Deu", "Seria",
      "Você quer", "Você sabe", "Você vai", "Você tem"]
 
-# ── Estrutura planejada ──────────────────────────────────────
-# Fonte para o estado derivado: o que existe × o que falta.
+# ── Estrutura ────────────────────────────────────────────────
+# O Livro 1 está com o rascunho COMPLETO: 39 capítulos escritos,
+# terminando na coda. O trabalho agora é revisão e refinamento,
+# não escrita nova.
 estrutura:
+  estado: "rascunho completo — em revisão"
+  total_capitulos: 39
   atos:
     - nome: "Ato I — Chegada e convivência"
       capitulos: [1, 9]
     - nome: "Ato II — Pretendentes, sabotagem, ruptura"
       capitulos: [10, 14]
     - nome: "Ato III — Quase, queda e rebelião"
-      capitulos: [15, 30]
-  planejados:
-    28: { titulo: "O Regensen", pov: "Aurora", nota: "A CENA — consumação" }
-    29: { titulo: "A oferta",    pov: "alternado", nota: "carta, saque, joias, noivado" }
-    30: { titulo: "Coda",        pov: "onisciente", nota: "ilha remota, Aarav vivo" }
+      capitulos: [15, 27]
+    - nome: "Ato IV — Clímax"
+      capitulos: [28, 34]
+    - nome: "Desfecho"
+      capitulos: [35, 39]
+
+  # Diagnóstico de ritmo (agosto/2026): o desfecho é fino.
+  # Média de palavras por capítulo — o livro DESACELERA exatamente
+  # onde deveria acelerar. Alvo de revisão, não regra de escrita.
+  ritmo_medido:
+    "1-14":  4104
+    "15-27": 5813
+    "28-34": 4551
+    "35-39": 2775   # ← metade da subida; cinco dos seis caps mais curtos do livro
