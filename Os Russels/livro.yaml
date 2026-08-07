@@ -53,6 +53,8 @@ convencoes:
     minimo: 3000
     alvo: 5000
     alerta_acima_de: 8000  # candidato a desdobrar em dois
+  travessao_so_em_fala: true
+  artigo_antes_de_nome_em_narracao: false
 
 # Usado pelas regras de artigo e vocativo do linter.
 personagens:
@@ -76,20 +78,31 @@ revisao:
     - termo: 'calo da pena'
       motivo: "Canon antigo. Em capítulos novos Josh tem mãos brutas de campo."
       excecao: "Permitido no capítulo 19."
+      permitido_em: [19]
       desde: "2026-06"
     - termo: 'como quem comenta o (clima|tempo)'
       motivo: "Régua do Josh sobre o Dylan (cap 20). Cada personagem cria a própria."
       desde: "2026-06"
 
   # Falas que são pergunta e terminam sem "?" — erro nº 1 do projeto.
+  # Aberturas que em PT-BR são quase sempre pergunta. Alta confiança:
+  # o que sair daqui sem "?" é erro de verdade na esmagadora maioria.
   inicios_interrogativos:
-    ["Como", "Por que", "Por quê", "Quando", "Onde", "Quem",
-     "O que", "Qual", "Quanto", "Quantos", "Quantas", "Será",
-     "Cadê", "Tem certeza", "Você acha", "Entendeu", "Combina",
-     "Pode", "Posso", "Vai", "Vamos", "Tá", "Tem", "Sabe",
-     "Quer", "Gosta", "Lembra", "Conhece", "Ouviu", "Viu",
-     "Acha", "Consegue", "Precisa", "Faz", "Deu", "Seria",
-     "Você quer", "Você sabe", "Você vai", "Você tem"]
+    ["Como", "Por que", "Por quê", "Pra que", "Para que", "Quando",
+     "Onde", "Aonde", "Quem", "O que", "O quê", "Qual", "Quais",
+     "Quanto", "Quantos", "Quantas", "Cadê", "Será", "Tem certeza",
+     "Desde quando", "Por acaso"]
+
+  # Aberturas verbais ambíguas: em PT-BR servem igualmente para
+  # pergunta e para constatação — e ESTE livro usa constatação de
+  # propósito ("Você vai casar com o Lauritz."). Ficam fora do passe
+  # padrão porque geram mais ruído do que acerto. Rodar sob demanda
+  # com --regra interrogacao-ambigua quando quiser varrer fino.
+  inicios_interrogativos_ambiguos:
+    ["Vai", "Vamos", "Tem", "Tá", "Pode", "Posso", "Sabe", "Quer",
+     "Gosta", "Lembra", "Conhece", "Ouviu", "Viu", "Acha", "Consegue",
+     "Precisa", "Faz", "Deu", "Entendeu", "Combina", "Seria",
+     "Você vai", "Você tem", "Você sabe", "Você quer", "Você acha"]
 
 # ── Estrutura ────────────────────────────────────────────────
 # O Livro 1 está com o rascunho COMPLETO: 39 capítulos escritos,
