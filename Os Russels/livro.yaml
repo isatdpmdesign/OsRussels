@@ -1,0 +1,107 @@
+# ─────────────────────────────────────────────────────────────
+# CONTRATO DO PROJETO — Os Russels
+#
+# Este arquivo é a ÚNICA coisa que o motor precisa saber sobre
+# este livro. As skills em .claude/skills/ não conhecem Josh,
+# Aurora nem a Dinamarca de 1830: elas leem este arquivo e
+# descobrem onde as coisas moram e quais regras valem aqui.
+#
+# Trocar este arquivo (e a pasta perfil/) = trocar de livro.
+# É por isso que ele existe: o que é motor vira produto,
+# o que é dado vira a conta de cada autora no OpenBooks.
+# ─────────────────────────────────────────────────────────────
+
+projeto:
+  titulo: "Os Russels"
+  obra: "Livro 1 — O Afilhado"
+  serie_total: 5          # quinlogia
+  autora: "Isadora"
+  idioma: "pt-BR"
+  genero: "romance histórico"
+  ambientacao: "Dinamarca, 1830"
+  bussola: "Bridgerton / Julia Quinn · Sarah J. Maas"
+
+# Onde cada coisa mora. Caminhos relativos a esta pasta.
+caminhos:
+  capitulos:  "livro-01-o-afilhado/capitulo-*.md"
+  canon:      "biblia-os-russels.md"
+  ficha:      "notas/ficha-continuidade.md"
+  sinopse:    "notas/sinopse-capitulos.md"
+  decisoes:   "notas/decisoes-editoriais.md"
+  diretrizes: "notas/diretrizes.md"
+  errata:     "notas/errata.md"
+  voz:        "perfil/voz.md"
+  estilo:     "perfil/estilo.md"
+
+# Precedência de verdade. Quando dois documentos discordam,
+# ganha o que estiver mais acima. Um guia que diverge do texto
+# está errado POR DEFINIÇÃO e vira tarefa do escriba-de-canon.
+precedencia:
+  - capitulos      # o texto escrito é a verdade suprema
+  - decisoes       # palavra final da autora, datada
+  - canon          # a bíblia
+  - sinopse
+  - ficha
+
+convencoes:
+  nome_arquivo: "capitulo-{NN}-{slug}-{pov}.md"
+  hard_wrap: 50            # largura máxima de linha (iPhone 16 no diff do GitHub)
+  hard_wrap_a_partir_de: 25
+  cabecalho_esperado: "# OS RUSSELS — Livro I"
+  rodape_esperado: "*Continua no Capítulo {N}...*"
+  palavras_por_capitulo:
+    minimo: 3000
+    alvo: 5000
+    alerta_acima_de: 8000  # candidato a desdobrar em dois
+
+# Usado pelas regras de artigo e vocativo do linter.
+personagens:
+  protagonistas: ["Josh", "Aurora"]
+  elenco: ["Raj", "Eleonora", "Aarav", "Casandra", "Joseph",
+           "Meridiana", "Dylan", "Matias", "Vibeke", "Erik",
+           "Ingrid", "Lindberg", "Helle", "Fru Larsen", "Fru Dahl"]
+
+# ── Regras mecânicas: tudo aqui é verificável por máquina ────
+# Nada nesta seção precisa de modelo. É `lint.py` que executa.
+revisao:
+  cota_formulas: 10        # teto de "como quem / do jeito que" por capítulo
+
+  formulas: '(como quem|do jeito que|a forma como|o modo como|com a [a-zà-ú]+ de quem|como se)'
+
+  blacklist:
+    - termo: '\b(peso|pesos|pesar|pesava|pesavam|pesou|pesad[oa]s?)\b'
+      motivo: "Virou jargão de IA como metáfora emocional."
+      excecao: "Usos literais (pesar farinha, carregar coisa pesada) passam — confirmar com a autora."
+      desde: "2026-06"
+    - termo: 'calo da pena'
+      motivo: "Canon antigo. Em capítulos novos Josh tem mãos brutas de campo."
+      excecao: "Permitido no capítulo 19."
+      desde: "2026-06"
+    - termo: 'como quem comenta o (clima|tempo)'
+      motivo: "Régua do Josh sobre o Dylan (cap 20). Cada personagem cria a própria."
+      desde: "2026-06"
+
+  # Falas que são pergunta e terminam sem "?" — erro nº 1 do projeto.
+  inicios_interrogativos:
+    ["Como", "Por que", "Por quê", "Quando", "Onde", "Quem",
+     "O que", "Qual", "Quanto", "Quantos", "Quantas", "Será",
+     "Cadê", "Tem certeza", "Você acha", "Entendeu", "Combina",
+     "Pode", "Posso", "Vai", "Vamos", "Tá", "Tem", "Sabe",
+     "Quer", "Gosta", "Lembra", "Conhece", "Ouviu", "Viu",
+     "Acha", "Consegue", "Precisa", "Faz", "Deu", "Seria",
+     "Você quer", "Você sabe", "Você vai", "Você tem"]
+
+# ── Estrutura planejada ──────────────────────────────────────
+# Fonte para o estado derivado: o que existe × o que falta.
+estrutura:
+  atos:
+    - nome: "Ato I — Chegada e convivência"
+      capitulos: [1, 9]
+    - nome: "Ato II — Pretendentes, sabotagem, ruptura"
+      capitulos: [10, 14]
+    - nome: "Ato III — Quase, queda e rebelião"
+      capitulos: [15, 30]
+  planejados:
+    28: { titulo: "O Regensen", pov: "Aurora", nota: "A CENA — consumação" }
+    29: { titulo: "A oferta",    pov: "alternado", nota: "carta, saque, joias, noivado" }
+    30: { titulo: "Coda",        pov: "onisciente", nota: "ilha remota, Aarav vivo" }
