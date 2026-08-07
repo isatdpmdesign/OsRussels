@@ -132,7 +132,7 @@ Ele esperava, se é que esperava alguma coisa, se é que tinha pensado nisso, o 
 
 Aurora não se confundiria com ninguém.
 
-Ela descia a escadaria com uma postura que era claramente ensinada, costas retas, queixo levemente erguido, mão esquerda deslizando sobre o corrimão, mas que não conseguia esconder completamente algo selvagem por baixo. Algo que lembrava a Josh os cavalos jovens da fazenda, os que ainda não tinham sido completamente domados, os que obedeciam às rédeas mas mantinham nos olhos uma fagulha que dizia *eu estou escolhendo obedecer, e posso mudar de ideia a qualquer momento*.
+Ela descia a escadaria com uma postura que era claramente ensinada, costas retas, queixo levemente erguido, mão esquerda deslizando sobre o corrimão, mas que não conseguia esconder completamente algo selvagem por baixo. Algo que lembrava Josh os cavalos jovens da fazenda, os que ainda não tinham sido completamente domados, os que obedeciam às rédeas mas mantinham nos olhos uma fagulha que dizia *eu estou escolhendo obedecer, e posso mudar de ideia a qualquer momento*.
 
 Os olhos. Deus do céu, os olhos.
 
@@ -252,7 +252,7 @@ Josh sorriu para si mesmo.
 
 *Tudo bem*, pensou, ajeitando o último livro na prateleira. *Eu não pertenço mesmo. Mas estou aqui. E não vou embora.*
 
-Do bolso do casaco, tirou a última coisa que a mãe colocara em suas mãos antes de ele subir na carruagem: uma carta selada, endereçada a Raj Svensson, em caligrafia firme e ligeiramente torta que era inconfundivelmente de Casandra.
+Do bolso do casaco, tirou a última coisa que a mãe colocara em suas mãos antes de ele subir na carruagem: uma carta selada, endereçada Raj Svensson, em caligrafia firme e ligeiramente torta que era inconfundivelmente de Casandra.
 
 *"Cuide do meu menino"*, Josh imaginava que dizia.
 

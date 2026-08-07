@@ -62,7 +62,7 @@ Eleonora pousou a xícara de chá com a delicadeza calculada de quem precisa de 
 
 — Joshua — repetiu a mãe. — O segundo filho?
 
-— O do meio — confirmou Raj. — Tem vinte e um anos. Casandra diz que ele quer seguir carreira na academia. Ciências naturais, se não me engano, ou talvez política. O rapaz ainda não se decidiu. — Uma pausa quase imperceptível. — Eu sou padrinho dele, Eleonora. Faz anos que prometo a Casandra que cuidaria da educação de um dos filhos se fosse necessário.
+— O do meio — confirmou Raj. — Tem vinte e um anos. Casandra diz que ele quer seguir carreira na academia. Ciências naturais, se não me engano, ou talvez política. O rapaz ainda não se decidiu. — Uma pausa quase imperceptível. — Eu sou padrinho dele, Eleonora. Faz anos que prometo Casandra que cuidaria da educação de um dos filhos se fosse necessário.
 
 — E é necessário agora — disse a mãe. Não era uma pergunta.
 
@@ -148,7 +148,7 @@ O vento de março levou suas palavras, mas Aurora tinha certeza, absoluta, inaba
 
 Os quinze dias passaram como passam todas as coisas que não queremos que cheguem: rápido demais.
 
-Aurora tentou não pensar no assunto. Tentou se ocupar com as aulas de francês que a governanta Fru Dahl lhe dava três vezes por semana, com os bordados que a mãe insistia que eram essenciais para qualquer jovem que se preparava para debutar, com os livros que lia escondida debaixo das cobertas à luz de uma vela depois que a casa toda dormia — romances franceses que Aarav contrabandeava para ela e que agora ela comprava às escondidas na livraria de Herr Møller, um velho míope e discreto que jamais contaria a Raj Svensson que a filha dele lia histórias impróprias para donzelas.
+Aurora tentou não pensar no assunto. Tentou se ocupar com as aulas de francês que a governanta Fru Dahl lhe dava três vezes por semana, com os bordados que a mãe insistia que eram essenciais para qualquer jovem que se preparava para debutar, com os livros que lia escondida debaixo das cobertas à luz de uma vela depois que a casa toda dormia — romances franceses que Aarav contrabandeava para ela e que agora ela comprava às escondidas na livraria de Herr Møller, um velho míope e discreto que jamais contaria Raj Svensson que a filha dele lia histórias impróprias para donzelas.
 
 Mas o assunto estava em toda parte.
 

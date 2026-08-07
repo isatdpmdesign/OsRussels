@@ -30,7 +30,7 @@ Aurora sentou na poltrona em frente ao pai. Pôs as mãos no colo. Esperou.
 
 — Lembro.
 
-— A Casandra mandou um convite pra você. Pra você e pra Vibeke. Ela quer que vocês passem duas semanas na propriedade dela, em Sorø. Diz que depois da temporada inteira na cidade, você merece um pouco de ar do campo, e que a Vibeke, já que está hospedada aqui, pode ir junto para conhecer a Zelândia rural. Eu concordo.
+— Casandra mandou um convite pra você. Pra você e pra Vibeke. Ela quer que vocês passem duas semanas na propriedade dela, em Sorø. Diz que depois da temporada inteira na cidade, você merece um pouco de ar do campo, e que Vibeke, já que está hospedada aqui, pode ir junto para conhecer a Zelândia rural. Eu concordo.
 
 Aurora não disse nada de imediato.
 
@@ -46,7 +46,7 @@ Eram as três únicas palavras que tinham subido nela, e elas tinham subido com 
 
 — E quem nos acompanha?
 
-— O Josh — disse Raj. — É a propriedade da mãe dele, ele conhece o caminho, e a Casandra é amiga antiga minha. Faz sentido.
+— Josh — disse Raj. — É a propriedade da mãe dele, ele conhece o caminho, e Casandra é amiga antiga minha. Faz sentido.
 
 Aurora assentiu uma vez. Devagar.
 
@@ -54,9 +54,9 @@ Aurora assentiu uma vez. Devagar.
 
 — Não. Vou falar com ela depois. Quis falar com você primeiro porque você é a anfitriã.
 
-— Tem motivo especial pro convite? — perguntou Aurora, e ela mesma percebeu, no meio da pergunta, que a pergunta tinha saído com aquele tom de Aurora que era praticamente uma forma educada de dizer *eu não acredito em coincidência*. — A Casandra já fez esse tipo de convite antes?
+— Tem motivo especial pro convite? — perguntou Aurora, e ela mesma percebeu, no meio da pergunta, que a pergunta tinha saído com aquele tom de Aurora que era praticamente uma forma educada de dizer *eu não acredito em coincidência*. — Casandra já fez esse tipo de convite antes?
 
-— Casandra é educada, Aurora. Quer retribuir a hospedagem de Josh aqui na Bredgade recebendo minha filha em Sorø. Eu não vejo porque não aceitar. Um pouco de ar do campo depois da temporada faz bem. A Vibeke é do campo, mas não conhece a Zelândia rural, pode ir junto com você. Você não vai pro campo desde que eu te levei a Helsingør com seis anos. Encare como um passeio que eu, seu pai, resolvi te proporcionar.
+— Casandra é educada, Aurora. Quer retribuir a hospedagem de Josh aqui na Bredgade recebendo minha filha em Sorø. Eu não vejo porque não aceitar. Um pouco de ar do campo depois da temporada faz bem. Vibeke é do campo, mas não conhece a Zelândia rural, pode ir junto com você. Você não vai pro campo desde que eu te levei a Helsingør com seis anos. Encare como um passeio que eu, seu pai, resolvi te proporcionar.
 
 Eleonora não disse nada. Continuou ao lado da janela, com as mãos cruzadas, calada, com os olhos no rosto da Aurora o tempo todo.
 
@@ -84,7 +84,7 @@ Depois soltou um riso curto pelo nariz, sem alegria nenhuma, porque o riso era a
 
 *
 
-Vibeke entrou no quarto de Aurora vinte minutos depois sem bater. Com os olhos brilhando e a respiração curta de quem subiu a escada correndo. O Raj devia ter acabado de contar a ela (Aurora viu a notícia no rosto inteiro).
+Vibeke entrou no quarto de Aurora vinte minutos depois sem bater. Com os olhos brilhando e a respiração curta de quem subiu a escada correndo. Raj devia ter acabado de contar a ela (Aurora viu a notícia no rosto inteiro).
 
 — Aurora, é sério isso? A gente vai mesmo pra Sorø?
 
@@ -100,15 +100,15 @@ Vibeke deu um pulinho. Literalmente um pulinho (Aurora viu os dois pés saírem 
 
 — Com vacas, eu suponho.
 
-— E o Josh vai junto?
+— E Josh vai junto?
 
-— O Josh vai junto.
+— Josh vai junto.
 
 — E a gente vai cavalgar? Eu posso cavalgar?
 
-— Vibeke, eu não sei se a Casandra cavalga. Você vai ter que perguntar quando a gente chegar.
+— Vibeke, eu não sei se Casandra cavalga. Você vai ter que perguntar quando a gente chegar.
 
-— Eu vou perguntar antes — disse Vibeke, e foi exatamente o tipo de coisa que ela diria. — Eu vou perguntar pro Josh hoje no jantar. O Josh sabe se a mãe dele cavalga.
+— Eu vou perguntar antes — disse Vibeke, e foi exatamente o tipo de coisa que ela diria. — Eu vou perguntar pro Josh hoje no jantar. Josh sabe se a mãe dele cavalga.
 
 — Vibeke.
 
@@ -120,7 +120,7 @@ Vibeke deu um pulinho. Literalmente um pulinho (Aurora viu os dois pés saírem 
 
 Vibeke já estava abrindo o guarda-roupa de Aurora. Já estava tirando vestidos. Já estava fazendo a pergunta que viria em três segundos.
 
-— Quantos vestidos a gente leva? Quatro? Seis? A Casandra vai querer que a gente vista vestido de festa em alguma noite? Eles fazem festa lá? — Vibeke parou, com um vestido amarelo na mão. — Aurora. Você não está animada.
+— Quantos vestidos a gente leva? Quatro? Seis? Casandra vai querer que a gente vista vestido de festa em alguma noite? Eles fazem festa lá? — Vibeke parou, com um vestido amarelo na mão. — Aurora. Você não está animada.
 
 — Eu estou animada.
 
@@ -134,13 +134,13 @@ Vibeke voltou ao guarda-roupa. Aurora ficou em pé no meio do quarto, com Vibeke
 
 *
 
-No jantar, Josh apareceu como sempre nos últimos cinco meses (no horário, com uma camisa de gola alta perfeitamente alinhada pelo ferro e o pequeno broche bordado por Casandra na lapela). Sentou-se no lugar dele em frente a Aurora. Cumprimentou e a tratou da mesma forma que tratara em qualquer outro jantar, com cortesia e pouca (quase nula) interação. Tudo saía exatamente calibrado, como se o beijo da madrugada e a conversa da cozinha às cinco e quarenta e cinco não tivessem acontecido. Aurora reconheceu o esforço, porque conhecia Josh: era o trabalho de alguém forçando a fachada justamente porque tudo tinha mudado.
+No jantar, Josh apareceu como sempre nos últimos cinco meses (no horário, com uma camisa de gola alta perfeitamente alinhada pelo ferro e o pequeno broche bordado por Casandra na lapela). Sentou-se no lugar dele em frente Aurora. Cumprimentou e a tratou da mesma forma que tratara em qualquer outro jantar, com cortesia e pouca (quase nula) interação. Tudo saía exatamente calibrado, como se o beijo da madrugada e a conversa da cozinha às cinco e quarenta e cinco não tivessem acontecido. Aurora reconheceu o esforço, porque conhecia Josh: era o trabalho de alguém forçando a fachada justamente porque tudo tinha mudado.
 
 Ninguém desconfiou de nada, porque Josh manteve as aparências e Vibeke ajudou sem saber que estava ajudando, perguntando sobre absolutamente tudo que pudesse passar em seu cérebro hiperativo, desfocando, dessa forma, a atenção de todos.
 
-Como havia avisado pra Aurora que perguntaria, virou-se pro Josh com a primeira da noite: a Casandra cavalgava? (Josh: às vezes, sim, mas mais por necessidade do que por prazer.) Tinha cachorro? (Josh: dois — o Kongen, velho, e a Liv, jovem, mordedora.) Vaca? (Josh: catorze.) Ovelha? (Josh: não, mas tinha cabra, três.) Pernilongo?
+Como havia avisado pra Aurora que perguntaria, virou-se pro Josh com a primeira da noite: Casandra cavalgava? (Josh: às vezes, sim, mas mais por necessidade do que por prazer.) Tinha cachorro? (Josh: dois — o Kongen, velho, e a Liv, jovem, mordedora.) Vaca? (Josh: catorze.) Ovelha? (Josh: não, mas tinha cabra, três.) Pernilongo?
 
-O Josh demorou meio segundo a responder essa.
+Josh demorou meio segundo a responder essa.
 
 — Vibeke — disse ele —, eu não quero te assustar antes da viagem. Mas tem pernilongo, sim.
 
@@ -266,17 +266,17 @@ Aurora subiu. Entregou a rosa pra Vibeke. Ouviu Vibeke perguntar se o vestido az
 
 A frase voltou inteira, do mesmo jeito que tinha subido no escritório do pai, e desta vez Aurora não tentou prender. Deixou subir. Deixou a frase ocupar o quarto, junto com o cheiro doce da rosa fresca, junto com a voz da Vibeke decidindo que sim, o azul-marinho ia ser o de chegada.
 
-A casa do Josh significava o seguinte: Aurora ia entrar, pela primeira vez, no território em que ele era o filho da casa, não o hóspede. Onde a Casandra era a mãe dele, não uma figura de carta. Onde os irmãos (Joseph, Dylan, Matias) e a Meridiana iam ver os dois juntos pela primeira vez e podiam ler o que quisessem se Aurora deixasse algo escapar. Significava que ela ia conhecer o Josh inteiro pela primeira vez (o Josh que tinha mãe, irmãos, casa, infância, lugar) e não só o Josh educado da Bredgade, o Josh do verniz na pérgola, o Josh da carta no quarto. Significava, principalmente, que Aurora ia ter catorze dias dentro da vida do Josh, sem o filtro dos pais dela, sem a proteção dos cômodos conhecidos da própria casa, sem o roteiro social que cinco meses na Bredgade tinham desenhado pra ela. Ia ter que improvisar a contenção. E a contenção, Aurora sabia, era a coisa que ela menos vinha conseguindo desde a madrugada do beijo.
+A casa do Josh significava o seguinte: Aurora ia entrar, pela primeira vez, no território em que ele era o filho da casa, não o hóspede. Onde Casandra era a mãe dele, não uma figura de carta. Onde os irmãos (Joseph, Dylan, Matias) e Meridiana iam ver os dois juntos pela primeira vez e podiam ler o que quisessem se Aurora deixasse algo escapar. Significava que ela ia conhecer Josh inteiro pela primeira vez (Josh que tinha mãe, irmãos, casa, infância, lugar) e não só Josh educado da Bredgade, Josh do verniz na pérgola, Josh da carta no quarto. Significava, principalmente, que Aurora ia ter catorze dias dentro da vida do Josh, sem o filtro dos pais dela, sem a proteção dos cômodos conhecidos da própria casa, sem o roteiro social que cinco meses na Bredgade tinham desenhado pra ela. Ia ter que improvisar a contenção. E a contenção, Aurora sabia, era a coisa que ela menos vinha conseguindo desde a madrugada do beijo.
 
 *
 
 O domingo passou como passam os domingos antes de viagens (devagar e rápido ao mesmo tempo, num ritmo que parecia ter sido inventado pra atrapalhar).
 
-A segunda-feira chegou às quatro e meia da manhã pra Aurora, com a Helle batendo na porta do quarto com a água quente da bacia. Aurora levantou. Lavou o rosto. Vestiu o vestido azul-marinho de viagem que a Eleonora tinha mandado costurar dois anos antes pra uma viagem a Aabenraa que nunca aconteceu. Pôs as botas. Pôs a capa.
+A segunda-feira chegou às quatro e meia da manhã pra Aurora, com Helle batendo na porta do quarto com a água quente da bacia. Aurora levantou. Lavou o rosto. Vestiu o vestido azul-marinho de viagem que Eleonora tinha mandado costurar dois anos antes pra uma viagem a Aabenraa que nunca aconteceu. Pôs as botas. Pôs a capa.
 
 Desceu.
 
-A casa toda estava acordada. Os baús estavam no hall. Fru Larsen estava na cozinha com café e pão. Vibeke estava na soleira da sala de estar de capa nova, e a capa era (Aurora reparou) mais elegante do que qualquer capa que a Vibeke tinha quando chegara da Jutlândia, o que significava que a Eleonora tinha mandado fazer uma pra ela durante a temporada e a Vibeke estava estreando.
+A casa toda estava acordada. Os baús estavam no hall. Fru Larsen estava na cozinha com café e pão. Vibeke estava na soleira da sala de estar de capa nova, e a capa era (Aurora reparou) mais elegante do que qualquer capa que Vibeke tinha quando chegara da Jutlândia, o que significava que Eleonora tinha mandado fazer uma pra ela durante a temporada e Vibeke estava estreando.
 
 Raj estava no escritório. Eleonora estava no hall, vestida como Eleonora se vestia pras coisas importantes (sem ostentação, com a precisão do que se chama elegância de quem não precisa provar nada).
 
@@ -286,7 +286,7 @@ Josh apareceu na escada às cinco em ponto, com a mala de couro debaixo do braç
 
 — Bom dia.
 
-Aurora pegou o café. Bebeu. Vibeke bebeu o dela em três goles e perguntou se podia comer o pão dela na carruagem. A Helle disse que sim. A Eleonora disse que ela ia engasgar. A Vibeke disse que não. Aurora ouviu a troca sem registrar, porque o que ela estava registrando era o som da carruagem entrando no portão dos fundos.
+Aurora pegou o café. Bebeu. Vibeke bebeu o dela em três goles e perguntou se podia comer o pão dela na carruagem. Helle disse que sim. Eleonora disse que ela ia engasgar. Vibeke disse que não. Aurora ouviu a troca sem registrar, porque o que ela estava registrando era o som da carruagem entrando no portão dos fundos.
 
 Era hora.
 
@@ -326,7 +326,7 @@ Eleonora pôs a mão na grade da janela. Não tocou em Aurora. Olhou pra ela com
 
 — Não faz nada que eu não tenha te ensinado. Na casa dos Russel, na frente da Casandra, na frente dos irmãos do Josh, na frente do próprio Josh, você é a minha filha. E a minha filha sabe se portar.
 
-Eleonora não acrescentou nada. Tirou a mão da grade, recuou um passo, e ficou na soleira da casa, com as mãos cruzadas na altura da cintura, com a postura de sempre. Aurora ficou um segundo olhando pra mãe pela janela da carruagem. Não respondeu (a mãe não tinha pedido resposta). Tinha pedido obediência. E Aurora entendeu cada uma das palavras. A mãe sabia, ou desconfiava o suficiente pra dar o aviso. E o aviso era um só: na Sorø, Aurora não podia deixar acontecer nada. Nada entre ela e Josh, nada que a Casandra desconfiasse, nada que os irmãos do Josh notassem, nada que ninguém na casa percebesse. Era isso que a mãe estava mandando: não se deixar levar.
+Eleonora não acrescentou nada. Tirou a mão da grade, recuou um passo, e ficou na soleira da casa, com as mãos cruzadas na altura da cintura, com a postura de sempre. Aurora ficou um segundo olhando pra mãe pela janela da carruagem. Não respondeu (a mãe não tinha pedido resposta). Tinha pedido obediência. E Aurora entendeu cada uma das palavras. A mãe sabia, ou desconfiava o suficiente pra dar o aviso. E o aviso era um só: na Sorø, Aurora não podia deixar acontecer nada. Nada entre ela e Josh, nada que Casandra desconfiasse, nada que os irmãos do Josh notassem, nada que ninguém na casa percebesse. Era isso que a mãe estava mandando: não se deixar levar.
 
 A carruagem se mexeu. Aurora encostou a cabeça no espaldar e fechou os olhos por meio segundo.
 
@@ -340,11 +340,11 @@ Vibeke falou da égua, do irmão mais novo dela em Viborg (oito anos, mente em t
 
 A outra coisa era o homem sentado em frente a ela.
 
-Josh não falou muito. Quando a Vibeke fazia uma pergunta direta a ele, respondia, breve, com a cortesia padrão. Quando a Vibeke falava sem perguntar, ouvia, com aquela atenção honesta dele que Aurora tinha catalogado ao longo de cinco meses: uma atenção que não fingia interesse e não fingia falta de interesse, que simplesmente estava ali, recebendo. Josh olhou pela janela várias vezes. Olhou pra Vibeke quando ela perguntou.
+Josh não falou muito. Quando Vibeke fazia uma pergunta direta a ele, respondia, breve, com a cortesia padrão. Quando Vibeke falava sem perguntar, ouvia, com aquela atenção honesta dele que Aurora tinha catalogado ao longo de cinco meses: uma atenção que não fingia interesse e não fingia falta de interesse, que simplesmente estava ali, recebendo. Josh olhou pela janela várias vezes. Olhou pra Vibeke quando ela perguntou.
 
 Olhou pra Aurora muitas.
 
-Aurora se permitiu olhar de volta. Foi uma decisão pequena tomada no fim da primeira hora, depois de Vibeke ter dito alguma coisa sobre o pão de Viborg e Aurora ter respondido o mínimo: simplesmente parou de fingir que não estava olhando. Os olhos dela encontraram os de Josh e ficaram. Josh sustentou. Não foi cortesia. Não foi performance pra ninguém (a Vibeke estava entretida com a janela). Foi um olhar.
+Aurora se permitiu olhar de volta. Foi uma decisão pequena tomada no fim da primeira hora, depois de Vibeke ter dito alguma coisa sobre o pão de Viborg e Aurora ter respondido o mínimo: simplesmente parou de fingir que não estava olhando. Os olhos dela encontraram os de Josh e ficaram. Josh sustentou. Não foi cortesia. Não foi performance pra ninguém (Vibeke estava entretida com a janela). Foi um olhar.
 
 Aurora catalogou o que tinha pra catalogar na luz fraca da carruagem em movimento. O cílio loiro-ruivo que escurecia perto da raiz. A unha do polegar direito que ele tinha cortado tão curta na partida que a ponta ainda estava em carne viva. O jeito que o verde do olho dele ficava mais claro quando o sol entrava pela cortina. O veio reto que descia pela lateral do antebraço até o pulso. A mão larga aberta no joelho dele, com o nó dos dedos marcado por arranhão antigo da pérgola de maio.
 
@@ -374,7 +374,7 @@ Ficaram assim.
 
 Foi um toque pequeno (uma bota dele encostada no canto de uma botinha fina, no chão escuro de uma carruagem que ia rangendo no cascalho), e foi exatamente do tamanho da única coragem que cabia nos dois entre Copenhague e Sorø com Vibeke dormindo no ombro da Aurora. Aurora olhou pra Josh. Josh olhou pra Aurora.
 
-— Você está bem? — perguntou ele, baixo, pra não acordar a Vibeke.
+— Você está bem? — perguntou ele, baixo, pra não acordar Vibeke.
 
 — Estou.
 
@@ -388,13 +388,13 @@ Josh assentiu. Não acreditou. Aurora viu que ele não acreditou pela maneira co
 
 Josh pensou um instante.
 
-— Não — disse ele, por fim. — Tem várias. Mas nenhuma pra fazer aqui dentro de uma carruagem com a Vibeke dormindo no seu ombro.
+— Não — disse ele, por fim. — Tem várias. Mas nenhuma pra fazer aqui dentro de uma carruagem com Vibeke dormindo no seu ombro.
 
 — Justo.
 
 — Sim.
 
-Ficaram em silêncio. O silêncio caiu fácil. Aurora encostou a cabeça no espaldar, sem deslocar a Vibeke, e olhou pra fora. Lá fora a paisagem continuava mudando: agora era mais campo do que cidade, mais centeio do que tijolo, mais céu do que telhado. Aurora pensou que cinco meses atrás o Josh tinha feito exatamente esse trajeto na direção contrária, com o irmão Dylan ao lado dele numa carruagem velha. Pensou que ele tinha visto a paisagem mudar do campo pra cidade naquele dia, e que ela estava vendo agora a cidade virar campo, e que era a mesma estrada, os mesmos campos de centeio, o mesmo cascalho. Só que ela estava entrando, e ele estava voltando.
+Ficaram em silêncio. O silêncio caiu fácil. Aurora encostou a cabeça no espaldar, sem deslocar Vibeke, e olhou pra fora. Lá fora a paisagem continuava mudando: agora era mais campo do que cidade, mais centeio do que tijolo, mais céu do que telhado. Aurora pensou que cinco meses atrás Josh tinha feito exatamente esse trajeto na direção contrária, com o irmão Dylan ao lado dele numa carruagem velha. Pensou que ele tinha visto a paisagem mudar do campo pra cidade naquele dia, e que ela estava vendo agora a cidade virar campo, e que era a mesma estrada, os mesmos campos de centeio, o mesmo cascalho. Só que ela estava entrando, e ele estava voltando.
 
 Os dois indo na mesma direção pela primeira vez.
 

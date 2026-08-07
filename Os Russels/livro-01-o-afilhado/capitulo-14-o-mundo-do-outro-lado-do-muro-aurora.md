@@ -46,7 +46,7 @@ O verão dinamarquês atingiu o auge: aquelas semanas de luz interminável em qu
 
 Aurora navegava a temporada com uma competência que surpreendia a mãe e encantava o pai. Os efeitos das aulas de Josh, mesmo com a origem contaminada, mesmo com a traição de confiança, eram reais. Aurora sabia sorrir. Sabia olhar. Sabia se posicionar num salão. Sabia conversar. Sabia ser ela mesma de um modo que não espantava, mas intrigava.
 
-E os resultados apareciam. Não de forma dramática. Aurora não se tornara a debutante mais popular de Copenhague da noite para o dia. Mas a corda de veludo estava mais fina. Os olhares que antes ficavam à distância agora, às vezes, se transformavam em passos. Um rapaz a convidava para dançar. Outro puxava conversa junto à mesa de bebidas. Um terceiro pedia permissão a Raj para visitá-la.
+E os resultados apareciam. Não de forma dramática. Aurora não se tornara a debutante mais popular de Copenhague da noite para o dia. Mas a corda de veludo estava mais fina. Os olhares que antes ficavam à distância agora, às vezes, se transformavam em passos. Um rapaz a convidava para dançar. Outro puxava conversa junto à mesa de bebidas. Um terceiro pedia permissão Raj para visitá-la.
 
 Erik continuava. Constante. Presente. Toda semana na sala de visitas, com flores diferentes e livros novos e aquela conversa que fluía como rio: sem esforço, sem obstáculo, sem nenhum dos solavancos que Aurora sentia quando falava com Josh.
 
@@ -56,7 +56,7 @@ Com Erik, tudo era suave. Previsível. Correto. A conversa tinha começo, meio e
 
 Mas Aurora, que passara meses sendo surpreendida por um rapaz que corrigia podas de roseira e dormia debaixo de dosséis absurdos e escrevia cartas que não enviava e sentava no chão de despensas sem falar, Aurora descobriu que precisa de surpresa como precisa de chá amargo pela manhã. Não por prazer. Por necessidade. Por ser quem era.
 
-Ela não disse isso a ninguém. Nem a Ingrid. Nem a si mesma, nas conversas silenciosas que travava com o espelho antes de dormir. Mas o pensamento estava ali, crescendo como crescem as coisas que não se dizem: devagar, em silêncio, com raízes que vão mais fundo a cada dia que passa sem serem arrancadas.
+Ela não disse isso a ninguém. Nem Ingrid. Nem a si mesma, nas conversas silenciosas que travava com o espelho antes de dormir. Mas o pensamento estava ali, crescendo como crescem as coisas que não se dizem: devagar, em silêncio, com raízes que vão mais fundo a cada dia que passa sem serem arrancadas.
 
 *
 
@@ -118,7 +118,7 @@ E (a parte que Aurora tentou não pensar e que seu cérebro, com a teimosia de u
 
 Aurora nunca beijara ninguém. Nunca. Em dezesseis anos — quase dezessete — de vida, os lábios de Aurora Svensson nunca tinham tocado outros lábios que não fossem os da mãe na testa e os do pai na bochecha. E isso, que aos catorze era normal e aos quinze era aceitável e aos dezesseis era compreensível, começava a parecer, na proximidade dos dezessete, uma lacuna. Não uma lacuna social. Aurora não se importava com o que a sociedade achava. Uma lacuna pessoal. Uma experiência que todas as outras tinham e ela não. Um capítulo que todas já tinham lido e que ela pulara.
 
-Ingrid já beijara. Contara a Aurora num sussurro escandalizado há dois anos: um rapaz chamado Peter, filho de um ferreiro, nos fundos de uma igreja durante um festival de São João. *"Foi molhado, confuso, e maravilhoso"*, dissera Ingrid, com os olhos brilhando. *"E eu não me arrependo de nada."*
+Ingrid já beijara. Contara Aurora num sussurro escandalizado há dois anos: um rapaz chamado Peter, filho de um ferreiro, nos fundos de uma igreja durante um festival de São João. *"Foi molhado, confuso, e maravilhoso"*, dissera Ingrid, com os olhos brilhando. *"E eu não me arrependo de nada."*
 
 Aurora queria saber como era. Não com Erik. Com Erik seria oficial, seria compromisso, seria um passo que ela não estava pronta para dar. Não com nenhum dos pretendentes da temporada. Apenas... saber. Como se sabe o gosto de uma fruta que se vê há anos na árvore e nunca se colheu.
 
@@ -308,7 +308,7 @@ Eleonora estava satisfeita.
 
 Sexta-feira. Oito da noite. Esquina da Bredgade com a Fredericiagade.
 
-Aurora saíra de casa às sete e quarenta e cinco, depois de um jantar em que mentiu duas vezes: para Raj, sobre o grupo de estudos de Josh (*"eu sei que ele vai, papai, ele me disse"*), e para Eleonora, sobre dormir na casa de Ingrid (*"a Ingrid pediu companhia, papai dela está em Aabenraa, podemos bordar juntas de manhã"*). As mentiras saíram com uma facilidade que a assustou e que, ao mesmo tempo, a fez sentir algo que ela não sentia desde Aarav: cumplicidade com o perigo. A adrenalina de fazer algo que não se deveria fazer com a consciência plena de que não se deveria.
+Aurora saíra de casa às sete e quarenta e cinco, depois de um jantar em que mentiu duas vezes: para Raj, sobre o grupo de estudos de Josh (*"eu sei que ele vai, papai, ele me disse"*), e para Eleonora, sobre dormir na casa de Ingrid (*"Ingrid pediu companhia, papai dela está em Aabenraa, podemos bordar juntas de manhã"*). As mentiras saíram com uma facilidade que a assustou e que, ao mesmo tempo, a fez sentir algo que ela não sentia desde Aarav: cumplicidade com o perigo. A adrenalina de fazer algo que não se deveria fazer com a consciência plena de que não se deveria.
 
 Carregava uma bolsa pequena com o vestido amarelo. Usava o vestido azul escuro de casa para sair, trocaria na casa de Ingrid. O coração batia com uma velocidade que não era medo: era antecipação. Era a sensação de estar prestes a cruzar uma fronteira que não pode ser descruzada.
 
@@ -316,9 +316,9 @@ Josh apareceu na esquina às oito em ponto.
 
 Aurora quase não o reconheceu.
 
-Ele não usava o casaco formal. Não usava gravata. Não usava nada que pertencesse ao Josh de Copenhague — o Josh dos bailes e dos chás e dos saraus. Usava uma camisa branca simples, com os botões superiores abertos e as mangas dobradas até os cotovelos: os antebraços bronzeados, como sempre, como naquela manhã de abril na cozinha que Aurora nunca esqueceria. Uma calça escura. As botas, não as botas de salão, as botas boas, as botas de Sorø que Meridiana polira antes da viagem. E o cabelo solto, sem pomada, sem penteado, caindo sobre a testa com a desordem natural que a manhã revelava e o dia escondia.
+Ele não usava o casaco formal. Não usava gravata. Não usava nada que pertencesse ao Josh de Copenhague — Josh dos bailes e dos chás e dos saraus. Usava uma camisa branca simples, com os botões superiores abertos e as mangas dobradas até os cotovelos: os antebraços bronzeados, como sempre, como naquela manhã de abril na cozinha que Aurora nunca esqueceria. Uma calça escura. As botas, não as botas de salão, as botas boas, as botas de Sorø que Meridiana polira antes da viagem. E o cabelo solto, sem pomada, sem penteado, caindo sobre a testa com a desordem natural que a manhã revelava e o dia escondia.
 
-Era o Josh do campo. O Josh que existia antes de Copenhague. O Josh que, e Aurora reconhecia isso com a clareza impiedosa de quem finalmente para de mentir para si mesma, ela preferia.
+Era Josh do campo. Josh que existia antes de Copenhague. Josh que, e Aurora reconhecia isso com a clareza impiedosa de quem finalmente para de mentir para si mesma, ela preferia.
 
 — Boa noite — disse ele.
 

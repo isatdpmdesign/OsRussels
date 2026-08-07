@@ -170,7 +170,7 @@ A próxima não veio.
 
 Aurora respirou fundo. Olhou a chama da vela. Pensou — pela primeira vez naquela noite, com clareza completa — em Aarav.
 
-Não a Aarav-saudade. Aarav-conselho. O Aarav prático, o que sabia ler situações antes de qualquer outra pessoa, o que sentaria diante dela exatamente daquele jeito que ele tinha, com os cotovelos na mesa e o queixo nas mãos, e diria — com aquela voz ligeiramente debochada que era a forma como o Aarav vivo expressava o que o Aarav póstumo já não podia —: *então, mocinha. Quer me contar o que aconteceu?*
+Não Aarav-saudade. Aarav-conselho. Aarav prático, o que sabia ler situações antes de qualquer outra pessoa, o que sentaria diante dela exatamente daquele jeito que ele tinha, com os cotovelos na mesa e o queixo nas mãos, e diria — com aquela voz ligeiramente debochada que era a forma como Aarav vivo expressava o que Aarav póstumo já não podia —: *então, mocinha. Quer me contar o que aconteceu?*
 
 Aurora respondeu a ele no silêncio. Em silêncio. Sem palavras nem na cabeça.
 
@@ -210,7 +210,7 @@ Aurora pensou.
 
 — Diga.
 
-— Primeira: o Erik é um bom homem. Bom homem é uma coisa rara. Eu sei disso porque eu cresci com ele e vi muito homem ruim de perto. Segunda: você está apaixonada pelo Josh Russel. Isso eu sei porque eu tenho olhos.
+— Primeira: Erik é um bom homem. Bom homem é uma coisa rara. Eu sei disso porque eu cresci com ele e vi muito homem ruim de perto. Segunda: você está apaixonada pelo Josh Russel. Isso eu sei porque eu tenho olhos.
 
 Aurora não respondeu. Não havia nada para responder. Cada uma das duas frases era uma verdade que ela mesma tinha conseguido manter sob a língua até aquele momento. Ouvi-las ditas por outra pessoa, na cozinha desarrumada de uma casa sem adultos, na luz cinzenta de uma manhã que se recusava a virar dia, era um tipo de violência leve.
 
@@ -330,11 +330,11 @@ Honestamente: ainda não.
 
 Quatro dias depois da festa, no jantar de quarta-feira, Eleonora fez um anúncio.
 
-Os quatro estavam à mesa. Raj na cabeceira. Eleonora à direita dele. Aurora à esquerda. Josh em frente a Aurora, no lugar que tinha sido dele desde a primeira semana. Tinha voltado a descer para as refeições três dias antes, mas falava o estritamente necessário e olhava para o prato como quem precisa decifrar um mapa. Aurora não olhava para ele. Ele não olhava para ela. Era assim agora.
+Os quatro estavam à mesa. Raj na cabeceira. Eleonora à direita dele. Aurora à esquerda. Josh em frente Aurora, no lugar que tinha sido dele desde a primeira semana. Tinha voltado a descer para as refeições três dias antes, mas falava o estritamente necessário e olhava para o prato como quem precisa decifrar um mapa. Aurora não olhava para ele. Ele não olhava para ela. Era assim agora.
 
 Aurora estava cortando o peixe quando a frase de Eleonora atravessou a sala como qualquer outra frase atravessa qualquer outro jantar, com a leveza própria de quem dá uma informação prática.
 
-— Minha irmã Karoline escreveu — disse Eleonora a Raj. — A Vibeke vem para a temporada.
+— Minha irmã Karoline escreveu — disse Eleonora Raj. — Vibeke vem para a temporada.
 
 Raj ergueu os olhos do prato.
 
@@ -358,9 +358,9 @@ Aurora não olhou para Josh, mas registrou pelo canto do olho que ele tinha para
 
 Aurora pôs o garfo no prato.
 
-— A Vibeke vem para a temporada?
+— Vibeke vem para a temporada?
 
-— Vem. — Eleonora olhou para a filha. — A Karoline acha que está na hora de Vibeke conhecer Copenhague antes de casar. Ela tem um pretendente em Viborg, e deve se casar no ano que vem. Minha irmã quer que a menina passe a temporada toda em sociedade aqui antes de se enterrar na Jutlândia para o resto da vida. Palavras dela, não minhas.
+— Vem. — Eleonora olhou para a filha. — Karoline acha que está na hora de Vibeke conhecer Copenhague antes de casar. Ela tem um pretendente em Viborg, e deve se casar no ano que vem. Minha irmã quer que a menina passe a temporada toda em sociedade aqui antes de se enterrar na Jutlândia para o resto da vida. Palavras dela, não minhas.
 
 — Quando?
 
@@ -378,7 +378,7 @@ Aurora pegou o garfo de novo. Cortou um pedaço de peixe que não tinha vontade 
 
 — Vibeke é simpática — disse Raj. — Lembro dela rindo o jantar inteiro de alguma coisa que aconteceu antes do jantar. Eu nunca soube o que era, mas a risada era boa.
 
-— A Karoline pôs nela tudo o que não conseguiu pôr em si mesma — disse Eleonora. — É uma menina alegre. Excessivamente alegre, eu diria, para o meu gosto, mas isso é problema meu, não dela.
+— Karoline pôs nela tudo o que não conseguiu pôr em si mesma — disse Eleonora. — É uma menina alegre. Excessivamente alegre, eu diria, para o meu gosto, mas isso é problema meu, não dela.
 
 — Mãe — disse Aurora.
 
@@ -386,7 +386,7 @@ Aurora pegou o garfo de novo. Cortou um pedaço de peixe que não tinha vontade 
 
 — Faz tempo que eu não a vejo. Ela mudou muito?
 
-— Três anos é tempo. Com certeza cresceu. Ficou comprometida. Está com a cabeça em véu e bolo, segundo a Karoline. Acho que vai te agradar e te aborrecer em horários diferentes do mesmo dia. — Eleonora riu.
+— Três anos é tempo. Com certeza cresceu. Ficou comprometida. Está com a cabeça em véu e bolo, segundo Karoline. Acho que vai te agradar e te aborrecer em horários diferentes do mesmo dia. — Eleonora riu.
 
 — Uhm. Vamos ver. — Aurora forçou um sorriso que demonstrava exatamente o que ela esperava: Vibeke falando sobre noivado, casamento, bailes e tudo aquilo que ela não queria discutir, durante os próximos dois meses.
 
@@ -402,11 +402,11 @@ Aurora pegou um gole de água. Quando pôs o copo de volta na mesa, viu, sem olh
 
 Eleonora cortou um pedaço de salmão. Pousou a faca. Olhou para Raj.
 
-— Pensando bem, a Vibeke chega numa hora boa. 
+— Pensando bem, Vibeke chega numa hora boa. 
 
 — Como assim? — perguntou Raj.
 
-— A Karoline acha que está tudo certo com o rapaz de Viborg interessado em Vibeke. Mas não está. É pretendente, ainda não noivo. Se a Vibeke vir alguém melhor por aqui, a Karoline vai considerar. — Eleonora endireitou o dorso e ergueu o queixo. Era a postura exata que ela assumia quando queria validar uma teoria, ou pelo menos extrair alguma informação que confirmasse uma suspeita.
+— Karoline acha que está tudo certo com o rapaz de Viborg interessado em Vibeke. Mas não está. É pretendente, ainda não noivo. Se Vibeke vir alguém melhor por aqui, Karoline vai considerar. — Eleonora endireitou o dorso e ergueu o queixo. Era a postura exata que ela assumia quando queria validar uma teoria, ou pelo menos extrair alguma informação que confirmasse uma suspeita.
 
 Raj sorriu, paciente.
 
@@ -420,7 +420,7 @@ Eleonora não era inocente e, como qualquer mãe, conhecia Aurora como ninguém.
 
 As interações entre Aurora e Josh haviam diminuído desde que Aurora voltara da casa de Ingrid e, curiosamente, Eleonora também havia notado que Josh estivera fora de casa na mesma noite em que Aurora fora "dormir" na casa da amiga. Não tinha como saber ao certo, mas havia uma hipótese de que algo estava acontecendo bem debaixo do seu nariz. Os olhares que Josh e Aurora acabavam de trocar na mesa confirmavam um ponto da sua tese.
 
-— Os dois vêm de fora da capital — continuou Eleonora, com a calma de quem só constata. — Têm hábitos parecidos. São estudiosos. A Vibeke é alegre, o Josh é sério. Equilibram. E o Josh está aqui na nossa casa, sem família por perto, já em idade de se casar… Já que Aurora e Josh mal se falam, a Vibeke seria uma boa companhia para os dois. — Deu de ombros, como se não estivesse plantando uma semente venenosa.
+— Os dois vêm de fora da capital — continuou Eleonora, com a calma de quem só constata. — Têm hábitos parecidos. São estudiosos. Vibeke é alegre, Josh é sério. Equilibram. E Josh está aqui na nossa casa, sem família por perto, já em idade de se casar… Já que Aurora e Josh mal se falam, Vibeke seria uma boa companhia para os dois. — Deu de ombros, como se não estivesse plantando uma semente venenosa.
 
 Aurora engoliu seco e sentiu o pescoço esquentar. Pior, sentiu que estava esquentando visivelmente, porque Eleonora era a pessoa que mais notava pescoços vermelhos em qualquer mesa.
 
@@ -436,7 +436,7 @@ Mas tinha comentado.
 
 E Aurora pensou que dali a uma semana dormiria uma prima loira de dezessete anos no quarto azul, ao lado do dela. Uma prima alegre, simples, sem complicações. Uma prima que Eleonora, em três frases num jantar de quarta-feira, já tinha empurrado na direção de Josh. E pensou que, se já tinha sido difícil esconder o cansaço, a culpa, o pedido, o quase e a cozinha que não acontecia mais com Eleonora e Helle por perto, com mais um par de olhos azuis dentro da Bredgade ia ficar pior.
 
-Pior ainda se a Eleonora resolvesse ajudar.
+Pior ainda se Eleonora resolvesse ajudar.
 
 Aurora pôs o garfo no prato.
 

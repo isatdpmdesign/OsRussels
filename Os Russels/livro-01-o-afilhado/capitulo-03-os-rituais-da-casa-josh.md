@@ -236,7 +236,7 @@ Tinha se tornado seu hábito noturno. Depois do jantar, enquanto a casa ia aos p
 
 Naquela noite, estava lendo um tratado de botânica. Não por obrigação acadêmica. Por curiosidade. Queria entender as roseiras de Aurora. Queria saber por que os arbustos europeus eram podados de modo diferente dos arbustos que ele conhecia no campo. Queria saber se havia uma razão científica para o corte três centímetros abaixo do nó ou se era apenas tradição.
 
-Queria, embora não admitisse, ter algo para dizer a Aurora que não fosse sobre talheres ou horários de jantar.
+Queria, embora não admitisse, ter algo para dizer Aurora que não fosse sobre talheres ou horários de jantar.
 
 Passou das dez. A casa estava quieta. Fru Larsen e Helle já tinham se recolhido aos quartos do sótão. Raj provavelmente estava no escritório com a porta fechada, fazendo o que quer que fizesse nas noites em que o luto pesava mais. A lareira estava baixa, as brasas pulsando como corações em câmera lenta.
 
@@ -250,7 +250,7 @@ A porta abriu um centímetro. Dois. O suficiente para que um fio de luz da larei
 
 E então Aurora apareceu.
 
-Não a Aurora do dia. Não a Aurora de vestido e broche e cabelo preso e sorriso de porcelana. Essa era outra Aurora, uma que Josh nunca tinha visto e que, ele intuía, quase ninguém via.
+Não Aurora do dia. Não Aurora de vestido e broche e cabelo preso e sorriso de porcelana. Essa era outra Aurora, uma que Josh nunca tinha visto e que, ele intuía, quase ninguém via.
 
 Ela usava uma camisola branca de algodão que ia até os tornozelos, coberta por um xale de lã cinzento que ela segurava fechado na frente com uma mão. Os cabelos estavam soltos. Josh não sabia que os cabelos de Aurora eram tão longos: iam até o meio das costas, em ondas escuras e densas que pareciam ter vontade própria. Os pés estavam descalços: pequenos, morenos, silenciosos no assoalho frio.
 
@@ -298,7 +298,7 @@ Josh encostou a cabeça na parede e fechou os olhos.
 
 *Não*, disse a si mesmo pela centésima vez em dez dias. *Não.*
 
-Mas o "não" estava ficando menor. E Aurora, a Aurora de pés descalços e olhos vermelhos e cabelos soltos na penumbra, estava ficando maior dentro dele. Ocupando espaços que ele não sabia que existiam. Preenchendo silêncios que ele não sabia que estavam vazios.
+Mas o "não" estava ficando menor. E Aurora, Aurora de pés descalços e olhos vermelhos e cabelos soltos na penumbra, estava ficando maior dentro dele. Ocupando espaços que ele não sabia que existiam. Preenchendo silêncios que ele não sabia que estavam vazios.
 
 Josh abriu os olhos.
 
@@ -314,7 +314,7 @@ Pegou a pena. A tinta. O papel.
 
 *Josh*
 
-Dobrou a carta. Selou com cera. Pousou na escrivaninha ao lado dos livros e da carta de Casandra que nunca entregara a Raj — porque, no fundo, desconfiava que a carta não era para Raj, e sim para ele. Para quando precisasse de coragem.
+Dobrou a carta. Selou com cera. Pousou na escrivaninha ao lado dos livros e da carta de Casandra que nunca entregara Raj — porque, no fundo, desconfiava que a carta não era para Raj, e sim para ele. Para quando precisasse de coragem.
 
 Soprou a vela.
 

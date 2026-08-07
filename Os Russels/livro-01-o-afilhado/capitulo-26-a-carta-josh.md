@@ -11,24 +11,23 @@
 Josh soube que tinha dado errado antes de descer
 da carruagem.
 
-Soube pelo Raj na soleira. O Raj estava no alto
-dos três degraus do portão, com as mãos cruzadas
-atrás do corpo e o casaco escuro fechado até o
-último botão. Não era a postura dele de receber
-gente. Não era o lugar. O Raj recebia hóspede no
-hall, com a porta aberta, com a Eleonora um passo
-atrás e o sorriso de educação na medida. Aquela
-postura ali, no portão, com as mãos atrás do corpo
-e o queixo um milímetro abaixado e a cabeça
-inclinada meio grau pra direita, era a postura de
-quem ia ter que dizer alguma coisa que ele
-preferia não dizer, antes mesmo do hóspede entrar
-em casa.
+Soube pelo Raj na soleira. Raj estava no alto dos
+três degraus do portão, com as mãos cruzadas atrás
+do corpo e o casaco escuro fechado até o último
+botão. Não era a postura dele de receber gente.
+Não era o lugar. Raj recebia hóspede no hall, com
+a porta aberta, com Eleonora um passo atrás e o
+sorriso de educação na medida. Aquela postura ali,
+no portão, com as mãos atrás do corpo e o queixo
+um milímetro abaixado e a cabeça inclinada meio
+grau pra direita, era a postura de quem ia ter que
+dizer alguma coisa que ele preferia não dizer,
+antes mesmo do hóspede entrar em casa.
 
-E soube pela Eleonora. A Eleonora estava ao lado
-do marido, do tamanho de uma mulher que não dormia
+E soube pela Eleonora. Eleonora estava ao lado do
+marido, do tamanho de uma mulher que não dormia
 havia noites, e não tinha escondido isso com pó
-nem com nada, e a Eleonora era a última pessoa
+nem com nada, e Eleonora era a última pessoa
 naquela casa que deixaria o cansaço aparecer no
 rosto se tivesse como escondê-lo.
 
@@ -54,12 +53,12 @@ e ergueu o rosto pro pai.
 
 — Filha.
 
-O Raj desceu os três degraus, abriu os braços, e
+Raj desceu os três degraus, abriu os braços, e
 abraçou Aurora. Demorado. Firme. Sem dizer nada
 além daquele "filha" que tinha saído seco como
 quem tinha decorado a palavra na garganta antes de
 deixar a porta abrir. Quando soltou a filha, falou
-sem rodeio, antes mesmo de cumprimentar o Josh:
+sem rodeio, antes mesmo de cumprimentar Josh:
 
 — Aurora. A gente precisa conversar. Depois do
 jantar. No escritório.
@@ -68,19 +67,18 @@ jantar. No escritório.
 
 Josh ouviu a frase e o céu ficou um milímetro mais
 baixo em cima dele. Não tinha sido nenhuma das
-saudações que o Raj costumava fazer pra quem
-voltava de viagem. Não era frase de hóspede de
-soleira. Era frase de pai que tinha uma decisão na
-mão e tinha decidido só esperar a filha terminar o
-prato antes de mostrar a mão.
+saudações que Raj costumava fazer pra quem voltava
+de viagem. Não era frase de hóspede de soleira.
+Era frase de pai que tinha uma decisão na mão e
+tinha decidido só esperar a filha terminar o prato
+antes de mostrar a mão.
 
-A Eleonora desceu também e beijou a testa de
-Aurora.
+Eleonora desceu também e beijou a testa de Aurora.
 
-— Você emagreceu — disse a Eleonora. — Vamos pra
+— Você emagreceu — disse Eleonora. — Vamos pra
 dentro, está esfriando.
 
-Só depois o Raj virou pro Josh. Estendeu a mão.
+Só depois Raj virou pro Josh. Estendeu a mão.
 
 — Bem-vindo de volta, meu rapaz.
 
@@ -95,18 +93,18 @@ dizendo, sem palavra, *fica perto, eu vou precisar
 de você nas próximas horas*.
 
 Os olhos da Eleonora subiram pro Josh meio
-segundo. Foi um meio segundo só, mas a Eleonora
-não fazia nada de meio segundo sem motivo. Josh
+segundo. Foi um meio segundo só, mas Eleonora não
+fazia nada de meio segundo sem motivo. Josh
 sustentou. Curvou a cabeça num cumprimento.
 
 — Senhora.
 
 — Joshua.
 
-A Vibeke, que tinha descido antes da Aurora e
-estava na soleira com uma mão na maçaneta
-esperando alguém abrir a porta inteira, foi a
-única que falou na medida normal:
+Vibeke, que tinha descido antes da Aurora e estava
+na soleira com uma mão na maçaneta esperando
+alguém abrir a porta inteira, foi a única que
+falou na medida normal:
 
 — Tia Eleonora, eu trouxe um pote de geleia de
 maçã que a tia Casandra fez, dois pães de leite,
@@ -114,7 +112,7 @@ uma muda de macieira pra Aurora e muita coisa pra
 contar. Eu não dormi quase nada de excitação na
 noite de ontem.
 
-A Eleonora pôs a mão na bochecha da Vibeke.
+Eleonora pôs a mão na bochecha da Vibeke.
 
 — Conta tudo no jantar, querida.
 
@@ -128,9 +126,9 @@ ensinado. Helle ergueu o olho pro Josh enquanto
 passava com o pano da mala no ombro, e Josh viu,
 naquele meio segundo, que ela tinha visto tudo.
 Que aquela mulher trabalhava naquela casa havia
-anos. Que era a Helle que recolhia copo, levava
+anos. Que era Helle que recolhia copo, levava
 bandeja, ficava em pé na porta da biblioteca
-esperando o Raj sair pra entrar e limpar. Que era
+esperando Raj sair pra entrar e limpar. Que era
 ela que tinha visto, sem precisar olhar, a
 Eleonora chorar no quarto fechado três vezes nos
 últimos quatorze dias. Que era ela que tinha visto
@@ -138,7 +136,7 @@ o Raj sair às quatro da manhã pra encontro com
 gente de cidade nesses mesmos catorze dias, e
 voltar com o casaco amassado e o queixo
 endurecido. Que era ela que tinha visto, pelo
-canto do olho, o Josh e a Aurora passarem um pelo
+canto do olho, Josh e Aurora passarem um pelo
 outro nos corredores da Bredgade nesses cinco
 meses, e tinha sabido nos dois ou três primeiros
 meses o que eles dois só foram saber em junho. As
@@ -148,10 +146,9 @@ portas sem ninguém notar, e o que elas guardam é a
 verdade da casa que os patrões não têm tempo de
 ver. Helle não disse nada. Não precisava dizer. Os
 olhos dela foram pro Josh um instante, depois pra
-escada onde a Aurora tinha subido, depois pro
-chão, e nesse trajeto Josh entendeu que tinha uma
-aliada calada naquela casa que ele não tinha
-contado.
+escada onde Aurora tinha subido, depois pro chão,
+e nesse trajeto Josh entendeu que tinha uma aliada
+calada naquela casa que ele não tinha contado.
 
 Josh subiu pro quarto leste pra dar espaço. Era o
 que um afilhado fazia. Fechou a porta. E a
@@ -162,14 +159,14 @@ meses, desde a tarde de abril em que ele a tinha
 pousado ali ao lado dos livros e tinha decidido
 que abriria quando fosse a hora.
 
-A Casandra tinha dito, na cozinha de Sorø, antes
-da partida: *lê antes de entregar ao Raj.* Josh
-tinha prometido. Não tinha cumprido ainda.
+Casandra tinha dito, na cozinha de Sorø, antes da
+partida: *lê antes de entregar ao Raj.* Josh tinha
+prometido. Não tinha cumprido ainda.
 
 Olhou pra carta. Não abriu.
 
 Não era a hora. A hora era depois do jantar,
-quando ele soubesse o que o Raj tinha pra dizer.
+quando ele soubesse o que Raj tinha pra dizer.
 Josh não abria carta de mãe sem saber em que chão
 estava pisando.
 
@@ -178,7 +175,7 @@ estava pisando.
 O jantar foi o mais silencioso que Josh viu
 naquela casa em cinco meses.
 
-O Raj quase não comeu. Cortou a carne em pedaços
+Raj quase não comeu. Cortou a carne em pedaços
 pequenos demais e empurrou pela borda do prato. A
 Eleonora comeu por hábito, com a precisão de
 sempre, mas Josh, que tinha aprendido a ler o que
@@ -189,57 +186,56 @@ entre cada garfada com aquela calma de quem tenta
 prorrogar o tempo. Como quem espera uma coisa que
 não quer que chegue.
 
-A Vibeke falava.
+Vibeke falava.
 
-A Vibeke não sabia de nada. Josh percebeu isso com
+Vibeke não sabia de nada. Josh percebeu isso com
 uma clareza que quase o fez ter pena dela. A
 Vibeke chegou da viagem com a cabeça ainda em
 Sorø, falando da égua da Meridiana, do pão da
-Casandra, de uma coisa que o Dylan tinha dito
-sobre cabra, e não tinha lido o queixo do Raj nem
-o garfo da Eleonora porque a Vibeke não passava a
-vida observando ninguém. A Vibeke vivia. Era a
-coisa mais verdadeira que tinha naquela mesa, e
-era a única pessoa ali que estava em paz.
+Casandra, de uma coisa que Dylan tinha dito sobre
+cabra, e não tinha lido o queixo do Raj nem o
+garfo da Eleonora porque Vibeke não passava a vida
+observando ninguém. Vibeke vivia. Era a coisa mais
+verdadeira que tinha naquela mesa, e era a única
+pessoa ali que estava em paz.
 
-— ...e a Meridiana ficou três dias falando com
+— ...e Meridiana ficou três dias falando com
 aquela macieira velha, tia, é sério. A macieira
 chama Berta. Eu duvidei no começo mas depois eu
 mesma fui lá e dei bom dia pra Berta, porque a
 Meridiana disse que era falta de educação não
-cumprimentar. — A Vibeke parou pra respirar e
-olhou pra Aurora. — Conta, Aurora.
+cumprimentar. — Vibeke parou pra respirar e olhou
+pra Aurora. — Conta, Aurora.
 
 — Conto depois — disse Aurora. A voz dela estava
 do tamanho exato. — Você está contando bem.
 
-A Vibeke continuou. Aurora comeu como tinha
-descido da carruagem: de porcelana. Respondeu à
-Vibeke nos lugares certos. Não olhou pra Josh
-nenhuma vez, e Josh soube que era de propósito, e
-soube por quê. A Aurora também tinha lido o queixo
-do pai.
+Vibeke continuou. Aurora comeu como tinha descido
+da carruagem: de porcelana. Respondeu à Vibeke nos
+lugares certos. Não olhou pra Josh nenhuma vez, e
+Josh soube que era de propósito, e soube por quê.
+Aurora também tinha lido o queixo do pai.
 
-O Raj pousou o guardanapo antes da sobremesa.
+Raj pousou o guardanapo antes da sobremesa.
 Levantou da mesa sem dizer mais nada além de
 "Aurora, eu te espero no escritório quando você
 terminar" — frase repetida do que tinha sido dito
-na soleira, agora seca, sem afeto, pra a Vibeke
+na soleira, agora seca, sem afeto, pra Vibeke
 ouvir que tinha hora marcada.
 
-A Vibeke, que tinha falado a refeição inteira,
-parou de falar. Olhou pra Aurora. Olhou pra porta
-por onde o Raj tinha saído. Olhou pra Aurora de
-novo. E foi nesse silêncio dela que Josh viu a
-Vibeke começar a entender que tinha alguma coisa
+Vibeke, que tinha falado a refeição inteira, parou
+de falar. Olhou pra Aurora. Olhou pra porta por
+onde Raj tinha saído. Olhou pra Aurora de novo. E
+foi nesse silêncio dela que Josh viu a Vibeke
+começar a entender que tinha alguma coisa
 acontecendo que ela não tinha visto chegar.
 
-— Tia — disse a Vibeke, baixo, pra Eleonora. — É
+— Tia — disse Vibeke, baixo, pra Eleonora. — É
 sobre alguma...
 
-— Pede sobremesa, querida. A Helle está esperando.
+— Pede sobremesa, querida. Helle está esperando.
 
-A Vibeke fechou a boca devagar.
+Vibeke fechou a boca devagar.
 
 Josh levantou da mesa.
 
@@ -253,11 +249,11 @@ Esperar foi a parte mais difícil.
 
 Josh ficou sentado na beira da cama do quarto
 leste, com a porta entreaberta, ouvindo a casa.
-Ouviu o Raj atravessar o corredor de baixo. Ouviu
-a porta do escritório fechar. Depois disso, não
+Ouviu Raj atravessar o corredor de baixo. Ouviu a
+porta do escritório fechar. Depois disso, não
 ouviu mais nada por um tempo que ele não soube
 medir, porque o escritório ficava embaixo e tinha
-porta grossa, e o Raj era homem de falar baixo
+porta grossa, e Raj era homem de falar baixo
 quando o assunto era grave.
 
 Ouviu, em algum momento, a porta do escritório
@@ -278,7 +274,7 @@ desde a soleira.
 
 Aurora chorava.
 
-Não era alto. A Aurora não chorava alto, do mesmo
+Não era alto. Aurora não chorava alto, do mesmo
 jeito que não fazia nada alto. Era um choro baixo,
 contido, que vazava por baixo da porta, e que era
 pior do que qualquer choro alto porque era o choro
@@ -290,12 +286,12 @@ Josh ficou de pé.
 Ficou de pé e não soube o que fazer com o próprio
 corpo. Entrar no quarto de uma moça, naquela casa,
 naquela época, era uma coisa que não tinha
-desfazimento. Era a coisa que o Raj nunca
-perdoaria. Era a primeira parede inteira, a
-lealdade ao padrinho, de pé na frente dele em
-forma de porta de carvalho.
+desfazimento. Era a coisa que Raj nunca perdoaria.
+Era a primeira parede inteira, a lealdade ao
+padrinho, de pé na frente dele em forma de porta
+de carvalho.
 
-Mas atrás da porta a Aurora chorava.
+Mas atrás da porta Aurora chorava.
 
 Josh atravessou o corredor. Parou na frente da
 porta dela. Levantou a mão pra bater. Baixou.
@@ -464,7 +460,7 @@ que ia casar comigo. Eu te disse que ia trabalhar
 pra conseguir isso. Trabalhar pra te casar, é o
 que eu te disse, Aurora. Era pra ser eu na frente
 do altar, não um velho que te comprou com a dívida
-do teu pai. Eu te disse e eu vou. Olha pra mim. Eu
+do seu pai. Eu te disse e eu vou. Olha pra mim. Eu
 vou.
 
 — Eu acredito.
@@ -632,8 +628,8 @@ mandado nos cinco meses. Mas o conteúdo não era de
 carta de mãe. Era contábil. Frio. Cheio de
 números.
 
-A Casandra escrevia sobre uma sociedade comercial.
-Anos 1810. O Henrik tinha entrado com o que tinha
+Casandra escrevia sobre uma sociedade comercial.
+Anos 1810. Henrik tinha entrado com o que tinha
 numa empreitada do Raj (uma rota de comércio, um
 carregamento, Josh leu os termos sem entender
 todos). O que ele entendeu foi o suficiente: a
@@ -643,10 +639,9 @@ comercial de Copenhague, na Højbro. E o depósito
 tinha uma cláusula: só se sacava com a assinatura
 dos dois sócios.
 
-O Henrik morreu. A parte dos Russels ficou
-trancada havia quatro anos, porque faltava a
-segunda assinatura, e a segunda assinatura era do
-Raj.
+Henrik morreu. A parte dos Russels ficou trancada
+havia quatro anos, porque faltava a segunda
+assinatura, e a segunda assinatura era do Raj.
 
 Mais embaixo, a letra da mãe mudava de cadência.
 Continuava firme, mas sem o tom de inventário. Era
@@ -656,18 +651,18 @@ amado e de filho que ela tinha visto crescer.
 *A terra é do Joseph por direito de mais velho, e
 ela sustenta a família, e ela vai sustentar. A
 Meridiana tem dote no que vier de casamento, e eu
-cuido. O Dylan vai precisar do tempo dele pra
-escolher o caminho dele, e o Matias ainda nem fez
+cuido. Dylan vai precisar do tempo dele pra
+escolher o caminho dele, e Matias ainda nem fez
 treze anos direito, e o tempo deles é outro. Mas
 você, Josh. Você não tem terra pra herdar nem
 papel definido pra cumprir, e foi por isso que eu
-te mandei pra cidade. Era essa a parte do teu pai
+te mandei pra cidade. Era essa a parte do seu pai
 que ele e eu guardamos em vida, em pensamento, pro
 filho que tivesse que sair daqui pra construir
 vida que a fazenda não dá. Aquele filho foi você,
 Josh. Eu sempre soube que ia chegar a hora. Eu
 guardei tudo pra você. Quando você ler isto, vá ao
-Raj, peça a assinatura dele, e saque. É teu,
+Raj, peça a assinatura dele, e saque. É seu,
 filho. Faz o que precisar.*
 
 Tinha um número no fim. A quantia.
@@ -688,10 +683,10 @@ Durou o tempo de ele fazer a conta.
 Josh tinha ouvido, semanas antes, atrás da estante
 grande da biblioteca, numa manhã que tinha
 começado às cinco e quarenta e cinco e tinha
-mudado tudo, o Raj e a Eleonora medirem o tamanho
-da dívida do naufrágio. A dívida não era pequena.
-Era do tamanho de um homem entregar a filha pra
-fechar a conta. E o prazo era outubro.
+mudado tudo, Raj e Eleonora medirem o tamanho da
+dívida do naufrágio. A dívida não era pequena. Era
+do tamanho de um homem entregar a filha pra fechar
+a conta. E o prazo era outubro.
 
 Josh pôs a quantia da herança da carta contra o
 tamanho da dívida que ele tinha ouvido na

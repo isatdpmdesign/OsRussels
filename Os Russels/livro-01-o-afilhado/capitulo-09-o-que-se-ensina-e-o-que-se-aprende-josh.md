@@ -10,7 +10,7 @@
 
 As aulas se tornaram o centro secreto dos dias de Josh.
 
-Não o centro oficial — oficialmente, o centro dos dias era o estudo. As tardes no escritório de Raj, onde Montesquieu dava lugar a Rousseau e Rousseau a Hegel e Josh sentia o cérebro se expandir como um músculo que finalmente encontrou o peso certo. As manhãs na biblioteca, onde devorava tudo o que as estantes ofereciam com a voracidade de quem passou anos com fome. As noites à escrivaninha, onde as cartas a Casandra iam ficando mais longas e mais vagas ao mesmo tempo: mais longas sobre filosofia e política e a universidade que se aproximava, mais vagas sobre tudo o mais.
+Não o centro oficial — oficialmente, o centro dos dias era o estudo. As tardes no escritório de Raj, onde Montesquieu dava lugar a Rousseau e Rousseau a Hegel e Josh sentia o cérebro se expandir como um músculo que finalmente encontrou o peso certo. As manhãs na biblioteca, onde devorava tudo o que as estantes ofereciam com a voracidade de quem passou anos com fome. As noites à escrivaninha, onde as cartas Casandra iam ficando mais longas e mais vagas ao mesmo tempo: mais longas sobre filosofia e política e a universidade que se aproximava, mais vagas sobre tudo o mais.
 
 Mas o centro real, o ponto ao redor do qual tudo girava, o eixo invisível que organizava as horas, eram os quarenta minutos depois das aulas de francês de Aurora, quando o jardim era só deles e o mundo ficava do outro lado do muro de hera.
 
@@ -148,7 +148,7 @@ E passaram para o assunto dos penteados. Que era marginalmente menos letal.
 
 Houve cinco aulas no total.
 
-Cinco manhãs de junho no jardim, entre roseiras e glicínias, com Kongen como única testemunha: o gato aparecia sempre, instalando-se na sombra mais próxima com a atitude de quem comprou ingresso para a primeira fila. Cinco manhãs em que Josh ensinou Aurora a sorrir, olhar, tocar (em teoria), conversar, se posicionar, e vestir. Cinco manhãs em que Aurora, com a velocidade de aprendizado de alguém que é brilhante por natureza e que apenas precisava de um empurrão, absorveu tudo, questionou tudo, e devolveu a Josh versões melhoradas do que ele ensinara.
+Cinco manhãs de junho no jardim, entre roseiras e glicínias, com Kongen como única testemunha: o gato aparecia sempre, instalando-se na sombra mais próxima com a atitude de quem comprou ingresso para a primeira fila. Cinco manhãs em que Josh ensinou Aurora a sorrir, olhar, tocar (em teoria), conversar, se posicionar, e vestir. Cinco manhãs em que Aurora, com a velocidade de aprendizado de alguém que é brilhante por natureza e que apenas precisava de um empurrão, absorveu tudo, questionou tudo, e devolveu Josh versões melhoradas do que ele ensinara.
 
 E entre as aulas (nas manhãs na cozinha, nos jantares, nos encontros nos corredores) a coisa entre eles mudou.
 
@@ -284,7 +284,7 @@ Ele propusera ajudar Aurora a conquistar rapazes. Aurora estava conquistando um 
 
 Josh olhou para Aurora. Aurora estava rindo de algo que Erik dizia e não olhava na direção de Josh. Talvez não soubesse que ele olhava. Talvez não se importasse. Talvez estivesse tão absorta no rapaz de cabelos castanhos e olhos escuros e fortuna considerável que Josh (o professor, o rapaz do campo, o afilhado de passagem) tivesse se tornado irrelevante.
 
-— Claro — disse Josh a Frederikke.
+— Claro — disse Josh Frederikke.
 
 Dançaram. Frederikke era boa dançarina — fluida, leve, com uma capacidade de conversação durante a dança que era genuinamente impressionante. Falou sobre a temporada. Sobre Berlim, onde estivera no inverno. Sobre um livro de poesia que lera. Fez perguntas sobre a universidade. Tocou o ombro de Josh ao mudar de direção. Riu de algo que ele disse.
 
@@ -300,7 +300,7 @@ Voltaram à meia-noite.
 
 Na carruagem, Raj estava mais do que satisfeito: estava radiante, na medida contida em que Raj podia ser radiante.
 
-— Erik Mortensen — disse ele, dirigindo-se a Eleonora com uma satisfação que não tentava esconder. — Rapaz excelente. Estudou em Berlim, fala três línguas, e tem uma propriedade considerável na Jutlândia. Ingrid me disse que ele se interessou por Aurora. Dançaram duas vezes.
+— Erik Mortensen — disse ele, dirigindo-se Eleonora com uma satisfação que não tentava esconder. — Rapaz excelente. Estudou em Berlim, fala três línguas, e tem uma propriedade considerável na Jutlândia. Ingrid me disse que ele se interessou por Aurora. Dançaram duas vezes.
 
 — Duas vezes — repetiu Eleonora, que entendia o significado de duas danças na aritmética social de Copenhague: uma era cortesia, duas era intenção.
 
@@ -308,7 +308,7 @@ Josh olhou pela janela. A noite de junho era absurdamente clara: aquela meia-luz
 
 Aurora estava em silêncio. Josh sentia-a no banco ao lado (os quarenta centímetros, a presença, o perfume de jasmim que era ao mesmo tempo familiar e insuportável) e não olhava para ela. Não confiava no que seu rosto diria se olhasse.
 
-— E você, Joshua? — disse Raj. — Vi que dançou com a Frederikke Mikkelsen.
+— E você, Joshua? — disse Raj. — Vi que dançou com Frederikke Mikkelsen.
 
 — Sim, senhor.
 
@@ -362,7 +362,7 @@ Josh ficou no hall. Olhou para a escada vazia. Olhou para as próprias mãos: se
 
 A palavra ecoou no hall vazio. O espelho de moldura dourada devolveu o reflexo de um rapaz de vinte e um anos com olheiras e os ombros caídos e uma expressão que era, sem margem de dúvida, a expressão de alguém que acaba de perceber que construiu uma ponte para outra pessoa atravessar e que ficou do lado errado.
 
-Josh subiu a escada. Entrou no quarto. Não acendeu a vela. Não se sentou à escrivaninha. Não escreveu a Casandra.
+Josh subiu a escada. Entrou no quarto. Não acendeu a vela. Não se sentou à escrivaninha. Não escreveu Casandra.
 
 Deitou-se vestido na cama. Fechou os olhos.
 

@@ -164,7 +164,7 @@ Josh sentiu algo gelado percorrer a espinha.
 
 — Perguntou o quê?
 
-— Como ele era. O que gostava. Como era a relação entre nós. Ninguém em Copenhague me pergunta sobre Aarav. Ninguém. As pessoas falam dele como se fosse um assunto proibido. Como se mencionar o nome dele fosse me machucar. — Aurora olhou para a caneca com uma expressão que Josh não via há semanas: vulnerabilidade sem armadura, a Aurora da biblioteca, a dos olhos vermelhos. — Mas Erik perguntou. E eu respondi. E foi... bom. Foi como abrir uma janela num quarto que estava fechado há muito tempo.
+— Como ele era. O que gostava. Como era a relação entre nós. Ninguém em Copenhague me pergunta sobre Aarav. Ninguém. As pessoas falam dele como se fosse um assunto proibido. Como se mencionar o nome dele fosse me machucar. — Aurora olhou para a caneca com uma expressão que Josh não via há semanas: vulnerabilidade sem armadura, Aurora da biblioteca, a dos olhos vermelhos. — Mas Erik perguntou. E eu respondi. E foi... bom. Foi como abrir uma janela num quarto que estava fechado há muito tempo.
 
 Josh ficou em silêncio por muito tempo depois disso.
 
@@ -186,7 +186,7 @@ O silêncio, a ausência da última coisa, foi mais alto do que qualquer palavra
 
 *
 
-Josh escreveu a Casandra naquela noite. Não a carta habitual: a carta de novidades e monossílabos e evasivas sobre a filha do padrinho. Uma carta diferente. Uma carta que ele jamais enviaria.
+Josh escreveu Casandra naquela noite. Não a carta habitual: a carta de novidades e monossílabos e evasivas sobre a filha do padrinho. Uma carta diferente. Uma carta que ele jamais enviaria.
 
 *Querida mãe,*
 
@@ -194,7 +194,7 @@ Josh escreveu a Casandra naquela noite. Não a carta habitual: a carta de novida
 
 *Não errado como roubar ou mentir, embora talvez seja mentir, de certo modo. Estou usando o que sei para influenciar alguém. Estou dando conselhos que são verdadeiros na superfície e envenenados por baixo. Estou fazendo isso porque não suporto ver a pessoa de quem gosto se aproximar de outra pessoa. E o pior, o verdadeiramente pior, é que a pessoa de quem gosto confia em mim. Confia nos meus conselhos. Usa o que eu digo para tomar decisões que afetam a vida dela. E eu estou traindo essa confiança cada vez que abro a boca.*
 
-*A senhora diria que eu sei o que fazer. E eu sei. Sei que deveria parar. Sei que deveria deixar as coisas seguirem o curso natural. Sei que esse rapaz, o Erik, é provavelmente bom para ela. Sei que ele perguntou sobre Aarav quando eu nunca tive coragem de perguntar. Sei que ele faz ela rir e falar sobre coisas que ela não fala com mais ninguém.*
+*A senhora diria que eu sei o que fazer. E eu sei. Sei que deveria parar. Sei que deveria deixar as coisas seguirem o curso natural. Sei que esse rapaz, Erik, é provavelmente bom para ela. Sei que ele perguntou sobre Aarav quando eu nunca tive coragem de perguntar. Sei que ele faz ela rir e falar sobre coisas que ela não fala com mais ninguém.*
 
 *Mas eu também sei que ela sentiu minha falta quando eu não desci para o café. E sei que ela me pediu para não fazer de novo. E sei que quando ela olha para mim na cozinha às seis da manhã com aqueles olhos que mudam de cor conforme a luz, alguma coisa acontece que eu nunca senti antes e que não consigo descrever e que me assusta porque é enorme.*
 
