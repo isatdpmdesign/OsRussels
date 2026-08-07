@@ -1,4 +1,12 @@
-# Capítulo 38 — O casamento
+# OS RUSSELS — Livro I
+
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 38 — O casamento
 
 Aurora acordou no quarto da Meridiana com o
 cheiro de maçã madura entrando pela janela,
@@ -12,7 +20,7 @@ Era o dia.
 
 Ficou deitada um minuto inteiro sem se mexer,
 ouvindo a fazenda acordar lá embaixo: o balde
-no poço, Kongen latindo uma vez só (o latido
+no poço, Gorm latindo uma vez só (o latido
 de velho, protocolar), a voz do Matias
 atravessando o terreiro com alguma pergunta, a
 voz da Casandra respondendo da cozinha, o
@@ -376,7 +384,7 @@ esconder de ninguém.
 
 O pomar veio abaixo.
 
-Dylan assobiou. Matias pulou no banco. Kongen,
+Dylan assobiou. Matias pulou no banco. Gorm,
 de velho que era, latiu duas vezes.
 
 E a Liv, que era jovem e não entendia

@@ -1,4 +1,12 @@
-# Capítulo 33 — A confissão
+# OS RUSSELS — Livro I
+
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 33 — A confissão
 
 Aurora escolheu a hora da manhã.
 

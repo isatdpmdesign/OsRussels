@@ -1,4 +1,12 @@
-# Capítulo 37 — A carta de Sorø
+# OS RUSSELS — Livro I
+
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 37 — A carta de Sorø
 
 A mala da Vibeke ficou pronta na quinta.
 
@@ -475,7 +483,7 @@ ombros de sempre; Meridiana descalça com um
 ramo de macieira na mão; Matias pulando no
 lugar sem conseguir parar; Dylan com um
 sorriso que anunciava uma piada já carregada;
-e os dois cães, Kongen deitado e Liv correndo
+e os dois cães, Gorm deitado e Liv correndo
 em círculo, latindo pro mundo.
 
 A carruagem parou.

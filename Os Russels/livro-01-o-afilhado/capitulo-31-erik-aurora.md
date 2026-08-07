@@ -1,4 +1,12 @@
-# Capítulo 31 — Erik
+# OS RUSSELS — Livro I
+
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 31 — Erik
 
 O café da manhã durou o que sempre durava, e nada
 do que tinha mudado dentro da Aurora desde a noite

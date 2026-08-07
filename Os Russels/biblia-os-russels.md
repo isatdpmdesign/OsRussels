@@ -71,7 +71,7 @@ Moram no campo da Zelândia, perto de Sorø. Propriedade rural. Vida simples mas
 5. **Matias** — 13 anos, caçula. Não sabe disfarçar emoções. Faz perguntas profundas à noite.
 
 > **Idades canônicas (1830, presente da história):** Joseph 24, Josh 21, Meridiana 20, Dylan 19, Matias 13. Na morte do Henrik (~4 anos antes): Joseph 20, Josh 17, Meridiana 16, Dylan 15, Matias 9 (Cap 20:199; Cap 02:39).
-> **Propriedade de Sorø:** pomar de macieiras (a velha Berta), 14 vacas, 3 cabras, dois cães — **Kongen** (velho) e **Liv** (jovem, mordedora) (Cap 21:141). ⚠️ *Colisão de nome: o cão **Kongen** da fazenda tem o mesmo nome do gato cinzento de Fru Larsen na Bredgade (Cap 03:163) — provável reuso não intencional; decidir com a autora se renomeia o cão no texto.*
+> **Propriedade de Sorø:** pomar de macieiras (a velha Berta), 14 vacas, 3 cabras, dois cães — **Gorm** (velho) e **Liv** (jovem, mordedora) (Cap 21:141). *(O cão se chamava Kongen até agosto/2026, mesmo nome do gato da Bredgade; renomeado para **Gorm** — por Gorm den Gamle, "Gorm o Velho", primeiro rei da Dinamarca, preservando a piada do nome antigo e a idade do cão.)*
 
 ---
 
@@ -137,7 +137,7 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 
 ## Equipe da Casa Svensson
 
-- **Fru Larsen** — Cozinheira, ~60 anos. Baixa, larga, mãos vermelhas, olhos azuis claríssimos. Governa a cozinha como general. Mesa posta às 7:45 em ponto. Gato chamado **Kongen** ("O Rei") — enorme, cinzento. ⚠️ *Mesmo nome do cão velho da fazenda em Sorø (Cap 21:141) — ver alerta na família Russel.*
+- **Fru Larsen** — Cozinheira, ~60 anos. Baixa, larga, mãos vermelhas, olhos azuis claríssimos. Governa a cozinha como general. Mesa posta às 7:45 em ponto. Gato chamado **Kongen** ("O Rei") — enorme, cinzento.
 - **Helle** — Criada de quarto, ~20 e poucos. Bochechas de maçã, tímida, cora quando Josh olha para ela. Cantarola ao arrumar quartos. Deixa a porta lateral destrancada para Josh à noite por iniciativa própria.
 - **Fru Dahl** — Governanta/professora. Magra, angular, óculos que escorregam pelo nariz. Paciência inesgotável. Ensina francês a Aurora.
 

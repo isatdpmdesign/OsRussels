@@ -1,4 +1,12 @@
-# Capítulo 34 — Højbro
+# OS RUSSELS — Livro I
+
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 34 — Højbro
 
 O bilhete do Raj chegou no Regensen no dia
 seguinte à carta que Josh tinha mandado, entregue

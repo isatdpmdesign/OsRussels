@@ -1,4 +1,12 @@
-# Capítulo 32 — As portas fechadas
+# OS RUSSELS — Livro I
+
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 32 — As portas fechadas
 
 A noite do Regensen foi a primeira em que Josh
 ouviu o sino da igreja de São Pedro tocar onze

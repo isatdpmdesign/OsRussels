@@ -1,6 +1,14 @@
-# Capítulo 39 — Coda
+# OS RUSSELS — Livro I
 
-## I. A Bredgade
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 39 — Coda
+
+#### I. A Bredgade
 
 A primeira manhã de casados na Bredgade começou
 às cinco e quarenta e cinco, porque algumas
@@ -145,7 +153,7 @@ janela, a mãe ergueu a xícara meio centímetro.
 Era o idioma delas agora. Aurora não trocava
 por nenhum outro.
 
-## II. Sorø
+#### II. Sorø
 
 Um ano e meio depois, na primavera de mil
 oitocentos e trinta e dois, Aurora Russel
@@ -292,7 +300,7 @@ entre uma visita e outra o Aarav ia ficar bem,
 porque quem morre não vai embora: muda de
 cômodo.
 
-## III.
+#### III.
 
 A tarde de setembro estava dourada em cima do
 lago quando Aurora saiu na varanda com a

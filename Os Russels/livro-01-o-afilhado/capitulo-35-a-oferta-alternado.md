@@ -1,6 +1,14 @@
-# Capítulo 35 — A oferta
+# OS RUSSELS — Livro I
 
-## Josh
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 35 — A oferta
+
+#### Josh
 
 Josh chegou na Bredgade às nove e cinquenta.
 
@@ -231,7 +239,7 @@ Josh continuou.
 
 Aurora endireitou a coluna sem perceber.
 
-## Aurora
+#### Aurora
 
 Aurora sabia o que vinha agora. Tinha combinado
 com Josh por carta, três dias antes, que essa
@@ -511,7 +519,7 @@ Aurora chorou de novo. Não fez força pra segurar.
 
 *
 
-## Josh
+#### Josh
 
 Josh saiu da Bredgade meia hora depois, com o
 plano de carreira dobrado no bolso do peito, sem

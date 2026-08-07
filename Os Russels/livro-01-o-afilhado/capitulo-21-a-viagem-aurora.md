@@ -1,4 +1,4 @@
-    # OS RUSSELS — Livro I
+# OS RUSSELS — Livro I
 
 ## O Afilhado
 
@@ -138,7 +138,7 @@ No jantar, Josh apareceu como sempre nos últimos cinco meses (no horário, com 
 
 Ninguém desconfiou de nada, porque Josh manteve as aparências e Vibeke ajudou sem saber que estava ajudando, perguntando sobre absolutamente tudo que pudesse passar em seu cérebro hiperativo, desfocando, dessa forma, a atenção de todos.
 
-Como havia avisado pra Aurora que perguntaria, virou-se pro Josh com a primeira da noite: Casandra cavalgava? (Josh: às vezes, sim, mas mais por necessidade do que por prazer.) Tinha cachorro? (Josh: dois — o Kongen, velho, e a Liv, jovem, mordedora.) Vaca? (Josh: catorze.) Ovelha? (Josh: não, mas tinha cabra, três.) Pernilongo?
+Como havia avisado pra Aurora que perguntaria, virou-se pro Josh com a primeira da noite: Casandra cavalgava? (Josh: às vezes, sim, mas mais por necessidade do que por prazer.) Tinha cachorro? (Josh: dois — o Gorm, velho, e a Liv, jovem, mordedora.) Vaca? (Josh: catorze.) Ovelha? (Josh: não, mas tinha cabra, três.) Pernilongo?
 
 Josh demorou meio segundo a responder essa.
 

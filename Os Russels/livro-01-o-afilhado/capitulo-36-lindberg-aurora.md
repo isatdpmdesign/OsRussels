@@ -1,4 +1,12 @@
-# Capítulo 36 — Lindberg
+# OS RUSSELS — Livro I
+
+## O Afilhado
+
+*Dinamarca, 1830*
+
+---
+
+### Capítulo 36 — Lindberg
 
 Na segunda de manhã, a Bredgade acordou em
 silêncio de véspera de batalha.
