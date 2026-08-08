@@ -433,7 +433,7 @@ Aurora.
 tempo você ia fingir que ia.
 
 Aurora procurou a mãe por cima do ombro, num
-reflexo antigo, o reflexo de dezessete anos de
+reflexo antigo, o reflexo de dezoito anos de
 Bredgade.
 
 Eleonora estava sentada ao lado da Casandra,

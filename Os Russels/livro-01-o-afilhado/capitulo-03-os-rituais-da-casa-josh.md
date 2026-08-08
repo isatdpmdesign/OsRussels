@@ -192,7 +192,7 @@ Ele sabia o número porque, nas cartas que escrevia à mãe todas as noites, sen
 
 *A filha...*
 
-Josh parava sempre nesse ponto. Molhava a pena. Olhava para o teto. Tentava encontrar as palavras certas para descrever Aurora Svensson para Casandra Russel sem que a mãe, que lia pessoas como Josh lia paisagens, percebesse que o filho estava pensando demais numa garota de dezesseis anos que não lhe dava a hora do dia.
+Josh parava sempre nesse ponto. Molhava a pena. Olhava para o teto. Tentava encontrar as palavras certas para descrever Aurora Svensson para Casandra Russel sem que a mãe, que lia pessoas como Josh lia paisagens, percebesse que o filho estava pensando demais numa garota de dezessete anos que não lhe dava a hora do dia.
 
 *A filha é educada. Perdeu o irmão há pouco mais de um ano e sente minha presença na casa como uma invasão, o que é compreensível. Estou dando espaço. Ela cuida das roseiras do irmão e bebe chá sem açúcar. Não se preocupe comigo. Estou me adaptando.*
 

@@ -220,7 +220,7 @@ Ingrid continuou comendo o pão.
 
 — Tenho?
 
-— Tem. Você tem dezesseis anos. Você tem dois pais que te adoram. Você tem uma temporada inteira pela frente. Você tem um pretendente que dança valsa e o afilhado do seu pai. Nenhum dos dois vai fugir da Dinamarca essa semana.
+— Tem. Você tem dezessete anos. Você tem dois pais que te adoram. Você tem uma temporada inteira pela frente. Você tem um pretendente que dança valsa e o afilhado do seu pai. Nenhum dos dois vai fugir da Dinamarca essa semana.
 
 Aurora ergueu os olhos. Olhou para Ingrid. Ingrid sustentou o olhar com a calma sólida que era a marca dela.
 
@@ -340,7 +340,7 @@ Raj ergueu os olhos do prato.
 
 — Vibeke?
 
-— Vibeke, minha sobrinha. A filha da Karoline. Você se lembra dela. Tem dezessete anos agora, quase dezoito. Naquela festa em Viborg, há dois anos, no aniversário de oitenta anos da minha mãe, você dançou com ela.
+— Vibeke, minha sobrinha. A filha da Karoline. Você se lembra dela. Tem dezoito anos agora, quase dezoito. Naquela festa em Viborg, há dois anos, no aniversário de oitenta anos da minha mãe, você dançou com ela.
 
 Aurora não olhou para Josh, mas registrou pelo canto do olho que ele tinha parado de cortar o peixe.
 
@@ -434,7 +434,7 @@ Josh ergueu os olhos. Olhou para Raj. Não olhou para Aurora.
 
 Mas tinha comentado.
 
-E Aurora pensou que dali a uma semana dormiria uma prima loira de dezessete anos no quarto azul, ao lado do dela. Uma prima alegre, simples, sem complicações. Uma prima que Eleonora, em três frases num jantar de quarta-feira, já tinha empurrado na direção de Josh. E pensou que, se já tinha sido difícil esconder o cansaço, a culpa, o pedido, o quase e a cozinha que não acontecia mais com Eleonora e Helle por perto, com mais um par de olhos azuis dentro da Bredgade ia ficar pior.
+E Aurora pensou que dali a uma semana dormiria uma prima loira de dezoito anos no quarto azul, ao lado do dela. Uma prima alegre, simples, sem complicações. Uma prima que Eleonora, em três frases num jantar de quarta-feira, já tinha empurrado na direção de Josh. E pensou que, se já tinha sido difícil esconder o cansaço, a culpa, o pedido, o quase e a cozinha que não acontecia mais com Eleonora e Helle por perto, com mais um par de olhos azuis dentro da Bredgade ia ficar pior.
 
 Pior ainda se Eleonora resolvesse ajudar.
 

@@ -208,7 +208,7 @@ sociedade, nem em lugar nenhum.
 sociedade do meu jeito? — A maciez tinha ido
 embora inteira agora. — As pessoas falam,
 Raj. As pessoas já falam. Uma moça de
-dezesseis anos, prometida a um homem
+dezessete anos, prometida a um homem
 respeitável, e de repente a dívida se paga
 sozinha e o afilhado do pai sai da casa no
 meio da noite. Eu não precisaria inventar

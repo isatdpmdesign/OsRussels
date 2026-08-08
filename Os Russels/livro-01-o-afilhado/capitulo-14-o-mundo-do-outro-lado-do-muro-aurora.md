@@ -116,7 +116,7 @@ A festa dos jovens era tudo o que Aurora nunca tivera. Liberdade. Invisibilidade
 
 E (a parte que Aurora tentou não pensar e que seu cérebro, com a teimosia de um gato que sobe onde não deve, insistiu em pensar) a possibilidade de ver como era o mundo em que as outras moças da sua idade já viviam. O mundo de beijos e flertes e toques que não eram exercício no jardim. O mundo que acontecia depois que as cortinas se fechavam e os pais dormiam e a juventude de Copenhague se encontrava para ser jovem de verdade.
 
-Aurora nunca beijara ninguém. Nunca. Em dezesseis anos — quase dezessete — de vida, os lábios de Aurora Svensson nunca tinham tocado outros lábios que não fossem os da mãe na testa e os do pai na bochecha. E isso, que aos catorze era normal e aos quinze era aceitável e aos dezesseis era compreensível, começava a parecer, na proximidade dos dezessete, uma lacuna. Não uma lacuna social. Aurora não se importava com o que a sociedade achava. Uma lacuna pessoal. Uma experiência que todas as outras tinham e ela não. Um capítulo que todas já tinham lido e que ela pulara.
+Aurora nunca beijara ninguém. Nunca. Em dezessete anos — quase dezoito — de vida, os lábios de Aurora Svensson nunca tinham tocado outros lábios que não fossem os da mãe na testa e os do pai na bochecha. E isso, que aos quinze era normal e aos dezesseis era aceitável e aos dezessete era compreensível, começava a parecer, na proximidade dos dezoito, uma lacuna. Não uma lacuna social. Aurora não se importava com o que a sociedade achava. Uma lacuna pessoal. Uma experiência que todas as outras tinham e ela não. Um capítulo que todas já tinham lido e que ela pulara.
 
 Ingrid já beijara. Contara Aurora num sussurro escandalizado há dois anos: um rapaz chamado Peter, filho de um ferreiro, nos fundos de uma igreja durante um festival de São João. *"Foi molhado, confuso, e maravilhoso"*, dissera Ingrid, com os olhos brilhando. *"E eu não me arrependo de nada."*
 
@@ -158,7 +158,7 @@ Josh pousou o livro. A expressão passou de cautelosa a algo que Aurora identifi
 
 Aurora ergueu o queixo.
 
-— A maioria das moças da minha idade vai a essas festas regularmente. Eu nunca fui. A razão pela qual nunca fui é que Aarav me protegia e depois que Aarav se foi não havia quem me desse cobertura. Meus pais são conservadores. Meu pai me ama mas me sufoca. E eu tenho dezesseis anos e nunca dancei sem alguém contando quantas vezes e com quem.
+— A maioria das moças da minha idade vai a essas festas regularmente. Eu nunca fui. A razão pela qual nunca fui é que Aarav me protegia e depois que Aarav se foi não havia quem me desse cobertura. Meus pais são conservadores. Meu pai me ama mas me sufoca. E eu tenho dezessete anos e nunca dancei sem alguém contando quantas vezes e com quem.
 
 Josh a olhou. Aurora sustentou. Sabia o que estava fazendo: sabia que estava pedindo ajuda justamente à pessoa que menos deveria pedir, justamente à pessoa que tinha mais motivos para dizer não, justamente à pessoa que, se fosse egoísta como fora com os conselhos, recusaria com o argumento legítimo de que era perigoso.
 

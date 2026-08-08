@@ -6,7 +6,7 @@
 
 | Personagem | Idade | Fonte |
 |---|---|---|
-| Aurora Svensson | 16, quase 17 | `cap01:169`, `biblia:113` |
+| Aurora Svensson | **17, quase 18** (faz 18 pouco depois do Cap 29) | `cap01:169`, `biblia:119` |
 | Josh Russel | ~21 | `cap01:65`, `biblia:67` |
 | Joseph Russel | 24 | `cap20:125,447` |
 | Meridiana Russel | 20 | `cap20:151,465` |
@@ -16,7 +16,7 @@
 | Raj Svensson | 52 | `cap01:42`, `biblia:79` |
 | Eleonora Bjerg Svensson | ~45 (inferido) | — |
 | Aarav | morto há ~18 meses (vivo no canon do leitor) | `cap01:29` |
-| Vibeke Bjerg | 17, **quase 18 → mais velha que Aurora** | `cap17:165`, `biblia:151` |
+| Vibeke Bjerg | 18, **quase 19 → um ano mais velha que Aurora** | `cap17:165`, `biblia:151` |
 | Erik Mortensen | ~22 (inferido — Berlim, formado) | — |
 | Henning Lindberg | ~55, viúvo | `biblia:178` |
 | Henrik Russel (pai morto) | morreu há 4 anos, Matias com 9, Josh com 17 | `cap02:39`, `cap20:199` |
@@ -55,7 +55,7 @@
 | Cap 22: chegada em Sorø, dia 1 dos 14 | Segunda à noite | `cap22` |
 | Cap 23: dias 2–8 condensados; cabra-cega no dia 8 (domingo) | Sorø | `cap23` |
 | Cap 24: dia 11 — lago + quarto à noite | Sorø | `cap24` |
-| Cap 25 (a escrever): última manhã, dia 14 — partida | Sorø → Copenhague | (plano) |
+| Cap 25: última manhã, dia 14 — partida; Casandra manda Josh ler a carta | Sorø → Copenhague | `cap25` |
 | Cap 26: chegada Bredgade, Josh entra no quarto Aurora, abre carta, soco no Lindberg, vai pro Regensen | Copenhague, dia da volta + dia seguinte | `cap26` |
 | Cap 27: anúncio do casamento na sala, Vibeke contesta, visita do Lindberg, Josh sai pro Regensen | Copenhague, dia seguinte à chegada | `cap27` |
 | Cap 28: Aurora acorda, descobre Josh foi pro Regensen, confronta Raj, vai ao Regensen à noite | Copenhague, mais um dia depois | `cap28` |
@@ -63,7 +63,13 @@
 | Cap 30: amanhecer na Bredgade, conversa Aurora-Vibeke, Eleonora percebe no café | Copenhague, segunda de manhã | `cap30` |
 | Cap 31: Erik volta, despedida digna; Ingrid reata; carta do Josh chega via Helle | Copenhague, mesmo dia do Cap 30 | `cap31` |
 | Cap 32: Josh batendo em portas comerciais, Sørensen aceita; carta da Aurora confirma joias Bjerg | Copenhague, dias 1-11 das seis semanas | `cap32` |
-| Caps 33-39 (a escrever): seis semanas + casamento em Sorø + coda | (plano) | |
+| Cap 33: Aurora confessa à Eleonora; as joias Bjerg | Copenhague | `cap33` |
+| Cap 34: saque conjunto na casa comercial da Højbro | Copenhague | `cap34` |
+| Cap 35: a oferta ao Raj; pedido da mão em gesto separado | Copenhague | `cap35` |
+| Cap 36: Lindberg dispensado, sai de cena | Copenhague | `cap36` |
+| Cap 37: a carta de Sorø | Copenhague | `cap37` |
+| Cap 38: o casamento no pomar | Sorø | `cap38` |
+| Cap 39: coda — a ilha remota, o marinheiro magro | onisciente | `cap39` |
 
 ## Casas (geografia)
 

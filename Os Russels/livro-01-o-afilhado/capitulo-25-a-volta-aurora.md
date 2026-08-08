@@ -481,7 +481,7 @@ Foi assim que Aurora dormiu na carruagem.
 
 Não tinha planejado dormir. Mas dormiu. O sono caiu nela com o tipo
 de exaustão que treze dias de paixão acumulada acaba produzindo num
-corpo de dezesseis anos, e Aurora dormiu profundo, com a mão na mão
+corpo de dezessete anos, e Aurora dormiu profundo, com a mão na mão
 do Josh e a cabeça no ombro dele, com o cheiro do linho dele entrando
 pelo nariz dela a cada respiração.
 

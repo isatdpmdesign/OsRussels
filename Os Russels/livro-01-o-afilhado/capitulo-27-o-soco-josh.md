@@ -152,7 +152,7 @@ pode. Aurora não...
 
 — Por quê, tia? — Vibeke virou pra Eleonora com
 uma desfaçatez que Josh nunca tinha visto nela. —
-Por que eu não posso dizer? Aurora tem dezesseis
+Por que eu não posso dizer? Aurora tem dezessete
 anos. Esse homem tem cinquenta e quantos? Esse
 homem é mais velho que o senhor, tio Raj. Aurora é
 uma criança. Aurora não sabe o que é casar com
@@ -195,7 +195,7 @@ Voltou pro Raj.
 
 — Que ela é nova demais — disse Vibeke, e foi uma
 recuperação decente pra alguém apavorada. — Que
-ela tem dezesseis anos e o coração dela ainda é de
+ela tem dezessete anos e o coração dela ainda é de
 menina e que esse homem é velho e ela merece...
 ela merece escolher.
 

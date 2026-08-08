@@ -513,7 +513,7 @@ o que é ser mulher com um homem.
 não fala isso.
 
 — Vai ser ele, Josh. E eu não quero que seja. Eu
-vou ter dezessete anos recém-feitos quando isso
+vou ter dezoito anos recém-feitos quando isso
 acontecer. E eu não escolhi. Eu não vou ter
 escolhido nada na minha vida quando aquela porta
 fechar atrás de mim e do Lindberg na noite de
@@ -552,10 +552,10 @@ devagar dentro da mão dela.
 
 — Eu sou uma mulher que vai casar em seis semanas.
 
-— Você só tem dezesseis anos e eu tenho vinte e
+— Você só tem dezessete anos e eu tenho vinte e
 um.
 
-— E eu vou fazer dezessete daqui a um mês. Um mês,
+— E eu vou fazer dezoito daqui a um mês. Um mês,
 Josh. E quando aquela noite chegar com o Lindberg,
 eu vou ter minha primeira vez com um homem de
 cinquenta anos.
@@ -793,7 +793,7 @@ Devagar.
 
 Aurora fechou os olhos. A respiração dela ficou
 entrecortada por um motivo que ela não tinha tido
-em dezesseis anos e onze meses inteiros. A boca
+em dezessete anos e onze meses inteiros. A boca
 dele percorreu o centro do corpo, descendo pelo
 esterno, contornando a curva do peito, pousando na
 ponta do seio e ficando ali um instante, e Aurora

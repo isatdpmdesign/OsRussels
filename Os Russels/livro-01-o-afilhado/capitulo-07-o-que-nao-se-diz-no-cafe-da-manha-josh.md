@@ -128,7 +128,7 @@ A última palavra saiu com um peso que fez Josh apertar a caneca.
 
 *Complicação.*
 
-Aurora Svensson se via como uma complicação. Não como uma garota de dezesseis anos com olhos de mel e uma inteligência afiada e uma coragem silenciosa que seria capaz de pôr de joelhos qualquer homem com meio cérebro. Uma complicação. Uma equação que não fecha. Um problema para o qual a sociedade não tem solução.
+Aurora Svensson se via como uma complicação. Não como uma garota de dezessete anos com olhos de mel e uma inteligência afiada e uma coragem silenciosa que seria capaz de pôr de joelhos qualquer homem com meio cérebro. Uma complicação. Uma equação que não fecha. Um problema para o qual a sociedade não tem solução.
 
 Josh sentiu a raiva de novo. A raiva limpa. Não contra Aurora. Contra tudo ao redor dela.
 

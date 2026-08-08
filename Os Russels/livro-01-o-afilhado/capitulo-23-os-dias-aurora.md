@@ -36,7 +36,7 @@ Casandra parou. Virou meio rosto. Olhou pra Aurora com aquela atenção que Josh
 
 — Lava a mão, então. E tira esse anel, que massa entra embaixo e fica.
 
-Aurora tirou o anel. Lavou a mão na bacia. E pela primeira vez na vida enfiou os dez dedos numa massa de pão, e a massa era quente, e grudava, e tinha vida própria, e resistia, e Casandra ficou do lado dela dizendo *mais firme, sem medo, a massa não quebra, você é que está com dó* — e Aurora, que tinha passado dezesseis anos aprendendo a tocar as coisas com a ponta dos dedos pra não estragar, aprendeu naquela cozinha que tinha coisa no mundo que pedia a mão inteira.
+Aurora tirou o anel. Lavou a mão na bacia. E pela primeira vez na vida enfiou os dez dedos numa massa de pão, e a massa era quente, e grudava, e tinha vida própria, e resistia, e Casandra ficou do lado dela dizendo *mais firme, sem medo, a massa não quebra, você é que está com dó* — e Aurora, que tinha passado dezessete anos aprendendo a tocar as coisas com a ponta dos dedos pra não estragar, aprendeu naquela cozinha que tinha coisa no mundo que pedia a mão inteira.
 
 Quando o pão entrou no forno, Aurora tinha farinha até o cotovelo e uma satisfação no peito que ela não soube nomear.
 

@@ -116,7 +116,7 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - **Importante:** dentro do Livro 1, nenhum personagem suspeita. O luto é tratado como definitivo. A coda é só para o leitor.
 
 ### Aurora Svensson (protagonista feminina Livro 1)
-- 16 anos, quase 17. Fase de debutar
+- **17 anos, quase 18.** Fase de debutar. Completa 18 pouco depois do Regensen (Cap 29)
 - Mestiça indo-dinamarquesa. Rosto oval, maçãs levemente altas
 - **Olhos:** grandes, amendoados, castanhos mel/âmbar — mudam com a luz (escuros na penumbra, dourados ao sol). Cílios escuros e espessos
 - **Lábios:** cheios, generosos, rosado escuro. Mais proeminentes que dinamarquesas
@@ -154,7 +154,7 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 ### Vibeke Bjerg
 
 - **Prima de Aurora pelo lado da Eleonora.** Filha de **Karoline Bjerg** (irmã da Eleonora) casada em **Viborg**, Jutlândia
-- **17 anos, quase 18** — pouco mais velha do que Aurora
+- **18 anos, quase 19** — um ano mais velha do que Aurora
 - Loira, alta. Alma fácil, alegre sem ironia, espontânea. **Inteligente disfarçada de espontaneidade** (observação do Josh no Cap 17)
 - Chega à Bredgade numa quarta-feira de agosto às 11:15 (Cap 17). Vai ficar **dois meses**
 - **Está apaixonada por Lauritz Brandt**, de Viborg/Skive, e fala dele compulsivamente quando fica nervosa. Para ela está fechado, mas o Lauritz ainda não pediu formalmente — por isso Viborg ainda não considera oficial

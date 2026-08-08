@@ -290,7 +290,7 @@ Josh registrou o nome. Já o ouvira uma vez, no escritório, numa frase casual d
 
 — Aurora não tem nada com isso — disse Raj.
 
-— Aurora vai ter tudo com isso se ficar nesta casa nas próximas semanas. — A voz da Eleonora estava firme de um jeito que Josh não conhecia. — Você vai receber Lindberg aqui. Vai receber os homens dele. Vai ter conversa de devedor e credor na sua biblioteca, na sua sala de jantar, no seu escritório, com números em cima da mesa e tom de quem está perdendo. Vocês vão discutir, vão ameaçar sua vida se você não garantir que vai pagar a dívida. E Aurora tem dezesseis anos, os olhos mais afiados desta casa e os ouvidos mais apurados. Ela vai entender em três dias o que está acontecendo. E aí, Raj, me escuta bem: ela não vai ficar só com medo. Ela vai ficar apavorada e vai querer ajudar.
+— Aurora vai ter tudo com isso se ficar nesta casa nas próximas semanas. — A voz da Eleonora estava firme de um jeito que Josh não conhecia. — Você vai receber Lindberg aqui. Vai receber os homens dele. Vai ter conversa de devedor e credor na sua biblioteca, na sua sala de jantar, no seu escritório, com números em cima da mesa e tom de quem está perdendo. Vocês vão discutir, vão ameaçar sua vida se você não garantir que vai pagar a dívida. E Aurora tem dezessete anos, os olhos mais afiados desta casa e os ouvidos mais apurados. Ela vai entender em três dias o que está acontecendo. E aí, Raj, me escuta bem: ela não vai ficar só com medo. Ela vai ficar apavorada e vai querer ajudar.
 
 Silêncio. Josh ouviu Raj sentar. A poltrona perto da janela estalou de leve.
 

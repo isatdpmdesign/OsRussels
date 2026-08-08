@@ -37,9 +37,10 @@
 
 | Decisão | Detalhe | Data |
 |---|---|---|
+| **Aurora tem 17, quase 18** (era 16, quase 17) | Envelhecida em ago/2026. Faz 18 pouco depois do Regensen (Cap 29). Aplicado em 26 pontos de 17 capítulos: sempre número, nunca engrenagem — a idade é usada como **argumento** do Josh (as três paredes, o pomar, o Regensen), e o argumento continua de pé aos 17. A distância dele cai de cinco anos para quatro. **Vibeke sobe junto** para 18, quase 19, e segue um ano mais velha. Debut passa a ser aos 17. | ago/2026 |
 | **Idade Matias = 13** (não 16) | `cap02:39` e `cap20:199`: Matias tinha 9 na morte do Henrik, há 4 anos. | jun/2026 |
 | **Idades dos Russel** | Joseph 24, Josh 21, Meridiana 20, Dylan 19, Matias 13. | jun/2026 |
-| **Vibeke é mais velha que Aurora** | Vibeke 17 quase 18, Aurora 16 quase 17 (`cap17:165`). A fala da Eleonora *"Você é mais ajuizada do que ela"* (cap21:319) é sobre juízo, não idade. | jun/2026 |
+| **Vibeke é mais velha que Aurora** | Vibeke 18 quase 19, Aurora 17 quase 18 (`cap17:165`). A fala da Eleonora *"Você é mais ajuizada do que ela"* (cap21:319) é sobre juízo, não idade. | jun/2026 |
 | **Joseph ruivo, olhos azuis** | (não loiro/olhos verdes). Corpo do Livro 2 dele. | jun/2026 |
 | **Matias loiríssimo, olhos azuis quase cinza** | (não loiro/olhos verdes). Chama a mãe de "mãe", não "Casandra". | jun/2026 |
 | **Beijo do Cap 19 = sala de estar** | Não biblioteca. Biblioteca aparece como referência a outra noite (Aurora chorou lá). | jun/2026 |

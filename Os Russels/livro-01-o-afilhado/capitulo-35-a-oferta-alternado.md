@@ -328,7 +328,7 @@ Aurora olhou pro pai.
 
 O rosto do Raj mudou de um jeito muito pequeno que
 só Aurora conseguia ver, porque só Aurora tinha
-visto aquele rosto durante dezessete anos de
+visto aquele rosto durante dezoito anos de
 perto. Foi um alívio contido. Foi um homem
 soltando meses de aflição na esquina de meio
 milímetro da boca dele, sem chorar, sem sorrir,

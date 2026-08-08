@@ -226,7 +226,7 @@ Josh assentiu. Não disse nada. Não pediu perdão. Não implorou. Não disse *e
 
 Aurora abriu a porta. Saiu. Fechou atrás de si.
 
-No corredor, encostou-se na parede. O coração batia tão forte que ela sentia nas têmporas. As mãos tremiam. As mãos que não tremiam, que seguravam tesouras de poda e canecas de chá e a postura de dezesseis anos de armadura com firmeza inabalável, tremiam.
+No corredor, encostou-se na parede. O coração batia tão forte que ela sentia nas têmporas. As mãos tremiam. As mãos que não tremiam, que seguravam tesouras de poda e canecas de chá e a postura de dezessete anos de armadura com firmeza inabalável, tremiam.
 
 Caminhou até o quarto. Entrou. Fechou a porta. Não encostou as costas na madeira. Desta vez não. Desta vez foi até a janela. Abriu. O ar de julho, quente, perfumado, carregado do cheiro das roseiras e das glicínias e da cidade e do verão, entrou como uma onda.
 

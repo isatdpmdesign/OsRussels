@@ -241,7 +241,7 @@ Aurora sustentou.
 — Eu entendo.
 
 — Você não entende, Aurora. Você acha que entende.
-Mas você tem dezesseis anos e nunca foi cortada de
+Mas você tem dezessete anos e nunca foi cortada de
 convite. Vai ser feio. Vai demorar. Vai deixar
 marca. Você e o Josh vão sentir. Eu preciso que
 você saiba disso antes que eu diga o que vou dizer.

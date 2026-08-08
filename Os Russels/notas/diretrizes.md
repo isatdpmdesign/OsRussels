@@ -73,7 +73,7 @@ Aplicar isso em todo diálogo Aurora–Josh daqui em diante. Quando outro par es
 ## 2. Canon de personagens
 
 ### Aurora Svensson
-- **16 anos** em 1830. Debutou aos 16 no baile dos Frederiksen (Cap 6).
+- **17 anos, quase 18** em 1830. Debutou aos 17 no baile dos Frederiksen (Cap 6). Completa 18 pouco depois do Regensen.
 - Filha de Raj (indiano dinamarquês) e Eleonora (Bjerg).
 - Irmão Aarav morreu em expedição ao Ceilão — luto vivo, roseiras do jardim são santuário.
 - Treinada por Madame Solberg em maneirismos sociais. Sorriso medido como armadura.
@@ -106,7 +106,7 @@ Como passar ao leitor: tell direto, mas em doses. Não despejar as três frentes
 - Luto pelo Aarav é silencioso, devastador.
 
 ### Vibeke Bjerg
-- **17 anos, quase 18**. Sobrinha da Eleonora — filha da Karoline Bjerg (irmã da Eleonora) de Viborg.
+- **18 anos, quase 19**. Sobrinha da Eleonora — filha da Karoline Bjerg (irmã da Eleonora) de Viborg.
 - Loira, alta, espontânea, inteligente disfarçada de espontaneidade.
 - **Apaixonada por Lauritz Brandt** (família de Skive, terras a oeste, cevada). Está fechada para ele.
 - **INOCENTE** sobre toda a manobra Karoline-Eleonora. Não sabe que está sendo testada pela mãe. Não desconfia da intenção da tia em aproximá-la do Josh.

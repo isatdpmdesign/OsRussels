@@ -6,7 +6,7 @@ Resumo cronológico de cada capítulo com eventos, detalhes canônicos e ganchos
 
 ## Cap 1 — O lugar que ficou vazio (Aurora)
 
-*Março de 1830.* Aurora, 16 anos, no luto pelo Aarav (morto na expedição ao Ceilão). Casa em silêncio, cadeira vazia à mesa de jantar. Raj anuncia que **Casandra Russel** escreveu pedindo que ele receba o filho dela, **Joshua, 21 anos, do interior da Zelândia**, para estudos em Copenhague. Raj é padrinho do Josh. Quinze dias até a chegada. Aurora vai ao jardim falar com o irmão (vento, roseiras).
+*Março de 1830.* Aurora, 17 anos, no luto pelo Aarav (morto na expedição ao Ceilão). Casa em silêncio, cadeira vazia à mesa de jantar. Raj anuncia que **Casandra Russel** escreveu pedindo que ele receba o filho dela, **Joshua, 21 anos, do interior da Zelândia**, para estudos em Copenhague. Raj é padrinho do Josh. Quinze dias até a chegada. Aurora vai ao jardim falar com o irmão (vento, roseiras).
 
 **Detalhes canônicos:** Raj é Kapoor, indiano, veio aos 14 anos. Casado com Eleonora Bjerg. Casandra é viúva há quatro anos. Josh (21) tem três irmãos (Matias 13, Joseph 24, Dylan 19) e uma irmã (Meridiana 20).
 

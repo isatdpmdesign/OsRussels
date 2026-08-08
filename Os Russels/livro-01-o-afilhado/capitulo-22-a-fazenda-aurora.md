@@ -426,7 +426,7 @@ Josh demorou. Olhou pras macieiras. Voltou.
 
 Aurora respirou de leve. Não interrompeu.
 
-— E você tem dezesseis anos.
+— E você tem dezessete anos.
 
 Aurora ficou olhando pra ele.
 
@@ -444,7 +444,7 @@ E entendeu. Não tudo, não em frase fechada, mas o suficiente.
 
 Entendeu que Josh estava perguntando se ela viveria ali. Nesta fazenda. Com Casandra fazendo pão de madrugada, com Meridiana recolhendo ovo antes do sol, com Dylan dizendo que ela era pequena e nada mais. Com Matias mostrando poesia do pai. Sem porcelana, sem lustre, sem cinco talheres de prata por pessoa, sem Eleonora medindo cada respiração à direita do marido. A vida inteira que Josh podia oferecer, que era essa, porque ele não tinha outra pra dar.
 
-E entendeu por que Josh não tinha feito a pergunta. Não era medo da resposta. Era certeza. Era a certeza que ele tinha formado em cinco meses do outro lado da mesa da Bredgade, de casaco preto e gola alta com o bordado da mãe na lapela, de que Aurora merecia coisa melhor do que ele podia oferecer no padrão do mundo dela. Era a certeza, também, que ele acabara de dizer em voz alta: que dezesseis anos era jovem demais pra uma decisão sem desfazer.
+E entendeu por que Josh não tinha feito a pergunta. Não era medo da resposta. Era certeza. Era a certeza que ele tinha formado em cinco meses do outro lado da mesa da Bredgade, de casaco preto e gola alta com o bordado da mãe na lapela, de que Aurora merecia coisa melhor do que ele podia oferecer no padrão do mundo dela. Era a certeza, também, que ele acabara de dizer em voz alta: que dezessete anos era jovem demais pra uma decisão sem desfazer.
 
 E entendeu (Aurora, na grama do pomar, com o pé descalço dele a um centímetro da mão dela, com a fazenda inteira escura em volta dos dois) que ela cabia.
 
@@ -452,7 +452,7 @@ Que tinha desabotoado um casaco que ela nem sabia estar usando.
 
 Que tinha cabido na sopa de cevada, na batata partida ao meio pelo Joseph, na risada do Matias, na zoeira do Dylan, no abraço da Casandra com as duas mãos vermelhas, no silêncio limpo entre Meridiana e ela. Que tinha encaixado com tudo na palavra que ela tinha encontrado no meio do jantar — descansar — e que aquela palavra significava, no fundo, ser ela mesma sem ser corrigida. Sem ser medida. Sem ser olhada como peça difícil de classificar. Aurora não tinha sido julgada por ninguém ali em nenhum segundo do dia inteiro.
 
-E entendeu, por último, uma coisa que Josh tinha errado. Aurora sabia o que sentia. Aurora sabia distinguir. Aurora tinha dezesseis anos e meio, e tinha aprendido, ao longo dos últimos cinco meses olhando Josh atravessar a casa do pai dela, que o que estava sentindo não era primeira coisa nenhuma. Era a única coisa. Aurora não disse isso em voz alta. Não cabia. Mas guardou, dentro, na frase mais limpa que ela tinha guardado na vida: *eu sei. Você está errado nessa parte. Eu sei.*
+E entendeu, por último, uma coisa que Josh tinha errado. Aurora sabia o que sentia. Aurora sabia distinguir. Aurora tinha dezessete anos e meio, e tinha aprendido, ao longo dos últimos cinco meses olhando Josh atravessar a casa do pai dela, que o que estava sentindo não era primeira coisa nenhuma. Era a única coisa. Aurora não disse isso em voz alta. Não cabia. Mas guardou, dentro, na frase mais limpa que ela tinha guardado na vida: *eu sei. Você está errado nessa parte. Eu sei.*
 
 Aurora não pôs nada disso em palavra. Só sentiu. Desceu pelo peito como uma coisa boa que ela não tinha pedido pra carregar.
 

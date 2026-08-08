@@ -358,7 +358,7 @@ Aurora notou pelo som primeiro. O paralelepípedo da cidade era uma coisa; o cas
 
 Aurora descobriu, ali, que tinha esquecido como soava a Dinamarca fora de Copenhague.
 
-Vibeke, na metade da segunda hora, dormiu. Foi de repente, do jeito que jovens de dezessete anos dormem: uma frase começada e não terminada, a cabeça caindo de leve pro lado, e pronto, dormiu. Encostou no ombro de Aurora. Aurora deixou.
+Vibeke, na metade da segunda hora, dormiu. Foi de repente, do jeito que jovens de dezoito anos dormem: uma frase começada e não terminada, a cabeça caindo de leve pro lado, e pronto, dormiu. Encostou no ombro de Aurora. Aurora deixou.
 
 E aí ficou só Aurora e Josh.
 

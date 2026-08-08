@@ -240,7 +240,7 @@ Havia um "mas" que ele não conseguia calar. Um "mas" que tinha olhos de mel e l
 
 Ele estava ali para estudar. Para entrar na universidade. Para honrar o nome da família e construir algo que o pai, Deus o tivesse, ficaria orgulhoso de ver. Estava ali porque a mãe sacrificara economias e orgulho para que ele tivesse a chance que ela nunca teve. Estava ali porque era o filho do meio, o que não tinha terra para herdar nem papel definido para cumprir, e que por isso precisava inventar o próprio caminho.
 
-Não estava ali para ficar fascinado pela filha do padrinho. Por uma garota de dezesseis anos que o detestava. Por uma beleza que não combinava com nada e que por isso combinava com tudo.
+Não estava ali para ficar fascinado pela filha do padrinho. Por uma garota de dezessete anos que o detestava. Por uma beleza que não combinava com nada e que por isso combinava com tudo.
 
 *Não.*
 
