@@ -129,6 +129,16 @@ def main() -> int:
     ultimo = max(c["n"] for c in caps)
 
     p = print
+    if args.md:
+        p("<!-- ARQUIVO GERADO — NÃO EDITE À MÃO -->")
+        p("<!-- python3 .claude/tools/estado.py --projeto \"Os Russels\" --md "
+          "> \"Os Russels/MANIFESTO.md\" -->")
+        p("")
+        p("> **Este painel é calculado**, não mantido à mão. Ele lê os")
+        p("> capítulos e o `livro.yaml` e responde sempre o estado real.")
+        p("> Editar este arquivo não muda nada — a próxima geração")
+        p("> sobrescreve. Para mudar o que ele diz, mude o livro.")
+        p("")
     p(f"\n# Estado — {cfg['projeto']['titulo']} · {cfg['projeto']['obra']}\n")
     total = sum(c["palavras"] for c in caps)
     p(f"**{len(caps)} capítulos · {mil(total)} palavras · "
