@@ -226,10 +226,24 @@ def r_sujeira(cfg, cap, linhas, paras, achados):
             achados.append((i, "sujeira", "espaço duplo"))
 
 
+# Antes de um nome próprio, estas palavras indicam que ele é sujeito ou
+# complemento — não vocativo. Sem isso a regra acusa "— disse Aurora." e
+# "com o Josh." e vira ruído puro.
+ANTES_NAO_E_VOCATIVO = (
+    r"disse|perguntou|respondeu|murmurou|completou|falou|repetiu|"
+    r"continuou|acrescentou|insistiu|cortou|gritou|sussurrou|pensou|"
+    r"[oa]s?|d[oa]s?|pr[oa]s?|com|de|em|n[oa]s?|ao|à|pel[oa]s?|"
+    r"e|ou|que|se|até|contra|sobre|entre|por|sem|tia|tio|senhorita|senhor|"
+    r"sou|é|era|foi|são|somos|eram|seja|virou|chamava|chama"
+)
+
+
 def r_vocativo(cfg, cap, linhas, paras, achados):
+    """Nome próprio no fim de fala sem a vírgula do vocativo."""
     nomes = "|".join(cfg["personagens"]["protagonistas"]
                      + cfg["personagens"]["elenco"])
-    rx = re.compile(rf"[a-zà-ú]\s+({nomes})\s*[.?!]")
+    rx = re.compile(rf"\b(?!(?:{ANTES_NAO_E_VOCATIVO})\b)"
+                    rf"([a-zà-ú]+)\s+({nomes})\s*[.?!]")
     for ini, texto in paras:
         if not e_dialogo(texto):
             continue

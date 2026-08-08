@@ -18,8 +18,9 @@ A primeira luz entrou pela fresta da cortina.
 
 Aurora ficou de olho aberto. O teto do quarto
 dela na Bredgade era branco, com uma rachadura
-fina que ia da cortina até a beirada do lustre. Aurora já tinha contado a
-rachadura cento e cinquenta vezes. Hoje ela
+fina que ia da cortina até a beirada do
+lustre. Aurora já tinha contado a rachadura
+cento e cinquenta vezes. Hoje ela
 contou de novo, sem motivo, só pela companhia que
 contar uma coisa de cabeça faz pra quem não
 quer ainda admitir pra si mesma que está acordada
@@ -31,9 +32,10 @@ Aurora levou a mão até a nuca e sentiu o lugar
 onde a boca de Josh tinha encostado uma hora
 atrás. A pele ardia de leve. Não dor; memória. O
 queixo dela também ardia, do lado esquerdo, onde
-a barba dele tinha raspado. As duas pernas ainda meio bambas. O
-cheiro de Josh no cabelo dela, fumaça baixa de
-tabaco misturado com sabão e suor limpo, era um
+a barba dele tinha raspado. As duas pernas
+ainda meio bambas. O cheiro de Josh no cabelo
+dela, fumaça baixa de tabaco misturado com
+sabão e suor limpo, era um
 cheiro que não saía só com pente.
 
 A torre da igreja na esquina tocou cinco horas.
@@ -195,7 +197,8 @@ Vibeke ficou quieta.
 
 — Falei.
 
-— Caramba, Aurora.
+— Aurora, tem mulher casada há vinte anos que
+nunca disse uma frase dessas em voz alta.
 
 Aurora cobriu a boca com a mão pra rir baixo.
 Vibeke pegou o pulso dela e ficou assim, com a
@@ -255,6 +258,39 @@ demais pra caber no quarto da Aurora às cinco e
 cinco da manhã com a prima do lado e o cocheiro
 do vizinho engatando um cavalo na rua. A frase
 ia ter que esperar a vida pra caber.
+
+E foi ali, no meio da quarta repetição, que a
+outra coisa chegou.
+
+Chegou pelo estômago. O chão do corpo dela cedeu
+um palmo, do jeito que cede quando se erra um
+degrau no escuro. Aurora tinha saído de casa à
+noite. Tinha entrado no quarto de um homem.
+Tinha voltado com o vestido da véspera e a marca
+da barba dele no queixo. E em outubro ia estar
+de pé numa igreja, de branco, ao lado de um
+homem de cinquenta e cinco anos que ia descobrir
+na primeira noite.
+
+Se alguém tivesse visto. Se o Aksel contasse. Se
+a mãe olhasse dois segundos a mais.
+
+Era isso que ninguém dizia sobre coragem: que ela
+não tem volta. Aurora tinha gastado, de
+propósito, a única coisa que aquela casa
+guardava dela pra negociar.
+
+— Vibeke.
+
+— Fala.
+
+— Eu estou com medo agora.
+
+Vibeke não disse que não precisava. Não disse que
+ia dar tudo certo. Só achou a mão da Aurora
+debaixo do cobertor e segurou com as duas.
+
+— Eu ia estranhar se você não estivesse.
 
 — Aurora, eu vou fingir que estou chorando agora
 porque eu não tenho como reagir à altura dessa
@@ -382,7 +418,7 @@ disse Aurora.
 — Eu sei.
 
 — E meus pais lembrando que eu tenho casamento
-marcado com o Lindberg pro mês que vem.
+marcado com o Lindberg pra outubro.
 
 — Aurora — disse Vibeke, agora séria. — Sobre
 isso.
@@ -534,11 +570,15 @@ lado dela.
 — Você vai casar — disse Aurora, animada. —
 Você vai casar com o Lauritz.
 
-— Vou.
+— Vou. Numa igreja pequena de Viborg, com a
+minha mãe reclamando do vestido e o pai do
+Lauritz chorando, porque ele chora em tudo.
 
 — Antes do Natal.
 
-— Antes do Natal.
+— Antes da primeira neve, ele disse. Mas o
+Lauritz sempre promete pro dia mais cedo do que
+dá.
 
 — Vibeke, eu estou tão feliz por você que eu
 nem sei o que fazer com essa felicidade aqui no
@@ -668,16 +708,18 @@ Bateram na porta. Helle.
 Senhorita Vibeke também. Senhora Eleonora pediu
 pra eu chamar as duas mais cedo hoje.
 
-A voz da Helle estava cuidadosa. Helle sabia.
-Helle, que tinha destrancado a porta lateral da
-Bredgade ontem à noite com o aval mudo da
-Aurora, e que tinha esperado a moça voltar pra
-trancar de novo, sabia exatamente onde Aurora
-tinha estado. Helle sabia há tempo, sabia desde
-o primeiro mês na Bredgade quando Aurora descia
-às cinco e quarenta e cinco e Josh estava na
-cozinha. Helle nunca tinha falado uma
-palavra a ninguém. Helle ia pra cova com tudo.
+A voz da Helle estava cuidadosa. Era uma voz que
+não perguntava nada e que sabia tudo.
+
+Tinha sido ela a destrancar a porta lateral na
+noite anterior, com o aval mudo da Aurora. Tinha
+sido ela a esperar acordada pra trancar de novo
+depois. E vinha sendo ela, desde o primeiro mês
+na Bredgade, a criada que via Aurora descer às
+cinco e quarenta e cinco e não comentava com
+ninguém que Josh já estava na cozinha.
+
+Helle ia pra cova com tudo.
 
 — Obrigada, Helle — disse Aurora pela porta.
 
@@ -732,7 +774,7 @@ Natal.
 — A gente vai te transformar em moça que dormiu
 oito horas profundo, Aurora.
 
-— Ótimo.
+— Faz essa mágica.
 
 — Tira essa cara também.
 
@@ -824,7 +866,7 @@ quarta numa segunda.
 simples que estranhar você de cara de quem dormiu
 com homem.
 
-— Pôxa.
+— Pois é.
 
 — Vibeke é prática, Aurora. É só pra isso que eu
 sirvo.
@@ -875,7 +917,13 @@ quem dormiu por anos no mesmo quarto que primas.
 — E uma coisa de cada vez. Primeiro o café.
 Depois a sua mãe. Depois Josh. Depois o resto.
 
-— Uma coisa de cada vez.
+Aurora não repetiu de imediato. Repetir era
+fácil. Ela queria guardar a ordem inteira, na
+ordem certa, pra quando a coragem fraquejasse no
+meio da manhã.
+
+— Uma coisa de cada vez — disse, e era promessa,
+não eco.
 
 Aurora foi até a porta. Pôs a mão na maçaneta.
 Parou.
@@ -937,7 +985,7 @@ Desceu o último lance.
 
 Entrou na sala de café.
 
-Eleonora levantou os olhos do bordado e olhou
+Eleonora levantou os olhos da xícara e olhou
 pra Aurora.
 
 Olhou um segundo.
@@ -966,19 +1014,20 @@ manteiga. Comeu uma mordida.
 
 — Bom dia, Aurora.
 
-Eleonora voltou pro bordado. Raj voltou pro
+Eleonora voltou ao café. Raj voltou pro
 jornal. Vibeke entrou três minutos depois,
 ajeitada do jeito atrapalhado dela, pegou pão,
 pegou queijo, sentou.
 
 E começou o dia.
 
-Mas Aurora sabia, e Eleonora sabia, e Vibeke
-sabia (e Helle, lá no fundo da cozinha, com a
-travessa de leite na mão também sabia, porque
-Helle sabia tudo), que aquele café da segunda de
-manhã não era o mesmo café de qualquer segunda
-de manhã da Bredgade nos últimos cinco meses.
+Mas não era o mesmo café de qualquer segunda de
+manhã da Bredgade nos últimos cinco meses. Aurora
+sabia que não era. E desconfiou, olhando a mãe
+passar manteiga com a precisão de sempre e a
+Helle atravessar a sala com a travessa de leite
+sem olhar pra ninguém, que não era a única na
+casa sabendo.
 
 Era o primeiro café do depois.
 
