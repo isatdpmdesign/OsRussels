@@ -73,7 +73,19 @@ personagens:
 # ── Regras mecânicas: tudo aqui é verificável por máquina ────
 # Nada nesta seção precisa de modelo. É `lint.py` que executa.
 revisao:
-  cota_formulas: 10        # teto de "como quem / do jeito que" por capítulo
+  # Teto das fórmulas "do jeito que faz aquilo" — explicar uma coisa
+  # comparando com outra mais metafórica. É o tique que a autora mais
+  # reconhece como escrita de máquina.
+  #
+  # Medido no livro (ago/2026), em fórmulas por mil palavras:
+  #   caps 1-9    3,6 a 5,7  ← o problema mora aqui, não no final
+  #   caps 14-19  2,3
+  #   caps 32-36  0,6 a 0,9  ← o livro aprendeu sozinho a não fazer
+  #   livro todo  2,5
+  #
+  # A régua é a que os melhores capítulos já cumprem, não uma invenção.
+  cota_formulas_por_mil: 1.0
+  cota_formulas: 10        # teto absoluto por capítulo (rede de segurança)
 
   formulas: '(como quem|do jeito que|a forma como|o modo como|com a [a-zà-ú]+ de quem|como se)'
 

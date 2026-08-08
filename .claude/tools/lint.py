@@ -196,13 +196,27 @@ def r_blacklist(cfg, cap, linhas, paras, achados):
 
 
 def r_formulas(cfg, cap, linhas, paras, achados):
+    """'Fazia isso do jeito que faz aquilo' — explicar comparando.
+
+    Cobrado por taxa, não por número absoluto: capítulo de dez mil
+    palavras tem direito ao dobro de um de cinco mil, e a régua não
+    muda de rigor com o tamanho.
+    """
     rx = re.compile(cfg["revisao"]["formulas"], re.IGNORECASE)
-    cota = cfg["revisao"].get("cota_formulas", 10)
+    palavras = sum(len(t.split()) for _, t in paras) or 1
     total = sum(len(rx.findall(t)) for _, t in paras)
-    if total > cota:
+    taxa = 1000 * total / palavras
+
+    teto_taxa = cfg["revisao"].get("cota_formulas_por_mil")
+    teto_abs = cfg["revisao"].get("cota_formulas")
+
+    if teto_taxa and taxa > teto_taxa:
         achados.append((1, "formulas",
-                        f"{total} fórmulas 'como quem / do jeito que' "
-                        f"(cota: {cota})"))
+                        f"{total} fórmulas em {palavras} palavras = "
+                        f"{taxa:.1f}/mil (teto: {teto_taxa}/mil)"))
+    elif teto_abs and total > teto_abs:
+        achados.append((1, "formulas",
+                        f"{total} fórmulas (teto absoluto: {teto_abs})"))
 
 
 def r_autorreferencia(cfg, cap, linhas, paras, achados):
