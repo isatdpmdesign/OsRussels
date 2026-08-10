@@ -12,7 +12,8 @@ O café da manhã durou o que sempre durava, e nada
 do que tinha mudado dentro da Aurora desde a noite
 anterior atravessou a mesa pra fora.
 
-Raj leu o jornal. Eleonora bordou. Vibeke comeu
+Raj leu o jornal. Eleonora tomou o café dela em
+três goles espaçados. Vibeke comeu
 queijo com casca de pão sem reclamar do queijo, o
 que era a primeira vez em quatro semanas. Aurora
 terminou o pão. Aceitou o café com leite que Helle
@@ -37,9 +38,10 @@ dois segundos.
 
 Raj assentiu uma vez. Saiu.
 
-Eleonora não levantou os olhos do bordado, mas o
-agulhão parou no meio do ponto e ficou ali um
-segundo antes de seguir.
+Eleonora não levantou os olhos da xícara, mas
+pousou ela no pires sem fazer barulho e demorou
+um segundo a mais do que precisava pra soltar a
+alça.
 
 *
 
@@ -53,7 +55,7 @@ na Aurora estava normal, e tudo no jardim parecia
 novo. As roseiras do canto direito, que o Aarav
 tinha plantado, estavam abertas, com as pétalas
 começando a soltar. O banco de madeira da pérgola,
-que o Aarav tinha mandado fazer e o Josh tinha
+que o Aarav tinha mandado fazer e Josh tinha
 envernizado, estava com sol em cima. A glicínia já
 tinha se rendido ao fim do verão.
 
@@ -129,9 +131,9 @@ Aurora respirou.
 
 — Eu vou contar a parte que dá pra contar.
 
-— Tá.
+— A parte que dá.
 
-— Tá.
+— A parte que dá.
 
 Vibeke pegou a mão da Aurora um segundo. Apertou.
 Soltou.
@@ -146,19 +148,18 @@ pedra.
 Erik Mortensen estava de pé na sala de estar, com
 o casaco cinza-claro de sempre, com o cabelo
 castanho penteado pro lado, com o livro do Raj
-encostado na palma da mão direita como quem
-carrega algo que pode quebrar. Eleonora não estava
-na sala. Devia ter ido pra sala de música de
-propósito, pra dar à filha um meio quarto de
-liberdade dentro do protocolo. Aurora teve um
-segundo de gratidão pela mãe.
+equilibrado na palma da mão direita, sem
+apertar. Eleonora não estava na sala. Tinha
+ficado na costura de propósito, pra dar à filha
+um meio quarto de liberdade dentro do protocolo.
+Aurora teve um segundo de gratidão pela mãe.
 
-— Aurora — disse Erik, e a voz dele tinha aquela
-maneira contida de educação dinamarquesa que
+— Aurora — disse Erik, e a voz dele tinha
+aquela contenção de educação dinamarquesa que
 Aurora já tinha aprendido a ler como mistura de
-saudade e cortesia. — Boa manhã.
+saudade e cortesia. — Bom dia.
 
-— Boa manhã, Erik.
+— Bom dia, Erik.
 
 Aurora estendeu a mão. Erik a tomou, fez a mesura
 curta, soltou. A pele dele estava fria. Não
@@ -218,12 +219,12 @@ reconhecer.
 *
 
 Atravessaram a sala. Eleonora estava na sala de
-música, com o cravo aberto e a partitura no
-suporte, e Aurora viu, no caminho, a mãe levantar
-os olhos da partitura, registrar os dois indo na
-direção do jardim, e voltar pra partitura sem
-comentar. Era a permissão silenciosa de uma mãe
-que tinha decidido confiar.
+costura, com o bordado no colo e a luz da janela
+do canto leste em cima das mãos, e Aurora viu, no
+caminho, a mãe levantar os olhos, registrar os
+dois indo na direção do jardim, e voltar pro ponto
+sem comentar. Era a permissão silenciosa de uma
+mãe que tinha decidido confiar.
 
 No jardim, Erik desceu os três degraus de pedra do
 lado de Aurora. Sem oferecer o braço. Aurora
@@ -244,9 +245,10 @@ Aurora olhou pra ele. Não tentou negar.
 — Não, Erik. Não é só Sorø.
 
 Erik parou de andar perto do canto onde estavam as
-roseiras do Aarav. Pôs as mãos atrás das costas
-com a calma de quem tinha decidido ouvir sem
-cobrar. Não olhou pra Aurora. Olhou pras roseiras.
+roseiras do Aarav. Pôs as mãos atrás das costas.
+Tinha decidido ouvir sem cobrar, e o corpo dele
+avisou antes da boca. Não olhou pra Aurora.
+Olhou pras roseiras.
 
 — Aurora.
 
@@ -254,8 +256,7 @@ cobrar. Não olhou pra Aurora. Olhou pras roseiras.
 
 — Eu venho desde o baile dos Frederiksen
 pensando em te fazer um pedido formal. — A voz
-dele saiu baixa, sem dor, com a precisão de quem
-diz uma verdade simples. — Eu queria te dizer
+dele saiu baixa e sem dor. — Eu queria te dizer
 isso antes, pra você saber que minha vinda hoje
 não foi por curiosidade. Foi por intenção.
 
@@ -371,7 +372,7 @@ do tipo que famílias como a sua e a minha têm. Eu
 vou supor que você não escolheu. E eu vou esperar
 uma coisa.
 
-— O quê.
+— O quê?
 
 — Que se em algum momento das próximas semanas, ou
 meses, esse noivado se desfizer, e você estiver
@@ -454,7 +455,7 @@ três degraus.
 
 Na sala, Erik pegou o chapéu da mesinha lateral.
 Pôs com o ângulo certo, sem pensar. Cumprimentou
-Eleonora (que voltou da sala de música no segundo
+Eleonora (que veio da sala de costura no segundo
 exato em que ele chegou na soleira, com aquele
 timing dela que era estatística pessoal de
 Aurora). Curvou-se.
@@ -496,18 +497,17 @@ de virar pra Aurora.
 — Vocês se dão bem.
 
 A frase da Eleonora não era pergunta. Era
-constatação de mãe nórdica que tinha estado de
-ouvido no piano da sala de música, mas com a
-metade da atenção no jardim, do jeito que mães
-nórdicas escutavam tudo sem deixar de fingir que
-escutavam outra coisa. Aurora sustentou o olhar da
+constatação de mãe nórdica que tinha passado a
+manhã inteira com a agulha na mão e metade da
+atenção no jardim. Elas escutam tudo e fingem que
+escutam outra coisa. Aurora sustentou o olhar da
 mãe.
 
 — Eu acho que sim.
 
 Eleonora assentiu uma vez. Não disse mais nada.
-Voltou pra sala de música. O cravo recomeçou três
-compassos depois, no mesmo ponto onde tinha
+Voltou pra sala de costura. A agulha recomeçou
+três pontos depois, no mesmo lugar onde tinha
 parado.
 
 *
@@ -528,9 +528,11 @@ Vibeke entrou três minutos depois.
 
 — Foi bom, Vibeke. Foi triste. Mas foi bom.
 
-— Erik é homem.
+— Erik é homem de verdade. Desses que a mãe
+criou olhando.
 
-— É homem.
+— É. E eu passei cinco meses achando que isso não
+bastava, e continuo achando, e ainda assim dói.
 
 — Você contou?
 
@@ -547,9 +549,9 @@ amizade comigo, se o noivado se desfizer.
 Josh?
 
 — Acho que ele percebeu sem saber, sem ter
-certeza. Como a minha mãe percebeu. Como Ingrid
-percebeu lá atrás. Talvez como meia Copenhague
-sente sem nomear.
+certeza. Igual a minha mãe. Igual a Ingrid, lá
+atrás. Talvez meia Copenhague sinta e não ponha
+nome.
 
 Vibeke deu uma risada pelo nariz.
 
@@ -822,10 +824,13 @@ o corredor sem dizer nada.
 
 Parou na frente da porta da sala de música.
 
-Eleonora não estava ali. Tinha terminado de
-tocar. O cravo estava aberto, com a partitura no
-suporte (era Bach, como sempre — Eleonora só
-tocava Bach).
+Estava vazia, e o cravo estava fechado, porque era
+segunda-feira. A mãe dela tocava terça e quinta,
+às três, e não abria a tampa em nenhum outro dia
+da vida. Aurora ficou ali um segundo olhando a
+tampa fechada e pensou que ia precisar de uma casa
+inteira de coisas assim, previsíveis desse jeito,
+pra conseguir dizer o que ia dizer à noite.
 
 Aurora atravessou de volta pelo corredor e
 encontrou Helle na sala de costura, com a cesta

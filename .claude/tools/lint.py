@@ -234,7 +234,9 @@ def r_sujeira(cfg, cap, linhas, paras, achados):
         s = ln.rstrip("\n")
         if re.search(r"\S\s+[,.;:!?](?!\.)", s):
             achados.append((i, "sujeira", "espaço antes de pontuação"))
-        if re.search(r"[,;:!?]{2,}", s):
+        # "?!" e "!?" são ênfase legítima (susto, indignação) e o livro
+        # usa. Só duplicação de verdade conta.
+        if re.search(r"([,;:])\1|!{2,}|\?{2,}|[,;:][!?]", s):
             achados.append((i, "sujeira", "pontuação duplicada"))
         if "  " in s.strip():
             achados.append((i, "sujeira", "espaço duplo"))
