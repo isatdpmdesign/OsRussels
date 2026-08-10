@@ -649,9 +649,10 @@ rosas do Aarav no jardim. Eu te admirei todas as
 vezes. Cada vez que você se permitiu ser você sem
 casca, eu me apaixonei mais e mais.
 
-Aurora sentiu o ar entrar no peito com falha. A
-mão dela, que estava no joelho dele, pressionou
-sem ela ter mandado pressionar.
+Aurora não estava mais respirando direito. A mão
+dela largou o joelho dele, subiu pro pulso e
+fechou ali com força, porque ela precisava
+segurar em alguma coisa que fosse dele.
 
 — Quando você caiu no lago, eu pensei que você ia
 morrer e o meu coração se despedaçou dentro do
@@ -1094,7 +1095,7 @@ Josh virou o corpo de lado e aninhou Aurora dentro
 dos braços. Aurora ouviu a respiração dele ficar
 pesada e sentiu o corpo amolecer com o sono.
 Dormiram. E, inconscientemente, Aurora soube que
-aquele era o melhor sono que ela tivera em toda a
+aquele era o melhor sono que ela teria em toda a
 sua vida.
 
 *
