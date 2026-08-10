@@ -441,8 +441,10 @@ cravo ficou fechado. De fora da porta veio um som:
 um roçar de saia, um pé trocando de lugar, um
 cochicho cortado no meio. Aurora conhecia aquele
 barulho. Era a Vibeke, e pela segunda respiração
-era a Helle junto, as duas coladas na porta,
-torcendo do jeito atrapalhado delas. Aurora
+era a Helle junto, as duas coladas na porta de
+carvalho que a Bredgade tinha por todo canto e que
+não deixava passar palavra nenhuma, só o tom.
+Torcendo às cegas, do jeito atrapalhado delas. Aurora
 balançou a cabeça devagar contra o colo da mãe, com
 um sorriso preso. As meninas eram impossíveis mesmo.
 Eleonora ouviu também. Não disse nada. Deixou
@@ -667,7 +669,11 @@ chorei.
 
 — Com a minha mãe.
 
-— E? Não me deixa aqui na xícara, prima, fala.
+— Eu fiquei naquela porta o tempo todo e não peguei
+uma palavra. Uma, Aurora. Só o tom. E o tom não me
+disse nada porque a sua mãe tem o mesmo tom pra
+tudo. Fala logo, prima, antes que eu morra na
+xícara.
 
 Aurora sentou do lado da prima. Pegou a xícara de
 café da Vibeke. Bebeu um gole. Devolveu.
@@ -703,7 +709,7 @@ Josh precisa da outra metade, e ele vai atrás dela.
 — Eu sei que vai. Ele não parou um dia desde que
 saiu daqui.
 
-Vibeke ficou um segundo olhando a Aurora, com a
+Vibeke ficou um segundo olhando Aurora, com a
 xícara parada no meio do caminho.
 
 — Aurora, você está diferente hoje. E não é só de
