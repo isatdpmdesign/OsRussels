@@ -49,6 +49,45 @@ Cena de romance sem corpo é ata de reunião. Onde estão as mãos, a
 distância entre os dois, quem olha primeiro, quem desvia, o que quase
 acontece.
 
+## As cinco perguntas da autora — o passe que economiza o capítulo
+
+Antes de escrever, rode estas cinco contra os beats. Elas saem da régua
+real da autora (`perfil/regua.md`, extraída dos comentários dela), e são
+o que ela mais aponta **depois** que a prosa existe — quando consertar
+já custa um capítulo inteiro.
+
+**1. Quem inicia?**
+Para cada coisa que alguém concede, entrega ou resolve nesta cena:
+quem puxou? Se ninguém puxou, tem um passageiro na cena. A versão certa
+quase sempre deixa os dois lados ativos.
+> Caso real: a mãe oferecia as joias sem a filha pedir. A autora recusou.
+> Virou: a filha sugere, a mãe responde que já tinha pensado nisso.
+
+**2. Essa é a emoção certa?**
+Nomeie com precisão o que cada personagem sente em cada beat — e confira
+se a reação prevista é daquela emoção. Susto não chora igual tristeza.
+> Caso real: *"Ela está surpresa mas não triste. Está com medo, mas não
+> triste."*
+
+**3. O personagem pagou por isso?**
+Toda concessão grande precisa de uma pergunta antes. Quem cede tem o
+direito de querer saber por quê — e a resposta é onde a cena vira boa.
+> Caso real: antes de ceder as joias, a mãe pergunta o que a filha viu
+> naquele rapaz. A resposta virou o melhor trecho do capítulo.
+
+**4. A leitora tem o que precisa?**
+Marque tudo que os personagens entendem por atalho e a leitora não.
+Abrir compressão quase sempre vira diálogo, porque força o outro a
+reagir.
+
+**5. Isso se sustenta?**
+Cada premissa da cena contra o canon (`biblioteca`). É a metade que o
+sistema pega sozinho — mas pegar aqui é mais barato que pegar depois.
+
+**Leve as respostas junto com os beats para a autora.** Um capítulo de
+cinco mil palavras vira uma página de aprovação. É a diferença entre ela
+revisar prosa e ela dirigir a história.
+
 ## Antes de fechar os beats
 
 - **`biblioteca`** para a ficha: o que é canon nesta cena, quem sabe o
