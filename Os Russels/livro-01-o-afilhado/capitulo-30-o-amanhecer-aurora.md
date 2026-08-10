@@ -93,14 +93,25 @@ quisesse, baixinho, pelo nariz, com a boca
 fechada pra não fazer barulho. Vibeke riu também.
 Tapou a boca com a mão.
 
-— Tá baixo — disse Aurora.
+— Tá tudo bem — disse Aurora. — Ninguém escuta
+daqui. Só não levanta a voz.
 
-— Tá baixo.
+— Eu não levanto a voz. Eu sussurro alto, que é
+outra coisa.
 
-— Helle ainda não acordou.
+— É a mesma coisa, Vibeke.
 
-— Helle acorda às cinco e meia, Aurora. Helle
-acorda em meia hora. Conta antes de ela acordar.
+— Não é. — Vibeke se apoiou no cotovelo. — E a
+Helle sobe com a água às cinco e meia. Isso me dá
+meia hora com você.
+
+— A Helle sabe, Vibeke.
+
+— Eu sei que ela sabe. Foi ela que destrancou a
+porta pra você e ficou acordada até você voltar. —
+Vibeke deu de ombros. — Mas ela sobe com a água do
+mesmo jeito, e quando bater nessa porta acabou o
+nosso pedaço da manhã. Então fala.
 
 Aurora puxou Vibeke pra deitar de novo, do lado
 dela. Vibeke deitou. Ficaram as duas de barriga
@@ -158,8 +169,26 @@ encostou as costas nela. A mão dele tremia.
 ele embora pra me deixar sem saída. Ele
 atravessou o quarto, sentou na beira da cama, e
 me contou a verdade: foi ele que pediu pra sair.
-Não foi o meu pai. Ele tinha pensado a noite
-inteira antes, pelos dois, e decidido sozinho.
+Não foi o meu pai.
+
+— Ele pediu?
+
+— Pediu. Passou a noite anterior inteira acordado
+fazendo a conta, Vibeke. A conta de qual das duas
+coisas ia me machucar menos: ele ficar naquela
+casa, a um corredor de distância, vendo me
+entregarem pro Lindberg. Ou ele sumir. Achou que
+sumir doía menos. E decidiu isso sozinho, sem me
+perguntar nada.
+
+Vibeke ficou um segundo sem falar.
+
+— E você ficou com raiva.
+
+— Fiquei muita. — Aurora respirou. — Aí eu
+entendi que ele decidiu achando que estava me
+protegendo. A raiva não passou. Só ficou do lado
+de outra coisa.
 
 — E aí?
 
