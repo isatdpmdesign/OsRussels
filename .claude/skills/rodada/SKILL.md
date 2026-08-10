@@ -15,15 +15,27 @@ registra o que aconteceu.** É o maestro.
 2. capitulo              beats, POV, onde abre e onde corta
    → confirmar com a autora antes de escrever
 3. prosa                 escrever
+
+   ── os passes que MUDAM texto ──
 4. revisao-voz           tique de máquina + assinatura da autora
-5. revisao-sentimental   profundidade, diálogo, emoção vivida
-6. revisao-de-pov        o que essa cabeça pode saber
-7. revisao-de-linha      a frase
-8. revisao-mecanica      lint.py + triagem
-9. auditoria-de-canon    cada afirmação contra a obra
-10. escriba-de-canon     absorve nos guias (sinopse, ficha, bíblia)
-11. registrar a rodada + commit + push
+5. revisao-sentimental   profundidade, emoção vivida
+6. revisao-de-fala       alguém falaria assim?
+7. revisao-de-logica     a cena se sustenta?
+8. revisao-de-pov        o que essa cabeça pode saber
+9. revisao-de-linha      a frase
+
+   ── os passes que só CONFEREM ──
+10. revisao-mecanica     lint.py + triagem
+11. auditoria-de-canon   cada afirmação contra a obra
+
+12. escriba-de-canon     absorve nos guias (sinopse, ficha, bíblia)
+13. registrar a rodada + commit + push
 ```
+
+**`consultora-de-genero` não entra no ciclo padrão.** Ela olha o capítulo
+de longe (o que a leitora do gênero veio buscar aqui) e vale a cada bloco
+de capítulos, ou quando um capítulo importante parece morno sem que
+nenhum outro passe explique por quê.
 
 A ordem não é arbitrária. Cada passe pressupõe o anterior resolvido, e
 caçar vírgula em parágrafo que ainda vai ser reescrito é trabalho jogado
