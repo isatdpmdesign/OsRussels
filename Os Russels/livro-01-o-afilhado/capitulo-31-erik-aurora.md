@@ -924,11 +924,19 @@ com Vibeke embaixo, com Helle no térreo guardando
 o silêncio da casa, Aurora decidiu uma coisa
 pequena, mas firme:
 
-Ia falar com a mãe naquela noite.
+Ia falar com a mãe.
 
-Não amanhã.
+Não ia esperar o noivado apertar mais, nem Josh
+resolver a parte dele primeiro. Coragem ela ia
+arranjar no caminho, se fosse pra arranjar.
 
-Naquela noite.
+Faltava achar a hora. A mãe dela tinha as tardes
+tomadas e as noites do pai, e Aurora sabia, sem
+nunca ter posto em palavra, que existia um único
+momento do dia em que a Eleonora não estava sendo
+a senhora Svensson pra ninguém.
+
+Aurora ia esperar esse momento. E ia usar.
 
 ---
 

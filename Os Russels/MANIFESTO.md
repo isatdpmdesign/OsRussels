@@ -9,7 +9,7 @@
 
 # Estado — Os Russels · Livro 1 — O Afilhado
 
-**39 capítulos · 179.224 palavras · média 4.595 por capítulo**
+**39 capítulos · 179.296 palavras · média 4.597 por capítulo**
 
 Estado declarado: rascunho completo — em revisão
 
@@ -20,7 +20,7 @@ Estado declarado: rascunho completo — em revisão
 | Ato I — Chegada e convivência | 1–9 | 4.270 | 2.827 | 5.502 | josh×5 aurora×4 |
 | Ato II — Pretendentes, sabotagem, ruptura | 10–14 | 3.805 | 3.151 | 4.910 | aurora×3 josh×2 |
 | Ato III — Quase, queda e rebelião | 15–27 | 5.813 | 3.744 | 10.447 | aurora×8 josh×5 |
-| Ato IV — Clímax | 28–34 | 4.608 | 3.235 | 7.494 | aurora×5 josh×2 |
+| Ato IV — Clímax | 28–34 | 4.618 | 3.237 | 7.494 | aurora×5 josh×2 |
 | Desfecho | 35–39 | 2.786 | 2.316 | 3.387 | aurora×4 alternado×1 |
 
 ## Alertas (14)

@@ -24,7 +24,7 @@ matriculado, então Josh tinha sentado três tardes
 seguidas com a pena na mão e tinha copiado tudo
 que tinha conseguido copiar, mais ou menos
 cento e oitenta páginas). Estudou códigos.
-Estudou latim. Estudou as quatro maneiras de se
+Estudou latim. Decorou as quatro maneiras de se
 abrir uma instância civil em Copenhague de 1830,
 três delas inúteis pra o que ele precisava.
 
@@ -242,8 +242,8 @@ rural, e Sørensen tinha respondido a carta no
 mesmo dia.
 
 A conversa durou uma hora. Sørensen perguntou de
-Sorø, perguntou do trabalho na fazenda, perguntou
-o que Josh achava do código civil dinamarquês
+Sorø, quis saber do trabalho na fazenda, foi atrás
+do que Josh achava do código civil dinamarquês
 recém-revisado. Josh respondeu com cuidado, sem
 fingir saber o que não sabia, citando passagens
 do Ørsted que ele tinha copiado nas três tardes
@@ -295,9 +295,9 @@ nova. Era a primeira coisa nova daquela semana
 inteira. Josh respirou fundo uma vez e se
 permitiu sentir, antes de cortar a permissão.
 Esperança ainda não era contagem. A contagem
-precisava da carta do Raj. A contagem precisava
-da segunda porta dele bater na Bredgade depois
-de ter saído dela.
+precisava da carta do Raj, e precisava dele bater
+de novo na porta da Bredgade depois de ter saído
+por ela.
 
 *
 
@@ -465,8 +465,8 @@ Ele caminhou até a esquina sem virar pra trás.
 
 *
 
-As três semanas seguintes não tiveram dia que
-fosse diferente do anterior.
+Os dias seguintes não tiveram um que fosse
+diferente do anterior.
 
 Josh acordava às cinco e meia (mais ou menos a
 hora que descia na Bredgade pra encontrar
@@ -518,8 +518,8 @@ tinta de pena que não saía com sabão. O nó dos
 dedos, o que tinha rachado no soco do Lindberg,
 cicatrizou de jeito torto.
 
-Josh não se olhou no espelho durante essas três
-semanas inteiras.
+Josh não se olhou no espelho uma vez sequer
+naqueles dias.
 
 *
 
