@@ -31,11 +31,11 @@ era dali a dois dias.
 Josh também não dormiu nas duas noites que
 faltavam.
 
-Estudou. Estudou o pouco de direito comercial que
-tinha copiado do Ørsted. Estudou a mecânica dos
-depósitos conjuntos dinamarqueses dos anos dez,
-que era diferente da mecânica atual em três pontos
-importantes. Estudou o que ia dizer se Aamann
+Estudou. Leu três vezes o pouco de direito
+comercial que tinha copiado do Ørsted. Decorou a
+mecânica dos depósitos conjuntos dinamarqueses dos
+anos dez, que era diferente da atual em três
+pontos importantes. Ensaiou o que ia dizer se Aamann
 pedisse a assinatura dele, o que ia dizer se
 Aamann pedisse comprovação de filiação, o que ia
 dizer se Aamann olhasse pra ele e decidisse que
@@ -83,17 +83,16 @@ Andaram quatro minutos em silêncio.
 
 Raj falou primeiro.
 
-— Herr Aamann tem setenta e três anos. Ele foi
-gerente dessa casa comercial desde os quarenta e
+— Herr Aamann tem setenta e três anos. Ele é
+gerente dessa casa comercial desde os cinquenta e
 cinco. Antes disso, ele foi comerciante de grãos
 na Zelândia. Ele conheceu o seu pai em mil
 oitocentos e nove, num negócio de cevada. A
-sociedade que o seu pai fez comigo em mil
-oitocentos e treze foi articulada pelo Aamann. Ele
-foi testemunha do papel. Ele guardou o livro de
-depósitos com a assinatura dos dois lados até mil
-oitocentos e vinte e seis, quando o seu pai
-morreu. Depois, ele guardou por mais quatro anos,
+sociedade que o seu pai fez comigo em treze foi
+articulada por ele. Foi testemunha do papel.
+Guardou o livro de depósitos com a assinatura dos
+dois lados até o ano em que o seu pai morreu.
+Depois guardou por mais quatro,
 esperando que a Casandra pedisse.
 
 Josh não sabia disso. Raj nunca tinha contado.
@@ -246,10 +245,10 @@ Herr Aamann estava sentado atrás de uma
 escrivaninha grande com o tampo forrado de couro
 verde escuro. Tinha setenta e três anos e os
 aparentava todos. Cabelos brancos ralos, penteados
-de lado. Olhos claros como o do Josh (azul-cinza)
-mas mais fundos e mais lentos. Casaco preto de
-corte antigo. Duas mãos compridas sobre o tampo da
-mesa, sem tremor, sem inquietação.
+de lado. Olhos azul-cinza, fundos, lentos, do tipo que
+demora a pousar e depois não sai mais de cima.
+Casaco preto de corte antigo. Duas mãos compridas
+sobre o tampo da mesa, sem tremor, sem inquietação.
 
 Levantou quando os dois entraram.
 
@@ -322,12 +321,11 @@ oitocentos e treze, oito de junho.
 
 Josh olhou.
 
-A assinatura do Henrik Russel estava escrita com
-uma pena firme, sem tremor, com a letra inclinada
-pra a direita. Do lado, a assinatura do Raj de mil
-oitocentos e treze, mais nova, mais decidida.
-Entre as duas, na terceira coluna, a assinatura de
-testemunha do próprio Aamann.
+O nome do Henrik Russel estava escrito com uma
+pena firme, sem tremor, com a letra inclinada pra
+a direita. Do lado, o do Raj de treze, mais novo,
+mais decidido. Entre os dois, na terceira coluna,
+a testemunha do próprio Aamann.
 
 Josh nunca tinha visto o próprio pai escrever com
 a pena. Casandra tinha guardado as cartas do
@@ -388,11 +386,11 @@ meses, e não daqui a dois anos.
 Josh olhou pro Raj do lado, sem virar o rosto.
 Voltou pro Aamann.
 
-— Porque a minha família emprestada, que é a
-família do meu padrinho aqui do lado, está numa
-dívida do naufrágio da nau que levou o filho mais
-velho do meu padrinho, o Aarav Svensson, há
-dezoito meses. A dívida está sendo cobrada agora.
+— Porque a minha família emprestada, que é a do
+homem sentado aqui do lado, está numa dívida do
+naufrágio da nau que levou o filho mais velho
+dele, o Aarav Svensson, há dezoito meses. A
+dívida está sendo cobrada agora.
 Se a dívida não for paga em outubro, a filha do
 meu padrinho é entregue em casamento pra o credor,
 o Henning Lindberg. E eu amo essa filha.

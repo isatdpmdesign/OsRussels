@@ -204,6 +204,43 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Um sobrinho dos Lundgren (sem nome canônico) já fora mencionado no sarau dos Holst (Cap 9). Um primo dos Lundgren (também sem nome canônico) dança com Aurora no baile do Cap 18
 - Sem peso de enredo central — função social/cenográfica
 
+### Herr Aamann
+
+- **Gerente da casa comercial Aamann & Berg**, na esquina da Højbro com
+  a Vimmelskaftet. Prédio de três andares, porta dupla de madeira
+  escura, placa de bronze: *Aamann & Berg — Casa Comercial, Fundada
+  1798* (`cap34:183`)
+- **Setenta e três anos** e os aparenta todos. Cabelos brancos ralos
+  penteados de lado, olhos azul-cinza fundos e lentos, casaco preto de
+  corte antigo. Mão fria e firme, pele fina na palma com força na
+  articulação (`cap34:245-289`)
+- **Foi comerciante de grãos na Zelândia** antes da casa comercial.
+  Gerente desde os cinquenta e cinco anos (por volta de 1812)
+- **A dívida antiga com o Henrik Russel — o coração do personagem:** em
+  junho de 1809, em Roskilde, Aamann era comerciante de grãos com seis
+  meses de dívida ruim e um casamento por um fio. Henrik Russel, então
+  um fazendeiro de vinte e um anos, adiantou a ele **trezentos
+  rigsdalers sem juros e sem garantia**, dizendo que sabia olhar e ver
+  homem que ia pagar. Aamann pagou em oito meses. Aquilo salvou o
+  negócio e o casamento dele (`cap34:529-554`)
+- **Articulou a sociedade Henrik–Raj de 1813** e foi testemunha do
+  papel. Guarda o livro de depósitos com as duas assinaturas desde
+  então — inclusive os quatro anos depois da morte do Henrik, esperando
+  a Casandra pedir
+- **No Cap 34:** reconhece Josh pelo rosto do pai antes de qualquer
+  apresentação. Faz duas perguntas antes de destravar (*"você sabe pra
+  que serve esse dinheiro"* e *"por que hoje, e não daqui a seis
+  meses"*) — não para negar, mas para saber se o filho certo veio.
+  Destrava os **11.800 rigsdalers** e **empresta dois mil do próprio
+  bolso**, a três por cento ao ano e vinte anos de prazo. *"Isso não é
+  generosidade minha, Joshua. É dívida antiga que eu não tinha como
+  pagar até essa manhã."*
+- **Klemens** — escrivão jovem de óculos da casa comercial. Walk-on
+
+> **A conta do Cap 34 (confere):** dívida do naufrágio **18.600** ·
+> herança do Josh **11.800** · empréstimo do Aamann **2.000** · joias
+> Bjerg da Eleonora **~5.000** = **18.800**. Sobram ~200 rigsdalers.
+
 ### Madame Solberg
 
 - **Modista** norueguesa em Copenhague, transplantada
