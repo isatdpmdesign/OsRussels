@@ -59,7 +59,7 @@ Demorou três respirações pra falar.
 
 — Você voltou.
 
-A voz da Vibeke era a voz dela acabada de
+A voz da Vibeke era a voz de quem acabara de
 acordar: rouca, baixa, sem o saltitamento de dia.
 Mas a frase saiu inteira, sem hesitação. Não foi
 pergunta. Vibeke estava olhando o vestido azul de
@@ -156,14 +156,25 @@ que eu nunca tinha visto nele.
 — Mais que espanto. Foi como se ele tivesse
 levado um soco na barriga.
 
-— Ele tentou te mandar de volta.
+— Ele não tentou te mandar de volta?
 
 — Tentou. Disse que eu não podia estar ali, que
-se alguém me visse. Eu cortei dizendo que Aksel
+se alguém me visse… Eu cortei dizendo que Aksel
 tinha me trazido escondida. Ele fechou a porta,
 encostou as costas nela. A mão dele tremia.
 
-— Conta mais.
+— A mão dele tremia? — Vibeke levantou meio corpo
+no cotovelo. — Tadinho. Ele estava era nervoso,
+Aurora. Nervoso do jeito bom, de quem quer e não
+sabe se pode.
+
+— Eu não tinha pensado nisso na hora.
+
+— Claro que não. Você estava nervosa também.
+
+— Conta mais o quê, então?
+
+— Conta tudo. Do começo.
 
 — Eu fui direto. Acusei o meu pai de ter mandado
 ele embora pra me deixar sem saída. Ele
@@ -204,7 +215,8 @@ levantar a outra metade.
 descobriu que tem um dinheiro que pode te salvar.
 
 Aurora respirou. Olhou pro teto. A rachadura
-estava ali. Cento e cinquenta e uma.
+estava ali. Aurora contou de novo, pela centésima
+quinquagésima primeira vez.
 
 — Aí eu falei.
 
@@ -213,8 +225,9 @@ estava ali. Cento e cinquenta e uma.
 — Eu disse a ele que eu não queria que Lindberg
 fosse o meu primeiro. Eu disse que eu já tinha
 escolhido. Que ele era o homem com quem eu queria
-viver. Que se nada desse certo, pelo menos eu ia
-ter tido essa noite com ele.
+viver a minha primeira vez, e todas as outras. Que
+se nada desse certo, pelo menos eu ia ter tido
+essa noite com ele.
 
 Vibeke ficou quieta.
 
@@ -259,10 +272,14 @@ Engoliu.
 sem ar.
 
 — Desde o primeiro dia que ele chegou e me viu
-de cima daquela escada da Bredgade. Eu desci de
-luto pelo Aarav e odiei ele com vontade por achar
-que ele ia ocupar o lugar do meu irmão. Desde
-aquele dia, Vibeke.
+de cima da escada aqui de casa. Eu recebi ele
+mal, Vibeke. Muito mal. Eu estava de luto até o
+osso e olhei pra aquele rapaz na porta e só
+consegui pensar que tinham mandado ele pra sentar
+na cadeira do meu irmão. Eu decidi odiar antes de
+ele abrir a boca. Desde aquele dia, Vibeke. Desde
+o dia em que eu fui pior com ele do que fui com
+qualquer pessoa na minha vida.
 
 Vibeke apertou a mão dela debaixo do cobertor.
 
@@ -287,39 +304,6 @@ demais pra caber no quarto da Aurora às cinco e
 cinco da manhã com a prima do lado e o cocheiro
 do vizinho engatando um cavalo na rua. A frase
 ia ter que esperar a vida pra caber.
-
-E foi ali, no meio da quarta repetição, que a
-outra coisa chegou.
-
-Chegou pelo estômago. O chão do corpo dela cedeu
-um palmo, do jeito que cede quando se erra um
-degrau no escuro. Aurora tinha saído de casa à
-noite. Tinha entrado no quarto de um homem.
-Tinha voltado com o vestido da véspera e a marca
-da barba dele no queixo. E em outubro ia estar
-de pé numa igreja, de branco, ao lado de um
-homem de cinquenta e cinco anos que ia descobrir
-na primeira noite.
-
-Se alguém tivesse visto. Se o Aksel contasse. Se
-a mãe olhasse dois segundos a mais.
-
-Era isso que ninguém dizia sobre coragem: que ela
-não tem volta. Aurora tinha gastado, de
-propósito, a única coisa que aquela casa
-guardava dela pra negociar.
-
-— Vibeke.
-
-— Fala.
-
-— Eu estou com medo agora.
-
-Vibeke não disse que não precisava. Não disse que
-ia dar tudo certo. Só achou a mão da Aurora
-debaixo do cobertor e segurou com as duas.
-
-— Eu ia estranhar se você não estivesse.
 
 — Aurora, eu vou fingir que estou chorando agora
 porque eu não tenho como reagir à altura dessa
@@ -437,6 +421,89 @@ manso do cavalo dele que era um cavalo velho e
 queixoso, o murmúrio do cocheiro falando
 sozinho.
 
+E foi no meio daquele silêncio, com o cavalo velho
+do vizinho reclamando lá embaixo, que a outra
+coisa chegou.
+
+Chegou pelo estômago. O chão do corpo da Aurora
+cedeu um palmo, do jeito que cede quando se erra
+um degrau no escuro.
+
+— Vibeke.
+
+— Fala.
+
+— Eu estou com medo agora.
+
+Vibeke virou o rosto no travesseiro. Não riu. Não
+disse que ia dar tudo certo.
+
+— Medo de quê?
+
+Aurora demorou pra responder, porque responder era
+pôr pra fora uma coisa que ela vinha empurrando
+pra baixo desde a hora em que pisou de volta na
+porta lateral.
+
+— Eu tinha uma coisa só pra negociar nessa casa,
+Vibeke. Uma. Não era o meu juízo, nem o meu
+francês, nem o meu nome. Era eu chegar inteira no
+casamento. Era isso que valia dinheiro pro
+Lindberg. Era isso que o meu pai estava vendendo
+sem dizer o nome.
+
+Vibeke ficou parada.
+
+— E eu dei. De propósito. Eu não fui empurrada,
+eu não fui enganada, eu subi aquela escada do
+Regensen sabendo o que eu ia fazer. — Aurora
+respirou. — E em outubro eu vou estar de pé numa
+igreja, de branco, do lado de um homem de
+cinquenta e cinco anos que vai descobrir na
+primeira noite.
+
+— Aurora…
+
+— Se alguém tiver visto. Se o Aksel contar. Se a
+minha mãe olhar dois segundos a mais. Eu não tenho
+volta, Vibeke. Era isso que ninguém me disse sobre
+coragem: que ela não tem volta.
+
+Vibeke ficou um tempo sem falar. Aurora ouviu a
+respiração dela mudar duas vezes antes de sair
+alguma coisa.
+
+Depois Vibeke achou a mão da Aurora debaixo do
+cobertor e segurou com as duas.
+
+— Você não jogou fora, Aurora. Você gastou. Tem
+diferença.
+
+— Que diferença?
+
+— Jogar fora é perder sem querer. Gastar é comprar
+alguma coisa com o que era seu. Você comprou uma
+noite que foi sua e de mais ninguém, num mundo que
+ia tomar de você a decisão inteira. — Vibeke
+apertou a mão dela. — Eu não vou te dizer que não
+é perigoso, porque é. Eu vou te dizer que se fosse
+eu, com o Lauritz, eu tinha feito igual. E eu fiz,
+Aurora. Eu fiz na colheita. E ninguém estava me
+vendendo pra homem nenhum.
+
+Aurora virou o rosto pra prima no escuro.
+
+— Eu ia estranhar se você não estivesse com medo —
+disse Vibeke. — Eu ia estranhar mais se você
+estivesse arrependida. Você está?
+
+Aurora pensou de verdade antes de responder.
+
+— Não.
+
+— Então a gente segura o medo com as duas mãos e
+toca o dia.
+
 — A gente vai ter que descer daqui a pouco —
 disse Aurora.
 
@@ -450,7 +517,7 @@ disse Aurora.
 marcado com o Lindberg pra outubro.
 
 — Aurora — disse Vibeke, agora séria. — Sobre
-isso.
+isso…
 
 Vibeke virou de lado pra encarar Aurora. Apoiou
 o cotovelo no travesseiro. Ficou de cara apoiada
@@ -468,7 +535,7 @@ trança.
 — Ah, tá bom. Enlouqueceu. Vai falar com a sua
 mãe?
 
-— Vibeke — disse Aurora em protesto.
+— Vibeke! — disse Aurora em protesto.
 
 — A mulher que te alfaiata todos os dias da sua
 vida, Aurora.
@@ -549,7 +616,7 @@ Aurora virou a cabeça.
 — Quando?
 
 — Logo. Eu acho que duas semanas, três. Eu vou
-falar com a minha tia hoje no café.
+falar com a tia Eleonora hoje, no café da manhã.
 
 Aurora apertou a mão da Vibeke debaixo da manta
 com uma força que ela não tinha planejado fazer.
@@ -634,6 +701,16 @@ certeza.
 — Vibeke, você vai voltar pro meu casamento?
 
 Vibeke parou de respirar por meio segundo.
+
+— Pro seu casamento com o Lindberg? Aurora, eu não
+vou. Me desculpa, mas eu não vou. Eu não consigo
+sentar numa igreja e ver aquele homem pôr a mão em
+você na frente de Deus.
+
+— Não! — Aurora se apoiou no cotovelo. — Vibeke,
+não. Com o Josh. O meu casamento com o Josh.
+
+Vibeke levou meio segundo.
 
 — Você vai casar com Josh, Aurora?
 
