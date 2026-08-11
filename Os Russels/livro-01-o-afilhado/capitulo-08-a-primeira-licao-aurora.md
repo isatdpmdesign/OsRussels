@@ -10,7 +10,7 @@
 
 Aurora passou três dias se arrependendo.
 
-Não um arrependimento contínuo. Isso seria simples demais, e nada sobre a situação era simples. Era um arrependimento intermitente, que ia e voltava como maré, aparecendo nos momentos mais inconvenientes: no meio de uma conjugação francesa com Fru Dahl (*je regrette, tu regrettes, il regrette*, a ironia da lição não escapou a Aurora), durante o bordado com a mãe, ao escovar os cabelos à noite diante do espelho que continuava não obedecendo ordens.
+Não um arrependimento contínuo. Isso seria simples demais, e nada sobre a situação era simples. Era um arrependimento intermitente, que ia e voltava como maré, aparecendo nos momentos mais inconvenientes: no meio de uma conjugação francesa com Fru Dahl (*je regrette, tu regrettes, il regrette*, a ironia da lição não escapou Aurora), durante o bordado com a mãe, ao escovar os cabelos à noite diante do espelho que continuava não obedecendo ordens.
 
 *Está bem*, dissera ela. Na cozinha. Para Josh. Concordando com algo que era, por qualquer ângulo que se analisasse, uma ideia absurda.
 

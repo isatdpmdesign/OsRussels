@@ -68,7 +68,7 @@ O nome saiu pequeno. Quase sussurrado. Como uma confissão num confessionário �
 
 Ingrid não reagiu imediatamente. Ficou parada com aquela imobilidade calculada que era marca registrada dela: a imobilidade de quem processa informação antes de responder, como uma máquina que recebe dados e precisa de um momento para computar.
 
-— Josh — repetiu Ingrid. — O afilhado do teu pai. Que mora na tua casa. O rapaz do campo com cara de deus nórdico que todas as moças de Copenhague querem e que tu finges que não notas.
+— Josh — repetiu Ingrid. — O afilhado do seu pai. Que mora na sua casa. O rapaz do campo com cara de deus nórdico que todas as moças de Copenhague querem e que você finge que não nota.
 
 — Eu não finjo que não noto.
 
@@ -76,7 +76,7 @@ Ingrid não reagiu imediatamente. Ficou parada com aquela imobilidade calculada 
 
 Aurora contou.
 
-Não tudo — não a cozinha às seis da manhã, não a caneca fria, não o *"fez falta"*, não o *"não confio em mim perto de você"*. Essas coisas eram dela e de Josh e não pertenciam a mais ninguém, nem mesmo a Ingrid. Mas contou sobre as aulas. Sobre o sorriso, o olhar, o toque, a pergunta. Sobre o jardim. Sobre os conselhos que Josh dava antes de cada encontro com pretendentes.
+Não tudo — não a cozinha às seis da manhã, não a caneca fria, não o *"fez falta"*, não o *"não confio em mim perto de você"*. Essas coisas eram dela e de Josh e não pertenciam a mais ninguém, nem mesmo Ingrid. Mas contou sobre as aulas. Sobre o sorriso, o olhar, o toque, a pergunta. Sobre o jardim. Sobre os conselhos que Josh dava antes de cada encontro com pretendentes.
 
 Ingrid ouviu em silêncio. Sem interromper. Sem comentar. Com aquela atenção feroz que transformava o simples ato de ouvir numa forma de raio-X.
 
@@ -226,7 +226,7 @@ Josh assentiu. Não disse nada. Não pediu perdão. Não implorou. Não disse *e
 
 Aurora abriu a porta. Saiu. Fechou atrás de si.
 
-No corredor, encostou-se na parede. O coração batia tão forte que ela sentia nas têmporas. As mãos tremiam. As mãos que não tremiam, que seguravam tesouras de poda e canecas de chá e a postura de dezesseis anos de armadura com firmeza inabalável, tremiam.
+No corredor, encostou-se na parede. O coração batia tão forte que ela sentia nas têmporas. As mãos tremiam. As mãos que não tremiam, que seguravam tesouras de poda e canecas de chá e a postura de dezessete anos de armadura com firmeza inabalável, tremiam.
 
 Caminhou até o quarto. Entrou. Fechou a porta. Não encostou as costas na madeira. Desta vez não. Desta vez foi até a janela. Abriu. O ar de julho, quente, perfumado, carregado do cheiro das roseiras e das glicínias e da cidade e do verão, entrou como uma onda.
 

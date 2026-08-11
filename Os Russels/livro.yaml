@@ -1,0 +1,152 @@
+# ─────────────────────────────────────────────────────────────
+# CONTRATO DO PROJETO — Os Russels
+#
+# Este arquivo é a ÚNICA coisa que o motor precisa saber sobre
+# este livro. As skills em .claude/skills/ não conhecem Josh,
+# Aurora nem a Dinamarca de 1830: elas leem este arquivo e
+# descobrem onde as coisas moram e quais regras valem aqui.
+#
+# Trocar este arquivo (e a pasta perfil/) = trocar de livro.
+# É por isso que ele existe: o que é motor vira produto,
+# o que é dado vira a conta de cada autora no OpenBooks.
+# ─────────────────────────────────────────────────────────────
+
+projeto:
+  titulo: "Os Russels"
+  obra: "Livro 1 — O Afilhado"
+  serie_total: 5          # quinlogia
+  autora: "Isadora"
+  idioma: "pt-BR"
+  genero: "romance histórico"
+  ambientacao: "Dinamarca, 1830"
+  bussola: "Bridgerton / Julia Quinn · Sarah J. Maas"
+
+# Onde cada coisa mora. Caminhos relativos a esta pasta.
+caminhos:
+  capitulos:  "livro-01-o-afilhado/capitulo-*.md"
+  canon:      "biblia-os-russels.md"
+  ficha:      "notas/ficha-continuidade.md"
+  sinopse:    "notas/sinopse-capitulos.md"
+  decisoes:   "notas/decisoes-editoriais.md"
+  diretrizes: "notas/diretrizes.md"
+  errata:     "notas/errata.md"
+  voz:        "perfil/voz.md"
+  estilo:     "perfil/estilo.md"
+
+# Precedência de verdade. Quando dois documentos discordam,
+# ganha o que estiver mais acima. Um guia que diverge do texto
+# está errado POR DEFINIÇÃO e vira tarefa do escriba-de-canon.
+precedencia:
+  - capitulos      # o texto escrito é a verdade suprema
+  - decisoes       # palavra final da autora, datada
+  - canon          # a bíblia
+  - sinopse
+  - ficha
+
+# Guias que acompanham o andamento capítulo a capítulo — são os únicos
+# em que "citar um capítulo antigo" significa estar desatualizado.
+# A errata cita os capítulos dos itens que resolveu; as diretrizes citam
+# o capítulo em que uma regra mudou. Nem uma nem outra ficam velhas por
+# isso, e cobrá-las disso só produz alarme falso.
+rastreiam_capitulos: [canon, ficha, sinopse, decisoes]
+
+convencoes:
+  nome_arquivo: "capitulo-{NN}-{slug}-{pov}.md"
+  hard_wrap: 50            # largura máxima de linha (iPhone 16 no diff do GitHub)
+  hard_wrap_a_partir_de: 25
+  cabecalho_esperado: "# OS RUSSELS — Livro I"
+  rodape_esperado: "*Continua no Capítulo {N}...*"
+  palavras_por_capitulo:
+    minimo: 3000
+    alvo: 5000
+    alerta_acima_de: 8000  # candidato a desdobrar em dois
+  travessao_so_em_fala: true
+  artigo_antes_de_nome_em_narracao: false
+
+# Usado pelas regras de artigo e vocativo do linter.
+personagens:
+  protagonistas: ["Josh", "Aurora"]
+  elenco: ["Raj", "Eleonora", "Aarav", "Casandra", "Joseph",
+           "Meridiana", "Dylan", "Matias", "Vibeke", "Erik",
+           "Ingrid", "Lindberg", "Helle", "Fru Larsen", "Fru Dahl"]
+
+# ── Regras mecânicas: tudo aqui é verificável por máquina ────
+# Nada nesta seção precisa de modelo. É `lint.py` que executa.
+revisao:
+  # Teto das fórmulas "do jeito que faz aquilo" — explicar uma coisa
+  # comparando com outra mais metafórica. É o tique que a autora mais
+  # reconhece como escrita de máquina.
+  #
+  # Medido no livro (ago/2026), em fórmulas por mil palavras:
+  #   caps 1-9    3,6 a 5,7  ← o problema mora aqui, não no final
+  #   caps 14-19  2,3
+  #   caps 32-36  0,6 a 0,9  ← o livro aprendeu sozinho a não fazer
+  #   livro todo  2,5
+  #
+  # A régua é a que os melhores capítulos já cumprem, não uma invenção.
+  cota_formulas_por_mil: 1.0
+  cota_formulas: 10        # teto absoluto por capítulo (rede de segurança)
+
+  formulas: '(como quem|do jeito que|a forma como|o modo como|com a [a-zà-ú]+ de quem|como se)'
+
+  blacklist:
+    - termo: '\b(peso|pesos|pesar|pesava|pesavam|pesou|pesad[oa]s?)\b'
+      motivo: "Virou jargão de IA como metáfora emocional."
+      excecao: "Usos literais (pesar farinha, carregar coisa pesada) passam — confirmar com a autora."
+      desde: "2026-06"
+    - termo: 'calo da pena'
+      motivo: "Canon antigo. Em capítulos novos Josh tem mãos brutas de campo."
+      excecao: "Permitido no capítulo 19."
+      permitido_em: [19]
+      desde: "2026-06"
+    - termo: 'como quem comenta o (clima|tempo)'
+      motivo: "Régua do Josh sobre o Dylan (cap 20). Cada personagem cria a própria."
+      desde: "2026-06"
+
+  # Falas que são pergunta e terminam sem "?" — erro nº 1 do projeto.
+  # Aberturas que em PT-BR são quase sempre pergunta. Alta confiança:
+  # o que sair daqui sem "?" é erro de verdade na esmagadora maioria.
+  inicios_interrogativos:
+    ["Como", "Por que", "Por quê", "Pra que", "Para que", "Quando",
+     "Onde", "Aonde", "Quem", "O que", "O quê", "Qual", "Quais",
+     "Quanto", "Quantos", "Quantas", "Cadê", "Será", "Tem certeza",
+     "Desde quando", "Por acaso"]
+
+  # Aberturas verbais ambíguas: em PT-BR servem igualmente para
+  # pergunta e para constatação — e ESTE livro usa constatação de
+  # propósito ("Você vai casar com o Lauritz."). Ficam fora do passe
+  # padrão porque geram mais ruído do que acerto. Rodar sob demanda
+  # com --regra interrogacao-ambigua quando quiser varrer fino.
+  inicios_interrogativos_ambiguos:
+    ["Vai", "Vamos", "Tem", "Tá", "Pode", "Posso", "Sabe", "Quer",
+     "Gosta", "Lembra", "Conhece", "Ouviu", "Viu", "Acha", "Consegue",
+     "Precisa", "Faz", "Deu", "Entendeu", "Combina", "Seria",
+     "Você vai", "Você tem", "Você sabe", "Você quer", "Você acha"]
+
+# ── Estrutura ────────────────────────────────────────────────
+# O Livro 1 está com o rascunho COMPLETO: 39 capítulos escritos,
+# terminando na coda. O trabalho agora é revisão e refinamento,
+# não escrita nova.
+estrutura:
+  estado: "rascunho completo — em revisão"
+  total_capitulos: 39
+  atos:
+    - nome: "Ato I — Chegada e convivência"
+      capitulos: [1, 9]
+    - nome: "Ato II — Pretendentes, sabotagem, ruptura"
+      capitulos: [10, 14]
+    - nome: "Ato III — Quase, queda e rebelião"
+      capitulos: [15, 27]
+    - nome: "Ato IV — Clímax"
+      capitulos: [28, 34]
+    - nome: "Desfecho"
+      capitulos: [35, 39]
+
+  # Diagnóstico de ritmo (agosto/2026): o desfecho é fino.
+  # Média de palavras por capítulo — o livro DESACELERA exatamente
+  # onde deveria acelerar. Alvo de revisão, não regra de escrita.
+  ritmo_medido:
+    "1-14":  4104
+    "15-27": 5813
+    "28-34": 4551
+    "35-39": 2775   # ← metade da subida; cinco dos seis caps mais curtos do livro

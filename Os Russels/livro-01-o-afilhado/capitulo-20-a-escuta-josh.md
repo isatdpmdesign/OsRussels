@@ -10,9 +10,9 @@
 
 Josh não dormiu.
 
-Subiu para o quarto leste depois da madrugada na sala de estar e deitou-se de costas, com o braço direito atravessado sobre o rosto, como se o braço fosse capaz de bloquear alguma coisa. Não bloqueou. A boca dela ainda estava nas pontas dos dedos dele. Morna, intacta, como se a Aurora tivesse marcado ali antes de recuar. Josh ficou meia hora tentando esvaziar a cabeça. Não esvaziou.
+Subiu para o quarto leste depois da madrugada na sala de estar e deitou-se de costas, com o braço direito atravessado sobre o rosto, como se o braço fosse capaz de bloquear alguma coisa. Não bloqueou. A boca dela ainda estava nas pontas dos dedos dele. Morna, intacta, como se Aurora tivesse marcado ali antes de recuar. Josh ficou meia hora tentando esvaziar a cabeça. Não esvaziou.
 
-A cabeça ficou onde tinha estado a noite inteira, em fragmentos que ele não conseguia ordenar: Aurora se inclinando perto demais, quente, o cheiro de jasmim e canela atravessando a distância antes do toque, o modo como o polegar dele tinha encontrado, sem procurar, o ponto exato do pulso dela e parado ali sentindo a batida acelerar de um lado e a sua acelerar do outro, e tendo que decidir, naquele meio segundo, o que fazer. Tinha apertado. Tinha encostado a boca na dela e sentido o primeiro suspiro dela escapar entre os lábios dele como se a Aurora tivesse acabado de descobrir, ao mesmo tempo que ele, que ar e voz podiam ter peso. Quando a língua dele encontrou a dela e a mão direita subiu pela nuca dela por baixo do cabelo solto e fechou nos fios sem decidir fechar, Josh sentiu, com uma clareza assustadora, que a parte dele que queria continuar era infinitamente mais funda do que a parte dele que sabia parar. Tinha parado mesmo assim. Tinha tirado a boca antes que a boca o levasse. Tinha tirado a mão antes que a outra, a da cintura, quisesse subir. Tinha levantado, recuado um passo, e ouvido a própria respiração na sala de estar como se tivesse corrido.
+A cabeça ficou onde tinha estado a noite inteira, em fragmentos que ele não conseguia ordenar: Aurora se inclinando perto demais, quente, o cheiro de jasmim e canela atravessando a distância antes do toque, o modo como o polegar dele tinha encontrado, sem procurar, o ponto exato do pulso dela e parado ali sentindo a batida acelerar de um lado e a sua acelerar do outro, e tendo que decidir, naquele meio segundo, o que fazer. Tinha apertado. Tinha encostado a boca na dela e sentido o primeiro suspiro dela escapar entre os lábios dele como se Aurora tivesse acabado de descobrir, ao mesmo tempo que ele, que ar e voz podiam ter peso. Quando a língua dele encontrou a dela e a mão direita subiu pela nuca dela por baixo do cabelo solto e fechou nos fios sem decidir fechar, Josh sentiu, com uma clareza assustadora, que a parte dele que queria continuar era infinitamente mais funda do que a parte dele que sabia parar. Tinha parado mesmo assim. Tinha tirado a boca antes que a boca o levasse. Tinha tirado a mão antes que a outra, a da cintura, quisesse subir. Tinha levantado, recuado um passo, e ouvido a própria respiração na sala de estar como se tivesse corrido.
 
 Ficou mais meia hora fazendo a única coisa que sabia fazer naquela noite, que era calcular: a frieza contábil que ele herdara da mãe e que normalmente usava para pesar argumentos de filosofia, aplicada agora a si mesmo.
 
@@ -24,7 +24,7 @@ A primeira parede não era razão. Era confiança. A confiança de um homem que 
 
 Ele tinha traído.
 
-E o pior, Josh pensou, de costas no escuro, era que o Raj não saberia. Não havia testemunha. Não havia carta, recado, fofoca de criada. O que tinha acontecido na sala de estar ficava entre ele e Aurora, lacrado pela própria natureza do que era. O Raj ia continuar tratando Josh como afilhado, ia continuar emprestando os livros com a própria mão, ia continuar dizendo *meu rapaz* com aquele orgulho contido de padrinho. E Josh ia continuar recebendo tudo isso sabendo o que fez.
+E o pior, Josh pensou, de costas no escuro, era que Raj não saberia. Não havia testemunha. Não havia carta, recado, fofoca de criada. O que tinha acontecido na sala de estar ficava entre ele e Aurora, lacrado pela própria natureza do que era. Raj ia continuar tratando Josh como afilhado, ia continuar emprestando os livros com a própria mão, ia continuar dizendo *meu rapaz* com aquele orgulho contido de padrinho. E Josh ia continuar recebendo tudo isso sabendo o que fez.
 
 Era pior do que ser pego. Ser pego pelo menos acabava com a mentira.
 
@@ -82,17 +82,17 @@ Ele ergueu os olhos da caneca.
 
 — Como assim?
 
-— Você é do campo. Você nasceu no campo, cresceu no campo, sabe fazer as coisas do campo. Eu vi você consertar a pérgola com as próprias mãos, vi você falar de poda como especialista — Aurora apoiou o cotovelo na mesa. — A maioria dos homens que eu conheço nasceu pra ficar onde está. O Erik vai herdar as terras do pai. Os filhos dos Frederiksen vão herdar o nome. Você podia ter ficado na fazenda com os seus irmãos e ninguém teria achado estranho. Mas você atravessou a Zelândia inteira pra estudar pra uma prova de ingresso numa universidade. Por quê? O que tem na academia que não tinha lá?
+— Você é do campo. Você nasceu no campo, cresceu no campo, sabe fazer as coisas do campo. Eu vi você consertar a pérgola com as próprias mãos, vi você falar de poda como especialista — Aurora apoiou o cotovelo na mesa. — A maioria dos homens que eu conheço nasceu pra ficar onde está. Erik vai herdar as terras do pai. Os filhos dos Frederiksen vão herdar o nome. Você podia ter ficado na fazenda com os seus irmãos e ninguém teria achado estranho. Mas você atravessou a Zelândia inteira pra estudar pra uma prova de ingresso numa universidade. Por quê? O que tem na academia que não tinha lá?
 
 Josh ficou um tempo sem responder. Não porque não tivesse resposta. Porque era uma pergunta que ninguém tinha feito a ele em cinco meses na Bredgade. E, agora que ele parara para pensar, talvez ninguém nunca o perguntara em lugar nenhum, nunca. Aurora era a primeira.
 
-— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem faz o cálculo de uma conta. O Joseph é o mais velho, então ele dirige a propriedade. A Meridiana cuida da casa e do pomar, junto com a mãe. O Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. O Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o lugar que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
+— Tem o lugar — disse ele, por fim. — Na fazenda não sobra lugar pra mim, Aurora. E eu não digo isso com mágoa, digo como quem faz o cálculo de uma conta. Joseph é o mais velho, então ele dirige a propriedade. Meridiana cuida da casa e do pomar, junto com a mãe. Dylan vai ficar com a lida da terra, porque é bom nisso e gosta, mesmo que finja que não gosta de nada. Matias ainda é criança, vai encontrar o lugar dele com o tempo. E eu sou o do meio. O do meio não tem função óbvia. Se eu ficasse, ia passar a vida ocupando o lugar que sobrava do trabalho dos outros. Ia ser útil. Mas útil não é a mesma coisa que necessário, e um homem precisa de pelo menos um lugar onde ele seja necessário.
 
 — A minha mãe viu isso antes de mim. — Josh girou a caneca. — Ela não me mandou fazer nada. Esperou. Ficou esperando que eu percebesse sozinho que não tinha lugar para mim na fazenda, porque ela é assim (ela não força as pessoas a entenderem o que ela já sabe). Quando eu finalmente disse em voz alta que queria estudar, ela já tinha a solução pronta havia um ano. Escreveu pro Raj. Ele é meu padrinho, prometeu ao meu pai que cuidaria da educação de um dos filhos se fizesse falta. E fez falta.
 
 — Entendi. É realmente ruim quando não pertencemos a um lugar. Eu sei bem como é. — Aurora olhou para o chão, procurando evitar o contato visual com Josh. Ela sabia muito bem o que era não pertencer, afinal, tinha vivido isso a vida toda. Ela era a mestiça com o sangue indiano visível no rosto, de lábios carnudos e olhos grandes que se diferenciava de tudo e todos que a Dinamarca estava acostumada a ver. — E o que você quer estudar? — perguntou, retomando o assunto enquanto tentava se desviar gentilmente do tema que sempre a incomodara.
 
-— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, mas a minha mãe dizia pra ele deixar porque ela sabia que eu ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão. O Raj acha que ela vai ter uma constituição antes de eu ficar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
+— Eu gosto de entender como as coisas funcionam. Sempre gostei. Quando eu era menino, eu desmontava as coisas da fazenda só pra ver o que tinha dentro, e o meu pai brigava, mas a minha mãe dizia pra ele deixar porque ela sabia que eu ia montar de novo melhor do que estava. Lei, política, filosofia natural, é tudo a mesma coisa, só que a coisa que eu desmonto agora é como os homens decidem viver juntos. E a Dinamarca anda no meio dessa decisão. Raj acha que ela vai ter uma constituição antes de eu ficar velho. Eu quero estar na sala onde isso vai ser discutido. Não na plateia. Na sala.
 
 Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia admirá-lo, como se uma peça do Josh tivesse acabado de encaixar num lugar que estava vazio. Quando falou, foi no tom mais baixo do que tinha usado a manhã inteira.
 
@@ -102,7 +102,7 @@ Aurora o olhou diferente. Não com a avaliação clínica de sempre. Parecia adm
 
 — Você atravessou a Zelândia inteira sozinho pra abrir um caminho que ninguém da sua casa abriu antes. — Aurora pousou a caneca devagar. — Sem ter quem te conte como é. Eu sei que pra você isso pode parecer algo simples, Josh. Mas pra mim parece coragem.
 
-Josh sentiu o sangue subir. Não estava habituado a ouvir a palavra "coragem" associada ao seu nome. Na fazenda, sair pra estudar tinha sido o que lhe restava fazer, e ele aprendera a chamar isso de necessidade. Mas a Aurora, do outro lado da mesa, chamou aquilo de outro jeito, e aquele jeito o tocou de uma forma que ele não sabia nomear. Ela elogiara-o de forma aberta e direta, precisamente depois de tudo o que tinham vivido na noite anterior. Um quase-sorriso subiu por sua mandíbula. Josh sentiu-se satisfeito por ser admirado por Aurora.
+Josh sentiu o sangue subir. Não estava habituado a ouvir a palavra "coragem" associada ao seu nome. Na fazenda, sair pra estudar tinha sido o que lhe restava fazer, e ele aprendera a chamar isso de necessidade. Mas Aurora, do outro lado da mesa, chamou aquilo de outro jeito, e aquele jeito o tocou de uma forma que ele não sabia nomear. Ela elogiara-o de forma aberta e direta, precisamente depois de tudo o que tinham vivido na noite anterior. Um quase-sorriso subiu por sua mandíbula. Josh sentiu-se satisfeito por ser admirado por Aurora.
 
 — Obrigado. — disse ele. A palavra saiu mais rouca do que ele queria.
 
@@ -120,15 +120,15 @@ Voltou com o bule cheio. Encheu a caneca dele. Encheu a dela. Sentou. As orelhas
 
 — Josh. — Aurora pousou a caneca devagar. — Faz cinco meses que você mora nesta casa. Cinco meses sentando à mesa do meu pai, atravessando os mesmos corredores que eu, dividindo a mesma cozinha às horas mortas. E eu sei três coisas sobre você. Sei que é afilhado do meu pai. Sei que veio de Sorø. Sei que veio estudar. — Ela parou. — Hoje, no espaço de uma caneca de café, eu aprendi uma quarta: que veio porque precisa de um lugar que seja seu desde o começo. Quatro coisas, Josh. Cinco meses. — Aurora o encarou. — Porque não me fala um pouco sobre, sobre sua família. Eu quero te conhecer. Me fala dos seus irmãos. Sei que tem muitos.
 
-Josh sorriu o sorriso abobado, como o Dylan diria. Todas as amarras de Aurora pareciam ter se dissolvido. Ela falava mais, sorria mais e genuinamente estava interessada na vida dele. O jogo de silêncio que envolvera as manhãs naquela cozinha havia sido tomado por diálogo, e não havia nada melhor que Josh poderia desejar: falar com Aurora, com a mulher à qual estava perdidamente entregue.
+Josh sorriu o sorriso abobado, como Dylan diria. Todas as amarras de Aurora pareciam ter se dissolvido. Ela falava mais, sorria mais e genuinamente estava interessada na vida dele. O jogo de silêncio que envolvera as manhãs naquela cozinha havia sido tomado por diálogo, e não havia nada melhor que Josh poderia desejar: falar com Aurora, com a mulher à qual estava perdidamente entregue.
 
-— Claro. — Josh assentiu. — Vou começar pelo Joseph, o mais velho. Tem vinte e quatro. Assumiu a propriedade quando o meu pai morreu, e assumiu como quem nasceu pra carregar peso, sem reclamar uma vez sequer. O problema é que ele assumiu junto a ideia de que sentir é um luxo que o homem que carrega a casa não pode pagar. Então ele trabalha. Trabalha sempre, do escuro ao escuro, porque enquanto está trabalhando ele não precisa pensar, e enquanto não pensa ele não precisa sentir a falta do meu pai. O Joseph antes do meu pai morrer ria muito. Brigava, aprontava, namorava metade das moças da freguesia sem que nenhuma desconfiasse das outras, dava trabalho pra minha mãe. Depois parou. Não de tristeza. De responsabilidade. Ele acha que rir é direito de quem não precisa decidir nada, e ele decide tudo.
+— Claro. — Josh assentiu. — Vou começar pelo Joseph, o mais velho. Tem vinte e quatro. Assumiu a propriedade quando o meu pai morreu, e assumiu como quem nasceu pra carregar peso, sem reclamar uma vez sequer. O problema é que ele assumiu junto a ideia de que sentir é um luxo que o homem que carrega a casa não pode pagar. Então ele trabalha. Trabalha sempre, do escuro ao escuro, porque enquanto está trabalhando ele não precisa pensar, e enquanto não pensa ele não precisa sentir a falta do meu pai. Joseph antes do meu pai morrer ria muito. Brigava, aprontava, namorava metade das moças da freguesia sem que nenhuma desconfiasse das outras, dava trabalho pra minha mãe. Depois parou. Não de tristeza. De responsabilidade. Ele acha que rir é direito de quem não precisa decidir nada, e ele decide tudo.
 
 — Ele se senta na cadeira do seu pai?
 
 A pergunta saiu da Aurora com um cuidado específico, e Josh entendeu de onde vinha o cuidado antes mesmo de responder: ela estava perguntando pelo Joseph, mas estava pensando na cadeira do Aarav, na cabeceira esquerda da mesa de jantar da Bredgade, e queria saber se aquilo de não ocupar o lugar do morto era só da casa dela ou se acontecia em qualquer casa que ficou aberta em direção a um lugar vazio.
 
-— Não. — Ele balançou a cabeça devagar. — Ninguém senta. A cadeira do meu pai continua na cabeceira, vazia, e ninguém nunca decidiu isso em voz alta, simplesmente ninguém senta. A minha mãe passa a mão no encosto antes de sentar na cadeira dela, todo jantar, todo santo dia. Não é um gesto grande. É quase nada. Mas é a coisa mais constante daquela casa. O Joseph assumiu a propriedade inteira, a lida, as contas, as decisões. Assumiu tudo, menos aquela cadeira.
+— Não. — Ele balançou a cabeça devagar. — Ninguém senta. A cadeira do meu pai continua na cabeceira, vazia, e ninguém nunca decidiu isso em voz alta, simplesmente ninguém senta. A minha mãe passa a mão no encosto antes de sentar na cadeira dela, todo jantar, todo santo dia. Não é um gesto grande. É quase nada. Mas é a coisa mais constante daquela casa. Joseph assumiu a propriedade inteira, a lida, as contas, as decisões. Assumiu tudo, menos aquela cadeira.
 
 Aurora ficou muito quieta.
 
@@ -140,23 +140,23 @@ Os dois ficaram em silêncio um momento, e o silêncio tinha agora uma coisa nov
 
 — Continua. O próximo.
 
-— O Dylan. Dezenove. — Josh deixou o canto da boca subir. — É o tipo que diz o que todo mundo na sala está pensando e que ninguém vai dizer, e diz com uma cara de quem está só comentando o clima. Tem um canivete que ele afiou tanto que a lâmina ficou mais fina do que a do meu pai. Chuta a porteira do celeiro toda manhã quando passa, sempre, e nunca explicou pra ninguém por quê. É o mais difícil de gostar e o mais fácil também, dependendo do minuto da semana em que você o pega.
+— Dylan. Dezenove. — Josh deixou o canto da boca subir. — É o tipo que diz o que todo mundo na sala está pensando e que ninguém vai dizer, e diz com uma cara de quem está só comentando o clima. Tem um canivete que ele afiou tanto que a lâmina ficou mais fina do que a do meu pai. Chuta a porteira do celeiro toda manhã quando passa, sempre, e nunca explicou pra ninguém por quê. É o mais difícil de gostar e o mais fácil também, dependendo do minuto da semana em que você o pega.
 
 — Você gosta dele?
 
-— Eu adoro. — Josh riu pelo nariz. — Mas tenho que negar na frente dele, ou ele fica insuportável. O Dylan trata afeto como quem trata um cachorro bravo: melhor não fazer movimento brusco.
+— Eu adoro. — Josh riu pelo nariz. — Mas tenho que negar na frente dele, ou ele fica insuportável. Dylan trata afeto como quem trata um cachorro bravo: melhor não fazer movimento brusco.
 
 Aurora riu. Foi um riso baixo, curto, mas era um riso.
 
-— A Meridiana tem vinte. É a filha do meio, e o nome vem disso. A minha mãe achou bonito pôr o nome no meio porque já sabia, antes dela nascer, que a Meridiana ia ser a que segura o equilíbrio da casa. — Josh fez uma pausa. — A Meridiana fala com as árvores.
+— Meridiana tem vinte. É a filha do meio, e o nome vem disso. A minha mãe achou bonito pôr o nome no meio porque já sabia, antes dela nascer, que Meridiana ia ser a que segura o equilíbrio da casa. — Josh fez uma pausa. — Meridiana fala com as árvores.
 
 — Como assim, fala com as árvores? — Aurora franziu o cenho evitando outro riso.
 
-— Fala. Tem uma macieira velha no pomar, perto do tanque, que ela chama de Berta. Conversa com a Berta como se a Berta respondesse. Conta os fatos do dia, pede opinião às vezes. A primeira vez que eu vi, achei que era brincadeira de criança que ela não tinha largado. Depois de uns anos entendi que não era. A Meridiana acha que árvore guarda memória, que tudo que aconteceu debaixo de uma árvore fica de algum jeito dentro dela. — Josh girou a caneca. — E aqui é a parte que eu não conto pra qualquer um: depois de um tempo eu comecei a achar que ela podia ter razão.
+— Fala. Tem uma macieira velha no pomar, perto do tanque, que ela chama de Berta. Conversa com a Berta como se a Berta respondesse. Conta os fatos do dia, pede opinião às vezes. A primeira vez que eu vi, achei que era brincadeira de criança que ela não tinha largado. Depois de uns anos entendi que não era. Meridiana acha que árvore guarda memória, que tudo que aconteceu debaixo de uma árvore fica de algum jeito dentro dela. — Josh girou a caneca. — E aqui é a parte que eu não conto pra qualquer um: depois de um tempo eu comecei a achar que ela podia ter razão.
 
 — Eu gostaria de poder conhecê-la.
 
-— Vocês se dariam bem — disse Josh, devagar, escolhendo as palavras. — Acho até que seriam amigas rápido. A Meridiana ia gostar de você.
+— Vocês se dariam bem — disse Josh, devagar, escolhendo as palavras. — Acho até que seriam amigas rápido. Meridiana ia gostar de você.
 
 — Você acha? Por quê?
 
@@ -166,7 +166,7 @@ Aurora absorveu. Josh viu o rosto dela mudar de leve com a frase, e percebeu, co
 
 — Tem mais irmãos? — perguntou ela.
 
-— Sim, o caçula, Matias. Tem treze anos. — Josh sorriu. — É a parte da minha família que ainda tem a defesa inteira. Não aprendeu a esconder o que sente, e a gente protege ele desse aprendizado o quanto pode. Chora num livro triste sem vergonha nenhuma. Ri alto num livro engraçado. Faz pergunta de menino com a profundidade de quem tem trinta anos — pergunta da morte, do tempo, de Deus, do que acontece com a gente quando morremos. Pergunta no jantar, pergunta no terreiro no fim da tarde, pergunta na soleira do meu quarto antes de dormir. — Josh pausou. — O Matias é a razão de eu ter aprendido a responder pergunta difícil sem mentir. Porque com ele não dá pra mentir. Ele percebe na hora, e fica magoado, não com a verdade, mas com a tentativa de pouparem ele dela.
+— Sim, o caçula, Matias. Tem treze anos. — Josh sorriu. — É a parte da minha família que ainda tem a defesa inteira. Não aprendeu a esconder o que sente, e a gente protege ele desse aprendizado o quanto pode. Chora num livro triste sem vergonha nenhuma. Ri alto num livro engraçado. Faz pergunta de menino com a profundidade de quem tem trinta anos — pergunta da morte, do tempo, de Deus, do que acontece com a gente quando morremos. Pergunta no jantar, pergunta no terreiro no fim da tarde, pergunta na soleira do meu quarto antes de dormir. — Josh pausou. — Matias é a razão de eu ter aprendido a responder pergunta difícil sem mentir. Porque com ele não dá pra mentir. Ele percebe na hora, e fica magoado, não com a verdade, mas com a tentativa de pouparem ele dela.
 
 Aurora ficou olhando para Josh com uma expressão que ele não soube nomear de imediato. Depois entendeu. Era inveja. Não a inveja feia. A inveja mansa de quem cresceu sem irmãos pequenos e ouve falar de uma casa cheia.
 
@@ -176,7 +176,7 @@ Aurora ficou olhando para Josh com uma expressão que ele não soube nomear de i
 
 Aurora encheu a caneca dele.
 
-— Ela escreve carta pra mim toda semana. Sempre escreveu. Desde que eu cheguei aqui, em março, não passou uma semana sem chegar carta dela. Ela escreve sobre o joelho do Joseph, que está ruim de novo, sobre o Dylan, que ainda não consertou a cerca do pasto norte porque o Dylan nunca faz nada antes da terceira vez que pedem, sobre a Meridiana, que está falando com uma macieira nova esse ano. Conta dos vizinhos, dos preços do trigo, do gato que apareceu na cozinha mês passado e que ninguém teve coragem de tirar. Conta tudo. Menos sobre ela.
+— Ela escreve carta pra mim toda semana. Sempre escreveu. Desde que eu cheguei aqui, em março, não passou uma semana sem chegar carta dela. Ela escreve sobre o joelho do Joseph, que está ruim de novo, sobre Dylan, que ainda não consertou a cerca do pasto norte porque Dylan nunca faz nada antes da terceira vez que pedem, sobre Meridiana, que está falando com uma macieira nova esse ano. Conta dos vizinhos, dos preços do trigo, do gato que apareceu na cozinha mês passado e que ninguém teve coragem de tirar. Conta tudo. Menos sobre ela.
 
 Josh girou a caneca.
 
@@ -184,7 +184,7 @@ Josh girou a caneca.
 
 Aurora riu pelo nariz, baixo.
 
-— Ela leva tudo pra dentro pra não pôr nos outros. E é a única pessoa daquela casa que sabe puxar a orelha do Dylan na hora certa, e sabe quando o Matias precisa ser deixado em paz, e quando o Joseph precisa de briga e quando precisa de silêncio. Ela não fala muito. Mas quando fala, parece que já ensaiou a frase na cabeça. É sempre muito certeira.
+— Ela leva tudo pra dentro pra não pôr nos outros. E é a única pessoa daquela casa que sabe puxar a orelha do Dylan na hora certa, e sabe quando Matias precisa ser deixado em paz, e quando Joseph precisa de briga e quando precisa de silêncio. Ela não fala muito. Mas quando fala, parece que já ensaiou a frase na cabeça. É sempre muito certeira.
 
 — Eu cresci ouvindo conselho dela disfarçado de comentário sobre outra coisa. Ela nunca dizia *faz isso*. Dizia *olha, o Pedersen pôs o filho mais novo pra cuidar do estábulo da fazenda dele, e o estábulo melhorou*. E era ela me dizendo, na verdade, pra eu tomar conta da minha parte. Eu só entendi com uns dezenove anos. Quando entendi, percebi que ela tinha me criado inteiro daquele jeito, sem eu ver acontecer.
 
@@ -196,7 +196,7 @@ Aurora sorriu.
 
 *
 
-Em algum momento Josh contou da morte do pai. Não em detalhe. Disse o suficiente: a febre, três semanas, o quarto fechado, a janela aberta de um lado só. Matias com nove, ele com dezessete, Joseph com vinte, Meridiana com dezesseis, Dylan com quinze. O Henrik antes da febre, que reconstruíra o telhado de palha da casa três vezes com as próprias mãos. O Henrik depois. A mãe carregando o luto da casa inteira nas costas sem deixar ninguém ver o peso.
+Em algum momento Josh contou da morte do pai. Não em detalhe. Disse o suficiente: a febre, três semanas, o quarto fechado, a janela aberta de um lado só. Matias com nove, ele com dezessete, Joseph com vinte, Meridiana com dezesseis, Dylan com quinze. Henrik antes da febre, que reconstruíra o telhado de palha da casa três vezes com as próprias mãos. Henrik depois. A mãe carregando o luto da casa inteira nas costas sem deixar ninguém ver o peso.
 
 Aurora ouviu sem interromper, com a mão envolta na caneca o tempo todo. Quando Josh terminou, ficou quieta uns segundos. Depois falou.
 
@@ -206,11 +206,11 @@ Aurora ouviu sem interromper, com a mão envolta na caneca o tempo todo. Quando 
 
 Aurora respirou. E contou.
 
-Contou do jardim primeiro: o retângulo de verde e pedra nos fundos, fechado por muros de hera, com o caminho de cascalho branco que levava à pérgola. A pérgola coberta de glicínias, que em agosto pendiam pesadas e doces. As roseiras, que não ficavam na pérgola, ficavam no canto direito, e que tinham sido ideia do Aarav: ele convencera o papai a importar as mudas de um viveiro na Jutlândia, e dissera, com aquela mania que tinha de transformar qualquer coisa ordinária em frase, *rosas dinamarquesas em solo dinamarquês, plantadas por mãos indianas.* Contou do banco de madeira sob a pérgola, que o Aarav mandara fazer quando a pérgola ficou pronta, alegando que toda pérgola precisa de um banco, porque de que adianta ter sombra se não se tem onde sentar.
+Contou do jardim primeiro: o retângulo de verde e pedra nos fundos, fechado por muros de hera, com o caminho de cascalho branco que levava à pérgola. A pérgola coberta de glicínias, que em agosto pendiam pesadas e doces. As roseiras, que não ficavam na pérgola, ficavam no canto direito, e que tinham sido ideia do Aarav: ele convencera o papai a importar as mudas de um viveiro na Jutlândia, e dissera, com aquela mania que tinha de transformar qualquer coisa ordinária em frase, *rosas dinamarquesas em solo dinamarquês, plantadas por mãos indianas.* Contou do banco de madeira sob a pérgola, que Aarav mandara fazer quando a pérgola ficou pronta, alegando que toda pérgola precisa de um banco, porque de que adianta ter sombra se não se tem onde sentar.
 
-Contou que o Aarav lia Oehlenschläger em voz alta no jardim, com gestos teatrais, porque achava que poesia dinamarquesa precisava de inflexão para respirar, e que a mamãe levantava uma sobrancelha toda vez, fingindo achar excesso, enquanto o papai escondia um sorriso atrás do jornal. Contou que o Aarav transformava tudo em poesia, e que ela cresceu achando que o mundo inteiro falava assim, e que só descobriu que não quando ele se foi e tudo ao redor virou prosa de uma hora para outra.
+Contou que Aarav lia Oehlenschläger em voz alta no jardim, com gestos teatrais, porque achava que poesia dinamarquesa precisava de inflexão para respirar, e que a mamãe levantava uma sobrancelha toda vez, fingindo achar excesso, enquanto o papai escondia um sorriso atrás do jornal. Contou que Aarav transformava tudo em poesia, e que ela cresceu achando que o mundo inteiro falava assim, e que só descobriu que não quando ele se foi e tudo ao redor virou prosa de uma hora para outra.
 
-Contou da expedição. O navio. A rota do Ceilão. O Aarav embarcando porque queria ver com os próprios olhos a terra de onde a família do papai tinha vindo, a febre dele de horizonte que não deixava ele ficar parado.
+Contou da expedição. O navio. A rota do Ceilão. Aarav embarcando porque queria ver com os próprios olhos a terra de onde a família do papai tinha vindo, a febre dele de horizonte que não deixava ele ficar parado.
 
 E contou do dia da notícia.
 
@@ -226,7 +226,7 @@ Aurora segurou o olhar dele. Os olhos marejaram por um instante. Ela piscou ráp
 
 — Sim.
 
-— Eu não quero falar sobre o que aconteceu hoje de madrugada. Não agora, não nesta cozinha, não com a Helle prestes a chegar e a casa prestes e acordar. — Ela respirou. — Mas eu preciso que você entenda uma coisa, e que entenda direito, sem aquela sua mania de transformar o que eu digo em outra coisa mais segura. Eu não me arrependo. Não foi um erro meu que eu queira corrigir, não foi um momento que eu queira fingir que não aconteceu, e não foi uma coisa que eu vá deixar você desfazer com argumento. As suas paredes continuam de pé, eu sei que continuam. Mas elas são suas. O que eu sinto é meu. E eu não vou pedir desculpa por uma coisa que é minha.
+— Eu não quero falar sobre o que aconteceu hoje de madrugada. Não agora, não nesta cozinha, não com Helle prestes a chegar e a casa prestes e acordar. — Ela respirou. — Mas eu preciso que você entenda uma coisa, e que entenda direito, sem aquela sua mania de transformar o que eu digo em outra coisa mais segura. Eu não me arrependo. Não foi um erro meu que eu queira corrigir, não foi um momento que eu queira fingir que não aconteceu, e não foi uma coisa que eu vá deixar você desfazer com argumento. As suas paredes continuam de pé, eu sei que continuam. Mas elas são suas. O que eu sinto é meu. E eu não vou pedir desculpa por uma coisa que é minha.
 
 Josh ficou olhando para ela. Por uma vez não procurou a saída segura, não desviou a frase para um lugar mais raso. Deixou a frase dela ficar inteira no ar, e respondeu inteiro.
 
@@ -246,13 +246,13 @@ Por um instante nenhum dos dois se mexeu. A vela estava quase no fim, e a cozinh
 
 A porta da frente abriu às seis e dezessete. Helle. Os dois ouviram o ruído. Aurora levantou-se primeiro, pegou a caneca, lavou no balde, virou de boca para baixo no escorredor. Josh fez o mesmo.
 
-— Vou subir — disse Aurora. — Antes de a Helle chegar na cozinha.
+— Vou subir — disse Aurora. — Antes de Helle chegar na cozinha.
 
 — Vai.
 
 Ela passou perto dele na saída.
 
-Não o tocou. Mas passou perto o suficiente para o cheiro dela chegar: jasmim e canela, aquele cheiro que não combinava com a Dinamarca, nem com agosto, nem com nada que Josh conhecesse antes de chegar à Bredgade, e que tinha grudado na memória dele desde o primeiro dia como tinta em tecido branco. Naquela manhã o cheiro veio mais fundo, mais quente, misturado ao morno da cama que ela tinha acabado de deixar. Josh fechou os olhos por meio segundo. Foi o corpo decidindo antes da cabeça, do jeito que o corpo dele sempre decidia perto dela. E o que o corpo queria, naquele escuro de pálpebra, era simples e inteiro: virar, alcançar o pulso dela antes que cruzasse a porta, puxá-la de volta e recomeçar o que a madrugada tinha começado. Sem a Helle a caminho. Sem caneca, sem mesa, sem um palmo de distância no meio. Ele não virou. Ficou imóvel, as mãos abertas ao longo do corpo, e deixou o cheiro dela esfumar no ar da cozinha. Antes daquela madrugada ele só tinha imaginado como seria tocar Aurora. Agora tinha provado. E provar, ele estava descobrindo ali, parado, era muito pior do que imaginar, porque o que a gente imagina, a gente ainda consegue negar. Mas o que o corpo já descobriu, não.
+Não o tocou. Mas passou perto o suficiente para o cheiro dela chegar: jasmim e canela, aquele cheiro que não combinava com a Dinamarca, nem com agosto, nem com nada que Josh conhecesse antes de chegar à Bredgade, e que tinha grudado na memória dele desde o primeiro dia como tinta em tecido branco. Naquela manhã o cheiro veio mais fundo, mais quente, misturado ao morno da cama que ela tinha acabado de deixar. Josh fechou os olhos por meio segundo. Foi o corpo decidindo antes da cabeça, do jeito que o corpo dele sempre decidia perto dela. E o que o corpo queria, naquele escuro de pálpebra, era simples e inteiro: virar, alcançar o pulso dela antes que cruzasse a porta, puxá-la de volta e recomeçar o que a madrugada tinha começado. Sem Helle a caminho. Sem caneca, sem mesa, sem um palmo de distância no meio. Ele não virou. Ficou imóvel, as mãos abertas ao longo do corpo, e deixou o cheiro dela esfumar no ar da cozinha. Antes daquela madrugada ele só tinha imaginado como seria tocar Aurora. Agora tinha provado. E provar, ele estava descobrindo ali, parado, era muito pior do que imaginar, porque o que a gente imagina, a gente ainda consegue negar. Mas o que o corpo já descobriu, não.
 
 Aurora saiu.
 
@@ -282,25 +282,25 @@ Levantar agora era anunciar que tinha escolhido ficar. Josh ficou imóvel. E, ao
 
 — Eleonora — disse Raj, mais baixo, contido. — Este não é o lugar pra essa conversa.
 
-— A nossa casa não tem lugar pra essa conversa. Na verdade, essa conversa não devia nem existir, Raj. Foi você que fez ela existir no dia em que apertou a mão do Lindberg. Agora ela existe, e nós dois temos que decidir o que fazer com a Aurora antes que comece a existir para ela também .
+— A nossa casa não tem lugar pra essa conversa. Na verdade, essa conversa não devia nem existir, Raj. Foi você que fez ela existir no dia em que apertou a mão do Lindberg. Agora ela existe, e nós dois temos que decidir o que fazer com Aurora antes que comece a existir para ela também .
 
 *Lindberg.*
 
 Josh registrou o nome. Já o ouvira uma vez, no escritório, numa frase casual do Raj sobre rotas marítimas que ele tinha guardado sem entender por quê.
 
-— A Aurora não tem nada com isso — disse Raj.
+— Aurora não tem nada com isso — disse Raj.
 
-— A Aurora vai ter tudo com isso se ficar nesta casa nas próximas semanas. — A voz da Eleonora estava firme de um jeito que Josh não conhecia. — Você vai receber o Lindberg aqui. Vai receber os homens dele. Vai ter conversa de devedor e credor na sua biblioteca, na sua sala de jantar, no seu escritório, com números em cima da mesa e tom de quem está perdendo. Vocês vão discutir, vão ameaçar sua vida se você não garantir que vai pagar a dívida. E a Aurora tem dezesseis anos, os olhos mais afiados desta casa e os ouvidos mais apurados. Ela vai entender em três dias o que está acontecendo. E aí, Raj, me escuta bem: ela não vai ficar só com medo. Ela vai ficar apavorada e vai querer ajudar.
+— Aurora vai ter tudo com isso se ficar nesta casa nas próximas semanas. — A voz da Eleonora estava firme de um jeito que Josh não conhecia. — Você vai receber Lindberg aqui. Vai receber os homens dele. Vai ter conversa de devedor e credor na sua biblioteca, na sua sala de jantar, no seu escritório, com números em cima da mesa e tom de quem está perdendo. Vocês vão discutir, vão ameaçar sua vida se você não garantir que vai pagar a dívida. E Aurora tem dezessete anos, os olhos mais afiados desta casa e os ouvidos mais apurados. Ela vai entender em três dias o que está acontecendo. E aí, Raj, me escuta bem: ela não vai ficar só com medo. Ela vai ficar apavorada e vai querer ajudar.
 
-Silêncio. Josh ouviu o Raj sentar. A poltrona perto da janela estalou de leve.
+Silêncio. Josh ouviu Raj sentar. A poltrona perto da janela estalou de leve.
 
 — Ela é uma menina.
 
-— Ela é uma menina que já enterrou um irmão e que assistiu, calada, o pai dela se despedaçar de luto sem poder fazer nada. Você acha que ela vai assistir de braços cruzados a casa ruir uma segunda vez? — Eleonora não andava mais; Josh percebeu que ela tinha parado em algum ponto perto da estante oeste. — Ela vai se oferecer, Raj. Ela vai chegar pra você com aquela cara de porcelana e vai dizer que aceita casar com quem for preciso pra resolver. Com o Lindberg, com um sócio do Lindberg, com qualquer homem velho e rico que feche a conta. Ela vai se vender pra salvar você, e vai chamar isso de dever, e você vai ter que escolher entre aceitar e destruir a filha ou recusar e destruir a família. Eu não vou deixar a nossa filha chegar nesse ponto. Eu prefiro que ela não saiba de nada a ter que vê-la nessa escolha.
+— Ela é uma menina que já enterrou um irmão e que assistiu, calada, o pai dela se despedaçar de luto sem poder fazer nada. Você acha que ela vai assistir de braços cruzados a casa ruir uma segunda vez? — Eleonora não andava mais; Josh percebeu que ela tinha parado em algum ponto perto da estante oeste. — Ela vai se oferecer, Raj. Ela vai chegar pra você com aquela cara de porcelana e vai dizer que aceita casar com quem for preciso pra resolver. Com Lindberg, com um sócio do Lindberg, com qualquer homem velho e rico que feche a conta. Ela vai se vender pra salvar você, e vai chamar isso de dever, e você vai ter que escolher entre aceitar e destruir a filha ou recusar e destruir a família. Eu não vou deixar a nossa filha chegar nesse ponto. Eu prefiro que ela não saiba de nada a ter que vê-la nessa escolha.
 
-Josh, no canto da estante, fechou os olhos por um segundo. Estava ouvindo coisas que não tinha permissão de ouvir, e estava ouvindo a Eleonora (a Eleonora dos bordados e da observação armazenada e do sorriso meio) brigar por uma coisa com uma fereza que ele nunca tinha visto nela.
+Josh, no canto da estante, fechou os olhos por um segundo. Estava ouvindo coisas que não tinha permissão de ouvir, e estava ouvindo Eleonora (Eleonora dos bordados e da observação armazenada e do sorriso meio) brigar por uma coisa com uma fereza que ele nunca tinha visto nela.
 
-— Então o que você sugere? — disse Raj, e a voz dele estava cansada. — Porque o que está em jogo aqui é simples: a casa não pode ter a Aurora dentro enquanto eu negocio. Eu preciso dela longe da Bredgade por umas duas semanas, sem que ela saiba por quê. A pergunta é onde!
+— Então o que você sugere? — disse Raj, e a voz dele estava cansada. — Porque o que está em jogo aqui é simples: a casa não pode ter Aurora dentro enquanto eu negocio. Eu preciso dela longe da Bredgade por umas duas semanas, sem que ela saiba por quê. A pergunta é onde!
 
 — Eu sei qual é a pergunta.
 
@@ -308,19 +308,19 @@ Josh, no canto da estante, fechou os olhos por um segundo. Estava ouvindo coisas
 
 — Mortensen não.
 
-— Por quê? O Erik a visita às quartas. A família é boa. Ele parece ter sincero interesse em noivar com Aurora. A Ingrid é a coisa mais próxima de uma amiga que a Aurora tem.
+— Por quê? Erik a visita às quartas. A família é boa. Ele parece ter sincero interesse em noivar com Aurora. Ingrid é a coisa mais próxima de uma amiga que Aurora tem.
 
-— Por isso mesmo. — A voz da Eleonora não subiu; afiou. — O Erik é pretendente sem nada firmado. Visita, dança, não pediu, e ela não vai aceitar, e você sabe disso tão bem quanto eu. Manda a nossa filha solteira dormir duas semanas sob o teto do pretendente, com os pais dele em Aabenraa metade do tempo, e a cidade lê de dois jeitos: ou estamos enfiando o noivado goela abaixo, ou tiramos a Aurora de casa às pressas por algum motivo e o mais plausível seria uma gravidez antes de um casamento! Uma leitura humilha ela. A outra te denuncia. As duas são veneno.
+— Por isso mesmo. — A voz da Eleonora não subiu; afiou. — Erik é pretendente sem nada firmado. Visita, dança, não pediu, e ela não vai aceitar, e você sabe disso tão bem quanto eu. Manda a nossa filha solteira dormir duas semanas sob o teto do pretendente, com os pais dele em Aabenraa metade do tempo, e a cidade lê de dois jeitos: ou estamos enfiando o noivado goela abaixo, ou tiramos Aurora de casa às pressas por algum motivo e o mais plausível seria uma gravidez antes de um casamento! Uma leitura humilha ela. A outra te denuncia. As duas são veneno.
 
-Silêncio. Josh ouviu o Raj absorver aquilo.
+Silêncio. Josh ouviu Raj absorver aquilo.
 
 — Lundgren — disse ele.
 
-— A Lundgren me adora, mas tem três filhas casadeiras e nenhum canto pra uma quarta moça. E fica a vinte minutos da Bredgade. A Aurora estaria a vinte minutos da Bredgade. Não é distância, Raj.
+— Lundgren me adora, mas tem três filhas casadeiras e nenhum canto pra uma quarta moça. E fica a vinte minutos da Bredgade. Aurora estaria a vinte minutos da Bredgade. Não é distância, Raj.
 
-— A Karoline.
+— Karoline.
 
-— A Karoline. — Eleonora soltou o ar. — A Karoline me mandou a Vibeke pra conhecer outros rapazes antes de fechar o noivado com o tal do Lauritz Brandt, que ela não engole. Esse é o acordo. Se eu devolvo a Vibeke pra Viborg com a Aurora a tiracolo, no meio da temporada, sem explicação que se sustente, a Karoline entende na hora que aconteceu coisa grave aqui. E a Karoline não guarda segredo nem da própria sombra. Em uma semana, metade da Jutlândia está adivinhando o motivo.
+— Karoline. — Eleonora soltou o ar. — Karoline me mandou Vibeke pra conhecer outros rapazes antes de fechar o noivado com o tal do Lauritz Brandt, que ela não engole. Esse é o acordo. Se eu devolvo Vibeke pra Viborg com Aurora a tiracolo, no meio da temporada, sem explicação que se sustente, Karoline entende na hora que aconteceu coisa grave aqui. E Karoline não guarda segredo nem da própria sombra. Em uma semana, metade da Jutlândia está adivinhando o motivo.
 
 — Então — disse Raj, com o tom de quem está chegando perto da última carta — o que sobra?
 
@@ -334,19 +334,19 @@ Foi então que Raj falou o nome, quase no automático, rodando a lista mental e 
 
 Atrás da estante, Josh parou de respirar. *A casa dele.*
 
-Silêncio. A Eleonora não respondeu de imediato.
+Silêncio. Eleonora não respondeu de imediato.
 
 Quando respondeu, foi com um tom que Josh decifrou na hora, porque cinco meses estudando a economia facial dela tinham ensinado também a economia vocal: era o tom de quem ouve uma proposta que cabe na conta e que, ao mesmo tempo, esbarra num desconforto que ela não consegue nomear.
 
 — A Sorø? — perguntou Eleonora, num tom que não denunciava dúvida mas sim, temor.
 
-— Sim! É perfeito — começou Raj. — A propriedade da Casandra. Duas semanas. A Aurora e a Vibeke juntas, a Vibeke como acompanhante natural. A Casandra recebe as duas como sobrinhas. O Josh acompanha. O pretexto se sustenta sozinho: convite de campo da Casandra, minha amiga de longa data, ar puro depois da temporada. A casa fica livre aqui. Eu negocio com o Lindberg sem a Aurora ouvir uma palavra. Em duas semanas elas voltam, e a Aurora não soube de nada.
+— Sim! É perfeito — começou Raj. — A propriedade da Casandra. Duas semanas. Aurora e Vibeke juntas, Vibeke como acompanhante natural. Casandra recebe as duas como sobrinhas. Josh acompanha. O pretexto se sustenta sozinho: convite de campo da Casandra, minha amiga de longa data, ar puro depois da temporada. A casa fica livre aqui. Eu negocio com Lindberg sem Aurora ouvir uma palavra. Em duas semanas elas voltam, e Aurora não soube de nada.
 
 As palavras chegaram fora de ordem para Josh e levaram um instante inteiro para se juntarem no sentido que ele não queria que tivessem.
 
-*"Duas semanas... O Josh acompanha... A Casandra recebe as duas".* 
+*"Duas semanas... Josh acompanha... Casandra recebe as duas".* 
 
-A Aurora ia para a Sorø. Para a casa dele. Para debaixo do telhado de palha onde ele era o filho do meio e não o aluno do Raj, onde se andava descalço e se falava alto e não havia uma única parede de cidade atrás da qual se esconder. E ele iria junto. Duas semanas. A parte dele que devia sentir pavor sentiu na hora, limpa e inteira: era a pior coisa que os dois podiam ter decidido, e tinham decidido sem fazer ideia do que decidiam. Mas debaixo do pavor, no mesmo segundo, antes que ele tivesse tempo de proibir, subiu outra coisa: quente, sem vergonha, viva. A mesma coisa que ele tinha passado a madrugada inteira jurando à Aurora que continuava trancada atrás de paredes de pé. Essa coisa ouviu "duas semanas" e não sentiu pavor nenhum. Essa coisa teve vontade de sorrir, e Josh, no escuro atrás da estante, precisou apertar o maxilar para não deixar.
+Aurora ia para a Sorø. Para a casa dele. Para debaixo do telhado de palha onde ele era o filho do meio e não o aluno do Raj, onde se andava descalço e se falava alto e não havia uma única parede de cidade atrás da qual se esconder. E ele iria junto. Duas semanas. A parte dele que devia sentir pavor sentiu na hora, limpa e inteira: era a pior coisa que os dois podiam ter decidido, e tinham decidido sem fazer ideia do que decidiam. Mas debaixo do pavor, no mesmo segundo, antes que ele tivesse tempo de proibir, subiu outra coisa: quente, sem vergonha, viva. A mesma coisa que ele tinha passado a madrugada inteira jurando à Aurora que continuava trancada atrás de paredes de pé. Essa coisa ouviu "duas semanas" e não sentiu pavor nenhum. Essa coisa teve vontade de sorrir, e Josh, no escuro atrás da estante, precisou apertar o maxilar para não deixar.
 
 — Raj. — chamou Eleonora.
 
@@ -354,7 +354,7 @@ A Aurora ia para a Sorø. Para a casa dele. Para debaixo do telhado de palha ond
 
 — A Sorø é a casa do Josh. — falou em tom baixo, quase como se fosse uma palavra obscena.
 
-— Eu sei. E qual é o problema? A Sorø é a casa da Casandra. O Josh é afilhado. A Casandra é uma viúva responsável com cinco filhos e uma propriedade. Tem a Meridiana lá, tem a própria Casandra, tem criadagem. A Aurora vai estar mais cercada de gente séria lá do que esteve em qualquer baile da temporada. — Raj fez uma pausa. — Você tem alguma objeção?
+— Eu sei. E qual é o problema? A Sorø é a casa da Casandra. Josh é afilhado. Casandra é uma viúva responsável com cinco filhos e uma propriedade. Tem Meridiana lá, tem a própria Casandra, tem criadagem. Aurora vai estar mais cercada de gente séria lá do que esteve em qualquer baile da temporada. — Raj fez uma pausa. — Você tem alguma objeção?
 
 — Não. — A voz da Eleonora baixou. — Eu não tenho nenhuma objeção.
 
@@ -372,7 +372,7 @@ Silêncio longo.
 
 — Não. Nada que eu consiga apontar.
 
-— Então é a temporada. É a Vibeke chegando. São três bailes em dez dias e o primeiro debute dela. Tudo isso explica diferente, Eleonora.
+— Então é a temporada. É Vibeke chegando. São três bailes em dez dias e o primeiro debute dela. Tudo isso explica diferente, Eleonora.
 
 — Pode ser. — Uma pausa. — Talvez seja.
 
@@ -412,7 +412,7 @@ Raj olhou para ele. Eleonora olhou para ele.
 
 — Você ouviu tudo? — perguntou Raj.
 
-— Ouvi tudo. O Lindberg. A dívida. A Sorø. Os motivos de cada casa descartada. Tudo. — Josh sustentou. — Eu podia ter dito ao senhor que cheguei agora, que não ouvi nada, e o senhor não teria como saber que não é verdade. Mas eu prefiro que o senhor saiba exatamente o que eu sei. Ouvi tudo.
+— Ouvi tudo. Lindberg. A dívida. A Sorø. Os motivos de cada casa descartada. Tudo. — Josh sustentou. — Eu podia ter dito ao senhor que cheguei agora, que não ouvi nada, e o senhor não teria como saber que não é verdade. Mas eu prefiro que o senhor saiba exatamente o que eu sei. Ouvi tudo.
 
 Houve um silêncio. Josh viu o queixo de Raj se contrair de leve. Era o gesto que Josh tinha catalogado, em cinco meses de mesa de jantar, como o do Raj recalculando uma rota interrompida por uma variável nova.
 
@@ -420,17 +420,17 @@ Houve um silêncio. Josh viu o queixo de Raj se contrair de leve. Era o gesto qu
 
 Josh sentou no sofá. Raj sentou na poltrona em frente. Eleonora ficou em pé atrás da poltrona do marido, a mão no encosto, como guarda.
 
-— Josh — disse Raj. — Você acaba de saber duas coisas que não eram pra você saber. A dívida do Lindberg, e a minha intenção de mandar a Aurora pra Sorø. Sobre a primeira, eu vou te explicar adiante o suficiente pra você não levar informação pela metade pra Casandra — mas adiante, não agora. Agora eu preciso de uma resposta sua a uma pergunta, e preciso que ela seja verdadeira, porque você acaba de me dar uma demonstração razoável de que diz a verdade mesmo quando ela te custa.
+— Josh — disse Raj. — Você acaba de saber duas coisas que não eram pra você saber. A dívida do Lindberg, e a minha intenção de mandar Aurora pra Sorø. Sobre a primeira, eu vou te explicar adiante o suficiente pra você não levar informação pela metade pra Casandra — mas adiante, não agora. Agora eu preciso de uma resposta sua a uma pergunta, e preciso que ela seja verdadeira, porque você acaba de me dar uma demonstração razoável de que diz a verdade mesmo quando ela te custa.
 
 — Pergunte.
 
-— Você leva a Aurora e a Vibeke pra Sorø, e me garante, com a sua palavra, que as duas voltam exatamente como saíram daqui?
+— Você leva Aurora e Vibeke pra Sorø, e me garante, com a sua palavra, que as duas voltam exatamente como saíram daqui?
 
 A pergunta caiu na sala como uma vela trocada.
 
-Josh ouviu o peso embaixo dela. Ouviu também o que a Eleonora estava ouvindo, e percebeu, na lateral do olhar, que ela tinha endurecido o ombro um milímetro com aquela formulação. Josh respondeu com a única verdade que podia oferecer sem mentir e sem se condenar:
+Josh ouviu o peso embaixo dela. Ouviu também o que Eleonora estava ouvindo, e percebeu, na lateral do olhar, que ela tinha endurecido o ombro um milímetro com aquela formulação. Josh respondeu com a única verdade que podia oferecer sem mentir e sem se condenar:
 
-— Padrinho, eu levo a Aurora e a Vibeke pra Sorø e trato as duas como a casa da minha mãe trata quem entra por hóspede. A minha mãe é uma mulher séria. Os meus irmãos são gente decente. A Casandra vai receber as duas com o cuidado que daria a parentes, e eu vou responder pela integridade das duas com a minha palavra, que é a única coisa que eu tenho pra dar e a única coisa que eu nunca dei à toa.
+— Padrinho, eu levo Aurora e Vibeke pra Sorø e trato as duas como a casa da minha mãe trata quem entra por hóspede. A minha mãe é uma mulher séria. Os meus irmãos são gente decente. Casandra vai receber as duas com o cuidado que daria a parentes, e eu vou responder pela integridade das duas com a minha palavra, que é a única coisa que eu tenho pra dar e a única coisa que eu nunca dei à toa.
 
 Não disse *minha palavra como Russel, como afilhado, como homem.* Disse a palavra dele, sem adjetivo.
 
@@ -442,19 +442,19 @@ Raj voltou-se para Josh com um pequeno brilho nos olhos de quem se admira com o 
 
 — Pode perguntar dos três. — respondeu Josh.
 
-— O Joseph.
+— Joseph.
 
 — Tem vinte e quatro anos, sério, responsável. Não vai chegar perto da Aurora, e se chegasse seria pra perguntar se ela precisa de mais lenha na lareira.
 
-— O Dylan. Atrevido, eu já te ouvi dizer.
+— Dylan. Atrevido, eu já te ouvi dizer.
 
-Josh fez uma pausa de meio segundo. Pensou no Dylan na primeira noite. A Aurora descendo de vestido limpo, os cabelos como ela usava em Copenhague, e o Dylan no canto do alpendre com aquela cara de quem está só observando o tempo, preparando uma frase. Pensou em si mesmo cortando a frase do Dylan no meio antes da primeira sílaba.
+Josh fez uma pausa de meio segundo. Pensou no Dylan na primeira noite. Aurora descendo de vestido limpo, os cabelos como ela usava em Copenhague, e Dylan no canto do alpendre com aquela cara de quem está só observando o tempo, preparando uma frase. Pensou em si mesmo cortando a frase do Dylan no meio antes da primeira sílaba.
 
-— O Dylan vai provocar. É o jeito dele de existir em sociedade. Mas provocar é o limite, e ele sabe disso. Se ele encostar um dedo na Aurora além do que a cortesia permite, ele responde a mim antes de responder a qualquer um, e ele me conhece o suficiente pra não querer descobrir até onde isso vai. A Aurora está mais segura do Dylan do que estaria de metade dos cavalheiros que ela cumprimentou na temporada.
+— Dylan vai provocar. É o jeito dele de existir em sociedade. Mas provocar é o limite, e ele sabe disso. Se ele encostar um dedo na Aurora além do que a cortesia permite, ele responde a mim antes de responder a qualquer um, e ele me conhece o suficiente pra não querer descobrir até onde isso vai. Aurora está mais segura do Dylan do que estaria de metade dos cavalheiros que ela cumprimentou na temporada.
 
 Raj registrou.
 
-— O Matias.
+— Matias.
 
 — Treze. Caçula. Vai virar amigo das duas antes do segundo dia e vai mostrar pra Aurora a coleção de poesia do meu pai sem que ninguém peça.
 
@@ -462,11 +462,11 @@ Raj assentiu devagar. Depois, como quem confere o último item de uma lista:
 
 — E tem a sua irmã.
 
-— A Meridiana. Vinte anos. — Josh deixou o canto da boca subir. — Essa é a parte que talvez o senhor nem precisasse perguntar, padrinho, mas que importa mais do que as outras: a Aurora não vai estar só num lugar cheio de homens. Vai ter uma moça na mesma faixa de idade dela na casa, do lado dela, o tempo todo. A Meridiana vai cuidar da Aurora antes mesmo de a gente pedir. É o que ela faz com tudo que chega na fazenda precisando de cuidado.
+— Meridiana. Vinte anos. — Josh deixou o canto da boca subir. — Essa é a parte que talvez o senhor nem precisasse perguntar, padrinho, mas que importa mais do que as outras: Aurora não vai estar só num lugar cheio de homens. Vai ter uma moça na mesma faixa de idade dela na casa, do lado dela, o tempo todo. Meridiana vai cuidar da Aurora antes mesmo de a gente pedir. É o que ela faz com tudo que chega na fazenda precisando de cuidado.
 
 Raj sustentou o olhar dele mais um tempo. Depois assentiu. O assentimento curto de decisão tomada.
 
-— Ótimo. Eu escrevo pra Casandra hoje, com o convite formal e os preparativos. As meninas saem na segunda de manhã. Vocês ficam duas semanas. Eu mando um recado prático pra Karoline avisando que a Vibeke vai conhecer um pouco da Zelândia antes de voltar. — Raj olhou para Eleonora. — E você cuida de fazer a versão circular do jeito certo. Uma palavra pra Senhora Lundgren no chá de quinta, como quem comenta de passagem que a Aurora aceitou um convite de campo, e em dois dias a cidade inteira sabe a história que a gente quer que ela saiba. Ninguém vai procurar o que tem por baixo de uma história que já veio explicada.
+— Ótimo. Eu escrevo pra Casandra hoje, com o convite formal e os preparativos. As meninas saem na segunda de manhã. Vocês ficam duas semanas. Eu mando um recado prático pra Karoline avisando que Vibeke vai conhecer um pouco da Zelândia antes de voltar. — Raj olhou para Eleonora. — E você cuida de fazer a versão circular do jeito certo. Uma palavra pra Senhora Lundgren no chá de quinta, como quem comenta de passagem que Aurora aceitou um convite de campo, e em dois dias a cidade inteira sabe a história que a gente quer que ela saiba. Ninguém vai procurar o que tem por baixo de uma história que já veio explicada.
 
 — Eu cuido disso — disse Eleonora, baixo. Era a primeira concordância prática dela na conversa inteira, e veio sem entusiasmo.
 
@@ -476,7 +476,7 @@ Raj sustentou o olhar dele mais um tempo. Depois assentiu. O assentimento curto 
 
 — Mais uma coisa. — Raj olhou para ele com uma atenção nova. — Você podia ter mentido agora há pouco. Eu perguntei há quanto tempo você estava aí e você podia ter encolhido a verdade pela metade, dito que tinha pegado só o fim, e eu teria acreditado e a gente teria seguido em frente. Você não fez isso. Você me disse que ouviu tudo, com todas as letras, sabendo que aquilo te punha numa posição pior. — Raj fez uma pausa. — Eu confio em pouca gente, Josh. E confio menos ainda em homem jovem. Mas é exatamente o tipo de coisa que você acabou de fazer que me faz confiar em você pra essa viagem. Não esquece disso.
 
-Josh sentiu o sangue subir no rosto. Não era vergonha, era tarde demais para vergonha. Era uma coisa mais próxima do peso, porque o Raj estava confiando nele exatamente pela qualidade que ele tinha traído quatro horas antes, e o elogio caía sobre a consciência dele como sal em corte.
+Josh sentiu o sangue subir no rosto. Não era vergonha, era tarde demais para vergonha. Era uma coisa mais próxima do peso, porque Raj estava confiando nele exatamente pela qualidade que ele tinha traído quatro horas antes, e o elogio caía sobre a consciência dele como sal em corte.
 
 — Padrinho, dizer a verdade ali não teve mérito. Foi só o que dava pra fazer.
 
@@ -498,17 +498,17 @@ O quarto leste estava na luz pálida do meio da manhã.
 
 Josh fechou a porta. Sentou na escrivaninha. Pegou papel limpo, pena, tinteiro. Mergulhou a pena. Encostou na folha.
 
-A pena ficou encostada na folha uns vinte segundos sem produzir letra. O Raj ia escrever a carta de verdade: o convite, os preparativos, a logística de duas damas chegando à Sorø. Aquilo cabia ao padrinho, era assunto entre ele e a Casandra, e seria escrito com a formalidade certa. O que Josh tinha pra escrever era outra coisa, e não cabia em formalidade nenhuma.
+A pena ficou encostada na folha uns vinte segundos sem produzir letra. Raj ia escrever a carta de verdade: o convite, os preparativos, a logística de duas damas chegando à Sorø. Aquilo cabia ao padrinho, era assunto entre ele e Casandra, e seria escrito com a formalidade certa. O que Josh tinha pra escrever era outra coisa, e não cabia em formalidade nenhuma.
 
 Escreveu.
 
 *Mãe,*
 
-*Quando esta carta chegar, provavelmente o Raj já terá escrito a senhora com tudo organizado, então eu não vou repetir o que ele disser. Eu vou escrever o que ele não vai.*
+*Quando esta carta chegar, provavelmente Raj já terá escrito a senhora com tudo organizado, então eu não vou repetir o que ele disser. Eu vou escrever o que ele não vai.*
 
-*A Aurora vem pra Sorø. A filha do Raj. Vem com a prima, a Vibeke, e ficam duas semanas, e eu vou junto. O Raj precisa que a casa daqui fique sem a Aurora por um tempo, por um motivo que não me cabe contar nem nesta carta. Aconteceu hoje de manhã, ele decidiu em uma hora, do jeito que as coisas importantes às vezes são decididas.*
+*A Aurora vem pra Sorø. A filha do Raj. Vem com a prima, Vibeke, e ficam duas semanas, e eu vou junto. Raj precisa que a casa daqui fique sem Aurora por um tempo, por um motivo que não me cabe contar nem nesta carta. Aconteceu hoje de manhã, ele decidiu em uma hora, do jeito que as coisas importantes às vezes são decididas.*
 
-*A senhora vai gostar dela, mãe. Eu sei que a senhora vai. E é justamente por isso que eu estou escrevendo a senhora agora, antes mesmo do meio-dia, com a cabeça ainda pesada de uma madrugada sem sono, em vez de descansar. Eu passei cinco meses nesta casa sendo uma versão de mim que cabe na cidade, e agora eu vou levar a Aurora pra dentro da única versão de mim que é inteira — a do campo, a dos pés na grama, na terra, a que a senhora conhece. E eu não sei o que fazer com isso, mãe. Não sei o que acontece quando a pessoa que a gente mais quer no mundo vê a gente no lugar onde a gente não tem disfarce.*
+*A senhora vai gostar dela, mãe. Eu sei que a senhora vai. E é justamente por isso que eu estou escrevendo a senhora agora, antes mesmo do meio-dia, com a cabeça ainda pesada de uma madrugada sem sono, em vez de descansar. Eu passei cinco meses nesta casa sendo uma versão de mim que cabe na cidade, e agora eu vou levar Aurora pra dentro da única versão de mim que é inteira — a do campo, a dos pés na grama, na terra, a que a senhora conhece. E eu não sei o que fazer com isso, mãe. Não sei o que acontece quando a pessoa que a gente mais quer no mundo vê a gente no lugar onde a gente não tem disfarce.*
 
 *A senhora vai entender o resto sem eu escrever. A senhora sempre entende.*
 
@@ -526,7 +526,7 @@ Foi até a janela. Abriu. O ar de agosto entrou na cara dele, morno, com o cheir
 
 Josh ficou na janela.
 
-Pensou na Aurora do outro lado do andar, terminando o francês com Fru Dahl, sem saber ainda que na segunda-feira ia entrar numa carruagem com a prima rumo a uma fazenda na Zelândia. Pensou que faltavam ainda umas seis semanas para a prova de ingresso na universidade, e que durante boa parte delas ele ia estar longe das estantes do Raj, debaixo de um telhado de palha, com a Aurora dentro da mesma casa. Pensou que a Eleonora sabia de alguma coisa que não conseguia nomear, e que o Raj não sabia de nada, e que ele, Josh, sabia de tudo e não podia dizer nada a nenhum dos dois.
+Pensou na Aurora do outro lado do andar, terminando o francês com Fru Dahl, sem saber ainda que na segunda-feira ia entrar numa carruagem com a prima rumo a uma fazenda na Zelândia. Pensou que faltavam ainda umas seis semanas para a prova de ingresso na universidade, e que durante boa parte delas ele ia estar longe das estantes do Raj, debaixo de um telhado de palha, com Aurora dentro da mesma casa. Pensou que Eleonora sabia de alguma coisa que não conseguia nomear, e que Raj não sabia de nada, e que ele, Josh, sabia de tudo e não podia dizer nada a nenhum dos dois.
 
 Fechou a janela. Sentou-se à escrivaninha. Abriu o Grotius na primeira página pela quarta vez, e dessa vez leu três parágrafos antes de a cabeça voltar para a cozinha das cinco e quarenta e cinco, para o rubor no pescoço dela, para o cheiro de jasmim e canela que tinha passado e ficado.
 

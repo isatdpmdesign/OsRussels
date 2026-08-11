@@ -30,32 +30,32 @@ forças pra escolher camisa, e desceu pro café.
 
 A mesa estava posta com a precisão da Eleonora.
 Pão, manteiga, geleia de morango do verão, café
-fumegando. Mas só a Vibeke estava sentada. Vibeke
+fumegando. Mas só Vibeke estava sentada. Vibeke
 estava com cara de sono de quem tinha acompanhado
 as movimentações na madrugada, com o cabelo preso
 meio caído, e a mão segurando a xícara como se a
 xícara fosse mais quente do que era.
 
-— Tio Raj pediu pra esperar — disse a Vibeke
-quando viu o Josh entrar. — Ele vai falar com a
-gente todos juntos depois do café. Sentou.
+— Tio Raj pediu pra esperar — disse Vibeke quando
+viu Josh entrar. — Ele vai falar com a gente todos
+juntos depois do café. Sentou.
 
 Josh sentou. Pegou o pão. Não conseguiu morder.
 
-— A Aurora? — disse Josh.
+— Aurora? — disse Josh.
 
 — Ainda no quarto. Eu bati duas vezes. Ela disse
 que descia já.
 
 Vibeke olhou pro Josh por cima da xícara. Vibeke
-não era boba. Vibeke tinha ouvido a Aurora chorar
+não era boba. Vibeke tinha ouvido Aurora chorar
 baixo do quarto à noite, e tinha ouvido mais de
 uma porta abrir e fechar no corredor depois do
 silêncio da casa, e estava com a metade do
 quebra-cabeça já montado por baixo do cabelo
 despenteado.
 
-— Josh — disse a Vibeke, baixo. — É grave?
+— Josh — disse Vibeke, baixo. — É grave?
 
 Josh não respondeu de imediato. Pôs o pão de volta
 no prato.
@@ -67,7 +67,7 @@ que vai falar.
 
 — É.
 
-A Vibeke fechou os olhos um segundo. Quando abriu,
+Vibeke fechou os olhos um segundo. Quando abriu,
 tinha os olhos úmidos.
 
 — Ela tá bem?
@@ -75,20 +75,20 @@ tinha os olhos úmidos.
 — Tá na medida do possível — disse Josh. — Vibeke.
 Olha pra mim. Seja o que for que o tio Raj falar
 daqui a pouco, você fica do lado da Aurora. Não
-importa o que a tua tia disser, não importa o que
+importa o que a sua tia disser, não importa o que
 o tio Raj disser. Você fica do lado dela. Você é a
 prima dela e é a única amiga de verdade que ela
 tem nessa casa. Tá bom?
 
-A Vibeke sustentou o olhar. E fez uma coisa que
-Josh não tinha visto ela fazer em cinco meses, que
-foi assentir uma vez, lenta e séria, como adulto.
+Vibeke sustentou o olhar. E fez uma coisa que Josh
+não tinha visto ela fazer em cinco meses, que foi
+assentir uma vez, lenta e séria, como adulto.
 
 — Tá bom.
 
 *
 
-O Raj chamou todos à sala depois do café. A Aurora
+Raj chamou todos à sala depois do café. Aurora
 desceu por último, com o cabelo preso na trança
 lateral que ela usava em Sorø e que ainda não
 tinha trocado, com o vestido cor de pêssego que
@@ -99,13 +99,13 @@ antes de entrar na sala, exatamente como tinha
 endireitado no segundo em que os pés tocaram a
 pedra da Bredgade na chegada.
 
-A sala foi se compondo. A Eleonora sentou no banco
-do cravo, mas não abriu o teclado. A Vibeke ficou
-em pé perto da Aurora, com a mão na costas da
+A sala foi se compondo. Eleonora sentou no banco
+do cravo, mas não abriu o teclado. Vibeke ficou em
+pé perto da Aurora, com a mão na costas da
 poltrona da Aurora, do jeito que cumpre quem
 prometeu meia hora antes que ia ficar do lado.
 Josh ficou em pé perto da porta, onde um afilhado
-fica. O Raj atravessou a sala devagar e parou de
+fica. Raj atravessou a sala devagar e parou de
 costas pra lareira apagada.
 
 — Eu tenho uma notícia para a família — disse o
@@ -113,12 +113,12 @@ Raj.
 
 A voz dele saiu medida. Mas Josh, que tinha
 aprendido a ler aquele homem em cinco meses, ouviu
-a fissura por baixo da medida. O Raj estava com a
+a fissura por baixo da medida. Raj estava com a
 alma na boca.
 
-— A Aurora — disse o Raj — vai se casar.
+— Aurora — disse Raj — vai se casar.
 
-O Raj parou. Engoliu. Continuou.
+Raj parou. Engoliu. Continuou.
 
 — Em outubro. Com o Herr Henning Lindberg. Ele é
 um homem de bem, estabelecido na cidade, viúvo,
@@ -131,7 +131,7 @@ recepção.
 Silêncio.
 
 Foi o silêncio mais comprido que aquela sala tinha
-registrado em cinco meses. A Vibeke tinha aberto a
+registrado em cinco meses. Vibeke tinha aberto a
 boca antes do Raj terminar a primeira frase, e
 tinha ficado de boca aberta até ele dizer
 Lindberg, e quando ele disse Lindberg ela fez um
@@ -140,25 +140,25 @@ garganta, de quem leva soco no estômago.
 
 — Não.
 
-A Vibeke deu um passo à frente. Josh viu, pela
-lateral do olhar, a Eleonora endireitar a coluna
-no banco do cravo.
+Vibeke deu um passo à frente. Josh viu, pela
+lateral do olhar, Eleonora endireitar a coluna no
+banco do cravo.
 
 — Não, tio Raj. — A voz da Vibeke estava tremendo.
-— A Aurora não pode casar com esse homem. A Aurora
-não pode. A Aurora não...
+— Aurora não pode casar com esse homem. Aurora não
+pode. Aurora não...
 
-— Vibeke. — A Eleonora, baixo. Foi um aviso firme.
+— Vibeke. — Eleonora, baixo. Foi um aviso firme.
 
-— Por quê, tia? — A Vibeke virou pra Eleonora com
+— Por quê, tia? — Vibeke virou pra Eleonora com
 uma desfaçatez que Josh nunca tinha visto nela. —
-Por que eu não posso dizer? A Aurora tem dezesseis
+Por que eu não posso dizer? Aurora tem dezessete
 anos. Esse homem tem cinquenta e quantos? Esse
-homem é mais velho que o senhor, tio Raj. A Aurora
-é uma criança. A Aurora não sabe o que é casar com
-homem dessa idade. A Aurora...
+homem é mais velho que o senhor, tio Raj. Aurora é
+uma criança. Aurora não sabe o que é casar com
+homem dessa idade. Aurora...
 
-A Vibeke parou. Engoliu. E continuou, e a frase
+Vibeke parou. Engoliu. E continuou, e a frase
 começou a se desorganizar nas bordas, e Josh
 entendeu, com um aperto, que ela ia deixar escapar
 a coisa.
@@ -166,7 +166,7 @@ a coisa.
 — ...a Aurora sente outra coisa, ela tem o coração
 em outro...
 
-A Vibeke parou. Tarde. A frase já tinha saído
+Vibeke parou. Tarde. A frase já tinha saído
 metade.
 
 O silêncio na sala mudou de qualidade.
@@ -182,22 +182,22 @@ coisa que podia fazer, que foi não desviar e não
 confirmar, ficar de pedra olhando o nada com a
 cara de afilhado que não tem nada com o assunto.
 
-A Eleonora não disse nada. Mas guardou. Josh viu
-ela guardar.
+Eleonora não disse nada. Mas guardou. Josh viu ela
+guardar.
 
-— A Aurora sente o quê, Vibeke? — perguntou o Raj.
-Não era um homem desatento; tinha ouvido a metade
-da frase como todo mundo.
+— Aurora sente o quê, Vibeke? — perguntou Raj. Não
+era um homem desatento; tinha ouvido a metade da
+frase como todo mundo.
 
-A Vibeke engoliu. Buscou a Eleonora com o olhar,
-achou só endurecimento. Buscou a Aurora, achou
-porcelana. Voltou pro Raj.
+Vibeke engoliu. Buscou Eleonora com o olhar, achou
+só endurecimento. Buscou Aurora, achou porcelana.
+Voltou pro Raj.
 
-— Que ela é nova demais — disse a Vibeke, e foi
-uma recuperação decente pra alguém apavorada. —
-Que ela tem dezesseis anos e o coração dela ainda
-é de menina e que esse homem é velho e ela
-merece... ela merece escolher.
+— Que ela é nova demais — disse Vibeke, e foi uma
+recuperação decente pra alguém apavorada. — Que
+ela tem dezessete anos e o coração dela ainda é de
+menina e que esse homem é velho e ela merece...
+ela merece escolher.
 
 — Ninguém aqui está feliz com isso, Vibeke — disse
 o Raj, e a voz dele saiu com um cansaço que Josh
@@ -208,33 +208,33 @@ dia você entende.
 
 — Eu não vou entender nunca, tio.
 
-— Vibeke — disse a Eleonora.
+— Vibeke — disse Eleonora.
 
-— Não, tia. Eu não vou entender. — A Vibeke estava
+— Não, tia. Eu não vou entender. — Vibeke estava
 chorando agora, sem disfarce, com lágrima caindo
 no peito do vestido. — A senhora entende? A
 senhora aceita isso?
 
-A Eleonora ficou meio segundo sem responder. Josh
+Eleonora ficou meio segundo sem responder. Josh
 viu, na lateral do rosto dela, alguma coisa passar
 e ser engolida.
 
 — Eu aceito porque eu tenho que aceitar, querida —
-disse a Eleonora.
+disse Eleonora.
 
-A Aurora, em pé do lado da poltrona, não tinha
-dito uma palavra. Só sustentava. O queixo dela
-estava no ângulo de sempre. As mãos descansavam
-uma sobre a outra na altura da cintura.
+Aurora, em pé do lado da poltrona, não tinha dito
+uma palavra. Só sustentava. O queixo dela estava
+no ângulo de sempre. As mãos descansavam uma sobre
+a outra na altura da cintura.
 
-O Raj saiu da sala. A Eleonora levantou do banco
-do cravo, passou pela Vibeke, e antes de sair
-olhou mais uma vez. Não pra Vibeke. Pra Josh.
+Raj saiu da sala. Eleonora levantou do banco do
+cravo, passou pela Vibeke, e antes de sair olhou
+mais uma vez. Não pra Vibeke. Pra Josh.
 
 Josh sustentou. Mas soube, quando ela saiu, que a
 Eleonora ia voltar àquele olhar.
 
-A Aurora ficou um segundo a mais. Olhou pro Josh.
+Aurora ficou um segundo a mais. Olhou pro Josh.
 Não disse nada. Saiu atrás da mãe.
 
 *
@@ -246,7 +246,7 @@ sentou na beira da cama, e ficou olhando a parede
 por um tempo. Não tinha plano. Tinha a carta
 dobrada na escrivaninha e a conta que não fechava
 embaixo, e essa manhã ele tinha ouvido o nome do
-homem que vinha tomar a Aurora dele sair pela boca
+homem que vinha tomar Aurora dele sair pela boca
 do padrinho como notícia de família, e a tarde que
 faltava ele ia ter que passar de pé na sala vendo
 esse mesmo homem pegar a mão da Aurora pela
@@ -258,12 +258,12 @@ Não tinha.
 
 Ficou pensando se tinha como descer no jardim
 antes da hora, pegar um cavalo no estábulo do
-vizinho, atravessar a Bredgade e somar a Aurora
+vizinho, atravessar a Bredgade e somar Aurora
 atrás de si e cavalgar pra Sorø como nas baladas
-que a Meridiana lia escondida da Casandra.
+que Meridiana lia escondida da Casandra.
 
-Não tinha. A Aurora não tinha onde ir. A casa dela
-era essa. O pai dela era esse. Levar a Aurora dali
+Não tinha. Aurora não tinha onde ir. A casa dela
+era essa. O pai dela era esse. Levar Aurora dali
 era condená-la a viver fora da família dela.
 
 A única coisa que ele podia fazer naquela tarde
@@ -271,8 +271,8 @@ era estar perto.
 
 Decidiu que ia ficar no jardim na hora da visita.
 Não pra fugir do Lindberg. Pra vigiar. Aquele
-homem não ia ficar a sós com a Aurora nem por um
-minuto sem o Josh ter os olhos colados na sebe que
+homem não ia ficar a sós com Aurora nem por um
+minuto sem Josh ter os olhos colados na sebe que
 separava o jardim em duas partes.
 
 Era pouco. Era o que tinha.
@@ -308,12 +308,12 @@ dela num afago que não tinha nada de formal. Viu
 Aurora não mexer um músculo do rosto, de
 porcelana, e viu o esforço que a porcelana custou.
 
-A Eleonora sentou ao cravo e tocou Bach, baixo, e
+Eleonora sentou ao cravo e tocou Bach, baixo, e
 ficou vigiando entre uma peça e outra com os olhos
 por cima do teclado, e Josh nunca tinha gostado
 tanto da Eleonora quanto naquela tarde, porque os
 olhos dela em cima do Lindberg eram a única
-proteção que Aurora tinha naquela sala. A Vibeke
+proteção que Aurora tinha naquela sala. Vibeke
 ficou em pé atrás da poltrona da Aurora, com a mão
 na poltrona, e não tirou os olhos do Lindberg em
 nenhum momento. Eram os olhos de quem prometeu de
@@ -333,19 +333,19 @@ Aurora — disse ele à Eleonora, com o sorriso na
 medida. — Um passeio pelo jardim, talvez. Os
 noivos precisam se conhecer.
 
-Josh viu a Eleonora hesitar. Viu o desgosto passar
+Josh viu Eleonora hesitar. Viu o desgosto passar
 pelo rosto dela, um desgosto que ela não escondeu
-inteiro, e viu a Eleonora medir a indecência de um
+inteiro, e viu Eleonora medir a indecência de um
 passeio a sós contra a indecência maior de ofender
-o homem de quem dependia a família. A Eleonora
+o homem de quem dependia a família. Eleonora
 cedeu. Foi a coisa mais contra a vontade que Josh
 já a viu fazer.
 
 — Os portões do jardim ficam à vista da janela —
-disse a Eleonora, e a frase era pro Lindberg, e
-era um aviso. — Não demorem.
+disse Eleonora, e a frase era pro Lindberg, e era
+um aviso. — Não demorem.
 
-A Aurora levantou da poltrona. Aceitou a mão do
+Aurora levantou da poltrona. Aceitou a mão do
 Lindberg. Saiu pela porta do jardim com ele. A
 Vibeke deu três passos pra acompanhar e parou na
 soleira do jardim, e ficou ali, em pé, com as duas
@@ -359,16 +359,16 @@ lateral, atrás da pérgola.
 
 Esperou um minuto. Ouviu o passo de cascalho dos
 dois descendo o caminho principal. Ouviu as vozes
-deles na medida ainda. Ouviu o Lindberg dizer
-alguma coisa sobre as roseiras (as roseiras do
-Aarav, o homem nem sabia o que estava elogiando),
-e Aurora respondeu com uma educação morta.
+deles na medida ainda. Ouviu Lindberg dizer alguma
+coisa sobre as roseiras (as roseiras do Aarav, o
+homem nem sabia o que estava elogiando), e Aurora
+respondeu com uma educação morta.
 
 Depois ouviu o cascalho parar.
 
 Os dois tinham parado atrás da sebe de hera que
 separava o caminho principal do canto da pérgola.
-À vista da janela, como a Eleonora tinha exigido,
+À vista da janela, como Eleonora tinha exigido,
 não estavam mais.
 
 Josh prendeu a respiração e ficou imóvel. A
@@ -380,8 +380,8 @@ pés da Aurora recuarem.
 Ouviu a voz do Lindberg baixar pra um registro que
 não era o da sala.
 
-— Não — disse a Aurora, baixo. Foi a primeira vez
-na tarde que ela falou a palavra dela. Porcelana
+— Não — disse Aurora, baixo. Foi a primeira vez na
+tarde que ela falou a palavra dela. Porcelana
 rachando na palavra.
 
 A voz do Lindberg de novo. Mais baixa. Falava de
@@ -442,7 +442,7 @@ olhos de alívio.
 Aurora pegou a mão sã do Josh (a esquerda, a outra
 estava sangrando) e o puxou pelo corredor de
 serviço da casa, o que dava direto na cozinha sem
-passar pela sala onde a Eleonora ainda devia estar
+passar pela sala onde Eleonora ainda devia estar
 ao cravo. Atravessaram dois corredores. Aurora
 abriu a porta da cozinha, empurrou Josh pra
 dentro, fechou.
@@ -474,13 +474,13 @@ Vibeke atrás.
 cozinha. — Vigia a porta pra mim. Quinze minutos.
 Por favor.
 
-A Vibeke não perguntou nada. Olhou pro Josh
-sentado, olhou pra mão dele, levantou o queixo, e
-assumiu a posição na porta da cozinha, encostada
-no batente, de braços cruzados.
+Vibeke não perguntou nada. Olhou pro Josh sentado,
+olhou pra mão dele, levantou o queixo, e assumiu a
+posição na porta da cozinha, encostada no batente,
+de braços cruzados.
 
-— Tia Eleonora separando linha com a Helle até o
-jantar — disse a Vibeke, baixo, pelo ombro. — Fru
+— Tia Eleonora separando linha com Helle até o
+jantar — disse Vibeke, baixo, pelo ombro. — Fru
 Larsen no mercado. Vai.
 
 Aurora foi até a pia. Pegou uma bacia de barro.
@@ -523,7 +523,7 @@ banco.
 Pegou um pano de linho fino do gancho. Cortou em
 três tiras com a faca de pão. Enrolou cada nó dos
 dedos numa tira, devagar, com a precisão de quem
-viu a Casandra enrolar bandagem em Sorø e tinha
+viu Casandra enrolar bandagem em Sorø e tinha
 aprendido com os olhos sem precisar de aula.
 
 Quando ela terminou a terceira tira, parou.
@@ -579,7 +579,7 @@ os olhos dela estavam fechados, e abriram devagar.
 
 Josh ficou um segundo sem palavra.
 
-Da porta, a Vibeke virou meio rosto sem olhar pra
+Da porta, Vibeke virou meio rosto sem olhar pra
 eles, baixo:
 
 — Cinco minutos. Helle no corredor.
@@ -604,11 +604,11 @@ serviço. Eu vou pelo hall.
 
 — Vibeke — disse Josh, baixo, na porta.
 
-A Vibeke virou.
+Vibeke virou.
 
 — Obrigado — disse Josh.
 
-A Vibeke balançou a cabeça meio milímetro. Não
+Vibeke balançou a cabeça meio milímetro. Não
 sorriu. Estava séria do jeito que ela tinha estado
 sério de manhã na mesa do café.
 
@@ -616,22 +616,22 @@ sério de manhã na mesa do café.
 
 *
 
-O Raj chamou Josh ao escritório antes do jantar.
+Raj chamou Josh ao escritório antes do jantar.
 
-Josh entrou sabendo o que vinha. O Lindberg tinha
+Josh entrou sabendo o que vinha. Lindberg tinha
 ido embora sem o acordo selado em papel, com o
 lábio partido, e devia ter mandado recado pelo
-caminho, porque o Raj estava de pé atrás da
+caminho, porque Raj estava de pé atrás da
 escrivaninha com o rosto fechado.
 
 — Senta.
 
 Josh sentou.
 
-O Raj não sentou. Atravessou a escrivaninha. Foi
-até a janela. Voltou. Encostou as duas mãos na
-borda da escrivaninha, ficou olhando o tampo.
-Ficou um tempo assim, sem falar.
+Raj não sentou. Atravessou a escrivaninha. Foi até
+a janela. Voltou. Encostou as duas mãos na borda
+da escrivaninha, ficou olhando o tampo. Ficou um
+tempo assim, sem falar.
 
 — Você bateu no homem com quem a minha filha vai
 casar.
@@ -643,7 +643,7 @@ ideia da posição em que você me pôs?
 
 — Eu tenho.
 
-— Você não tem. — O Raj ergueu o rosto. — Você não
+— Você não tem. — Raj ergueu o rosto. — Você não
 tem ideia, Josh. Esse homem tem amigos em todo
 lugar dessa cidade. Esse homem pode mandar um
 capanga te esperar na esquina e te quebrar duas
@@ -656,16 +656,16 @@ Você tem ideia disso?
 
 — Eu faria de novo.
 
-— Eu sei que você faria. — O Raj passou a mão no
+— Eu sei que você faria. — Raj passou a mão no
 rosto. Sentou na cadeira. Pareceu, por um segundo,
 vinte anos mais velho. — Eu sei que você faria,
-meu rapaz. A Casandra criou bem. Eu te conheço
-desde que você tinha as pernas finas demais pro
-corpo e a Meridiana te usava de cavalo de
-brincadeira. Eu sei como você foi criado. E eu vou
-te dizer uma coisa, porque eu te devo essa.
+meu rapaz. Casandra criou bem. Eu te conheço desde
+que você tinha as pernas finas demais pro corpo e
+Meridiana te usava de cavalo de brincadeira. Eu
+sei como você foi criado. E eu vou te dizer uma
+coisa, porque eu te devo essa.
 
-O Raj olhou pra Josh.
+Raj olhou pra Josh.
 
 — Eu queria ter sido eu a bater.
 
@@ -677,8 +677,8 @@ olhou pra Aurora hoje na sala, e eu vi o jeito que
 ele segurou a mão dela, e eu queria ter tirado ela
 da poltrona ali mesmo e tirado o cinto e batido
 naquele homem até ele sair carregado da minha
-casa. Eu queria. — O Raj parou. Respirou. — E não
-pude. Porque ele tem a minha conta na mão, e a tua
+casa. Eu queria. — Raj parou. Respirou. — E não
+pude. Porque ele tem a minha conta na mão, e a sua
 palavra de afilhado é minha de outra forma, e a
 única coisa que sobra entre eu ter a família na
 rua em outubro e eu ter a minha filha casada com
@@ -688,11 +688,11 @@ ela for dele. Eu rezo, Josh. Eu rezo todas as
 noites. Não sei se Ele me ouve.
 
 Foi a primeira vez que Josh ouviu o padrinho falar
-de rezar. O Raj não era homem de igreja.
+de rezar. Raj não era homem de igreja.
 
 — Padrinho.
 
-— Deixa eu terminar. — O Raj ergueu a mão. — Esse
+— Deixa eu terminar. — Raj ergueu a mão. — Esse
 homem é mais perigoso do que credor cobrando,
 Josh. Eu não vou te dizer o que ele é mais do que
 isso. Não te cabe. Mas eu te peço, do tamanho de
@@ -706,11 +706,11 @@ você. Pela Aurora. Por mim. Promete.
 
 — Eu prometo, padrinho.
 
-O Raj olhou pra Josh um tempo. Depois assentiu uma
+Raj olhou pra Josh um tempo. Depois assentiu uma
 vez, devagar, e o ar entre os dois ficou
 diferente.
 
-— Bom — disse o Raj. — Pode ir.
+— Bom — disse Raj. — Pode ir.
 
 Josh ficou em pé. Foi até a porta. Pôs a mão na
 maçaneta.
@@ -732,7 +732,7 @@ sala. Não era a hora.
 coisa pra te dizer também. Eu não consigo dizer
 agora. Eu preciso de uma hora pra pôr na cabeça.
 
-O Raj olhou pro Josh. Não perguntou o que era.
+Raj olhou pro Josh. Não perguntou o que era.
 Talvez já tivesse desconfiado. Talvez não.
 
 — Pode. Eu vou ficar aqui.
@@ -747,7 +747,7 @@ Não subiu pro quarto leste.
 
 Atravessou o corredor de baixo, passou pela sala
 de jantar onde Helle estava pondo a mesa pro
-jantar de três (a Vibeke devia ter levado um prato
+jantar de três (Vibeke devia ter levado um prato
 pra Aurora no quarto), e foi pra sala de estar.
 
 A sala de estar estava vazia. A vela da mesa
@@ -780,14 +780,13 @@ na sala.
 Começou a debater.
 
 *Opção um.* Ficar. Continuar na Bredgade. Ver o
-Lindberg voltar (e ele ia voltar) com a Aurora
-numa próxima visita. Não ia conseguir não bater de
+Lindberg voltar (e ele ia voltar) com Aurora numa
+próxima visita. Não ia conseguir não bater de
 novo. Não ia conseguir não fazer pior na próxima.
 Talvez matar. Aurora desonrada no jornal, Aurora
-sem família, o Raj na rua, ele mesmo na cadeia, e
-a Aurora ainda casada com o Lindberg porque a
-dívida não muda só porque o Josh espancou o
-credor. Pior.
+sem família, Raj na rua, ele mesmo na cadeia, e a
+Aurora ainda casada com Lindberg porque a dívida
+não muda só porque Josh espancou o credor. Pior.
 
 *Opção dois.* Ir embora hoje. Voltar pra Sorø.
 Esquecer Copenhague. Aurora ia acordar amanhã
@@ -799,13 +798,13 @@ quebrado por dois homens, o pai e ele. Pior ainda.
 
 *Opção três.* Sair da Bredgade. Não voltar pra
 Sorø. Sair pra dentro de Copenhague. Pôr distância
-de corredor entre ele e a Aurora prometida, pra
-não bater no Lindberg de novo. E usar as seis
-semanas pra trabalhar a conta. Levar a carta ao
-Raj. Sacar o que era dele. Bater nas portas das
-casas comerciais. Pedir empréstimo. Pedir trabalho
-de auxiliar agora mesmo, antes da prova. Falar com
-o Raj sobre o resto da dívida. Vender a tarefa de
+de corredor entre ele e Aurora prometida, pra não
+bater no Lindberg de novo. E usar as seis semanas
+pra trabalhar a conta. Levar a carta ao Raj. Sacar
+o que era dele. Bater nas portas das casas
+comerciais. Pedir empréstimo. Pedir trabalho de
+auxiliar agora mesmo, antes da prova. Falar com o
+Raj sobre o resto da dívida. Vender a tarefa de
 cobrir o que faltava em seis semanas de homem que
 tinha dado a palavra duas vezes pra uma moça e não
 ia voltar atrás.
@@ -827,7 +826,7 @@ universidade, e que aceitava estudantes que
 prestavam a prova de outubro. Custava pouco, dava
 cama, mesa de estudo, três refeições. Estudantes
 pobres do interior moravam ali. Josh tinha visto o
-prédio quando o Raj o levou pra conhecer a
+prédio quando Raj o levou pra conhecer a
 universidade no segundo mês. Era de pedra escura,
 três andares, com uma porta verde e um pátio
 fechado.
@@ -865,16 +864,16 @@ poderia voltar. Eu tenho uma coisa pra te dizer.
 — A minha prova de ingresso é em outubro. Faltam
 seis semanas. O senhor tem ensinado a mim com a
 própria mão esses cinco meses, e eu sou grato, mas
-o senhor agora tem a casa pra cuidar, e a Aurora,
-e essa situação toda, e não é justo eu tomar o
-tempo do senhor pra estudar Locke quando o senhor
-tem isso tudo na cabeça. Tem uns grupos de estudo
-no Regensen, com outros candidatos. A biblioteca
-da universidade fica logo ali. O senhor sabe o
+o senhor agora tem a casa pra cuidar, e Aurora, e
+essa situação toda, e não é justo eu tomar o tempo
+do senhor pra estudar Locke quando o senhor tem
+isso tudo na cabeça. Tem uns grupos de estudo no
+Regensen, com outros candidatos. A biblioteca da
+universidade fica logo ali. O senhor sabe o
 prédio. Eu queria me mudar pra lá pra essas
 últimas semanas. Eu acho que é melhor pra prova.
 
-O Raj olhou pro Josh por um tempo longo.
+Raj olhou pro Josh por um tempo longo.
 
 — Quando.
 
@@ -890,7 +889,7 @@ prometi. O jeito que eu sei cumprir promessa é
 tirando o corpo de cena. Se eu fico aqui, e ele
 vem fazer outra visita, eu não vou conseguir.
 
-O Raj fechou os olhos um segundo.
+Raj fechou os olhos um segundo.
 
 — Eu entendo.
 
@@ -919,12 +918,12 @@ entender como o padrinho tinha sabido. Depois
 entendeu, e doeu um pouco a confirmação. — A mãe
 te escreveu sobre ela?
 
-— A Casandra me escreveu duas vezes nesses cinco
+— Casandra me escreveu duas vezes nesses cinco
 meses sem fingir que era pra mim e não pra você.
-Uma vez em junho, contando que a Meridiana tinha
-visto uma poesia tua riscada e tinha entendido a
+Uma vez em junho, contando que Meridiana tinha
+visto uma poesia sua riscada e tinha entendido a
 mulher que estava entre as linhas. Outra em
-agosto, antes da tua viagem pra Sorø, dizendo só
+agosto, antes da sua viagem pra Sorø, dizendo só
 *"você vai entender quando ele chegar com a
 sobrinha da Eleonora"*. Eu li essa carta de pé na
 janela do escritório, três vezes, e entendi sem
@@ -936,20 +935,20 @@ Josh fechou os olhos.
 
 — Eu deveria. Eu não falei porque eu sou homem de
 casa antes de ser homem de fora, Josh, e essa não
-era a conversa que eu queria ter com o teu
-padrinho. A coisa subiu pela tua mãe primeiro, e
+era a conversa que eu queria ter com o seu
+padrinho. A coisa subiu pela sua mãe primeiro, e
 eu deixei.
 
 — A carta selada de abril.
 
-— A carta selada de abril é a tua carta. — O Raj
+— A carta selada de abril é a sua carta. — Raj
 fechou o assunto. — A gente conversa quando você
 estiver pronto.
 
 — Selada desde abril. Eu li ontem à noite. Não dá
 pra te explicar hoje, padrinho. Me dá uns dias.
 
-— Eu te dou. — O Raj passou a mão no rosto. — Você
+— Eu te dou. — Raj passou a mão no rosto. — Você
 vai pro Regensen. Toma o tempo que precisar.
 Quando você quiser falar comigo, você me manda
 recado pelo correio interno ou aparece aqui na
@@ -970,8 +969,8 @@ Josh não respondeu. Não tinha resposta que ele
 pudesse dar naquele escritório sem se afundar mais
 do que estava.
 
-— Eu não vou te perguntar nada — continuou o Raj.
-— Eu não vou te acusar de nada. Eu vou te dizer só
+— Eu não vou te perguntar nada — continuou Raj. —
+Eu não vou te acusar de nada. Eu vou te dizer só
 uma coisa. Eu não posso desfazer o que eu prometi
 ao Lindberg. Não tem como. Mas eu te respeito mais
 hoje, por você ter batido nele, do que eu te
@@ -983,7 +982,7 @@ Josh ficou meio segundo sem ar.
 
 — Padrinho.
 
-— Vai. Janta com a Vibeke se você quiser. Eu vou
+— Vai. Janta com Vibeke se você quiser. Eu vou
 ficar aqui mais um tempo. Não me espera pro
 jantar.
 
@@ -1003,25 +1002,25 @@ Josh não jantou.
 
 Subiu pro quarto leste. Começou a juntar os
 livros, os cinco que tinha trazido da fazenda em
-abril e os que o Raj tinha emprestado e que ele ia
+abril e os que Raj tinha emprestado e que ele ia
 devolver pelo correio interno. Pôs a carta da mãe
 no fundo da mala, embaixo das camisas, junto com o
 rascunho da conta que não fechava. Pôs o lenço com
 as iniciais J.R. que a mãe tinha bordado, o mesmo
 modelo do que ela tinha dado pra Aurora em Sorø.
 
-A casa foi se aquietando lá embaixo. Ouviu a Helle
+A casa foi se aquietando lá embaixo. Ouviu Helle
 subir pra recolher a louça do jantar tardio (que
-tinha sido só ela, a Vibeke e a Aurora; o Raj não
-tinha descido). Ouviu o piano da Eleonora começar
-e parar três notas depois. Ouviu o décimo segundo
+tinha sido só ela, Vibeke e Aurora; Raj não tinha
+descido). Ouviu o piano da Eleonora começar e
+parar três notas depois. Ouviu o décimo segundo
 degrau ranger em algum momento que ele não
 conseguiu identificar.
 
 Esperou a casa toda em silêncio. Foi até a porta.
 Abriu.
 
-A Aurora estava do outro lado.
+Aurora estava do outro lado.
 
 Não tinha batido. Estava com a mão erguida pra
 bater, e baixou quando ele abriu. Tinha os olhos
@@ -1093,10 +1092,10 @@ pisando na borda das quatro que rangiam. Desceu a
 escada decorando os degraus. O décimo segundo
 rangeu, baixo, e Josh parou nele um segundo,
 porque tinha sido naquela escada que ele tinha
-visto a Aurora pela primeira vez, cinco meses
-antes, furiosa e pequena e com olhos de mel,
-decidida a odiá-lo por ele ter ousado existir na
-cadeira que era do irmão dela.
+visto Aurora pela primeira vez, cinco meses antes,
+furiosa e pequena e com olhos de mel, decidida a
+odiá-lo por ele ter ousado existir na cadeira que
+era do irmão dela.
 
 Deixou um bilhete pro Raj na mesa do escritório,
 agradecendo a hospedagem e confirmando o Regensen.

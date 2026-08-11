@@ -60,7 +60,7 @@ Ingrid passou direto pelo abraço, com aquela eficiência de quem está cumprind
 
 — Existe outra? — disse Aurora.
 
-— Não que eu saiba. Bem-vindos. Ponche é horrível. Cerveja é decente. Comida é melhor do que se imagina porque a Lykke fez parte. Lykke está lá dentro, vai dizer alô. Russel — Hjalmar olhou para Josh com aquela avaliação rápida e desinteressada que os homens fazem em três segundos antes de decidir se uma figura nova é ameaça, aliada ou indiferente. Josh viu o veredito chegar no terceiro segundo: indiferente, amistoso, sem agenda. — Russel, prazer. Tem alguém no quintal jogando algo que parece dardos mas é, na verdade, um crime. Se quiser participar.
+— Não que eu saiba. Bem-vindos. Ponche é horrível. Cerveja é decente. Comida é melhor do que se imagina porque Lykke fez parte. Lykke está lá dentro, vai dizer alô. Russel — Hjalmar olhou para Josh com aquela avaliação rápida e desinteressada que os homens fazem em três segundos antes de decidir se uma figura nova é ameaça, aliada ou indiferente. Josh viu o veredito chegar no terceiro segundo: indiferente, amistoso, sem agenda. — Russel, prazer. Tem alguém no quintal jogando algo que parece dardos mas é, na verdade, um crime. Se quiser participar.
 
 — Talvez mais tarde — disse Josh.
 
@@ -222,7 +222,7 @@ Ele sentiu o ar mudar. Não no sentido literal (o ar do depósito continuava com
 
 Ela deu um passo na direção dele. Não dois. Um. A faixa de luz prateada se quebrou sobre o ombro dela.
 
-Josh respirou — fundo, demorado, com a consciência precisa de que estava ganhando tempo. Examinou o rosto dela. Os olhos estavam escuros: o âmbar deles desaparecia quase de tudo na penumbra, restavam só pupilas grandes e um pouco do branco em volta. Não estavam molhados. Não estavam suplicando. Estavam *decididos*, e a parte de Josh que sabia ler pessoas (a parte que tinha aprendido com Casandra a temperatura de um silêncio antes de falar, a parte que tinha aprendido com Henrik o estado de uma colheita antes da chuva chegar) entendeu que Aurora não estava pedindo um beijo no sentido em que uma moça de dezesseis anos pede um beijo. Estava pedindo uma resposta. Uma resposta a uma pergunta que vinha fazendo a si mesma havia semanas, e que precisava, finalmente, ouvir alguém de fora dizer *sim* ou *não*.
+Josh respirou — fundo, demorado, com a consciência precisa de que estava ganhando tempo. Examinou o rosto dela. Os olhos estavam escuros: o âmbar deles desaparecia quase de tudo na penumbra, restavam só pupilas grandes e um pouco do branco em volta. Não estavam molhados. Não estavam suplicando. Estavam *decididos*, e a parte de Josh que sabia ler pessoas (a parte que tinha aprendido com Casandra a temperatura de um silêncio antes de falar, a parte que tinha aprendido com Henrik o estado de uma colheita antes da chuva chegar) entendeu que Aurora não estava pedindo um beijo no sentido em que uma moça de dezessete anos pede um beijo. Estava pedindo uma resposta. Uma resposta a uma pergunta que vinha fazendo a si mesma havia semanas, e que precisava, finalmente, ouvir alguém de fora dizer *sim* ou *não*.
 
 E isso era pior. Aurora pedindo um beijo era uma coisa que ele podia recusar por cortesia. Aurora pedindo uma resposta era uma coisa que ele só podia recusar por princípio.
 
@@ -262,7 +262,7 @@ Ele se inclinou. Era impossível não se inclinar. O corpo dele, depois de oito 
 
 Mas uma voz o interrompeu. A voz vinha do salão.
 
-— Aurora? — Um chamado claro, masculino, descontraído, do tipo que assume uma resposta. — Aurora? Eu acabei de falar com a Ingrid. Ela disse que você estava aqui. Estou no celeiro principal.
+— Aurora? — Um chamado claro, masculino, descontraído, do tipo que assume uma resposta. — Aurora? Eu acabei de falar com Ingrid. Ela disse que você estava aqui. Estou no celeiro principal.
 
 Erik Mortensen.
 
@@ -290,7 +290,7 @@ Ela recuou. Um passo. Dois. A faixa de luz prateada da janela passou de novo pel
 
 A porta do corredor se abriu e se fechou. O zumbido da festa voltou por um segundo e depois foi cortado. Josh ficou no meio do depósito, com a luz da lua entrando em diagonal pela janela e com a faixa prata agora vazia no chão de pedra, e contou até cem antes de se mexer.
 
-Quando atravessou o corredor de volta, a chama da lanterna ainda balançava da passagem dela. Quando empurrou a porta do celeiro, a festa já tinha engolido Aurora. Ele a viu: ela estava com Erik, no canto da pista, sorrindo aquele sorriso medido da Bredgade que voltara como uma luva que se calça num gesto. Erik tinha uma mão no cotovelo dela: uma mão respeitosa, casual, do tipo que diz para os outros homens *está comigo, sem problemas, é a forma natural das coisas*. Ele tinha vindo, Josh entendeu de longe, não como invasor. Como protetor. Tinha ouvido em algum lugar que Aurora estava num lugar como aquele, e o Erik que Josh conhecia (o Erik educado, o Erik correto, o Erik que cumpria o papel de Erik) tinha vindo conferir. Não com ciúme. Com preocupação. Era pior do que ciúme. Era cortejo de boa-fé.
+Quando atravessou o corredor de volta, a chama da lanterna ainda balançava da passagem dela. Quando empurrou a porta do celeiro, a festa já tinha engolido Aurora. Ele a viu: ela estava com Erik, no canto da pista, sorrindo aquele sorriso medido da Bredgade que voltara como uma luva que se calça num gesto. Erik tinha uma mão no cotovelo dela: uma mão respeitosa, casual, do tipo que diz para os outros homens *está comigo, sem problemas, é a forma natural das coisas*. Ele tinha vindo, Josh entendeu de longe, não como invasor. Como protetor. Tinha ouvido em algum lugar que Aurora estava num lugar como aquele, e Erik que Josh conhecia (Erik educado, Erik correto, Erik que cumpria o papel de Erik) tinha vindo conferir. Não com ciúme. Com preocupação. Era pior do que ciúme. Era cortejo de boa-fé.
 
 Aurora sorriu, disse alguma coisa que Josh não ouviu, e os dois entraram na próxima dança.
 
@@ -314,7 +314,7 @@ Ele cruzou o salão até Ingrid. Ingrid estava no canto da mesa de pão e queijo
 
 — Sim.
 
-— Eu não chamei o Erik. Para constar. Eu não disse a ninguém que ela estaria aqui. A Eleonora deve ter mencionado à mãe dele que Aurora ia dormir lá em casa, e o Erik fez a aritmética sozinho.
+— Eu não chamei Erik. Para constar. Eu não disse a ninguém que ela estaria aqui. Eleonora deve ter mencionado à mãe dele que Aurora ia dormir lá em casa, e Erik fez a aritmética sozinho.
 
 — Eu sei.
 

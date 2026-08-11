@@ -132,7 +132,7 @@ Ele esperava, se é que esperava alguma coisa, se é que tinha pensado nisso, o 
 
 Aurora não se confundiria com ninguém.
 
-Ela descia a escadaria com uma postura que era claramente ensinada, costas retas, queixo levemente erguido, mão esquerda deslizando sobre o corrimão, mas que não conseguia esconder completamente algo selvagem por baixo. Algo que lembrava a Josh os cavalos jovens da fazenda, os que ainda não tinham sido completamente domados, os que obedeciam às rédeas mas mantinham nos olhos uma fagulha que dizia *eu estou escolhendo obedecer, e posso mudar de ideia a qualquer momento*.
+Ela descia a escadaria com uma postura que era claramente ensinada, costas retas, queixo levemente erguido, mão esquerda deslizando sobre o corrimão, mas que não conseguia esconder completamente algo selvagem por baixo. Algo que lembrava Josh os cavalos jovens da fazenda, os que ainda não tinham sido completamente domados, os que obedeciam às rédeas mas mantinham nos olhos uma fagulha que dizia *eu estou escolhendo obedecer, e posso mudar de ideia a qualquer momento*.
 
 Os olhos. Deus do céu, os olhos.
 
@@ -240,7 +240,7 @@ Havia um "mas" que ele não conseguia calar. Um "mas" que tinha olhos de mel e l
 
 Ele estava ali para estudar. Para entrar na universidade. Para honrar o nome da família e construir algo que o pai, Deus o tivesse, ficaria orgulhoso de ver. Estava ali porque a mãe sacrificara economias e orgulho para que ele tivesse a chance que ela nunca teve. Estava ali porque era o filho do meio, o que não tinha terra para herdar nem papel definido para cumprir, e que por isso precisava inventar o próprio caminho.
 
-Não estava ali para ficar fascinado pela filha do padrinho. Por uma garota de dezesseis anos que o detestava. Por uma beleza que não combinava com nada e que por isso combinava com tudo.
+Não estava ali para ficar fascinado pela filha do padrinho. Por uma garota de dezessete anos que o detestava. Por uma beleza que não combinava com nada e que por isso combinava com tudo.
 
 *Não.*
 
@@ -252,7 +252,7 @@ Josh sorriu para si mesmo.
 
 *Tudo bem*, pensou, ajeitando o último livro na prateleira. *Eu não pertenço mesmo. Mas estou aqui. E não vou embora.*
 
-Do bolso do casaco, tirou a última coisa que a mãe colocara em suas mãos antes de ele subir na carruagem: uma carta selada, endereçada a Raj Svensson, em caligrafia firme e ligeiramente torta que era inconfundivelmente de Casandra.
+Do bolso do casaco, tirou a última coisa que a mãe colocara em suas mãos antes de ele subir na carruagem: uma carta selada, endereçada Raj Svensson, em caligrafia firme e ligeiramente torta que era inconfundivelmente de Casandra.
 
 *"Cuide do meu menino"*, Josh imaginava que dizia.
 
