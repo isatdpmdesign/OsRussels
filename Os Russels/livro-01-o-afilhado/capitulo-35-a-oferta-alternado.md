@@ -43,11 +43,12 @@ quatro no escritório.
 
 — Bom dia, Helle.
 
-Josh entrou. Atravessou o corredor. O cheiro da
-casa era o mesmo. O corredor era o mesmo. Mudou
-algo no jeito dele de andar aquele corredor pela
-primeira vez em quatro semanas como visita e não
-como morador. Josh notou.
+Josh entrou. O cheiro da casa era o mesmo, a cera
+de móvel e as ervas secas do canto da cozinha. O
+corredor era o mesmo. O que mudou foi o jeito dele
+de atravessar aquilo pela primeira vez em quatro
+semanas como visita, e não como morador. Josh
+notou, e o corpo dele notou antes da cabeça.
 
 Aurora estava na soleira da porta do escritório
 esperando.
@@ -154,7 +155,7 @@ interior do casaco. Pôs no tampo da escrivaninha.
 Empurrou na direção do padrinho.
 
 — Padrinho, madrinha. Eu vim aqui hoje pra
-oferecer as duas ordens pra a família Svensson
+oferecer as duas ordens pra família Svensson
 cobrir a dívida do naufrágio com o Herr Henning
 Lindberg. Não como pagamento de dívida minha,
 porque a dívida não é minha. Como honra de
@@ -253,7 +254,7 @@ tinha entendido o que ele estava fazendo.
 
 Josh tirou as duas ordens de saque do tampo da
 escrivaninha (que ainda estavam ali, na frente do
-Raj) e recolheu pra o próprio colo. Pôs em cima do
+Raj) e recolheu pro próprio colo. Pôs em cima do
 papel do plano de carreira. Cruzou as duas mãos
 por cima. Olhou pro Raj.
 
@@ -391,15 +392,15 @@ diferente, a gente lida com o que vier.
 
 — Você é bem-vindo em casa outra vez. Você não
 precisa mais ficar no Regensen. Se você quiser
-voltar pra o quarto leste, o quarto está lá. Se
+voltar pro quarto leste, o quarto está lá. Se
 você quiser continuar no Regensen até o casamento,
 eu entendo. Escolha sua.
 
 Josh ficou em silêncio um segundo.
 
 — Padrinho, eu agradeço. Eu vou ficar no Regensen
-até o casamento. Eu acho mais próprio pra a Aurora
-e pra a família dela que eu volte pra casa como
+até o casamento. Eu acho mais próprio pra Aurora
+e pra família dela que eu volte pra casa como
 marido, e não como afilhado.
 
 Raj assentiu uma vez.
@@ -433,7 +434,7 @@ caixinha de veludo azul-marinho. Voltou.
 família. A Aurora vai reconhecer. Foi usado pela
 avó dela e pela bisavó. Eu queria que você pusesse
 no dedo dela agora, na frente de todos os três,
-pra a gente fechar isso oficialmente.
+pra gente fechar isso oficialmente.
 
 Josh olhou pro Raj.
 
@@ -441,7 +442,7 @@ Josh olhou pro Raj.
 
 — Você pode. E aceita.
 
-— Padrinho, o anel dos Bjerg pra o rapaz do campo.
+— Padrinho, o anel dos Bjerg pro rapaz do campo.
 
 Eleonora falou pela primeira vez sem alguém pedir.
 
@@ -475,7 +476,7 @@ Aurora viu.
 Era um anel simples, de ouro amarelo trabalhado em
 fio duplo, com uma pedra de âmbar oval no centro
 do tamanho da unha do polegar de Aurora. A pedra
-era da mesma família das outras joias Bjerg — o
+era da mesma família das outras joias Bjerg: o
 âmbar da bisavó que tinha vindo de Estocolmo em
 mil setecentos e alguma coisa. Não era anel de
 riqueza. Era anel de linhagem.
@@ -484,10 +485,9 @@ Aurora estendeu a mão esquerda.
 
 Josh tirou o anel da caixinha. Segurou a mão da
 Aurora com a esquerda. Pôs o anel no dedo anular
-dela com a direita, devagar, com o mesmo cuidado
-que Aurora tinha reconhecido no pomar de Sorø no
-dia que ele tinha encostado o polegar na boca
-dela.
+dela com a direita, devagar, com o cuidado que
+Aurora já tinha reconhecido no pomar de Sorø, no
+dia em que ele encostou o polegar na boca dela.
 
 O anel serviu direito. Medida certa, sem folga.
 
@@ -501,7 +501,7 @@ Aurora olhou pro rosto do Josh.
 
 — Eu te amo, Aurora.
 
-Josh não beijou a Aurora. Não podia na frente do
+Josh não beijou Aurora. Não podia na frente do
 padrinho. Só apertou a mão dela.
 
 Aurora entendeu.
