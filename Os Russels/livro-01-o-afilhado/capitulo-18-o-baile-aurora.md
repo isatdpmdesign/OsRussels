@@ -34,7 +34,7 @@ Vibeke considerou. Olhou para os dois vestidos no braço. Olhou para Aurora.
 
 E saiu do quarto.
 
-Aurora ficou sentada na cadeira da penteadeira por mais um minuto, com a escova na mão, olhando para o próprio reflexo no espelho. Não era a resposta que ela tinha planejado dar. Não era a resposta que ela teria dado três dias atrás. Mas tinha sido a resposta verdadeira, e a verdade, ela percebeu com uma pequena pontada que ainda não sabia nomear, era que ela já gostava da Vibeke o suficiente para querer que a Vibeke chegasse bem ao baile, mas sem se comprometer socialmente.
+Aurora ficou sentada na cadeira da penteadeira por mais um minuto, com a escova na mão, olhando para o próprio reflexo no espelho. Não era a resposta que ela tinha planejado dar. Não era a resposta que ela teria dado três dias atrás. Mas tinha sido a resposta verdadeira, e a verdade, ela percebeu com uma pequena pontada que ainda não sabia nomear, era que ela já gostava da Vibeke o suficiente para querer que Vibeke chegasse bem ao baile, mas sem se comprometer socialmente.
 
 Mas Aurora não tinha pensado ainda, na verdade esquecera que *chegar ao baile* significava também *chegar de braço dado com Josh*.
 
@@ -56,7 +56,7 @@ A mão direita de Josh estava no colo, em cima do sobretudo dobrado. Aurora viu 
 
 Olhou para o queixo dele. Josh estava com o rosto virado para a outra janela. O queixo dele tinha um ângulo, um pouco quadrado mas não muito, que pegava a luz da lanterna no segundo abaixo do osso e fazia uma sombra fina que descia até o pescoço. Aurora seguiu a sombra com os olhos por dois segundos. Voltou para o colo.
 
-— Os Lundgren — Eleonora estava dizendo a Vibeke — são boa gente. A senhora Lundgren foi colega de infância da minha mãe. O salão deles é o segundo maior de Copenhague, depois do Teatro Real. Não fique impressionada.
+— Os Lundgren — Eleonora estava dizendo Vibeke — são boa gente. A senhora Lundgren foi colega de infância da minha mãe. O salão deles é o segundo maior de Copenhague, depois do Teatro Real. Não fique impressionada.
 
 — Eu vou ficar impressionada.
 
@@ -84,7 +84,7 @@ E quando chegou em Vibeke, olhou para Eleonora.
 
 — Vibeke Bjerg. A filha da Karoline. — Eleonora a apresentou.
 
-— A Karoline. — A senhora Lundgren sorriu, um sorriso real, e estendeu a mão para Vibeke. — Eu dancei em roda com a sua mãe num baile em Aalborg quando tínhamos vinte anos. Ela me pisou no pé três vezes.
+— Karoline. — A senhora Lundgren sorriu, um sorriso real, e estendeu a mão para Vibeke. — Eu dancei em roda com a sua mãe num baile em Aalborg quando tínhamos vinte anos. Ela me pisou no pé três vezes.
 
 — Mamãe ainda pisa no pé do papai três vezes por dança.
 
@@ -122,7 +122,7 @@ Foi uma risada aberta. Daquelas com o ombro balançando. Daquelas que faziam o p
 
 Aurora sentiu o aperto.
 
-Foi nas costelas. Foi no peito. Foi um aperto físico, com formato, do tipo que ela podia localizar com a mão se fosse cortês fazer isso num salão dos Lundgren. Não era ciúme. Aurora repetiu para si mesma três vezes que não era ciúme. Vibeke amava o Lauritz. Josh sabia. A casa sabia. Não era ciúme.
+Foi nas costelas. Foi no peito. Foi um aperto físico, com formato, do tipo que ela podia localizar com a mão se fosse cortês fazer isso num salão dos Lundgren. Não era ciúme. Aurora repetiu para si mesma três vezes que não era ciúme. Vibeke amava Lauritz. Josh sabia. A casa sabia. Não era ciúme.
 
 Mas o aperto não pediu autorização para existir.
 
@@ -162,7 +162,7 @@ A orquestra começou a tocar.
 
 *
 
-A primeira dança era uma quadrilha simples, do tipo que se usava para abrir baile sem comprometer ninguém em par fixo. Aurora viu Josh estender a mão para a Vibeke. Vibeke aceitou. Os dois entraram na pista.
+A primeira dança era uma quadrilha simples, do tipo que se usava para abrir baile sem comprometer ninguém em par fixo. Aurora viu Josh estender a mão para Vibeke. Vibeke aceitou. Os dois entraram na pista.
 
 Aurora ficou na cadeira.
 
@@ -170,7 +170,7 @@ Não estava com vontade de dançar. Tinha aceitado de antemão, na carruagem, qu
 
 E ela olhou.
 
-Josh não dançava mal, como havia avisado a Vibeke no almoço do dia anterior. Na verdade, acertava o passo e atrasava o giro para acompanhá-la. Mas dançava com a aplicação séria de quem fazia o melhor que conseguia ao acompanhar uma dama bem desengonçada. E Vibeke ria de cada erro próprio com a despreocupação alegre de quem não se importava com o julgamento alheio. Ela era livre e, talvez, isso fosse uma das coisas que mais machucavam Aurora: a forma como Vibeke era espontânea e natural, diferente dela mesma, que estava sempre travestida de armaduras para se proteger da sociedade.
+Josh não dançava mal, como havia avisado Vibeke no almoço do dia anterior. Na verdade, acertava o passo e atrasava o giro para acompanhá-la. Mas dançava com a aplicação séria de quem fazia o melhor que conseguia ao acompanhar uma dama bem desengonçada. E Vibeke ria de cada erro próprio com a despreocupação alegre de quem não se importava com o julgamento alheio. Ela era livre e, talvez, isso fosse uma das coisas que mais machucavam Aurora: a forma como Vibeke era espontânea e natural, diferente dela mesma, que estava sempre travestida de armaduras para se proteger da sociedade.
 
 Os dois, Vibeke e Josh, se entendiam dentro da pista da mesma forma que se entendiam fora dela: sem grandes manobras, sem cálculo, sem peso.
 
@@ -204,7 +204,7 @@ No intervalo entre a primeira e a segunda dança, Vibeke encontrou Aurora perto 
 
 — Por quê?
 
-Aurora hesitou. Olhou para a Vibeke, que esperava a resposta com aquele olhar de criança grande, sem segunda intenção.
+Aurora hesitou. Olhou para Vibeke, que esperava a resposta com aquele olhar de criança grande, sem segunda intenção.
 
 — Porque a metade do salão já sabe que você tem dono — disse Aurora, baixo. — E isso vai te poupar um monte de conversa boba.
 
@@ -238,7 +238,7 @@ Vibeke foi para um grupo de moças no canto oposto. Josh atravessou o salão.
 
 Veio em diagonal. Não correu. Atravessou.
 
-E quando chegou onde Aurora estava, parou ao lado dela. Não muito perto. A distância correta. Aurora sentiu, antes de olhar, o cheiro do salão grudado no casaco dele: cera de candelabro, perfume das outras moças com quem ele tinha passado nas trocas de par, e por baixo de tudo o sabão da Bredgade, que Aurora reconhecia porque era o sabão que a Helle usava para a roupa dele e que Aurora cheirava todas as semanas sem querer cheirar quando a lavanderia ficava com a porta aberta.
+E quando chegou onde Aurora estava, parou ao lado dela. Não muito perto. A distância correta. Aurora sentiu, antes de olhar, o cheiro do salão grudado no casaco dele: cera de candelabro, perfume das outras moças com quem ele tinha passado nas trocas de par, e por baixo de tudo o sabão da Bredgade, que Aurora reconhecia porque era o sabão que Helle usava para a roupa dele e que Aurora cheirava todas as semanas sem querer cheirar quando a lavanderia ficava com a porta aberta.
 
 — Aurora.
 
@@ -272,7 +272,7 @@ Josh hesitou. Olhou de relance para o canto onde Eleonora estava, conversando co
 
 Mas Josh não saiu. Ficou ali, ao lado dela, segurando a taça de água que ele tinha trazido sem que ela tivesse pedido. Aurora notou as mãos dele na taça. A mão direita segurando o copo. A mão esquerda no bolso do casaco. As duas mãos paradas com a precisão de quem está controlando uma respiração.
 
-— A Vibeke me contou que falou do Lauritz para meia Copenhague em uma hora — disse Josh.
+— Vibeke me contou que falou do Lauritz para meia Copenhague em uma hora — disse Josh.
 
 — Ela acabou de me contar a mesma coisa.
 
@@ -334,7 +334,7 @@ A orquestra começou a se reposicionar para a próxima dança. A senhora Lundgre
 
 — Eu sei.
 
-— Você vai dançar com a Vibeke?
+— Você vai dançar com Vibeke?
 
 — Provavelmente.
 
@@ -356,7 +356,7 @@ Erik dançava bem. Era previsível. Conduzia com a mão firme e leve no lugar ce
 
 Erik não comentou. Não fez pergunta. Conduziu até o fim, agradeceu com a mesura curta, devolveu Aurora à cadeira.
 
-A segunda dança foi com um rapaz que Aurora não conhecia — primo dos Lundgren, sobrinho de alguém, apresentado por Eleonora no intervalo com uma frase de uma linha. Aurora aceitou pela mesma razão que tinha aceitado o Erik. O rapaz dançava pior. Falava demais. Comentou três vezes sobre o calor do salão e duas vezes sobre o vestido da Aurora, como se as duas coisas fossem da mesma natureza. Aurora sorriu o sorriso medido. Respondeu com meias frases. Olhou por cima do ombro dele para a pista e viu Josh executando uma volta atrasada que fez Vibeke rir alto.
+A segunda dança foi com um rapaz que Aurora não conhecia — primo dos Lundgren, sobrinho de alguém, apresentado por Eleonora no intervalo com uma frase de uma linha. Aurora aceitou pela mesma razão que tinha aceitado Erik. O rapaz dançava pior. Falava demais. Comentou três vezes sobre o calor do salão e duas vezes sobre o vestido da Aurora, como se as duas coisas fossem da mesma natureza. Aurora sorriu o sorriso medido. Respondeu com meias frases. Olhou por cima do ombro dele para a pista e viu Josh executando uma volta atrasada que fez Vibeke rir alto.
 
 Quando a dança terminou, Aurora agradeceu, voltou para a cadeira, pegou o leque, e desta vez não saiu mais.
 
@@ -372,7 +372,7 @@ A rua passava. As casas conhecidas da Bredgade começaram a aparecer. Aurora rec
 
 A carruagem parou.
 
-Helle abriu a porta do hall com o costume de quem esperava. Vibeke desceu primeiro, animada, contando alguma coisa para a Helle no caminho da porta. Eleonora desceu depois, com a mão no braço de Raj. Aurora desceu por último, antes de Josh.
+Helle abriu a porta do hall com o costume de quem esperava. Vibeke desceu primeiro, animada, contando alguma coisa para Helle no caminho da porta. Eleonora desceu depois, com a mão no braço de Raj. Aurora desceu por último, antes de Josh.
 
 Ao passar pela porta da carruagem, o sobretudo dele roçou no braço dela.
 
@@ -394,7 +394,7 @@ Olhou para o teto. Para o desenho de gesso que ela conhecia de cor desde crianç
 
 Pensou em três coisas, em sequência, e em cada uma das três Aurora descobriu uma camada nova de incômodo.
 
-Primeira: Josh tinha rido aberto com a Vibeke. Não tinha rido assim com ela uma vez sequer em cinco meses. Por quê?
+Primeira: Josh tinha rido aberto com Vibeke. Não tinha rido assim com ela uma vez sequer em cinco meses. Por quê?
 
 Segunda: o sobretudo dele tinha roçado nela na carruagem por meio segundo e ela tinha sentido o calor através do vestido. Meio segundo. Era pouco. Mas era informação suficiente para o corpo dela ainda estar com o registro acordado, agora, na cama, no escuro.
 

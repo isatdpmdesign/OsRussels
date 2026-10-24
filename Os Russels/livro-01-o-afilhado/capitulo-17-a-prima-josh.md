@@ -14,9 +14,9 @@ Josh ouviu o ruído das rodas nos paralelepípedos da Bredgade do segundo andar,
 
 Da carruagem saíram três pessoas.
 
-Primeiro, uma criada de viagem, baixa, de bandagens limpas no avental, com a postura cansada de quem dormiu sentada por dois dias entre Viborg e Copenhague. Depois, uma senhora idosa que não devia ser a Vibeke. Acompanhante, talvez. E por último uma moça loira, alta, de vestido azul-claro, que pisou no paralelepípedo e estendeu os braços para o céu como quem se espreguiça depois de uma longa imobilidade.
+Primeiro, uma criada de viagem, baixa, de bandagens limpas no avental, com a postura cansada de quem dormiu sentada por dois dias entre Viborg e Copenhague. Depois, uma senhora idosa que não devia ser Vibeke. Acompanhante, talvez. E por último uma moça loira, alta, de vestido azul-claro, que pisou no paralelepípedo e estendeu os braços para o céu como quem se espreguiça depois de uma longa imobilidade.
 
-Aquela era a Vibeke.
+Aquela era Vibeke.
 
 Josh não precisava de apresentação. Pela descrição da Eleonora no jantar de quarta passada, e pela escolha do gesto, e pelo modo como a moça se virou para a fachada da casa dos Svensson com aquele entusiasmo aberto de quem nunca aprendeu a esconder o que sente, era óbvio.
 
@@ -52,7 +52,7 @@ Aurora deu um sorriso pequeno. Não o de porcelana. Algo mais cauteloso e tímid
 
 Depois Vibeke virou-se para Josh.
 
-— E você deve ser o Josh.
+— E você deve ser Josh.
 
 — Senhorita Bjerg.
 
@@ -86,7 +86,7 @@ O almoço foi servido à uma.
 
 Vibeke desceu de vestido lilás, com os cabelos numa trança lateral que parecia ter sido feita em dez minutos e que mesmo assim ficava mais arrumada do que qualquer penteado que Aurora levasse horas para conseguir. Sentou-se à mesa, agradeceu Fru Larsen pela sopa com um entusiasmo que fez a cozinheira soltar um *hm* de aprovação raríssimo, e começou a comer com a fome honesta de quem dormiu mal por dois dias e não pretendia fingir o contrário.
 
-Raj presidia a mesa, divertido. Eleonora estava à direita dele. Aurora à esquerda. Josh em frente a Aurora, no lugar de sempre. Vibeke entre Raj e Aurora.
+Raj presidia a mesa, divertido. Eleonora estava à direita dele. Aurora à esquerda. Josh em frente Aurora, no lugar de sempre. Vibeke entre Raj e Aurora.
 
 — E como anda Karoline? — perguntou Raj.
 
@@ -152,7 +152,7 @@ Eleonora puxou. Josh viu o movimento da pergunta antes de a pergunta sair, porqu
 
 — Uhm, eles tem plantações sólidas. — Raj ponderou.
 
-— Sólidas. — Vibeke confirmou sem hesitação. — O Lauritz não vai me deixar passar fome.
+— Sólidas. — Vibeke confirmou sem hesitação. — Lauritz não vai me deixar passar fome.
 
 Eleonora pousou a colher de sobremesa com aquela delicadeza que era sua forma de pisar com calma antes de pisar com força.
 
@@ -168,7 +168,7 @@ Vibeke parou de comer. Olhou para a tia. Não com indignação. Com uma serenida
 
 — Sim.
 
-— O Lauritz não pediu formalmente ainda. Eu sei que pela regra é por isso que ninguém em Viborg considera formalizado. Mas eu estive no celeiro dos Brandt no inverno passado, e na geada de fevereiro, e na primeira ceifa de junho. Eu vi. Está formalizado.
+— Lauritz não pediu formalmente ainda. Eu sei que pela regra é por isso que ninguém em Viborg considera formalizado. Mas eu estive no celeiro dos Brandt no inverno passado, e na geada de fevereiro, e na primeira ceifa de junho. Eu vi. Está formalizado.
 
 O rosto de Eleonora corou levemente com as descrições feitas pela menina. Só Deus sabia o que Vibeke e Lauritz fizera no celeiro e na primeira ceifa de junho.
 
@@ -196,7 +196,7 @@ Josh sentiu o que vinha um segundo antes da palavra. Não pôde fazer nada para 
 
 — Sim, madrinha.
 
-— A Vibeke chegou hoje. Provavelmente vai ficar a manhã se acomodando. Mas amanhã à noite os Lundgren irão dar um dos bailes da temporada, e a Vibeke ainda não conhece quase ninguém da cidade. Você poderia, gentilmente, acompanhá-la? Apresentar a ela algumas pessoas, ajudá-la a circular?
+— Vibeke chegou hoje. Provavelmente vai ficar a manhã se acomodando. Mas amanhã à noite os Lundgren irão dar um dos bailes da temporada, e Vibeke ainda não conhece quase ninguém da cidade. Você poderia, gentilmente, acompanhá-la? Apresentar a ela algumas pessoas, ajudá-la a circular?
 
 A pergunta era, na superfície, uma cortesia. Por baixo, era a segunda parada do plano que Eleonora plantara no jantar de quarta. Josh já reconhecia o desenho. *Acompanhar* era a versão diluída de *aproximar*. *Algumas pessoas* incluía Josh próximo dela durante a noite. *Circular* significava que eles seriam vistos juntos por pessoas que comentariam que tinham sido vistos juntos.
 
@@ -270,7 +270,7 @@ Aurora ficou em silêncio. Olhou para o livro fechado no colo de Josh, depois pa
 
 — Eu sei.
 
-— A sua mãe pediu na frente de todo mundo, depois de a Vibeke dizer que não conhece quase ninguém. Recusar ali era uma cena, e eu não sabia armar uma cena sem magoar a Vibeke, que não merece.
+— A sua mãe pediu na frente de todo mundo, depois de Vibeke dizer que não conhece quase ninguém. Recusar ali era uma cena, e eu não sabia armar uma cena sem magoar Vibeke, que não merece.
 
 — Eu sei, Josh. Não queria que você tivesse recusado.
 
@@ -294,7 +294,7 @@ Era uma cena para confirmar o que os dois já sabiam, e para deixar o resto onde
 
 — Não estou preocupada — Aurora deu de ombros. Foi a pior performance que ela tinha feito naquela casa em semanas, e os dois souberam.
 
-— A Vibeke gostou de você. — Josh redefinia a rota do assunto.
+— Vibeke gostou de você. — Josh redefinia a rota do assunto.
 
 — Como você sabe?
 
@@ -326,7 +326,7 @@ Josh ficou na janela por um tempo. Depois subiu para o quarto leste, fechou a po
 
 *Querida mãe,*
 
-*A prima da Aurora chegou. Vibeke. Vai ficar dois meses. A mãe da Aurora tem ideias sobre ela e sobre mim que a Vibeke, em quinze minutos de almoço, desmontou sem perceber que estava desmontando. Eu já gosto dela. Aurora também, eu acho.*
+*A prima da Aurora chegou. Vibeke. Vai ficar dois meses. A mãe da Aurora tem ideias sobre ela e sobre mim que Vibeke, em quinze minutos de almoço, desmontou sem perceber que estava desmontando. Eu já gosto dela. Aurora também, eu acho.*
 
 *Estou bem. Nem tanto, mas bem.*
 

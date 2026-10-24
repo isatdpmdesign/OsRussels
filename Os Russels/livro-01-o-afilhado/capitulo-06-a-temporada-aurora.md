@@ -10,7 +10,7 @@
 
 O vestido era verde.
 
-Não o verde dos campos que Josh descrevia nas histórias que contava a Raj no escritório e que Aurora absolutamente não ficava ouvindo do corredor quando passava por acaso — por acaso — em direção à sala de costura. Não era esse verde. Era um verde escuro, profundo, quase negro em certas dobras, que a modista, Madame Solberg, uma norueguesa transplantada para Copenhague que tratava tecidos com a reverência de um padre diante do altar, chamara de *verde floresta à meia-noite*.
+Não o verde dos campos que Josh descrevia nas histórias que contava Raj no escritório e que Aurora absolutamente não ficava ouvindo do corredor quando passava por acaso — por acaso — em direção à sala de costura. Não era esse verde. Era um verde escuro, profundo, quase negro em certas dobras, que a modista, Madame Solberg, uma norueguesa transplantada para Copenhague que tratava tecidos com a reverência de um padre diante do altar, chamara de *verde floresta à meia-noite*.
 
 — Perfeito — dissera Madame Solberg, com a boca cheia de alfinetes, enquanto ajustava a cintura do vestido no corpo de Aurora com toques rápidos e precisos. — Com a sua pele, querida, cores profundas. Nunca pastéis. Pastéis são para loiras. Você precisa de drama.
 
@@ -212,7 +212,7 @@ Corou.
 
 A senhora Frederiksen, que tinha cinquenta e tantos anos e três filhos casados e a reputação de ser a anfitriã mais imperturbável de Copenhague, corou como uma debutante ao apertar a mão de Josh Russel.
 
-Aurora observou. Catalogou. Arquivou na mesma pasta que estava ficando perigosamente cheia: a pasta de *coisas relacionadas a Josh que eu noto e não deveria notar e não sei o que fazer com*.
+Aurora observou. Catalogou. Arquivou na mesma pasta que estava ficando perigosamente cheia: a pasta de *coisas relacionadas Josh que eu noto e não deveria notar e não sei o que fazer com*.
 
 *
 

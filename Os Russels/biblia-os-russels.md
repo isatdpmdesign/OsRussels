@@ -1,7 +1,8 @@
 # Bíblia — Os Russels: Quinlogia
 
 > Documento canônico do mundo. Atualizar após cada decisão narrativa que afete o cânone.
-> Última consolidação: maio de 2026, com canon dos Caps 16–19 efetivamente escritos (Vibeke ingênua + Lauritz Brandt + Karoline Bjerg + família Lundgren + as três paredes do Josh + primeiro beijo adiantado para o Cap 19).
+> Última consolidação: agosto de 2026, com o rascunho completo (39 capítulos).
+> Consolidação anterior: maio de 2026, com canon dos Caps 16–19 escritos (Vibeke ingênua + Lauritz Brandt + Karoline Bjerg + família Lundgren + as três paredes do Josh + primeiro beijo adiantado para o Cap 19).
 
 ---
 
@@ -71,7 +72,7 @@ Moram no campo da Zelândia, perto de Sorø. Propriedade rural. Vida simples mas
 5. **Matias** — 13 anos, caçula. Não sabe disfarçar emoções. Faz perguntas profundas à noite.
 
 > **Idades canônicas (1830, presente da história):** Joseph 24, Josh 21, Meridiana 20, Dylan 19, Matias 13. Na morte do Henrik (~4 anos antes): Joseph 20, Josh 17, Meridiana 16, Dylan 15, Matias 9 (Cap 20:199; Cap 02:39).
-> **Propriedade de Sorø:** pomar de macieiras (a velha Berta), 14 vacas, 3 cabras, dois cães — **Kongen** (velho) e **Liv** (jovem, mordedora) (Cap 21:141). ⚠️ *Colisão de nome: o cão **Kongen** da fazenda tem o mesmo nome do gato cinzento de Fru Larsen na Bredgade (Cap 03:163) — provável reuso não intencional; decidir com a autora se renomeia o cão no texto.*
+> **Propriedade de Sorø:** pomar de macieiras (a velha Berta), 14 vacas, 3 cabras, dois cães — **Gorm** (velho) e **Liv** (jovem, mordedora) (Cap 21:141). *(O cão se chamava Kongen até agosto/2026, mesmo nome do gato da Bredgade; renomeado para **Gorm** — por Gorm den Gamle, "Gorm o Velho", primeiro rei da Dinamarca, preservando a piada do nome antigo e a idade do cão.)*
 
 ---
 
@@ -90,7 +91,7 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Mãos cruzadas atrás do corpo quando pensa. Limpa os óculos antes de dizer algo sério
 - Mentor de Josh: ensina Locke, Montesquieu, Kant, Hegel
 - **Co-titular, com o espólio do Henrik, de um depósito conjunto numa casa comercial de Copenhague** (sociedade comercial dos anos 1810). O saque exige as duas assinaturas; com o Henrik morto, a parte dos Russel está travada até o Raj assinar junto. Raj guardou em silêncio por respeito à Casandra — não devia o dinheiro, era **sócio** dele. *(Frase do canon que esclarece o flashback: "o teu pai botou na minha mão a parte dele e disse que era pro filho que desse mais trabalho.")*
-- **Cap 26-28:** confrontado pela dívida do naufrágio (negociação dele falhou) + pressão de Lindberg + carta de Casandra destravando a herança do Josh + pedido do Josh + decisão de Eleonora. Acaba cedendo o noivado de Aurora a Josh. **Não é vilão — é pai trágico**, esmagado pela aritmética. Quando comunica o noivado à Aurora, percebe que **não a via tão feliz desde antes da morte do Aarav**. Passa à Eleonora a missão de apresentar o noivado à sociedade sem escândalo.
+- **Caps 32–35:** confrontado pela dívida do naufrágio (negociação dele falhou) + pressão de Lindberg + carta de Casandra destravando a herança do Josh + pedido do Josh + decisão de Eleonora. Acaba cedendo o noivado de Aurora a Josh. **Não é vilão — é pai trágico**, esmagado pela aritmética. Quando comunica o noivado à Aurora, percebe que **não a via tão feliz desde antes da morte do Aarav**. Passa à Eleonora a missão de apresentar o noivado à sociedade sem escândalo.
 
 ### Eleonora Svensson, née Bjerg (mãe de Aurora)
 - Dinamarquesa pura. Loira, cabelos finos, pálida como porcelana, olhos muito azuis
@@ -99,8 +100,8 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Educada sem ser calorosa, calorosa sem ser íntima
 - Soltou um único grito quando soube da "morte" de Aarav — Aurora nunca vai esquecer
 - Vem observando, metódica, a paixão entre Aurora e Josh há semanas (a sobrancelha na partida pra Sorø, o *"você é a minha filha"* — Cap 21:319,327). Foi **conivente por amor**: não quis o casamento arranjado da filha com o Lindberg.
-- **Cap 28:** quando Josh oferece metade da herança pra quitar a dívida + pede a mão da Aurora, e Raj responde que o valor não cobre tudo, **Eleonora se oferece por iniciativa própria a vender as joias Bjerg que herdou da mãe** (colares, broches, âmbar) pra cobrir o restante. **Não concorda de imediato com o noivado** (socialmente é um problema: herdeira × rapaz do campo de menos posses, e afilhado do marido) — mas é mãe, ama a filha, e **faria qualquer coisa pra tirá-la das mãos do velho aproveitador.** É desse lugar que ela decide. **Primeira decisão prática da vida dela.** Não é Raj quem pede, não é Josh quem sugere. É ela quem decide. *"Eu não vou ser a mãe que vendeu a filha pro Lindberg. Vou ser a mãe que vendeu os colares da minha mãe pra tirar a filha das mãos dele."*
-- **Fechamento do arco (Cap 28):** o Raj passa a ela a missão de **apresentar o noivado à sociedade sem virar escândalo** — terreno dela, resolvido com a precisão nórdica que é a arma dela (enquadrar como aliança de famílias antigas: a sociedade Henrik-Raj de três décadas, o mérito do Josh).
+- **Caps 33 e 35:** quando Josh oferece metade da herança pra quitar a dívida + pede a mão da Aurora, e Raj responde que o valor não cobre tudo, **Eleonora se oferece por iniciativa própria a vender as joias Bjerg que herdou da mãe** (colares, broches, âmbar) pra cobrir o restante. **Não concorda de imediato com o noivado** (socialmente é um problema: herdeira × rapaz do campo de menos posses, e afilhado do marido) — mas é mãe, ama a filha, e **faria qualquer coisa pra tirá-la das mãos do velho aproveitador.** É desse lugar que ela decide. **Primeira decisão prática da vida dela.** Não é Raj quem pede, não é Josh quem sugere. É ela quem decide. *"Eu não vou ser a mãe que vendeu a filha pro Lindberg. Vou ser a mãe que vendeu os colares da minha mãe pra tirar a filha das mãos dele."*
+- **Fechamento do arco (Cap 35):** o Raj passa a ela a missão de **apresentar o noivado à sociedade sem virar escândalo** — terreno dela, resolvido com a precisão nórdica que é a arma dela (enquadrar como aliança de famílias antigas: a sociedade Henrik-Raj de três décadas, o mérito do Josh).
 
 ### Aarav Svensson (irmão de Aurora — supostamente falecido)
 - Em tese morto há ~18 meses, em expedição científica ao Ceilão, navio engolido por tempestade no Índico
@@ -111,11 +112,11 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Contrabandeava romances franceses para Aurora
 - Sua cadeira à cabeceira esquerda da mesa de jantar permanece vazia
 - **TWIST CANÔNICO (livro futuro):** Aarav está vivo. Sobreviveu ao naufrágio, foi parar numa ilha remota (a definir — provavelmente arquipélago do Índico próximo à rota original), viveu lá em condições precárias. Retorna num livro futuro sem aviso. **Par romântico EM ABERTO** (a ideia Meridiana × Aarav está suspensa; pode nem ser dele). Canon firme só: ele volta.
-- **Semente no Livro 1:** a **coda** do livro (cena curtíssima em terceira pessoa onisciente, depois do Cap 28) descreve, sem nomeá-lo, um navio aportando em ilha remota e embarcando de volta um marinheiro magro, pele e osso. Plantio para o Livro 2.
+- **Semente no Livro 1:** a **coda** do livro (Cap 39, depois do casamento) descreve, sem nomeá-lo, um navio aportando em ilha remota e embarcando de volta um marinheiro magro, pele e osso. Plantio para o Livro 2.
 - **Importante:** dentro do Livro 1, nenhum personagem suspeita. O luto é tratado como definitivo. A coda é só para o leitor.
 
 ### Aurora Svensson (protagonista feminina Livro 1)
-- 16 anos, quase 17. Fase de debutar
+- **17 anos, quase 18.** Fase de debutar. Completa 18 pouco depois do Regensen (Cap 29)
 - Mestiça indo-dinamarquesa. Rosto oval, maçãs levemente altas
 - **Olhos:** grandes, amendoados, castanhos mel/âmbar — mudam com a luz (escuros na penumbra, dourados ao sol). Cílios escuros e espessos
 - **Lábios:** cheios, generosos, rosado escuro. Mais proeminentes que dinamarquesas
@@ -130,14 +131,14 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Lê romances franceses escondida (compra na livraria de Herr Møller)
 - Aulas de francês com Fru Dahl (governanta)
 - Cuida das roseiras de Aarav no jardim — seu espaço sagrado
-- Luto feroz: ninguém substitui Aarav, a cadeira é intocável (**até o final do Cap 26 ou início do Cap 27, quando Aurora se senta nela pela primeira vez para se despedir antes de viajar a Sorø**)
+- Luto feroz: ninguém substitui Aarav, a cadeira é intocável (**⚠️ PROMESSA NÃO CUMPRIDA: a bíblia previa que Aurora se sentaria nela antes de viajar a Sorø. Isso nunca foi escrito — em nenhum dos 39 capítulos Aurora senta na cadeira do Aarav. Decisão da autora: escrever a cena ou abandonar o fio.**)
 - Não vai ao jardim com luvas — mãos na terra é quando ela é real
 
 ---
 
 ## Equipe da Casa Svensson
 
-- **Fru Larsen** — Cozinheira, ~60 anos. Baixa, larga, mãos vermelhas, olhos azuis claríssimos. Governa a cozinha como general. Mesa posta às 7:45 em ponto. Gato chamado **Kongen** ("O Rei") — enorme, cinzento. ⚠️ *Mesmo nome do cão velho da fazenda em Sorø (Cap 21:141) — ver alerta na família Russel.*
+- **Fru Larsen** — Cozinheira, ~60 anos. Baixa, larga, mãos vermelhas, olhos azuis claríssimos. Governa a cozinha como general. Mesa posta às 7:45 em ponto. Gato chamado **Kongen** ("O Rei") — enorme, cinzento.
 - **Helle** — Criada de quarto, ~20 e poucos. Bochechas de maçã, tímida, cora quando Josh olha para ela. Cantarola ao arrumar quartos. Deixa a porta lateral destrancada para Josh à noite por iniciativa própria.
 - **Fru Dahl** — Governanta/professora. Magra, angular, óculos que escorregam pelo nariz. Paciência inesgotável. Ensina francês a Aurora.
 
@@ -147,13 +148,13 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 
 ### Família Mortensen
 
-- **Erik Mortensen** — Pretendente oficial inicial de Aurora. Alto, casaco cinza-claro, cabelos castanhos, porte de quem nasceu descendo de carruagens em ruas elegantes. Educado, cordial, gosta de Aurora genuinamente. **Não vira vilão:** sai dignamente do enredo no Cap 25 oferecendo amizade silenciosa. **Não retorna na quinlogia.**
+- **Erik Mortensen** — Pretendente oficial inicial de Aurora. Alto, casaco cinza-claro, cabelos castanhos, porte de quem nasceu descendo de carruagens em ruas elegantes. Educado, cordial, gosta de Aurora genuinamente. **Não vira vilão:** sai dignamente do enredo no Cap 31 oferecendo amizade silenciosa. **Não retorna na quinlogia.**
 - **Ingrid Mortensen** — Irmã mais nova de Erik, amiga de Aurora. Observadora ácida, diz verdades como quem comenta o tempo. Vê o que Aurora não quer que vejam, comenta cifradamente sem trair. Os pais Mortensen ficam meses na casa de campo em **Aabenraa, na Jutlândia** — justifica a liberdade de Ingrid e a ausência de adultos na casa dela após a festa.
 
 ### Vibeke Bjerg
 
 - **Prima de Aurora pelo lado da Eleonora.** Filha de **Karoline Bjerg** (irmã da Eleonora) casada em **Viborg**, Jutlândia
-- **17 anos, quase 18** — pouco mais velha do que Aurora
+- **18 anos, quase 19** — um ano mais velha do que Aurora
 - Loira, alta. Alma fácil, alegre sem ironia, espontânea. **Inteligente disfarçada de espontaneidade** (observação do Josh no Cap 17)
 - Chega à Bredgade numa quarta-feira de agosto às 11:15 (Cap 17). Vai ficar **dois meses**
 - **Está apaixonada por Lauritz Brandt**, de Viborg/Skive, e fala dele compulsivamente quando fica nervosa. Para ela está fechado, mas o Lauritz ainda não pediu formalmente — por isso Viborg ainda não considera oficial
@@ -184,8 +185,8 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - Financista de Copenhague em ascensão, classe comerciante. Detém boa parte da dívida que Raj contrai após o naufrágio
 - Cobiça os Svensson há anos como ponte para a aristocracia (Eleonora é filha de barão; Raj é nobre indiano com fortuna). Casar com Aurora seria carimbo de pertencimento social
 - Frio, polido, **utilitário**. Não cruel — pior, utilitário. Não há ódio nele, há cálculo
-- Aparece pela primeira vez no Cap 21 como "credor amigo" no jantar
-- Quando Josh quita a dívida e o noivado é anulado (Cap 24), Lindberg envia carta cordial de retirada — mas **não esquece**
+- **Mencionado** no Cap 20 (Josh escuta Raj e Eleonora na biblioteca); **entra em cena no Cap 27**, às quatro da tarde, na visita em que pede a mão de Aurora e leva o soco de Josh no jardim
+- Quando Josh destrava a herança (Cap 34) e faz a oferta ao Raj (Cap 35), o noivado é anulado e Lindberg sai de cena (Cap 36) — mas **não esquece**
 - **Sai de cena no Livro 1** quando recebe a quitação (carta cordial de retirada). **Sem plant pro Livro 2** — o próximo livro é de outro Russel e não orbita o Lindberg.
 
 ### Família Eriksen
@@ -202,6 +203,43 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 - **Senhora Lundgren** — anfitriã. Foi colega de infância da mãe da Eleonora. Salão é o segundo maior de Copenhague, depois do Teatro Real
 - Um sobrinho dos Lundgren (sem nome canônico) já fora mencionado no sarau dos Holst (Cap 9). Um primo dos Lundgren (também sem nome canônico) dança com Aurora no baile do Cap 18
 - Sem peso de enredo central — função social/cenográfica
+
+### Herr Aamann
+
+- **Gerente da casa comercial Aamann & Berg**, na esquina da Højbro com
+  a Vimmelskaftet. Prédio de três andares, porta dupla de madeira
+  escura, placa de bronze: *Aamann & Berg — Casa Comercial, Fundada
+  1798* (`cap34:183`)
+- **Setenta e três anos** e os aparenta todos. Cabelos brancos ralos
+  penteados de lado, olhos azul-cinza fundos e lentos, casaco preto de
+  corte antigo. Mão fria e firme, pele fina na palma com força na
+  articulação (`cap34:245-289`)
+- **Foi comerciante de grãos na Zelândia** antes da casa comercial.
+  Gerente desde os cinquenta e cinco anos (por volta de 1812)
+- **A dívida antiga com o Henrik Russel — o coração do personagem:** em
+  junho de 1809, em Roskilde, Aamann era comerciante de grãos com seis
+  meses de dívida ruim e um casamento por um fio. Henrik Russel, então
+  um fazendeiro de vinte e um anos, adiantou a ele **trezentos
+  rigsdalers sem juros e sem garantia**, dizendo que sabia olhar e ver
+  homem que ia pagar. Aamann pagou em oito meses. Aquilo salvou o
+  negócio e o casamento dele (`cap34:529-554`)
+- **Articulou a sociedade Henrik–Raj de 1813** e foi testemunha do
+  papel. Guarda o livro de depósitos com as duas assinaturas desde
+  então — inclusive os quatro anos depois da morte do Henrik, esperando
+  a Casandra pedir
+- **No Cap 34:** reconhece Josh pelo rosto do pai antes de qualquer
+  apresentação. Faz duas perguntas antes de destravar (*"você sabe pra
+  que serve esse dinheiro"* e *"por que hoje, e não daqui a seis
+  meses"*) — não para negar, mas para saber se o filho certo veio.
+  Destrava os **11.800 rigsdalers** e **empresta dois mil do próprio
+  bolso**, a três por cento ao ano e vinte anos de prazo. *"Isso não é
+  generosidade minha, Joshua. É dívida antiga que eu não tinha como
+  pagar até essa manhã."*
+- **Klemens** — escrivão jovem de óculos da casa comercial. Walk-on
+
+> **A conta do Cap 34 (confere):** dívida do naufrágio **18.600** ·
+> herança do Josh **11.800** · empréstimo do Aamann **2.000** · joias
+> Bjerg da Eleonora **~5.000** = **18.800**. Sobram ~200 rigsdalers.
 
 ### Madame Solberg
 
@@ -237,7 +275,8 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
 11. Aurora confronta Josh, exige distância
 12. Aniversário de Aarav. Reaproximação na cozinha. Convite para a festa dos Eriksen.
 
-**Ato III — Quase-coisa, queda e rebelião (Caps 15–?)**
+**Ato III — Quase-coisa, queda e rebelião (Caps 15–27)**
+**Ato IV — Clímax (Caps 28–34) · Desfecho (Caps 35–39)**
 
 > **NOTA IMPORTANTE:** o ato 3 sofreu mudança estrutural significativa em relação ao plano original. **O primeiro beijo aconteceu no Cap 19**, na sala de estar à madrugada, não no Cap 23 como previsto. A sequência pós-19 precisa ser replanejada — abaixo está o que está escrito e o que está pendente.
 
@@ -253,20 +292,33 @@ Moram no casarão da Bredgade, uma das ruas mais elegantes de Copenhague. Tijolo
    - Terceira parede (querer o melhor para Aurora) — Aurora declara que quem decide o que honra o Aarav é ela, e o Aarav teria gostado do Josh.
    Aurora avança. Josh quebra. **Primeiro beijo, sensorial:** mão na cintura, mão na nuca, calo da pena sentido palma contra palma, suspiro entre os lábios, lábios na clavícula. Josh contém — a camisola fica em ordem. Josh sobe sozinho. Aurora fica, lê a linha do Oehlenschläger com a voz dela pela primeira vez (não com a voz do Aarav), sobe.
 
-#### O que está pendente (a planejar)
+#### Ato IV e desfecho — ESCRITOS (Caps 20–39)
 
-18. **Cap 20 — manhã seguinte:** consequências do beijo. POV e beats a definir. Plant: a culpa do Josh diante do Raj na mesa do café.
-19. **Caps 21+ — sequência a replanejar:**
-   - A **carta da Casandra** ainda existe (Josh nunca abriu, Raj nunca leu). Pode entrar em qualquer momento depois do Cap 20
-   - **Lindberg** ainda precisa entrar (originalmente Cap 21). Função: financista, credor, antagonista do ato 3, pretende Aurora como ponte social
-   - **Naufrágio do navio do Raj** e dívida — gatilho da pressão financeira que abre o espaço para Lindberg
-   - **Primeira declaração verbal** ainda em aberto — o Cap 19 teve beijo mas não declaração formal ("eu te amo" não foi dito; o Josh disse que a queria há cinco meses)
-   - **Anúncio do noivado com Lindberg** — gatilho da rebelião
-   - **Cena de entrega física consumada** — originalmente Cap 28 no Regensen. Já não é o primeiro beijo, mas continua sendo o primeiro ato sexual completo
-   - **Visita a Sorø** — Aurora conhece Casandra, Meridiana, Joseph, Dylan, Matias
-   - **Coda** — ilha remota, marinheiro magro, plantio do Livro 2
+Tudo que esta seção listava como pendente foi escrito. Resumo por
+capítulo em `notas/sinopse-capitulos.md`; o texto manda sobre este índice.
 
-20. **Coda (cena curta em terceira pessoa onisciente, depois do último capítulo):** *"Em algum lugar do Índico, um navio aporta numa ilha remota. Um marinheiro magro, pele e osso, embarca de volta..."* Sem nomear Aarav. Plantio para o Livro 2.
+| # | Título | POV | Beat |
+|---|---|---|---|
+| 20 | A escuta | Josh | Josh escuta Raj e Eleonora na biblioteca: o naufrágio, a dívida, Lindberg, o plano de mandar Aurora a Sorø |
+| 21 | A viagem | Aurora | Anúncio da viagem; partida na segunda, 4:30 |
+| 22 | A fazenda | Aurora | Chegada em Sorø. Aurora conhece Casandra, Joseph, Meridiana, Dylan, Matias |
+| 23 | Os dias | Aurora | Dias 2–8. Beijo decisor sob o carvalho do pasto norte |
+| 24 | O lago | Aurora | O quase-afogamento; Josh a tira da água. *"Eu vou casar com você"* |
+| 25 | A volta | Aurora | Última manhã, presentes-senha. Casandra manda Josh ler a carta ao voltar |
+| 26 | A carta | Josh | Volta à Bredgade. Raj promete Aurora a Lindberg. Josh abre a carta: a herança não cobre a dívida |
+| 27 | O soco | Josh | Lindberg visita e pede a mão. Josh o soca no jardim. Pede o Regensen e parte na alvorada |
+| 28 | A descoberta | Aurora | Aurora acorda, acha o quarto leste vazio. Josh foi |
+| 29 | O Regensen | Aurora | **A cena.** Declaração e consumação |
+| 30 | O amanhecer | Aurora | Volta à Bredgade. Conversa com Vibeke |
+| 31 | Erik | Aurora | Erik sai do enredo oferecendo amizade silenciosa |
+| 32 | As portas fechadas | Josh | Josh no Regensen, sem saída aparente |
+| 33 | A confissão | Aurora | Aurora conta à Eleonora. As joias Bjerg |
+| 34 | Højbro | Josh | O saque na casa comercial: Raj e Josh assinam juntos |
+| 35 | A oferta | alternado | Josh oferece metade por honra e pede a mão em gesto separado. Raj cede |
+| 36 | Lindberg | Aurora | Lindberg dispensado, sai de cena |
+| 37 | A carta de Sorø | Aurora | |
+| 38 | O casamento | Aurora | |
+| 39 | Coda | Aurora | Ilha remota, marinheiro magro. Plantio do Livro 2 |
 
 #### As três paredes do Josh — CANON FIXO
 
@@ -303,10 +355,14 @@ Os três motivos que o Josh tem de cor para não ficar com a Aurora. Reveladas i
 | Chegada da Vibeke (Cap 17) | Quarta seguinte, 11:15 |
 | Baile dos Lundgren (Cap 18) | Quinta — dia seguinte à chegada da Vibeke |
 | Primeiro beijo (Cap 19) | Madrugada de sexta, 00:10+ |
-| Naufrágio do navio do Raj | A posicionar no replanejamento do ato 3 |
-| Lindberg entra | A posicionar no replanejamento do ato 3 |
-| Noivado Aurora–Josh | A posicionar no replanejamento do ato 3 |
-| Casamento Aurora–Josh (Livro 2) | ~1832 |
+| Viagem a Sorø (Caps 21–25) | Segunda seguinte, duas semanas |
+| Volta à Bredgade; Raj promete Aurora a Lindberg (Cap 26) | Quarta-feira |
+| Lindberg em cena; o soco; Josh vai pro Regensen (Cap 27) | Dia seguinte |
+| A noite no Regensen (Cap 29) | Setembro de 1830 |
+| Saque na casa comercial da Højbro (Cap 34) | Setembro de 1830 |
+| Noivado Aurora–Josh (Cap 35) | Setembro de 1830 |
+| Prova de ingresso de Josh na universidade | Outubro de 1830 |
+| Casamento Aurora–Josh (Cap 38) | — |
 
 ---
 
@@ -346,7 +402,7 @@ Josh mostra a carta ao Raj (flashback da sociedade Henrik-Raj esclarece o *"eu s
 
 ## Resumos Detalhados dos Capítulos Já Escritos
 
-*(Os resumos minuciosos dos capítulos 1-14 ficam neste arquivo. Status de produção e índice resumido vão para o `MANIFESTO.md`. Os resumos dos capítulos 1-3 abaixo são os originais; resumos dos Caps 4-14 são pendência de extração a partir dos arquivos.)*
+*(Os resumos minuciosos dos capítulos 1-14 ficam neste arquivo. Status de produção é calculado por `.claude/tools/estado.py` — não há mais índice mantido à mão. Os resumos dos capítulos 1-3 abaixo são os originais; resumos dos Caps 4-14 são pendência de extração a partir dos arquivos.)*
 
 ### Capítulo 1 — "O lugar que ficou vazio"
 - **POV:** Aurora

@@ -2,9 +2,15 @@
 
 Documento de referência consolidando padrões de escrita, decisões de canon e planejamento. Atualizar conforme novas decisões surgirem.
 
-**Arquivos complementares em `notas/`:**
-- `sinopse-capitulos.md` — resumo cronológico de cada capítulo. **Consultar SEMPRE antes de escrever ou editar cena que referencie passado da história.**
-- `errata.md` — erratas pendentes de aplicação.
+**Onde cada coisa mora:**
+- `../perfil/estilo.md` — as **regras duras** (o que o `lint.py` confere). Manda sobre este arquivo.
+- `../perfil/voz.md` — a assinatura da autora.
+- `decisoes-editoriais.md` — a palavra final dela, datada. **Anula qualquer skill.**
+- `sinopse-capitulos.md` — resumo de cada capítulo. Consultar antes de escrever cena que referencie o passado.
+- `errata.md` — correções abertas.
+
+Este arquivo guarda o **detalhe do ofício**: o que fazer, não o que é
+proibido. Quando divergir do `perfil/estilo.md`, o perfil ganha.
 
 ---
 
@@ -31,14 +37,15 @@ Documento de referência consolidando padrões de escrita, decisões de canon e 
 A autora foi explícita: **a melhor parte do livro é quando se narra o que é sentido e percebido**. Exemplo de referência: Aurora notando a camisa de gola alta do Josh na carruagem do Cap 18.
 
 Aplicar generosamente:
-- Detalhes tátil-corporais: arrepio, calor, aperto, peso, textura.
+- Detalhes tátil-corporais: arrepio, calor, aperto, textura, pressão.
+  *("peso" saiu daqui: está na blacklist como metáfora emocional desde jun/2026.)*
 - Detalhes específicos do outro corpo: calo no dedo, ângulo do queixo, jeito da mão segurar a taça, cheiro do sabão, sombra na lateral do pescoço.
 - Onde o sentimento dói no corpo: peito, garganta, ombro, mão fechando, calor subindo pelo pescoço.
 - Não esconder atrás de metáfora. Arrepio é arrepio. Aperto no peito é aperto no peito.
 - Mais é melhor. Se um capítulo de POV interno tem só uma percepção sensorial, está pobre. Mínimo quatro a seis bem espalhadas.
 
 ### Cenas de intimidade física
-Quando o beijo/toque chegar (planejado para Cap 19):
+Padrão firmado nos Caps 19 (primeiro beijo), 23, 24 e 29 (a cena):
 - Super descritivo. Sensorial.
 - Mãos na cintura, língua na língua, unhas no cabelo, suspiro entre os lábios, arrepio.
 - Sem cortar a câmera. Sem metáfora pudica.
@@ -66,7 +73,7 @@ Aplicar isso em todo diálogo Aurora–Josh daqui em diante. Quando outro par es
 ## 2. Canon de personagens
 
 ### Aurora Svensson
-- **16 anos** em 1830. Debutou aos 16 no baile dos Frederiksen (Cap 6).
+- **17 anos, quase 18** em 1830. Debutou aos 17 no baile dos Frederiksen (Cap 6). Completa 18 pouco depois do Regensen.
 - Filha de Raj (indiano dinamarquês) e Eleonora (Bjerg).
 - Irmão Aarav morreu em expedição ao Ceilão — luto vivo, roseiras do jardim são santuário.
 - Treinada por Madame Solberg em maneirismos sociais. Sorriso medido como armadura.
@@ -99,7 +106,7 @@ Como passar ao leitor: tell direto, mas em doses. Não despejar as três frentes
 - Luto pelo Aarav é silencioso, devastador.
 
 ### Vibeke Bjerg
-- **17 anos, quase 18**. Sobrinha da Eleonora — filha da Karoline Bjerg (irmã da Eleonora) de Viborg.
+- **18 anos, quase 19**. Sobrinha da Eleonora — filha da Karoline Bjerg (irmã da Eleonora) de Viborg.
 - Loira, alta, espontânea, inteligente disfarçada de espontaneidade.
 - **Apaixonada por Lauritz Brandt** (família de Skive, terras a oeste, cevada). Está fechada para ele.
 - **INOCENTE** sobre toda a manobra Karoline-Eleonora. Não sabe que está sendo testada pela mãe. Não desconfia da intenção da tia em aproximá-la do Josh.
@@ -148,36 +155,49 @@ Como passar ao leitor: tell direto, mas em doses. Não despejar as três frentes
 
 ---
 
-## 4. Plano para os próximos capítulos
+## 4. Estado do livro
 
-Confirmado com a autora:
+**Rascunho completo: 39 capítulos.** Não há mais plano de capítulo a
+escrever — o trabalho agora é revisão e refinamento.
 
-### Cap 19 (POV alternar — provavelmente Aurora) — A madrugada
-- Aurora termina o Cap 18 sentada no chão da sala de estar, com vela e livro de poesia do Aarav (Oehlenschläger).
-- Josh aparece. Não consegue dormir também.
-- Conversa de entrelinhas: Aurora indignada com a aproximação Josh-Vibeke do baile. Ela se sente perdida — antes ele tremia ao tocá-la no celeiro, agora parece imerso no plano da Eleonora.
-- Josh se declara.
-- **Beijo sensorial.** Super descritivo. Tato, respiração, mãos, língua, unhas no cabelo, suspiro entre os lábios. Sem cortar.
+- Onde o livro está: `python3 .claude/tools/estado.py --projeto "Os Russels"`
+- Resumo capítulo a capítulo: `sinopse-capitulos.md`
+- Arco e estrutura: `../biblia-os-russels.md`
 
-### Cap 20 (POV alternar) — Manhã seguinte
-- Consequências. Não definidas ainda.
+Não mantenha índice de capítulos aqui. Já houve seis documentos de estado
+mantidos à mão neste projeto e todos divergiram.
 
 ---
 
 ## 5. Estrutura POV
 
-Alternância Aurora/Josh capítulo a capítulo. Foi quebrada uma vez (Cap 15-16-17-18 é Josh-Aurora-Josh-Aurora, mantido). Continuar Aurora no Cap 19 quebra o padrão — verificar se cabe ou se Cap 19 deve ser Josh.
+Terceira pessoa próxima. **Um POV por capítulo**, declarado no nome do
+arquivo. Discurso indireto livre permitido e muito usado.
 
-**Decisão pendente:** confirmar POV do Cap 19.
+A **alternância estrita capítulo a capítulo deixou de ser regra.** Ela
+valeu até o Cap 18 e foi abandonada na prática a partir do Cap 21 — Sorø
+inteiro é visto por Aurora, cinco capítulos seguidos. A regra escrita e o
+livro escrito discordavam havia meses; venceu o livro.
+
+**O que continua valendo:** a cena pertence a quem tem mais a perder
+nela, e não se troca de cabeça no meio do capítulo.
+
+**Ponto de atenção medido (ago/2026):** Aurora tem 61% dos capítulos e
+Josh 35%. No Ato IV e no desfecho (Caps 28–39), Josh tem POV em três de
+doze. O homem que passou o livro com as três paredes de pé atravessa o
+próprio clímax visto de fora — o custo interno dele desaparece da página
+justamente onde mais importaria.
 
 ---
 
-## 6. Erratas a aplicar
+## 6. Erratas
 
-Verificar `notas/errata.md` regularmente. As erratas #1 e #4 foram aplicadas. Restam #2, #3, #5, #6, #7, #8 — varrer e processar quando a autora pedir.
+Todas resolvidas (verificação de agosto de 2026, item por item contra o
+texto). Ver `errata.md`.
 
 ---
 
 ## 7. Histórico de revisões deste documento
 
-- 2026-05-22 — Documento criado consolidando decisões dos Caps 16-18 e planejamento do Cap 19.
+- 2026-05-22 — criado, consolidando decisões dos Caps 16–18 e o planejamento do Cap 19.
+- 2026-08-07 — atualizado após o rascunho completo: seções 4 a 7 reescritas (o plano de capítulos virou estado calculado; a alternância de POV foi aposentada e substituída pela medição real), "peso" removido da lista de detalhes tátil-corporais por conflitar com a blacklist, e cabeçalho reorganizado para apontar a nova divisão entre `perfil/` e `notas/`.
