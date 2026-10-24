@@ -9,7 +9,7 @@
 
 | Papel | Voz | ID ElevenLabs | Observação |
 |---|---|---|---|
-| **Narradora** | Kokoro `pf_dora` (grátis) **ou** narradora sintética a desenhar | — | decisão aberta (ver nota) |
+| **Narradora** | narradora sintética ElevenLabs v3 (a escolher: narr-1/2/3) | a salvar | **DECIDIDO: não é mais a Kokoro.** A Kokoro soou mecânica; a narração precisa da mesma emoção v3 das falas |
 | **Aurora** | Aurora – Os Russels | `6eGtBXZMHHv8fKtkcMol` | 16 anos; contida, afiada, luto por baixo |
 | **Eleonora** | Eleonora – Os Russels | `X8aTW3lPzhPDbbM4lmko` | mãe; precisão nórdica, límpida, sem crueldade |
 | **Raj** | **a desenhar** | — | pai; 52, indo-dinamarquês, barítono medido, sem sotaque, propósito contido |
@@ -17,10 +17,14 @@
 
 ## Regras globais de adaptação (o que diferencia áudio de texto)
 
-1. **Tag de fala redundante some.** No texto, "— disse a mãe" identifica o
-   falante. No áudio a voz já identifica. Mantemos a marca só na **primeira
-   fala de cada personagem na cena** ou quando a ação importa ("pousou a
-   xícara"). As demais viram só a fala, limpa.
+1. **SEMPRE nomear quem fala.** (Regra corrigida — a anterior cortava as
+   tags e o ouvinte se perdia.) O ouvinte não vê a mesa: a narração tem que
+   dizer **quem** diz **cada** fala, e na primeira vez de cada personagem na
+   cena, **quem ele é** ("disse Eleonora, a mãe de Aurora"; "respondeu Aurora").
+   A tag pode vir antes (prepara) ou logo depois da fala (confirma), nunca
+   ausente. Só se dispensa numa troca rápida de 2 falas já ancoradas logo
+   acima, e mesmo aí com cautela. Enquanto as vozes forem próximas, pecar por
+   excesso de clareza, não por elegância.
 2. **Tempo verbal escancarado.** Lembrança e presente não se confundem no
    ouvido. Antes de qualquer fala do passado, a narração crava "naquela tarde",
    "fazia dezoito meses", "ele costumava dizer".
@@ -304,17 +308,33 @@ Amanhã tudo mudaria. (pausa curta) Ela só não sabia o quanto. (silêncio ~2s)
 
 ## Corte TEASER (isca de Instagram ~60–75s)
 
-Hook puro, sem spoiler do Joshua:
+Hook puro, sem spoiler do Joshua. **Toda fala nomeia quem fala (regra 1).**
 
-1. NARRADORA: "A cadeira continuava ali." → parágrafo da cadeira (encurtado).
-2. Diálogo vivo: ELEONORA "Está frio... xale" → AURORA "Não pretendo ir ao
-   jardim." → ELEONORA "Pretendia ontem também...".
-3. Ponte + memória do AARAV (rosas) + "Fazia dezoito meses."
-4. Fecho seco: AURORA (sussurro) "Ninguém vai sentar na sua cadeira, Aarav. Eu
-   prometo." → cartela + "ouça o capítulo 1 completo no link".
+1. **NARRADORA:** "A cadeira continuava ali..." (parágrafo da cadeira,
+   encurtado) "...Ninguém se sentava nela."
+2. **NARRADORA (prepara):** "Do outro lado da mesa, a mãe de Aurora, Eleonora,
+   levantou os olhos."
+   **ELEONORA:** "Está frio lá fora hoje. Você deveria usar o xale de lã quando
+   for ao jardim."
+3. **AURORA:** "Não pretendo ir ao jardim." / **NARRADORA (confirma):** "disse
+   Aurora, sem levantar os olhos do prato."
+4. **NARRADORA (prepara):** "A mãe insistiu."
+   **ELEONORA:** "Pretendia ontem também. E acabou ficando duas horas entre as
+   roseiras."
+5. **NARRADORA (ponte):** "As roseiras eram o único lugar onde Aurora ainda
+   sentia o irmão por perto. Tinham sido ideia dele. Aarav costumava dizer,
+   ainda vivo:"
+   **AARAV (memória):** "Rosas dinamarquesas em solo dinamarquês, plantadas por
+   mãos indianas."
+6. **NARRADORA:** "Fazia dezoito meses desde que o navio que o levava fora
+   engolido por uma tempestade no Índico. E desde então, o vazio."
+7. **NARRADORA:** "Agora um estranho viria morar na casa. O substituto. Mas
+   Aurora olhou para as roseiras adormecidas, e prometeu:"
+   **AURORA (sussurro):** "Ninguém vai sentar na sua cadeira, Aarav. Eu prometo."
+8. Cartela + "ouça o capítulo 1 completo no link".
 
-Duração estimada: ~70s. É a cena mais forte e já ensina o ouvido a distinguir
-as três vozes + a regra da memória.
+Duração estimada: ~75–80s. É a cena mais forte, ensina o ouvido a distinguir as
+vozes, cumpre a regra da atribuição e a regra da memória.
 
 ---
 
