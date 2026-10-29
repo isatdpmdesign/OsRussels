@@ -89,7 +89,7 @@ SEG = [
  ("t41","JOSH","O corte ficou uns três centímetros acima do nó. Assim, o galho novo nasce fraco e virado para dentro, sombreia o centro da planta e atrapalha o ar. No verão, isso vira fungo.",0.5),
  ("t42","N","Aurora olhou para a roseira. Para Josh. Para a roseira de novo. Havia raiva no rosto dela. Mas, debaixo da raiva, Josh viu outra coisa, tão enterrada que só alguém muito atento perceberia: dúvida. Porque as roseiras eram do irmão morto, e ela tentava cuidar delas como ele cuidava, mas ela não era Aarav. Ela disse, numa voz tão controlada que parecia passada a ferro:",0.25),
  ("t43","AU","Obrigada pela observação, Senhor Russel. Vou considerar.",0.35),
- ("t44","N","Josh corrigiu:",0.2),
+ ("t44","N","Josh consertou:",0.2),
  ("t45","JOSH","Josh. Meu nome é Josh. Senhor Russel era o meu pai.",0.45),
  ("t46","N","Os olhos dela mudaram, quase nada, como uma pedra jogada num lago muito fundo. Ela repetiu o nome, testando-o como quem testa a água com a ponta do pé:",0.25),
  ("t47","AU","Josh.",0.35),

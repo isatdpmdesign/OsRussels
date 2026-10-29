@@ -63,13 +63,13 @@
 | Bredgade | **Brédigueide** | saía "bredegaige" |
 | Sorø | **Sorô** | — |
 | certamente | **Sertamenti** | saía "tchertamente" |
-| naturalmente | **Naturaomente** | saía "naturalmenti", L espanhol |
+| naturalmente | trocar por **certamente** ("Sertamenti") | "naturalmenti"/"naturaomente" saíam com L espanhol |
 | desceram | **desseram** | saía errado |
 | Kongen | **Kóngen** | — |
 | Montesquieu | **Montesquiê** | — |
 | "rápido" | trocar por "depressa"/"ágil" | saía "rapto" |
 | "Está verde" | "Seu rosto está meio verde" | frase curta falhava |
-| "Josh emendou" | **"Josh corrigiu"** | "emendou" saiu embolado |
+| "Josh emendou" | **"Josh consertou"** | "emendou" e "corrigiu" saíram embolados |
 | "jardim" | conferir take (saiu "jédim") | — |
 
 Falas de uma palavra só falham às vezes no Gemini (finishReason OTHER); o
@@ -92,7 +92,6 @@ script tenta de novo com a fala entre aspas.
 
 - **Cap 1** — fechado (`cap01-completo-v3`).
 - **Cap 2** — fechado (com a abertura de contexto da família do Josh).
-- **Cap 3** — fechado após correções; falta aprovar o t44 ("Josh corrigiu").
-- **Cap 4** — fechado após correções; Mikkelsen no ElevenLabs; falta aprovar o
-  u22 ("Naturaomente").
+- **Cap 3** — fechado (29/out, correções aprovadas).
+- **Cap 4** — fechado (29/out, correções aprovadas; Mikkelsen no ElevenLabs).
 - **Cap 5** — primeiro gerado com a regra de contextualização reforçada.
