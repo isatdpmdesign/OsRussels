@@ -23,6 +23,14 @@
   - **cartas:** dizer quem escreve e dar a voz de quem escreveu.
   Todo contexto acrescentado é **conferido no texto dos capítulos** antes de
   entrar (regra de ouro). Pode cortar enchimento; **não muda trama nem fala.**
+- **Vinheta de abertura em todo capítulo** (decisão da autora, 29/out):
+  "Você está ouvindo O Afilhado. Uma produção Romance no Bolso. Capítulo N:
+  <título>." Sem "fim do capítulo" no encerramento.
+- **Conferência automática:** `conferir-pronuncia.py` transcreve os trechos
+  (faster-whisper, local, custo zero) antes de mandar para a autora; pega
+  troca de palavra e instrução lida em voz alta.
+- **Falas sussurradas/baixas do Josh:** o prefixo curto "Diga em voz baixa e
+  grave, quase num sussurro:" funciona no Gemini sem vazar (testado no cap 5).
 - **Toda fala é atribuída pela narração** ("Aurora respondeu, a voz fria:",
   "o pai interveio, num tom de aviso:"). O ouvinte nunca fica sem saber quem
   fala e com que emoção.
@@ -70,6 +78,11 @@
 | "rápido" | trocar por "depressa"/"ágil" | saía "rapto" |
 | "Está verde" | "Seu rosto está meio verde" | frase curta falhava |
 | "Josh emendou" | **"Josh consertou"** | "emendou" e "corrigiu" saíram embolados |
+| "pelos" (do corpo) | **pêlos** | saía "pélos" |
+| "vou ser direta" | **"eu vou ser direta"** | saía "vousê" |
+| "Para." (Aurora) | **"Para, Aurora."** | sozinha saía "parami" |
+| "Aurora" isolado | **"Me chame de Aurora."** / sussurro | saía "auraa", "aurowruwa" |
+| madrugadora | evitar ("que também acordava muito cedo") | saía "madrigadora" |
 | "jardim" | conferir take (saiu "jédim") | — |
 
 Falas de uma palavra só falham às vezes no Gemini (finishReason OTHER); o
