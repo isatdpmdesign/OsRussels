@@ -69,7 +69,7 @@ SEG = [
  ("t21","JOSH","Sim, senhora. Mas um hóspede com duas mãos funcionando.",0.45),
  ("t22","N","Algo se mexeu no canto da boca de Fru Larsen. Não chegou a ser um sorriso; aquele rosto parecia considerar sorrisos um desperdício. Mas foi uma concessão. Ela apontou o aparador:",0.25),
  ("t23","LARSEN","Garfos à esquerda. Facas e colheres à direita. Se colocar o garfo de peixe onde vai o de carne, eu vou saber. E o senhor vai se arrepender de ter saído da cama.",0.5),
- ("t24","N","Josh pôs a mesa. Errou o garfo de peixe. Fru Larsen corrigiu sem dizer uma palavra, movendo o garfo dois centímetros para a esquerda. Quando os Svensson desceram, a mesa estava impecável, e Josh estava sentado no seu lugar: à direita do padrinho, de frente para Aurora.",0.5),
+ ("t24","N","Josh pôs a mesa. Errou o garfo de peixe. Fru Larsen corrigiu sem dizer uma palavra, movendo o garfo dois centímetros para a esquerda. Quando os Svensson desseram, a mesa estava impecável, e Josh estava sentado no seu lugar: à direita do padrinho, de frente para Aurora.",0.5),
  ("t25","N","Aurora entrou às sete e quarenta e cinco em ponto, num vestido azul-claro com um broche de prata na gola, os cabelos presos num arranjo que deixava o pescoço à mostra. Josh não olhou para o pescoço dela. Ou melhor: olhou, por menos de um segundo, e depois fixou os olhos no prato como quem encara um inimigo. Ela disse, para a mesa em geral, sem olhar para ninguém:",0.25),
  ("t26","AU","Bom dia.",0.3),
  ("t27","N","E Josh respondeu do mesmo jeito, para a mesa em geral:",0.2),
