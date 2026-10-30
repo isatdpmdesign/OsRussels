@@ -43,6 +43,7 @@ def apply_af(a, slug, af):
 def sil(sec): return np.zeros(int(sec*SR), dtype=np.float32)
 
 SEG = [
+ ('i00', 'N', 'Você está ouvindo O Afilhado. Uma produção Romance no Bolso. Capítulo um: O lugar que ficou vazio.', 1.2),
  ("c01","N","A cadeira continuava ali. À cabeceira esquerda da mesa de jantar, entre o castiçal de prata que a mãe de Aurora nunca deixava apagar e a janela que dava para os jardins de buxo, a cadeira de Aarav Svensson permanecia em seu posto como um soldado fiel esperando o general que jamais voltaria. Ninguém se sentava nela, nem os criados ousavam movê-la.",0.6),
  ("c02","N","Aurora olhava para a cadeira todas as manhãs. Não com a intenção de olhar; isso ela jamais admitiria. Eram apenas dois segundos, às vezes três, o suficiente para sentir o aperto no peito, respirar fundo e voltar ao pão com manteiga. Do outro lado da mesa, a mãe dela, Eleonora, levantou os olhos do bordado e disse, com doçura:",0.3),
  ("c03","EL","Está frio lá fora hoje. Você deveria usar o xale de lã quando for ao jardim.",0.4),

@@ -45,6 +45,7 @@ def load(p):
 def sil(sec): return np.zeros(int(sec*SR), dtype=np.float32)
 
 SEG = [
+ ('i00', 'N', 'Você está ouvindo O Afilhado. Uma produção Romance no Bolso. Capítulo dois: O rapaz do campo.', 1.2),
  ("s01","N","A última coisa que Josh viu antes da estrada engolir o horizonte foi a figura da mãe parada na varanda. Casandra Russel não chorava; não era do feitio dela. Chorar era coisa que acontecia para dentro, como chuva que cai em poço fundo. Ao lado dela, encostado no pilar com os braços cruzados, estava Matias, treze anos, o caçula, o que menos sabia disfarçar qualquer coisa.",0.5),
  ("s01b","N","Josh Russel tinha vinte e um anos e era o filho do meio de cinco irmãos, criados numa fazenda perto de Sorô, no interior da Zelândia. Joseph, o mais velho, de vinte e quatro anos, cuidava da terra. Depois vinha Josh. Depois Meridiana, de vinte, a única menina. Depois Dylan, de dezenove. E por fim Matias, o caçula, de treze. O pai, Henrik, tinha morrido havia quatro anos, e desde então a mãe, Casandra, levava tudo sozinha.",0.5),
  ("s02","N","Dentro da carruagem, olhando pela janela traseira, estava Dylan, dezenove anos, com aquela capacidade irritante de dizer exatamente o que todos pensavam. Ele disse:",0.25),

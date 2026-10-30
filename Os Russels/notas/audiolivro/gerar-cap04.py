@@ -51,6 +51,7 @@ def load(p):
 def sil(sec): return np.zeros(int(sec*SR), dtype=np.float32)
 
 SEG = [
+ ('i00', 'N', 'Você está ouvindo O Afilhado. Uma produção Romance no Bolso. Capítulo quatro: O que a cidade vê.', 1.2),
  ('u01', 'N', 'A primavera chegou a Copenhague como chega a tudo na Dinamarca: com atraso, com relutância, e com uma beleza súbita que fazia parecer que o inverno jamais existira. Numa manhã de abril, Aurora abriu os olhos e percebeu que a luz era outra. Dourada, quente, atrevida, espalhando-se pelo quarto como um gato que se deita onde quer. Lá fora, os pássaros cantavam com aquela urgência absurda da primavera, como se o mundo pudesse acabar antes do refrão.', 0.5),
  ('u02', 'N', 'Aurora fechou os olhos. A primavera era a estação de Aarav. Fora na primavera que ele plantara as roseiras, e que trouxera para casa o primeiro livro de poesia que ela leu, declamando os versos no jardim com gestos teatrais que faziam a mãe erguer a sobrancelha e o pai esconder um sorriso atrás do jornal. E fora numa primavera que ele anunciara a viagem ao Ceilão, de onde nunca voltou.', 0.5),
  ('u03', 'N', 'Na primavera passada, a primeira sem ele, Aurora descobriu que as estações não se importam com o luto. Que as flores não deixam de abrir porque alguém morreu. Na época, achou aquilo insuportavelmente cruel. Agora, um ano depois, achava apenas verdadeiro.', 0.6),

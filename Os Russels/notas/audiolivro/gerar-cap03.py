@@ -46,6 +46,7 @@ def load(p):
 def sil(sec): return np.zeros(int(sec*SR), dtype=np.float32)
 
 SEG = [
+ ('i00', 'N', 'Você está ouvindo O Afilhado. Uma produção Romance no Bolso. Capítulo três: Os rituais da casa.', 1.2),
  ("t01","N","Na casa dos Svensson havia regras. Não regras escritas, penduradas na parede, mas regras costuradas nos hábitos e nos gestos de cada pessoa daquele casarão, invisíveis como raízes, e essenciais. Josh aprendeu a primeira na manhã seguinte à sua chegada.",0.5),
  ("t02","N","A mesa era posta às sete e quarenta e cinco. Nem um minuto antes, nem um depois. Quem mandava nisso era Fru Larsen, a cozinheira: uma mulher de sessenta e tantos anos, baixa e larga como um barril, de mãos vermelhas e olhos azuis muito claros, que comandava a cozinha como um general comanda um exército.",0.5),
  ("t03","N","Josh, acostumado a levantar às cinco no campo, desceu às sete e meia. Encontrou a sala vazia, e Helle, a criada, uma moça tímida de bochechas vermelhas, quase derrubou a bandeja de prata ao vê-lo. Ela gaguejou:",0.25),
