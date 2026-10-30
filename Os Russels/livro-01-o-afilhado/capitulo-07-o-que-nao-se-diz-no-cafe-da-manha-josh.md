@@ -30,7 +30,7 @@ E a raiva. Uma raiva limpa, não suja, não violenta: a raiva de quem vê uma in
 
 Josh conhecia bem esse tipo. No campo não existiam muitos — no campo as pessoas eram diretas, às vezes brutalmente diretas, e se um rapaz achasse uma moça bonita ele dizia e pronto, as consequências que viessem. Mas Josh lera o suficiente e observara o suficiente para saber que a civilização, com todas as suas porcelanas e talheres e regras de etiqueta, tinha o efeito colateral de transformar a honestidade num luxo que poucos podiam pagar.
 
-Ele dissera a ela no hall. Dissera que estava linda. Dissera que eles eram idiotas. E a expressão no rosto dela, aquele instante em que a armadura rachou e ele viu, por uma fração de segundo, não a Aurora de porcelana mas a Aurora real, a que tomava chá amargo na cozinha e sujava as mãos na terra e lia botânica às escondidas, ficou impressa nele com a mesma força que o vestido verde.
+Ele dissera a ela no hall. Dissera que estava linda. Dissera que eles eram idiotas. E a expressão no rosto dela, aquele instante em que a armadura rachou e ele viu, por uma fração de segundo, não Aurora de porcelana mas Aurora real, a que tomava chá amargo na cozinha e sujava as mãos na terra e lia botânica às escondidas, ficou impressa nele com a mesma força que o vestido verde.
 
 Josh virou de lado na cama. Afundou o rosto no travesseiro.
 
@@ -128,7 +128,7 @@ A última palavra saiu com um peso que fez Josh apertar a caneca.
 
 *Complicação.*
 
-Aurora Svensson se via como uma complicação. Não como uma garota de dezesseis anos com olhos de mel e uma inteligência afiada e uma coragem silenciosa que seria capaz de pôr de joelhos qualquer homem com meio cérebro. Uma complicação. Uma equação que não fecha. Um problema para o qual a sociedade não tem solução.
+Aurora Svensson se via como uma complicação. Não como uma garota de dezessete anos com olhos de mel e uma inteligência afiada e uma coragem silenciosa que seria capaz de pôr de joelhos qualquer homem com meio cérebro. Uma complicação. Uma equação que não fecha. Um problema para o qual a sociedade não tem solução.
 
 Josh sentiu a raiva de novo. A raiva limpa. Não contra Aurora. Contra tudo ao redor dela.
 
@@ -226,7 +226,7 @@ Ou algo menos nobre. Algo que ele não podia dizer em voz alta e que talvez não
 
 Aurora o estudou. Os olhos de mel percorreram o rosto dele com aquela eficiência clínica que ele conhecia desde o primeiro dia: a avaliação de cavalos no mercado, rápida, precisa, desprovida de sentimentalismo.
 
-Mas desta vez havia algo a mais. Algo por trás da avaliação. Uma hesitação que Josh não associava a Aurora, que não pertencia ao repertório dela, e que por isso significava que ela estava considerando. Verdadeiramente considerando. Pesando riscos e ganhos e custos e consequências com a mesma seriedade com que Josh vira Raj pesar decisões de negócios.
+Mas desta vez havia algo a mais. Algo por trás da avaliação. Uma hesitação que Josh não associava Aurora, que não pertencia ao repertório dela, e que por isso significava que ela estava considerando. Verdadeiramente considerando. Pesando riscos e ganhos e custos e consequências com a mesma seriedade com que Josh vira Raj pesar decisões de negócios.
 
 — Teria que ser segredo — disse ela.
 
@@ -268,7 +268,7 @@ E na porta, parou.
 
 — Sim?
 
-— Se você me ensinar a avaliar gado, eu vou saber que a Meridiana estava certa.
+— Se você me ensinar a avaliar gado, eu vou saber que Meridiana estava certa.
 
 E saiu.
 

@@ -114,7 +114,7 @@ Josh quase sorriu. Quase. Porque a mensagem, fosse de Helle, de Fru Larsen, de K
 
 *
 
-No sexto dia, Josh escreveu a Casandra. A carta real. A que enviaria.
+No sexto dia, Josh escreveu Casandra. A carta real. A que enviaria.
 
 *Querida mãe,*
 
@@ -134,7 +134,7 @@ No sexto dia, Josh escreveu a Casandra. A carta real. A que enviaria.
 
 *Josh*
 
-Selou. Pôs na pilha. Entregou a Helle na sexta.
+Selou. Pôs na pilha. Entregou Helle na sexta.
 
 E esperou.
 
@@ -284,7 +284,7 @@ Não rasgou a carta. Não a jogou fora. Pôs de volta na gaveta.
 
 Mas abriu outra folha. Pegou a pena.
 
-E não escreveu a Casandra.
+E não escreveu Casandra.
 
 Escreveu uma única frase. No centro da folha. Sem endereçamento. Sem assinatura. Uma frase que era para si mesmo e para mais ninguém.
 

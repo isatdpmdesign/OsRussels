@@ -188,7 +188,7 @@ Josh olhou para ela. Surpreso também, claramente.
 
 Aurora quase — quase — riu. Controlou-se a tempo, transformando o quase-riso numa expiração mais forte pelo nariz que podia passar por qualquer coisa.
 
-— As regras são simples — disse ela, e não soube por que estava dizendo aquilo. Não devia nada a Josh Russel. Não era obrigação dela prepará-lo. E no entanto. — Cumprimente a anfitriã primeiro, sempre. Aceite o chá, mesmo que não goste. Não fale de política nem de dinheiro. Se uma senhora lhe perguntar sobre a sua família, seja breve e elogioso. Se uma jovem lhe fizer uma pergunta pessoal, responda com outra pergunta: elas gostam de falar sobre si mesmas.
+— As regras são simples — disse ela, e não soube por que estava dizendo aquilo. Não devia nada Josh Russel. Não era obrigação dela prepará-lo. E no entanto. — Cumprimente a anfitriã primeiro, sempre. Aceite o chá, mesmo que não goste. Não fale de política nem de dinheiro. Se uma senhora lhe perguntar sobre a sua família, seja breve e elogioso. Se uma jovem lhe fizer uma pergunta pessoal, responda com outra pergunta: elas gostam de falar sobre si mesmas.
 
 Josh a olhou com uma expressão que Aurora não conseguiu classificar. Não era surpresa. Não era gratidão. Era algo mais quieto. Algo que parecia reconhecimento, como quando se encontra, em terra estrangeira, alguém que fala o mesmo idioma.
 
@@ -254,7 +254,7 @@ Eles tinham, percebeu Aurora com um desconforto que se instalou no estômago com
 
 *
 
-Mas o verdadeiro problema do chá não foi a senhora Mikkelsen. Nem a frase sobre *praticamente um filho*. Nem o casaco azul-marinho nem os olhos escandalosamente verdes nem nada relacionado a Josh diretamente.
+Mas o verdadeiro problema do chá não foi a senhora Mikkelsen. Nem a frase sobre *praticamente um filho*. Nem o casaco azul-marinho nem os olhos escandalosamente verdes nem nada relacionado Josh diretamente.
 
 O problema foram as filhas da senhora Mikkelsen.
 
@@ -284,7 +284,7 @@ Lovise, a do meio, chegou por trás da irmã como reforço.
 
 — Frederikke, não monopolize o convidado. — Voltou-se para Josh. — Senhor Russel, soube que vai ingressar na universidade. Meu irmão mais velho estuda direito. Talvez se conheçam.
 
-Astrid, a mais nova, apareceu por último, com a desculpa frágil de oferecer a Josh outro biscoito e a intenção transparente de olhá-lo de perto.
+Astrid, a mais nova, apareceu por último, com a desculpa frágil de oferecer Josh outro biscoito e a intenção transparente de olhá-lo de perto.
 
 Aurora assistiu a tudo da poltrona junto à janela. Assistiu com a expressão neutra. Com o chá na mão. Com o sorriso de porcelana pronto para ser acionado caso alguém olhasse em sua direção.
 
