@@ -270,8 +270,8 @@ você tem?
 
 — Vinte e um.
 
-— A idade que o seu pai tinha quando eu o conheci
-em Roskilde num negócio de cevada. Um metro e
+— Um pouco menos do que o seu pai tinha quando eu
+o conheci, em Roskilde, num negócio de cevada. Um metro e
 oitenta, se eu me lembro bem. Cabelo mais ruivo
 que o seu, um pouco. O seu puxou pro meio.
 
@@ -528,7 +528,7 @@ Aamann pôs a pena no tinteiro. Não escreveu ainda.
 era um comerciante de grãos com seis meses de
 dívida ruim e uma esposa que estava perto de me
 deixar. O seu pai era um fazendeiro moço de vinte
-e um anos com uma carreta de cevada e uma proposta
+e poucos anos com uma carreta de cevada e uma proposta
 pra me alugar a metade de uma safra que ele não
 tinha vendido ainda. Eu aceitei. Ele me adiantou
 trezentos rigsdalers no cinco de junho de mil
@@ -538,7 +538,7 @@ ver homem que ia pagar. Ele acertou. Eu paguei em
 oito meses. Isso salvou o meu negócio, salvou o
 meu casamento, e eu vivo hoje, com setenta e três
 anos, sem dívida ruim nenhuma, porque um
-fazendeiro Russel de vinte e um me estendeu a mão
+fazendeiro Russel de vinte e poucos me estendeu a mão
 numa tarde de junho.
 
 Aamann respirou.

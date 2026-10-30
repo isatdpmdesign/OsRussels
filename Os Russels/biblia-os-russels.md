@@ -347,7 +347,7 @@ Os três motivos que o Josh tem de cor para não ficar com a Aurora. Reveladas i
 | Naufrágio do Aarav (suposta morte) | ~18 meses antes do Cap 1 |
 | Casandra escreve a carta selada | Pouco antes da viagem de Josh |
 | Raj anuncia chegada de Josh | Março de 1830 |
-| Josh chega a Copenhague | Abril de 1830 |
+| Josh chega a Copenhague | Fim de março de 1830 |
 | Baile de abertura dos Frederiksen (Cap 6) | Junho de 1830 |
 | Sarau dos Holst (Cap 9) | Junho/julho de 1830 |
 | Festa clandestina dos Eriksen (Cap 15) | Sexta de agosto de 1830 |

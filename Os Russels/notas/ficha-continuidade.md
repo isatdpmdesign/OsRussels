@@ -41,7 +41,7 @@
 | Morte do Henrik | ~4 anos antes, Matias com 9 | `cap02:39`, `cap20:199` |
 | Casandra escreve carta selada a Raj | Antes da viagem do Josh, março | `cap02:255` |
 | Anúncio chegada do Josh | Março de 1830 | `cap01` |
-| Josh chega à Bredgade | Abril de 1830 | `cap02` |
+| Josh chega à Bredgade | Fim de março de 1830 | `cap02`, `cap20`, `cap21`, `cap25` |
 | Cap 5: pérgola escorada | Maio de 1830 | `cap05` |
 | Cap 6: baile dos Frederiksen (debut Aurora) | Junho de 1830 | `cap06` |
 | Cap 9: sarau dos Holst, Erik entra | Junho/julho de 1830 | `cap09` |
@@ -53,14 +53,14 @@
 | Cap 20: cozinha 5:45 + biblioteca 9h (dívida) | Sexta | `cap20` |
 | Cap 21: anúncio da viagem; partida segunda 4:30 | Quinta + segunda | `cap21` |
 | Cap 22: chegada em Sorø, dia 1 dos 14 | Segunda à noite | `cap22` |
-| Cap 23: dias 2–8 condensados; cabra-cega no dia 8 (domingo) | Sorø | `cap23` |
+| Cap 23: dias 2–7 condensados; cabra-cega no dia 7 (domingo) | Sorø | `cap23` |
 | Cap 24: dia 11 — lago + quarto à noite | Sorø | `cap24` |
 | Cap 25: última manhã, dia 14 — partida; Casandra manda Josh ler a carta | Sorø → Copenhague | `cap25` |
 | Cap 26: chegada Bredgade, Josh entra no quarto Aurora, abre carta, soco no Lindberg, vai pro Regensen | Copenhague, dia da volta + dia seguinte | `cap26` |
 | Cap 27: anúncio do casamento na sala, Vibeke contesta, visita do Lindberg, Josh sai pro Regensen | Copenhague, dia seguinte à chegada | `cap27` |
 | Cap 28: Aurora acorda, descobre Josh foi pro Regensen, confronta Raj, vai ao Regensen à noite | Copenhague, mais um dia depois | `cap28` |
 | Cap 29: A CENA no Regensen, consumação, declaração Bridgerton, Aurora volta às 4:42 | Copenhague, mesma noite + madrugada | `cap29` |
-| Cap 30: amanhecer na Bredgade, conversa Aurora-Vibeke, Eleonora percebe no café | Copenhague, segunda de manhã | `cap30` |
+| Cap 30: amanhecer na Bredgade, conversa Aurora-Vibeke, Eleonora percebe no café | Copenhague, quarta de manhã | `cap30` |
 | Cap 31: Erik volta, despedida digna; Ingrid reata; carta do Josh chega via Helle | Copenhague, mesmo dia do Cap 30 | `cap31` |
 | Cap 32: Josh batendo em portas comerciais, Sørensen aceita; carta da Aurora confirma joias Bjerg | Copenhague, dias 1-11 das seis semanas | `cap32` |
 | Cap 33: Aurora confessa à Eleonora; as joias Bjerg | Copenhague | `cap33` |
