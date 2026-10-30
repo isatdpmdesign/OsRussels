@@ -376,7 +376,7 @@ Helle abriu a porta do hall com o costume de quem esperava. Vibeke desceu primei
 
 Ao passar pela porta da carruagem, o sobretudo dele roçou no braço dela.
 
-Não foi nada. Foi um centímetro de tecido. O sobretudo era de lã grossa, de inverno, embora fosse agosto — Josh o levava porque a Bredgade resfriava de noite e Casandra tinha enfiado o casaco na mala dele em abril com a ordem de usar. O tecido estava morno do corpo dele. Aurora sentiu o calor através da própria manga do vestido, no antebraço, antes de o casaco recuar e o contato desfazer.
+Não foi nada. Foi um centímetro de tecido. O sobretudo era de lã grossa, de inverno, embora fosse agosto — Josh o levava porque a Bredgade resfriava de noite e Casandra tinha enfiado o casaco na mala dele em março com a ordem de usar. O tecido estava morno do corpo dele. Aurora sentiu o calor através da própria manga do vestido, no antebraço, antes de o casaco recuar e o contato desfazer.
 
 Meio segundo. Foi tudo.
 

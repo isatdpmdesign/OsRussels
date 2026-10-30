@@ -218,7 +218,7 @@ Aurora não dormiu cedo.
 
 A cabra-cega foi ideia do Matias.
 
-Foi no oitavo dia, uma tarde de domingo, com o trabalho parado e o calor frouxo de fim de agosto. Matias apareceu com uma tira de pano velho na mão e a determinação de quem decidiu que a tarde inteira ia ser dedicada àquilo, e não houve quem o demovesse, e em pouco tempo estavam todos no terreiro entre a casa e o celeiro: Casandra, Meridiana, Vibeke, Joseph, Dylan, Matias, Josh e Aurora.
+Foi no sétimo dia, uma tarde de domingo, com o trabalho parado e o calor frouxo de fim de agosto. Matias apareceu com uma tira de pano velho na mão e a determinação de quem decidiu que a tarde inteira ia ser dedicada àquilo, e não houve quem o demovesse, e em pouco tempo estavam todos no terreiro entre a casa e o celeiro: Casandra, Meridiana, Vibeke, Joseph, Dylan, Matias, Josh e Aurora.
 
 O jogo já vinha rolando havia um tempo quando a coisa aconteceu.
 

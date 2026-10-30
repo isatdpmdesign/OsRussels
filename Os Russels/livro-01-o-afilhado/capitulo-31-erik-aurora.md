@@ -825,7 +825,7 @@ o corredor sem dizer nada.
 Parou na frente da porta da sala de música.
 
 Estava vazia, e o cravo estava fechado, porque era
-segunda-feira. A mãe dela tocava terça e quinta,
+quarta-feira. A mãe dela tocava terça e quinta,
 às três, e não abria a tampa em nenhum outro dia
 da vida. Aurora ficou ali um segundo olhando a
 tampa fechada e pensou que ia precisar de uma casa

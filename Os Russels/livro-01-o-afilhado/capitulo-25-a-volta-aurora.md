@@ -246,7 +246,7 @@ Mas pegou o ritmo: Casandra falou mais, Josh ouviu mais, e quando
 saíram do quarto, Josh estava com o rosto de quem tinha acabado de
 receber uma instrução firme da mãe e não tinha discutido.
 
-Aurora ia descobrir, na quarta-feira da semana seguinte em Copenhague,
+Aurora ia descobrir, dias depois, em Copenhague,
 quando Josh finalmente abrisse aquela carta que estava na
 escrivaninha dele desde março, o que Casandra tinha falado naquela
 manhã. Mas isso ia ser na quarta. Hoje, no café, Aurora só viu o

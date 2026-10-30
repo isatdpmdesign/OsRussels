@@ -265,7 +265,7 @@ Raj pôs a mão da Aurora na mão do Josh.
 
 Não fez discurso. Só olhou pro afilhado, o
 filho do sócio, o rapaz que tinha chegado em
-abril com uma mala e uma carta, e disse,
+março com uma mala e uma carta, e disse,
 baixo, só pros três:
 
 — Cuida. Como você já cuida.
@@ -564,7 +564,7 @@ batendo no escuro.
 
 — Eu disse que era demais. Ele disse que
 demais era um homem chegar de mala e carta em
-abril e devolver a filha dele viva em
+março e devolver a filha dele viva em
 outubro. — O último botão. As mãos do Josh
 pousaram nos ombros dela. — Aí eu aceitei.
 

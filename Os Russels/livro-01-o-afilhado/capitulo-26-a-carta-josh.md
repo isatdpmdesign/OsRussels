@@ -155,7 +155,7 @@ que um afilhado fazia. Fechou a porta. E a
 escrivaninha de mogno estava ali, debaixo da
 janela, com a carta da mãe no canto direito,
 lacrada, do jeito que ela estava havia cinco
-meses, desde a tarde de abril em que ele a tinha
+meses, desde a tarde de março em que ele a tinha
 pousado ali ao lado dos livros e tinha decidido
 que abriria quando fosse a hora.
 
@@ -728,7 +728,7 @@ o dia nascia.
 
 A janela foi clareando de cinza fundo pra cinza
 claro, depois pra leite, depois pra um amarelo
-pálido que ia virar manhã de fim de agosto em
+pálido que ia virar manhã de começo de setembro em
 Copenhague. Josh ficou olhando o céu mudar de cor
 e não se mexeu.
 

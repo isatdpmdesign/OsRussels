@@ -526,7 +526,7 @@ Foi até a janela. Abriu. O ar de agosto entrou na cara dele, morno, com o cheir
 
 Josh ficou na janela.
 
-Pensou na Aurora do outro lado do andar, terminando o francês com Fru Dahl, sem saber ainda que na segunda-feira ia entrar numa carruagem com a prima rumo a uma fazenda na Zelândia. Pensou que faltavam ainda umas seis semanas para a prova de ingresso na universidade, e que durante boa parte delas ele ia estar longe das estantes do Raj, debaixo de um telhado de palha, com Aurora dentro da mesma casa. Pensou que Eleonora sabia de alguma coisa que não conseguia nomear, e que Raj não sabia de nada, e que ele, Josh, sabia de tudo e não podia dizer nada a nenhum dos dois.
+Pensou na Aurora do outro lado do andar, terminando o francês com Fru Dahl, sem saber ainda que na segunda-feira ia entrar numa carruagem com a prima rumo a uma fazenda na Zelândia. Pensou que faltavam ainda pouco mais de dois meses para a prova de ingresso na universidade, e que durante boa parte delas ele ia estar longe das estantes do Raj, debaixo de um telhado de palha, com Aurora dentro da mesma casa. Pensou que Eleonora sabia de alguma coisa que não conseguia nomear, e que Raj não sabia de nada, e que ele, Josh, sabia de tudo e não podia dizer nada a nenhum dos dois.
 
 Fechou a janela. Sentou-se à escrivaninha. Abriu o Grotius na primeira página pela quarta vez, e dessa vez leu três parágrafos antes de a cabeça voltar para a cozinha das cinco e quarenta e cinco, para o rubor no pescoço dela, para o cheiro de jasmim e canela que tinha passado e ficado.
 

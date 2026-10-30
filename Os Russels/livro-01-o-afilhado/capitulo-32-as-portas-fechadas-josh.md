@@ -108,7 +108,7 @@ de pimenta e cardamomo entrando junto com Josh
 pela porta. Um rapaz da idade do Josh atrás da
 caixa olhou pra ele, registrou o casaco de
 tweed marrom (o casaco que Josh tinha trazido de
-Sorø em abril, que já tinha sido do pai dele),
+Sorø em março, que já tinha sido do pai dele),
 e fez a cara discreta de quem reconhece um
 candidato a colocação na soleira.
 

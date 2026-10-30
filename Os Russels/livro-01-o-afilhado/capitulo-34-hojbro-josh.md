@@ -132,7 +132,7 @@ conjunta que destrava.
 é da minha mãe e é meu. Metade eu quero oferecer
 pro senhor pra cobrir o que puder do Lindberg. Não
 como dívida. Como dinheiro que o meu pai deixou na
-conta do senhor há trinta anos e que está passando
+conta do senhor há dezessete anos e que está passando
 de volta pela família que o meu pai chamava de
 família.
 
@@ -337,7 +337,7 @@ ele soubesse que faltava.
 Levou meio segundo pra respirar.
 
 — Padrinho, o senhor tem esse livro na estante da
-sua casa há trinta anos?
+sua casa há dezessete anos?
 
 — Não. Aamann é que tem. Eu tenho a cópia da carta
 contratual, que é obrigatoriamente do lado dos
@@ -389,7 +389,7 @@ Voltou pro Aamann.
 — Porque a minha família emprestada, que é a do
 homem sentado aqui do lado, está numa dívida do
 naufrágio da nau que levou o filho mais velho
-dele, o Aarav Svensson, há dezoito meses. A
+dele, o Aarav Svensson, há quase dois anos. A
 dívida está sendo cobrada agora.
 Se a dívida não for paga em outubro, a filha do
 meu padrinho é entregue em casamento pra o credor,
@@ -434,7 +434,7 @@ duas.
 
 Fechou o livro.
 
-— A quantia total, com trinta anos de juros
+— A quantia total, com dezessete anos de juros
 compostos que essa casa comercial pratica desde
 mil oitocentos, é de onze mil e oitocentos
 rigsdalers.

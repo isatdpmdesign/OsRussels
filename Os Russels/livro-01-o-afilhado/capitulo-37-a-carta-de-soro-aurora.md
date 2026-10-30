@@ -48,7 +48,7 @@ vigiar. — Vibeke deitou de costas na mala
 fechada. — Ele vai querer vir, sabia? Ele vai
 dizer que estrada não é lugar de moça sozinha.
 Como se eu não tivesse vindo de Viborg até
-aqui sozinha em julho.
+aqui sozinha em agosto.
 
 — Traz ele.
 
@@ -239,7 +239,7 @@ forte e a ele de cabra?
 irmã. — Vibeke segurou o rosto da Aurora com
 as duas mãos, do jeito que tinha segurado na
 manhã do amanhecer. — Presta atenção. Eu
-cheguei aqui em julho achando que vinha
+cheguei aqui em agosto achando que vinha
 passar uma temporada com uma prima chique de
 Copenhague que ia me achar simples demais. Eu
 vou embora com uma irmã. Isso ninguém
@@ -462,7 +462,7 @@ anos, com o canivete que hoje era do Dylan.
 Contou até a voz ficar rouca e Aurora dormir
 no ombro dele, e aí parou de contar e
 ficou olhando ela dormir, como não tinha
-podido olhar na primeira viagem, cinco meses
+podido olhar na primeira viagem, dois meses
 antes, quando ela dormiu no mesmo ombro e ele
 passou duas horas fingindo pra si mesmo que
 não estava sentindo o que estava sentindo.

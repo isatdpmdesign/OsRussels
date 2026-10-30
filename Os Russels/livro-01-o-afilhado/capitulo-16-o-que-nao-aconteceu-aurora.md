@@ -62,7 +62,7 @@ Aurora sentiu três coisas ao mesmo tempo, em camadas.
 
 Primeira: irritação. Erik não era pai dela. Não era irmão. Não era nada que tivesse autorização social para vir atrás de Aurora num lugar em que Aurora tinha decidido estar. A presença dele era uma reivindicação travestida de gentileza, e Aurora era educada o suficiente para reconhecer o disfarce.
 
-Segunda: ternura. Pequena, contrariada, mas real. Erik era genuíno. Erik se importava. Erik fizera o trabalho que ninguém tinha pedido a ele, porque, dentro do próprio código de Erik, era o que se devia fazer: cuidar da irmã e da amiga da irmã que fora a uma festa às escondidas. E havia algo em ser cuidada por alguém, mesmo sem ter pedido, mesmo discordando, que tocava num lugar de Aurora que estava órfão há dezoito meses e dez dias.
+Segunda: ternura. Pequena, contrariada, mas real. Erik era genuíno. Erik se importava. Erik fizera o trabalho que ninguém tinha pedido a ele, porque, dentro do próprio código de Erik, era o que se devia fazer: cuidar da irmã e da amiga da irmã que fora a uma festa às escondidas. E havia algo em ser cuidada por alguém, mesmo sem ter pedido, mesmo discordando, que tocava num lugar de Aurora que estava órfão há quase dois anos.
 
 Terceira: medo. Não medo dele. Medo do que ele poderia ter visto se tivesse chegado três minutos depois.
 
@@ -328,7 +328,7 @@ Honestamente: ainda não.
 
 \*
 
-Quatro dias depois da festa, no jantar de quarta-feira, Eleonora fez um anúncio.
+Cinco dias depois da festa, no jantar de quarta-feira, Eleonora fez um anúncio.
 
 Os quatro estavam à mesa. Raj na cabeceira. Eleonora à direita dele. Aurora à esquerda. Josh em frente Aurora, no lugar que tinha sido dele desde a primeira semana. Tinha voltado a descer para as refeições três dias antes, mas falava o estritamente necessário e olhava para o prato como quem precisa decifrar um mapa. Aurora não olhava para ele. Ele não olhava para ela. Era assim agora.
 
@@ -340,7 +340,7 @@ Raj ergueu os olhos do prato.
 
 — Vibeke?
 
-— Vibeke, minha sobrinha. A filha da Karoline. Você se lembra dela. Tem dezoito anos agora, quase dezoito. Naquela festa em Viborg, há dois anos, no aniversário de oitenta anos da minha mãe, você dançou com ela.
+— Vibeke, minha sobrinha. A filha da Karoline. Você se lembra dela. Tem dezoito anos agora, quase dezenove. Naquela festa em Viborg, há dois anos, no aniversário de oitenta anos da minha mãe, você dançou com ela.
 
 Aurora não olhou para Josh, mas registrou pelo canto do olho que ele tinha parado de cortar o peixe.
 
@@ -386,7 +386,7 @@ Aurora pegou o garfo de novo. Cortou um pedaço de peixe que não tinha vontade 
 
 — Faz tempo que eu não a vejo. Ela mudou muito?
 
-— Três anos é tempo. Com certeza cresceu. Ficou comprometida. Está com a cabeça em véu e bolo, segundo Karoline. Acho que vai te agradar e te aborrecer em horários diferentes do mesmo dia. — Eleonora riu.
+— Dois anos é tempo. Com certeza cresceu. Ficou comprometida. Está com a cabeça em véu e bolo, segundo Karoline. Acho que vai te agradar e te aborrecer em horários diferentes do mesmo dia. — Eleonora riu.
 
 — Uhm. Vamos ver. — Aurora forçou um sorriso que demonstrava exatamente o que ela esperava: Vibeke falando sobre noivado, casamento, bailes e tudo aquilo que ela não queria discutir, durante os próximos dois meses.
 

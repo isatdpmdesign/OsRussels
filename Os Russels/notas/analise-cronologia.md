@@ -28,7 +28,7 @@
 | Dia 18 de outubro (segunda) | prova | cap35, cap37 |
 | Último sábado de outubro (dia 30) | casamento no pomar | cap37–38 |
 
-## Furos de verdade (o texto contradiz o texto) — proposta de correção
+## Furos de verdade — APLICADOS em 30/out (exceto o item 18, pendente)
 
 | # | Cap | O que está escrito | Por que não fecha | Proposta |
 |---|---|---|---|---|

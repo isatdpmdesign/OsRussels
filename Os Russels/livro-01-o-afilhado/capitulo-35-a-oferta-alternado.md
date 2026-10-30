@@ -128,7 +128,7 @@ Josh começou.
 Aamann & Berg na Højbro. Destravamos um depósito
 conjunto feito em mil oitocentos e treze pelo meu
 pai e pelo padrinho, no valor de onze mil e
-oitocentos rigsdalers, com trinta anos de juros
+oitocentos rigsdalers, com dezessete anos de juros
 compostos. Isso é a herança que a minha mãe me
 escreveu em março e que eu vim receber.
 

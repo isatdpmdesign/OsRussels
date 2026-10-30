@@ -141,8 +141,8 @@ estudando.
 
 Vibeke deu uma risada baixa pelo nariz.
 
-— Claro que estava estudando. Josh estuda no
-domingo de madrugada na cozinha da Bredgade,
+— Claro que estava estudando. Josh estuda de
+madrugada na cozinha da Bredgade,
 imagina no quarto do Regensen com a porta
 fechada.
 
@@ -926,7 +926,7 @@ O olho estava mais aberto. A pele tinha cor que
 não tinha às nove da noite anterior. E tinha
 alguma coisa no jeito do queixo que era diferente.
 Mais firme. Como se Aurora tivesse, em alguma
-hora entre o domingo à noite e a segunda de
+hora entre a terça à noite e a quarta de
 manhã, decidido com o corpo inteiro que ela era
 dona de si mesma e que ninguém mais ia conseguir
 desfazer isso.
@@ -1127,7 +1127,7 @@ pegou queijo, sentou.
 
 E começou o dia.
 
-Mas não era o mesmo café de qualquer segunda de
+Mas não era o mesmo café de qualquer quarta de
 manhã da Bredgade nos últimos cinco meses. Aurora
 sabia que não era. E desconfiou, olhando a mãe
 passar manteiga com a precisão de sempre e a

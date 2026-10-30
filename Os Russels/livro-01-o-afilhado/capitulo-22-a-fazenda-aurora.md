@@ -430,7 +430,7 @@ Aurora respirou de leve. Não interrompeu.
 
 Aurora ficou olhando pra ele.
 
-— Você nunca se apaixonou antes. Você não sabe ainda, Aurora, se o que você sente comigo é a paixão da sua vida ou se é a primeira coisa que parece paixão. — Josh balançou a cabeça uma vez. — Eu tenho quase cinco anos a mais que você. Eu sei que tem diferença. Eu sei exatamente o que eu estou sentindo, mas você não. Você pode descobrir daqui a dois anos, três, que o que você tem hoje passou. E aí já não vai dar pra desfazer.
+— Você nunca se apaixonou antes. Você não sabe ainda, Aurora, se o que você sente comigo é a paixão da sua vida ou se é a primeira coisa que parece paixão. — Josh balançou a cabeça uma vez. — Eu tenho quase quatro anos a mais que você. Eu sei que tem diferença. Eu sei exatamente o que eu estou sentindo, mas você não. Você pode descobrir daqui a dois anos, três, que o que você tem hoje passou. E aí já não vai dar pra desfazer.
 
 Pausa longa.
 

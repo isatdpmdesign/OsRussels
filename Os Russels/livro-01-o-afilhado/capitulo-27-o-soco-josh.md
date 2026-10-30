@@ -751,16 +751,16 @@ jantar de três (Vibeke devia ter levado um prato
 pra Aurora no quarto), e foi pra sala de estar.
 
 A sala de estar estava vazia. A vela da mesa
-lateral não estava acesa. A lua de fim de agosto
-entrava pela janela do canal com aquela luz azul
-fria que descia em barra reta no chão de madeira
-clara.
+lateral não estava acesa. A lua de começo de
+setembro entrava pela janela do canal com aquela
+luz azul fria que descia em barra reta no chão de
+madeira clara.
 
 Josh foi até a poltrona. Sentou no chão, encostado
 na lateral dela.
 
 Era ali que ele tinha beijado Aurora pela primeira
-vez, havia pouco mais de duas semanas, com a vela
+vez, havia pouco mais de três semanas, com a vela
 falhando na mesa lateral. Aurora já estava ali
 quando ele desceu — sentada no chão com o livro de
 Oehlenschläger do Aarav aberto no colo, xale nos
@@ -939,13 +939,13 @@ era a conversa que eu queria ter com o seu
 padrinho. A coisa subiu pela sua mãe primeiro, e
 eu deixei.
 
-— A carta selada de abril.
+— A carta selada de março.
 
-— A carta selada de abril é a sua carta. — Raj
+— A carta selada de março é a sua carta. — Raj
 fechou o assunto. — A gente conversa quando você
 estiver pronto.
 
-— Selada desde abril. Eu li ontem à noite. Não dá
+— Selada desde março. Eu li ontem à noite. Não dá
 pra te explicar hoje, padrinho. Me dá uns dias.
 
 — Eu te dou. — Raj passou a mão no rosto. — Você
@@ -1002,7 +1002,7 @@ Josh não jantou.
 
 Subiu pro quarto leste. Começou a juntar os
 livros, os cinco que tinha trazido da fazenda em
-abril e os que Raj tinha emprestado e que ele ia
+março e os que Raj tinha emprestado e que ele ia
 devolver pelo correio interno. Pôs a carta da mãe
 no fundo da mala, embaixo das camisas, junto com o
 rascunho da conta que não fechava. Pôs o lenço com

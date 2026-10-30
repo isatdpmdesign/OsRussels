@@ -132,7 +132,7 @@ Aurora afundou o rosto no travesseiro e disse uma palavra que Eleonora ficaria h
 
 *
 
-Na manhã seguinte, quinta-feira, véspera da véspera da festa, Aurora desceu para a cozinha com uma decisão tomada e um plano pela metade.
+Na manhã seguinte, quarta-feira, véspera da véspera da festa, Aurora desceu para a cozinha com uma decisão tomada e um plano pela metade.
 
 Josh estava lá. Como todas as manhãs desde a reconciliação. Caneca, livro, cabelo despenteado, punhos dobrados. A normalidade restaurada que era ao mesmo tempo conforto e tortura.
 

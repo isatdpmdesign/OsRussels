@@ -24,7 +24,7 @@ Ele afastou-se da janela. Voltou para a escrivaninha. Fechou o livro. Decidiu, c
 
 Era figura de bastidor.
 
-Josh gostou da ideia. Bastidor era o lugar dele em Copenhague desde abril.
+Josh gostou da ideia. Bastidor era o lugar dele em Copenhague desde março.
 
 Desceu a escada às onze e vinte e cinco.
 
@@ -186,7 +186,7 @@ Eleonora sustentou o olhar da sobrinha por mais um segundo. Depois assentiu. Foi
 
 — Sim, eu entendo. Mamãe me avisou ainda em Viborg que se eu chegasse aqui com Lauritz escrito na testa todo mundo ia querer apagar. Então eu prometi a ela que ia tira-lo testa e deixar dentro do casaco. Mas continua lá.
 
-Raj riu de novo. Mais aberto desta vez. Foi um riso que arrastou Josh junto, e por um segundo os dois homens estavam rindo na mesma cadência, coisa que Josh não se lembrava de ter feito uma vez sequer naquela sala desde abril. Aurora, ao lado, ergueu os olhos da sobremesa pela primeira vez desde a sopa, com a boca ainda meio escondida atrás do guardanapo, e olhou para a prima com algo novo no rosto que Josh classificou, com alívio, como reconhecimento.
+Raj riu de novo. Mais aberto desta vez. Foi um riso que arrastou Josh junto, e por um segundo os dois homens estavam rindo na mesma cadência, coisa que Josh não se lembrava de ter feito uma vez sequer naquela sala desde março. Aurora, ao lado, ergueu os olhos da sobremesa pela primeira vez desde a sopa, com a boca ainda meio escondida atrás do guardanapo, e olhou para a prima com algo novo no rosto que Josh classificou, com alívio, como reconhecimento.
 
 Eleonora pegou a colher. Provou a sobremesa. Olhou para Josh.
 

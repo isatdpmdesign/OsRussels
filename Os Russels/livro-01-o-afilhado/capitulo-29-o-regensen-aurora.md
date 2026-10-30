@@ -624,7 +624,7 @@ o primeiro dia.
 
 Aurora não respirou.
 
-— Desde aquela escada da Bredgade em abril, quando
+— Desde aquela escada da Bredgade em março, quando
 você desceu de luto pelo Aarav e me odiou com
 vontade por achar que eu ocuparia o lugar do seu
 irmão. Eu queimo por você há exatos cinco meses.
