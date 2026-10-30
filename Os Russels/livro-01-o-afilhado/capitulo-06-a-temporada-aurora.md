@@ -42,7 +42,7 @@ Não por nervosismo, ou pelo menos não apenas por nervosismo. Era algo mais com
 
 E Aarav não estaria lá.
 
-Essa era a parte que doía. Não o baile em si — Aurora sobrevivera a chás e jantares e encontros sociais suficientes para saber que sobreviveria a um baile. Mas Aarav prometera. Prometera, dois anos atrás, quando Aurora tinha catorze e o debut parecia uma coisa distante e improvável como a idade adulta.
+Essa era a parte que doía. Não o baile em si — Aurora sobrevivera a chás e jantares e encontros sociais suficientes para saber que sobreviveria a um baile. Mas Aarav prometera. Prometera, dois anos atrás, quando Aurora tinha quinze e o debut parecia uma coisa distante e improvável como a idade adulta.
 
 *"Eu vou estar lá"*, dissera ele, encostado na porta do quarto dela com aquele sorriso largo que iluminava cômodos. *"Vou ser o primeiro a dançar com você. E vou ameaçar de morte qualquer idiota que se aproximar com más intenções."*
 
@@ -118,7 +118,7 @@ Aurora o viu antes que ele a visse. Viu-o de cima, do topo da escadaria, enquant
 
 Josh usava preto. Todo preto. Casaco, colete, calça, sapatos: tudo de um preto absoluto que deveria torná-lo sombrio e que, em vez disso, o tornava luminoso, porque contra todo aquele preto a pele clara brilhava e o cabelo loiro-ruivo flamejava e os olhos verdes — oh, os olhos verdes — pareciam duas esmeraldas acesas.
 
-A barba estava feita. O cabelo estava penteado para trás, o que revelava a testa e a linha do maxilar com uma clareza quase agressiva. As mãos, que há dois dias estavam arranhadas e sujas de terra e resina, estavam em luvas brancas que contrastavam com o preto do casaco e que deveriam parecer delicadas mas que, naquelas mãos específicas, pareciam uma contradição ambulante. Mãos de campo em luvas de salão.
+A barba estava feita. O cabelo estava penteado para trás, o que revelava a testa e a linha do maxilar com uma clareza quase agressiva. As mãos, que ela vira arranhadas e sujas de terra e resina na pérgola semanas antes, estavam em luvas brancas que contrastavam com o preto do casaco e que deveriam parecer delicadas mas que, naquelas mãos específicas, pareciam uma contradição ambulante. Mãos de campo em luvas de salão.
 
 Ele estava olhando para o espelho do hall (aquele espelho inútil com moldura dourada que Aurora achava excessivo) com uma expressão que ela reconhecia como a mesma expressão que ele tivera na carruagem antes do chá da senhora Mikkelsen.
 
