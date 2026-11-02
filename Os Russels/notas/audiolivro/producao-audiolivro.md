@@ -29,6 +29,12 @@
 - **Conferência automática:** `conferir-pronuncia.py` transcreve os trechos
   (faster-whisper, local, custo zero) antes de mandar para a autora; pega
   troca de palavra e instrução lida em voz alta.
+- **Voz do Josh (regra do cap 7):** toda fala do Josh leva o prefixo "Diga
+  com voz masculina grave e firme, de um homem de vinte e um anos:" (não vaza).
+  Depois de gerar, medir o tom; fala acima de ~140 Hz desce com filtro leve
+  (asetrate) até ~125 Hz. Sem isso ele sai com voz de menino.
+- **Quando a personagem repete uma fala** ("Meu problema?", "Me mostrar?"),
+  a repetição vai na VOZ DELA, num trecho próprio — nunca dentro da narração.
 - **Falas sussurradas/baixas do Josh:** o prefixo curto "Diga em voz baixa e
   grave, quase num sussurro:" funciona no Gemini sem vazar (testado no cap 5).
 - **Toda fala é atribuída pela narração** ("Aurora respondeu, a voz fria:",

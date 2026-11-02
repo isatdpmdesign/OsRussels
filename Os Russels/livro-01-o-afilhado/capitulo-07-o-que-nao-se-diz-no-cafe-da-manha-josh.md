@@ -228,7 +228,7 @@ Aurora o estudou. Os olhos de mel percorreram o rosto dele com aquela eficiênci
 
 Mas desta vez havia algo a mais. Algo por trás da avaliação. Uma hesitação que Josh não associava Aurora, que não pertencia ao repertório dela, e que por isso significava que ela estava considerando. Verdadeiramente considerando. Pesando riscos e ganhos e custos e consequências com a mesma seriedade com que Josh vira Raj pesar decisões de negócios.
 
-— Teria que ser segredo — disse ela.
+— Terá de ser segredo — disse ela.
 
 Josh assentiu.
 
