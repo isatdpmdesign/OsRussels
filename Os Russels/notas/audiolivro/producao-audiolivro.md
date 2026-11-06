@@ -115,3 +115,15 @@ script tenta de novo com a fala entre aspas.
 - **Cap 3** — fechado (29/out, correções aprovadas).
 - **Cap 4** — fechado (29/out, correções aprovadas; Mikkelsen no ElevenLabs).
 - **Cap 5** — primeiro gerado com a regra de contextualização reforçada.
+
+## Pendências de correção (a autora pediu para deixar para depois)
+
+- **Cap 11:** (1) a carta do Josh (b066–b070) começa no tom dele e, do meio
+  para o fim, fica fanha/afeminada: refazer tudo no tom do início. (2) A fala
+  da Aurora "Mas o Erik perguntou… foi como abrir uma janela" (b059) saiu em
+  cochicho: deve ser **tom baixo, audível, sem cochichar**.
+
+## Regra: "baixo" não é "sussurro"
+
+Quando a fala é baixa, o prefixo diz "num tom mais baixo, sem sussurrar".
+"Diga baixo" sozinho faz o Gemini cochichar.
