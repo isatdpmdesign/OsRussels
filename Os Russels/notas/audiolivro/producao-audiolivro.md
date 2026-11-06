@@ -120,6 +120,7 @@ script tenta de novo com a fala entre aspas.
 - **Cap 3** — fechado (29/out, correções aprovadas).
 - **Cap 4** — fechado (29/out, correções aprovadas; Mikkelsen no ElevenLabs).
 - **Cap 5** — primeiro gerado com a regra de contextualização reforçada.
+- **Cap 13** — gerado (06/nov), aguardando a escuta da autora.
 
 ## Pendências de correção (a autora pediu para deixar para depois)
 
