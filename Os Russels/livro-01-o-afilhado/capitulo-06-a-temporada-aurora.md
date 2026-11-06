@@ -10,7 +10,7 @@
 
 O vestido era verde.
 
-Não o verde dos campos que Josh descrevia nas histórias que contava a Raj no escritório e que Aurora absolutamente não ficava ouvindo do corredor quando passava por acaso — por acaso — em direção à sala de costura. Não era esse verde. Era um verde escuro, profundo, quase negro em certas dobras, que a modista, Madame Solberg, uma norueguesa transplantada para Copenhague que tratava tecidos com a reverência de um padre diante do altar, chamara de *verde floresta à meia-noite*.
+Não o verde dos campos que Josh descrevia nas histórias que contava Raj no escritório e que Aurora absolutamente não ficava ouvindo do corredor quando passava por acaso — por acaso — em direção à sala de costura. Não era esse verde. Era um verde escuro, profundo, quase negro em certas dobras, que a modista, Madame Solberg, uma norueguesa transplantada para Copenhague que tratava tecidos com a reverência de um padre diante do altar, chamara de *verde floresta à meia-noite*.
 
 — Perfeito — dissera Madame Solberg, com a boca cheia de alfinetes, enquanto ajustava a cintura do vestido no corpo de Aurora com toques rápidos e precisos. — Com a sua pele, querida, cores profundas. Nunca pastéis. Pastéis são para loiras. Você precisa de drama.
 
@@ -42,7 +42,7 @@ Não por nervosismo, ou pelo menos não apenas por nervosismo. Era algo mais com
 
 E Aarav não estaria lá.
 
-Essa era a parte que doía. Não o baile em si — Aurora sobrevivera a chás e jantares e encontros sociais suficientes para saber que sobreviveria a um baile. Mas Aarav prometera. Prometera, dois anos atrás, quando Aurora tinha catorze e o debut parecia uma coisa distante e improvável como a idade adulta.
+Essa era a parte que doía. Não o baile em si — Aurora sobrevivera a chás e jantares e encontros sociais suficientes para saber que sobreviveria a um baile. Mas Aarav prometera. Prometera, dois anos atrás, quando Aurora tinha quinze e o debut parecia uma coisa distante e improvável como a idade adulta.
 
 *"Eu vou estar lá"*, dissera ele, encostado na porta do quarto dela com aquele sorriso largo que iluminava cômodos. *"Vou ser o primeiro a dançar com você. E vou ameaçar de morte qualquer idiota que se aproximar com más intenções."*
 
@@ -118,7 +118,7 @@ Aurora o viu antes que ele a visse. Viu-o de cima, do topo da escadaria, enquant
 
 Josh usava preto. Todo preto. Casaco, colete, calça, sapatos: tudo de um preto absoluto que deveria torná-lo sombrio e que, em vez disso, o tornava luminoso, porque contra todo aquele preto a pele clara brilhava e o cabelo loiro-ruivo flamejava e os olhos verdes — oh, os olhos verdes — pareciam duas esmeraldas acesas.
 
-A barba estava feita. O cabelo estava penteado para trás, o que revelava a testa e a linha do maxilar com uma clareza quase agressiva. As mãos, que há dois dias estavam arranhadas e sujas de terra e resina, estavam em luvas brancas que contrastavam com o preto do casaco e que deveriam parecer delicadas mas que, naquelas mãos específicas, pareciam uma contradição ambulante. Mãos de campo em luvas de salão.
+A barba estava feita. O cabelo estava penteado para trás, o que revelava a testa e a linha do maxilar com uma clareza quase agressiva. As mãos, que ela vira arranhadas e sujas de terra e resina na pérgola semanas antes, estavam em luvas brancas que contrastavam com o preto do casaco e que deveriam parecer delicadas mas que, naquelas mãos específicas, pareciam uma contradição ambulante. Mãos de campo em luvas de salão.
 
 Ele estava olhando para o espelho do hall (aquele espelho inútil com moldura dourada que Aurora achava excessivo) com uma expressão que ela reconhecia como a mesma expressão que ele tivera na carruagem antes do chá da senhora Mikkelsen.
 
@@ -212,7 +212,7 @@ Corou.
 
 A senhora Frederiksen, que tinha cinquenta e tantos anos e três filhos casados e a reputação de ser a anfitriã mais imperturbável de Copenhague, corou como uma debutante ao apertar a mão de Josh Russel.
 
-Aurora observou. Catalogou. Arquivou na mesma pasta que estava ficando perigosamente cheia: a pasta de *coisas relacionadas a Josh que eu noto e não deveria notar e não sei o que fazer com*.
+Aurora observou. Catalogou. Arquivou na mesma pasta que estava ficando perigosamente cheia: a pasta de *coisas relacionadas Josh que eu noto e não deveria notar e não sei o que fazer com*.
 
 *
 
