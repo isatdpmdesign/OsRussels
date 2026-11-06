@@ -52,7 +52,7 @@ A pergunta foi direta. Sem preâmbulo. Sem rodeio. Josh sentiu o sangue gelar e 
 
 — Não minta para mim, rapaz. Não nesta sala. Esta sala é o único lugar nesta casa onde eu exijo verdade absoluta, e você sabe disso.
 
-Josh olhou para Raj. Para o homem que o acolhera, que o ensinara, que o tratava como (e Josh engolia a palavra cada vez que ela subia, mas ela subia) filho. Para o homem cuja filha Josh amava e cuja confiança Josh estava, neste exato momento, traindo por omissão.
+Josh olhou para Raj. Para o homem que o acolhera, que o ensinara, que o tratava como (e Josh engolia a palavra cada vez que ela subia, mas ela subia) filho. Para o homem por cuja filha Josh estava apaixonado e cuja confiança Josh estava, neste exato momento, traindo por omissão.
 
 — Tivemos um... desentendimento — disse Josh, escolhendo a palavra com o cuidado de quem manuseia explosivo. — Algo que eu fiz a incomodou. Ela pediu distância. Eu estou respeitando.
 
@@ -278,7 +278,7 @@ Ela entrou no quarto. A porta se fechou. O clique suave.
 
 Josh ficou no corredor. Por um segundo. Dois. Depois caminhou até o quarto leste. Entrou. Fechou a porta.
 
-Não se deitou. Foi até a escrivaninha. Abriu a gaveta. Pegou a carta não enviada, a carta em que escrevera *eu amo ela, mãe*, e olhou para as palavras à luz mínima da noite de julho que entrava pela janela.
+Não se deitou. Foi até a escrivaninha. Abriu a gaveta. Pegou a carta não enviada, a carta em que escrevera *eu estou apaixonado por ela, mãe*, e olhou para as palavras à luz mínima da noite de julho que entrava pela janela.
 
 Não rasgou a carta. Não a jogou fora. Pôs de volta na gaveta.
 

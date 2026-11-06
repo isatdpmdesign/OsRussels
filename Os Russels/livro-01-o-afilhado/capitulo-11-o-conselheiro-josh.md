@@ -200,7 +200,7 @@ Josh escreveu Casandra naquela noite. Não a carta habitual: a carta de novidade
 
 *A senhora disse que Russels não fogem. Mas a senhora não disse o que fazer quando o inimigo é a gente mesmo.*
 
-*Eu amo ela, mãe. E não tenho o direito.*
+*Eu estou apaixonado por ela, mãe. E não tenho o direito.*
 
 *Seu filho,*
 
@@ -216,7 +216,7 @@ Fechou a gaveta.
 
 E ficou sentado no escuro, com o cheiro de jasmim no corredor e o som distante do cravo de Eleonora, que naquela noite, por alguma razão, não tocava Bach mas sim algo mais lento, mais triste, algo que Josh não reconheceu e que parecia uma canção de ninar para gente grande que precisa ser embalada para dormir.
 
-*Eu amo ela.*
+*Eu estou apaixonado por ela.*
 
 A frase ficou no ar do quarto como fumaça. Josh a respirou. A sentiu nos pulmões. A deixou existir.
 
@@ -234,7 +234,7 @@ Josh não sabia o que faria com os braços livres. Não sabia se pararia de sabo
 
 Mas sabia uma coisa.
 
-*Eu amo ela.*
+*Eu estou apaixonado por ela.*
 
 E a partir de agora, tudo que fizesse, cada conselho, cada silêncio, cada olhar, seria feito por alguém que sabe o que sente.
 

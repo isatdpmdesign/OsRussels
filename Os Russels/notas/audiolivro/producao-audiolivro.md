@@ -34,6 +34,11 @@
   deixou ele grosso demais: NÃO usar em tudo. Só conferir o tom depois de gerar
   e corrigir a fala que sair de menino (acima de ~170 Hz), refazendo ou com
   filtro leve.
+- **"Aurora" chamado pelo Josh** (aprovado pela autora, 06/nov): usar SEMPRE o
+  mesmo take — o do cap 12 quando ela entra no quarto (c057, guardado como
+  `josh_aurora.wav`). Não gerar de novo; colar o take.
+- **Português de Portugal no Josh:** se escorregar, prefixo "Diga em português
+  do Brasil, com sotaque brasileiro:" (resolveu na carta do cap 11).
 - **Quando a personagem repete uma fala** ("Meu problema?", "Me mostrar?"),
   a repetição vai na VOZ DELA, num trecho próprio — nunca dentro da narração.
 - **Falas sussurradas/baixas do Josh:** o prefixo curto "Diga em voz baixa e
