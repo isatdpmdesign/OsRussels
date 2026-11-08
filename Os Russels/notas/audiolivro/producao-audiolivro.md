@@ -34,6 +34,22 @@
   deixou ele grosso demais: NÃO usar em tudo. Só conferir o tom depois de gerar
   e corrigir a fala que sair de menino (acima de ~170 Hz), refazendo ou com
   filtro leve.
+- **Voz do Josh — o padrão** (autora, 08/nov): voz de homem jovem, de rapaz,
+  masculina. NUNCA fanha, afeminada ou animada demais. Referência aprovada:
+  `ref-josh-voz-certa.wav` (carta do cap 13, "pereiras"), gerada **sem
+  prefixo nenhum**. Take que puxar para fanho/animado → refazer.
+- **Tom íntimo (Josh e Aurora) — padrão para intimidade, tensão, atração,
+  contenção e desejo** (autora, 08/nov): a voz deles, mas suave, mais baixa,
+  levemente rouca, contida. Referências aprovadas: `ref-josh-tom-intimo.wav`
+  ("Boa noite, Aurora", cap 13) e `ref-aurora-tom-intimo.wav` ("Boa noite,
+  Josh", cap 13).
+  - **Aurora:** prefixo "Diga em português do Brasil, com sotaque brasileiro,
+    num tom sincero e contido, sem animação:" (é o mesmo do "Obrigada, Josh").
+  - **Josh:** SEM prefixo (prefixo de tom deixou ele fanho/afeminado); gerar
+    2–3 takes e escolher o mais suave. "Aurora" dentro da frase escrito
+    "Aurôra".
+  - Aurora sem esse prefixo em cena tensa sai "animada demais" ou "criança de
+    10 anos".
 - **"Aurora" chamado pelo Josh** (aprovado pela autora, 06/nov): usar SEMPRE o
   mesmo take — o do cap 12 quando ela entra no quarto (c057, guardado como
   `josh_aurora.wav`). Não gerar de novo; colar o take.
@@ -120,7 +136,7 @@ script tenta de novo com a fala entre aspas.
 - **Cap 3** — fechado (29/out, correções aprovadas).
 - **Cap 4** — fechado (29/out, correções aprovadas; Mikkelsen no ElevenLabs).
 - **Cap 5** — primeiro gerado com a regra de contextualização reforçada.
-- **Cap 13** — gerado (06/nov), aguardando a escuta da autora.
+- **Cap 13** — fechado (08/nov, correções aprovadas; carta com "pereiras", choro "perdendo a força", "Capítulo dez", boa-noite opção B).
 
 ## Pendências de correção (a autora pediu para deixar para depois)
 

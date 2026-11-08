@@ -7,7 +7,12 @@
 
 ## Pendentes
 
-*(nenhuma)*
+1. **Excesso de "Frederik" no livro (pedido da autora, 08/nov/2026 — para melhorar no futuro).**
+   Três nomes quase iguais confundem, principalmente no áudio:
+   - **os Frederiksen** — anfitriões do baile de abertura (residência na Kongens Nytorv) e do recital; `cap04:101`, `cap06:35,171,203-213`, `cap12:19`, `cap14:67,249`, `cap31`, `cap37`;
+   - **Frederikke Mikkelsen** — a moça que flerta com Josh no baile e dança com ele no sarau dos Holst; `cap04:261-315`, `cap06:239-245`, `cap09:265-311`, `cap15:35`, `cap16:105`;
+   - **Frederik Holst** — o pretendente de Aurora, filho mais novo dos Holst, afastado pelos conselhos de Josh; `cap11:87-105`, `cap12:41,101`.
+   Também `cap09:169` cita "o mais novo dos Frederiksen". Decidir com a autora quais nomes trocar; propagar com a skill `onda-de-mudanca`.
 
 ---
 
