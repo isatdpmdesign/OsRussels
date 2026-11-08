@@ -105,7 +105,7 @@ SEG = [
  ('d042b', 'N', 'E acrescentou, sem tirar os olhos da janela:', 0.2),
  ('d042c', 'RAJ', 'Diga com a voz embargada e contida: Hoje seria o aniversário dele. O Aarav faria vinte e dois anos. Ela deve estar cantando pro irmão.', 0.6),
  ('d043', 'N', 'Ficaram em silêncio. A voz de Aurora continuou, subindo, descendo, e Josh a gravou nota por nota no lugar onde guardava as coisas que importavam. A música parou. O jardim ficou em silêncio. O padrinho pôs os óculos, abriu o livro, e disse, com a voz perfeitamente controlada:', 0.2),
- ('d044', 'RAJ', 'Capítulo nove. Continue.', 0.4),
+ ('d044', 'RAJ', 'Capítulo dez. Continue.', 0.4),
  ('d045', 'N', 'Josh continuou. Mas a melodia ficou nele. Grudada como pólen. Como o cheiro de jasmim que não saía do corredor, por mais que as janelas ficassem abertas.', 1.0),
  # --- a despensa ---
  ('d046', 'N', 'Naquela mesma noite, a distância rachou. Não por decisão. Por acidente, ou pelo que parecia acidente. Era noite, perto da meia-noite, e Josh estava acordado, porque o sono tinha virado um luxo que ele não podia pagar. Desceu para a cozinha. Não para encontrar Aurora: ela estaria dormindo, e a cozinha de madrugada não era de nenhum dos dois. Desceu porque precisava de água. De movimento. De qualquer coisa que não fosse o teto e o cheiro fantasma de jasmim.', 0.4),
