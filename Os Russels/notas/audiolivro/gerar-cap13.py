@@ -105,7 +105,7 @@ SEG = [
  ('d042b', 'N', 'E acrescentou, sem tirar os olhos da janela:', 0.2),
  ('d042c', 'RAJ', 'Diga com a voz embargada e contida: Hoje seria o aniversário dele. O Aarav faria vinte e dois anos. Ela deve estar cantando pro irmão.', 0.6),
  ('d043', 'N', 'Ficaram em silêncio. A voz de Aurora continuou, subindo, descendo, e Josh a gravou nota por nota no lugar onde guardava as coisas que importavam. A música parou. O jardim ficou em silêncio. O padrinho pôs os óculos, abriu o livro, e disse, com a voz perfeitamente controlada:', 0.2),
- ('d044', 'RAJ', 'Capítulo nóve. Continue.', 0.4),
+ ('d044', 'RAJ', 'Capítulo nove. Continue.', 0.4),
  ('d045', 'N', 'Josh continuou. Mas a melodia ficou nele. Grudada como pólen. Como o cheiro de jasmim que não saía do corredor, por mais que as janelas ficassem abertas.', 1.0),
  # --- a despensa ---
  ('d046', 'N', 'Naquela mesma noite, a distância rachou. Não por decisão. Por acidente, ou pelo que parecia acidente. Era noite, perto da meia-noite, e Josh estava acordado, porque o sono tinha virado um luxo que ele não podia pagar. Desceu para a cozinha. Não para encontrar Aurora: ela estaria dormindo, e a cozinha de madrugada não era de nenhum dos dois. Desceu porque precisava de água. De movimento. De qualquer coisa que não fosse o teto e o cheiro fantasma de jasmim.', 0.4),
@@ -128,8 +128,8 @@ SEG = [
  ('d063', 'JOSH', 'Eu ouvi você chorando. Distância não é abandono. Eu posso te dar espaço e ainda estar aqui quando você precisa. As duas coisas existem ao mesmo tempo.', 0.5),
  ('d064', 'N', 'Aurora ficou em silêncio. Depois assentiu. E devagar, como quem testa a temperatura da água, encostou o ombro no ombro dele de novo. Não a cabeça. Só o ombro. Uma ponte feita do menor material possível. E ficaram assim. Na cozinha, a vela ardia. Kóngen dormia. O relógio de pêndulo batia as horas, indiferente aos dramas humanos. E lá fora, no jardim, as roseiras de Aarav dormiam sob a noite de julho, tão cheias, tão vermelhas, tão vivas, que ninguém adivinharia que tinham nascido de mãos que já não existiam.', 0.4),
  ('d065', 'N', 'Quando a vela apagou, os dois subiram em silêncio. No corredor escuro, os passos lado a lado, mais perto do que os quarenta centímetros da carruagem, quase juntos, duas sombras que o escuro fundia numa só. Na porta do quarto dela, pararam. E Aurora disse, e a voz, pela primeira vez em dez dias, não tinha lâmina:', 0.2),
- ('d066', 'AU', 'Diga em português do Brasil, com sotaque brasileiro, num tom baixo e contido, cheio de tensão, sem sussurrar: Boa noite, Josh.', 0.2),
- ('d067', 'JOSH', 'Diga num tom contido e hesitante, com a voz um pouco falha, sem sussurrar: Boa noite,', 0.5),
+ ('d066', 'AU', 'Diga em português do Brasil, com sotaque brasileiro, num tom sincero e contido, sem animação: Boa noite, Josh.', 0.2),
+ ('d067', 'JOSH', 'Boa noite,', 0.5),
  ('d068', 'N', 'Ela entrou. O clique suave da porta. Josh foi para o quarto, mas não se deitou. Abriu a gaveta da escrivaninha e pegou a carta não enviada, a carta do eu estou apaixonado por ela, mãe. Não rasgou. Pôs de volta. Mas pegou outra folha, e escreveu uma única frase, no meio do papel, sem destinatário e sem assinatura. Uma frase só para ele: Distância não é abandono. Dobrou a folha e guardou na gaveta. E dormiu, pela primeira vez em dez dias, sem sonhar com nada. O que talvez seja o tipo mais gentil de descanso que existe.', 0.0),
 ]
 
