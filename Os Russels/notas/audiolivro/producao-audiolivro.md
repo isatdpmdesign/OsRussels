@@ -137,7 +137,7 @@ script tenta de novo com a fala entre aspas.
 - **Cap 4** — fechado (29/out, correções aprovadas; Mikkelsen no ElevenLabs).
 - **Cap 5** — primeiro gerado com a regra de contextualização reforçada.
 - **Cap 13** — fechado (08/nov, correções aprovadas; carta com "pereiras", choro "perdendo a força", "Capítulo dez", boa-noite opção B).
-- **Cap 14** — gerado (09/nov), aguardando a escuta da autora.
+- **Cap 14** — fechado (11/nov, correções aprovadas; "cobertura" virou "Você quer que eu te acoberte?" porque saía em espanhol).
 
 ## Pendências de correção (a autora pediu para deixar para depois)
 

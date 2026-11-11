@@ -102,7 +102,7 @@ SEG = [
  ('e046', 'N', 'Josh levantou os olhos do livro. A expressão era cautelosa, de um jeito novo: o jeito de quem foi repreendido e não quer errar de novo. Os olhos verdes perguntavam sem perguntar: que tipo de ajuda? Aurora acrescentou, depressa:', 0.2),
  ('e047', 'AU', BR+'Não é conselho. É cobertura.', 0.3),
  ('e048', 'N', 'E ele repetiu, devagar:', 0.2),
- ('e049', 'JOSH', 'Dar cobertura?', 0.3),
+ ('e049', 'JOSH', 'Diga em português do Brasil, com sotaque brasileiro: Você quer que eu te acoberte?', 0.3),
  ('e050', 'AU', BR+'Tem uma festa na sexta à noite. Uma festa não oficial. De jovens. Sem pais. Sem chaperona. Na casa de alguém que eu não conheço. A Ingrid me convidou. E eu quero ir.', 0.4),
  ('e051', 'N', 'Josh pousou o livro. A expressão passou de cautelosa a uma mistura de preocupação, curiosidade e, escondida debaixo das duas, mas ali, diversão. E ele resumiu:', 0.2),
  ('e052', 'JOSH', 'Você quer ir a uma festa clandestina.', 0.3),
