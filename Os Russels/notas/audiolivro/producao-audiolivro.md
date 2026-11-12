@@ -136,23 +136,13 @@ script tenta de novo com a fala entre aspas.
 - **Cap 3** — fechado (29/out, correções aprovadas).
 - **Cap 4** — fechado (29/out, correções aprovadas; Mikkelsen no ElevenLabs).
 - **Cap 5** — primeiro gerado com a regra de contextualização reforçada.
+- **Caps 6–12** — fechados (11 e 12 em 12/nov, após a rodada 2).
 - **Cap 13** — fechado (08/nov, correções aprovadas; carta com "pereiras", choro "perdendo a força", "Capítulo dez", boa-noite opção B).
 - **Cap 14** — fechado (11/nov, correções aprovadas; "Te dar cobertura?" opção A aprovada).
 
-## Pendências de correção (a autora pediu para deixar para depois)
+## Pendências de correção
 
-- **Cap 11:** (1) a carta do Josh (b066–b070) começa no tom dele e, do meio
-  para o fim, fica fanha/afeminada: refazer tudo no tom do início. (2) A fala
-  da Aurora "Mas o Erik perguntou… foi como abrir uma janela" (b059) saiu em
-  cochicho: deve ser **tom baixo, audível, sem cochichar**.
-
-- **Cap 12:** (1) o "Ah." da Aurora, quando ela entende o padrão (fim de c045),
-  tem que sair na VOZ DELA, não da narradora. (2) O "Aurora…" do Josh quando
-  ela entra no quarto (c057, ~11:37) e o de ~13:00 (c066) saíram em inglês
-  ("aurowrwa"): português do Brasil. (3) "Há quanto tempo…" (c059): tirar o
-  "baixo como lâmina", no mesmo tom das falas seguintes. (4) ~17:00 (c085):
-  "roseiras de Aarav" saiu "Arrav". (5) Pendentes da transcrição: c028 Ingrid
-  "Aurora." e c029 Aurora "Ninguém me…".
+- Caps 11 e 12: resolvidas e aprovadas (12/nov).
 
 ## Regra: "baixo" não é "sussurro"
 
