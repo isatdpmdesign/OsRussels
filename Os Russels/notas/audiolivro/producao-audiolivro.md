@@ -139,6 +139,7 @@ script tenta de novo com a fala entre aspas.
 - **Caps 6–12** — fechados (11 e 12 em 12/nov, após a rodada 2).
 - **Cap 13** — fechado (08/nov, correções aprovadas; carta com "pereiras", choro "perdendo a força", "Capítulo dez", boa-noite opção B).
 - **Cap 14** — fechado (11/nov, correções aprovadas; "Te dar cobertura?" opção A aprovada).
+- **Cap 15** — gerado (12/nov), aguardando a escuta da autora. Vozes novas: Iálmar Eriksen (Puck), Lúque Eriksen (Callirrhoe).
 
 ## Pendências de correção
 

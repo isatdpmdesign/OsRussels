@@ -135,7 +135,7 @@ SEG = [
  ('f078', 'JOSH', 'Os dois. Os dois costumam viajar juntos.', 0.4),
  ('f079', 'N', 'Aurora riu, o riso aberto que tinha começado a aparecer na roda das moças, agora um pouco mais largo, como se a festa estivesse liberando uma versão dela que vivia esperando autorização. Os músicos passaram para uma coisa mais lenta. Não era valsa. Não era nada que Madame Solberg aprovaria num salão. Era uma melodia popular que ele conhecia vagamente do campo. As pessoas começaram a formar pares. Ela perguntou:', 0.2),
  ('f080', 'AU', BR+'Você sabe essa?', 0.2),
- ('f081', 'JOSH', 'Sei, sim. Essa eu sei.', 0.2),
+ ('f081', 'JOSH', 'Conheço, sim. Essa eu conheço.', 0.2),
  ('f082', 'AU', BR+'Mentira sua.', 0.2),
  ('f083', 'JOSH', 'Sei o suficiente pra não pisar nos seus pés.', 0.2),
  ('f084', 'AU', BR+'Esse é um padrão muito baixo.', 0.2),
