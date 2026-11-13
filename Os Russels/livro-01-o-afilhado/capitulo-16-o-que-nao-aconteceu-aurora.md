@@ -66,7 +66,7 @@ Segunda: ternura. Pequena, contrariada, mas real. Erik era genuíno. Erik se imp
 
 Terceira: medo. Não medo dele. Medo do que ele poderia ter visto se tivesse chegado três minutos depois.
 
-Erik a viu. Sorriu. Atravessou o pequeno espaço entre eles. Pousou a mão em seu cotovelo de maneira despretenciosa. Uma mão respeitosa, sem pressionar, com a postura de quem está cumprindo uma cortesia diante de público invisível.
+Erik a viu. Sorriu. Atravessou o pequeno espaço entre eles. Pousou a mão em seu cotovelo de maneira despretensiosa. Uma mão respeitosa, sem pressionar, com a postura de quem está cumprindo uma cortesia diante de público invisível.
 
 — Aurora — disse Erik. — Eu te assustei?
 
@@ -90,7 +90,7 @@ Esse era o problema.
 
 — Sua mãe e meus pais não podem saber que eu e Ingrid estivemos em uma festa clandestina.
 
-— Eu sei. Mas eu tenho maior de idade e não tem nada de errado em eu estar aqui.
+— Eu sei. Mas eu sou maior de idade e não tem nada de errado em eu estar aqui.
 
 — Então eu serei sua mentira.
 
@@ -102,7 +102,7 @@ Erik dançava bem. Erik dançava tudo bem: valsa, mazurca, polca, o que fosse. T
 
 Não era um corpo que tremia.
 
-E aqui — *aqui*, na metade do segundo giro, com uma mão de Erik na cintura dela e a outra na mão dela, com a postura dele exatamente correta a um certo decoroso centímetro de distância — Aurora descobriu, com a clareza de uma equação que finalmente fecha, qual era a coisa que Josh tinha feito que ninguém tinha feito antes. Josh dançava bem. Aurora sabia que ele dançava bem. O vira conduzir Frederikke no sarau dos Holst com a precisão de quem aprendera cedo e estudara com seriedade. Tinham até pisado nos pés um do outro no celeiro, mais cedo, sim, mas o tropeço não tinha sido por incompetência: tinha sido porque os dedos dele, quando seguraram a mão dela, tremeram. Não a técnica. A técnica estava ali, inteira. O tremor. O tremor era a confissão honesta dele de que tocar Aurora era uma coisa que ele não conseguia atravessar sem sentir.
+E aqui — *aqui*, na metade do segundo giro, com uma mão de Erik na cintura dela e a outra na mão dela, com a postura dele exatamente correta a um certo decoroso centímetro de distância — Aurora descobriu, com a clareza de uma equação que finalmente fecha, qual era a coisa que Josh tinha feito que ninguém tinha feito antes. Josh não dançava valsa direito — ela mesma tinha zombado disso no caminho para a festa —, e tinham pisado nos pés um do outro no celeiro, sim. Mas o tropeço não tinha sido só falta de jeito: tinha sido porque os dedos dele, quando seguraram a mão dela, tremeram. O tremor. O tremor era a confissão honesta dele de que tocar Aurora era uma coisa que ele não conseguia atravessar sem sentir.
 
 Erik não tremia.
 
@@ -130,7 +130,7 @@ Eles atravessaram Christianshavn de gôndola, uma das barcas curtas que levavam 
 
 A barca encostou perto da casa dos Mortensen. Os três desceram juntos. Erik pagou ao barqueiro. Subiram a rua estreita até a porta. Ingrid tirou da bolsa a chave da porta, abriu e os três entraram.
 
-O hall dos Mortensen estava na escuridão limpa de uma casa em que os criados tinham se recolhido às nove. Havia uma única vela acesa numa mesinha e era possível ouvir o ronco do cozinheiro idosos em algum lugar dos fundos.
+O hall dos Mortensen estava na escuridão limpa de uma casa em que os criados tinham se recolhido às nove. Havia uma única vela acesa numa mesinha e era possível ouvir o ronco do cozinheiro idoso em algum lugar dos fundos.
 
 — Boa noite — disse Erik, no pé da escada.
 
@@ -334,7 +334,7 @@ Os quatro estavam à mesa. Raj na cabeceira. Eleonora à direita dele. Aurora à
 
 Aurora estava cortando o peixe quando a frase de Eleonora atravessou a sala como qualquer outra frase atravessa qualquer outro jantar, com a leveza própria de quem dá uma informação prática.
 
-— Minha irmã Karoline escreveu — disse Eleonora Raj. — Vibeke vem para a temporada.
+— Minha irmã Karoline escreveu — disse Eleonora a Raj. — Vibeke vem para a temporada.
 
 Raj ergueu os olhos do prato.
 
