@@ -120,11 +120,11 @@ Aurora considerou. Houve um segundo em que Josh viu, com clareza, a hesitação 
 
 — Está bem — disse ela.
 
-— Aurora.
+— Espera.
 
-— Sim?
+— O que foi?
 
-— Se alguém te incomodar, eu te vejo daqui.
+— Se alguém te incomodar, eu estou aqui. Estou de olho em você.
 
 Ela sorriu — o real, o do canto esquerdo — e se afastou.
 
@@ -182,7 +182,25 @@ Aurora riu — o riso aberto que tinha começado a aparecer mais cedo na roda da
 
 Aurora estendeu a mão.
 
-Eles dançaram. Não bem. Aurora pisou no pé de Josh uma vez e Josh pisou no pé dela duas, e ambos pretenderam que aquilo era um sucesso. As mãos dele na cintura dela tinham consciência absoluta da fina camada de tecido entre as palmas e a pele, e Josh fez um esforço deliberado de pensar em coisas neutras (Montesquieu, a colheita de aveia, a quantidade de talheres que se usa num jantar formal) para que o corpo não traísse a cabeça mais do que já estava traindo. As mãos de Aurora nos ombros dele eram pequenas e quentes. Os cabelos soltos roçaram o braço dele quando ela virou.
+Josh olhou para ela um segundo a mais do que devia. A mão pequena, aberta no ar entre os dois, esperando. Eles nunca tinham dançado juntos. Em quatro meses de cozinha, de jardim, de lições e de brigas, nunca. E ele soube, antes de tocar, que aquela não ia ser uma dança qualquer numa festa qualquer.
+
+Pegou a mão dela.
+
+Os dedos de Aurora se fecharam nos dele. Josh levou a outra mão à cintura dela devagar, como quem avisa antes de tocar, e sentiu o tecido amarelo, fino, e debaixo dele o calor. Aurora prendeu a respiração. Ele ouviu. Ela pousou a mão livre no ombro dele, e o peso era quase nada, e mesmo assim aquele quase nada atravessou a camisa.
+
+Começaram. Não bem. Aurora pisou no pé dele no primeiro compasso, ele pisou no dela no terceiro e no sétimo, e os dois fingiram que aquilo era um sucesso. Ela riu baixo, com a testa quase encostada no peito dele, e o riso subiu pela camisa como calor. Josh fez um esforço deliberado de pensar em coisas neutras (Montesquieu, a colheita de aveia, a quantidade de talheres que se usa num jantar formal) para que o corpo não traísse a cabeça mais do que já estava traindo.
+
+Não adiantou.
+
+Porque no meio da música Aurora ergueu os olhos. E não desviou. Na luz alaranjada das lanternas, o mel dos olhos dela tinha virado âmbar escuro, e Josh viu ali a mesma pergunta que vinha se fazendo a noite inteira: quanto tempo se pode olhar para alguém assim antes que o olhar vire uma resposta?
+
+Ele não sabia. Contou, porque contar era o que ele fazia quando não sabia. Um segundo. Dois. Três. No quarto, a mão dela deslizou do ombro para a nuca dele. Um centímetro, talvez dois, como se tivesse escorregado sem querer. Não tinha sido sem querer. Josh soube pelo jeito como ela corou e não tirou a mão.
+
+— Você disse que não pisava nos meus pés — disse ela, baixinho.
+
+— Eu menti. — A voz dele saiu mais rouca do que devia. — É que é difícil olhar pro chão com você olhando pra mim desse jeito.
+
+O cabelo solto roçou o braço dele quando ela girou. Cheiro de jasmim e de verão. Em volta deles, o celeiro continuava: o violino, o acordeão, as botas no chão de madeira, Ingrid rindo num canto. Mas para Josh o mundo tinha encolhido até caber entre as duas mãos dele.
 
 Quando a música acabou, ele não soltou imediatamente. Aurora também não recuou. Por uns três segundos (Josh contou, Josh sempre contava) eles ficaram parados como se a música ainda estivesse tocando.
 
@@ -214,7 +232,7 @@ Ele sentiu o ar mudar. Não no sentido literal (o ar do depósito continuava com
 
 — Não depende.
 
-— Aurora.
+— Aurora. — Não era um chamado. Era um aviso. *Olha o caminho que você está pegando.*
 
 — Não depende. É sim ou não.
 
@@ -226,37 +244,21 @@ Josh respirou — fundo, demorado, com a consciência precisa de que estava ganh
 
 E isso era pior. Aurora pedindo um beijo era uma coisa que ele podia recusar por cortesia. Aurora pedindo uma resposta era uma coisa que ele só podia recusar por princípio.
 
-— Aurora — disse ele, e a voz saiu mais baixa do que pretendia, com aquela densidade rouca que a voz dele tinha quando estava muito cansado ou muito emocionado e que ele odiava porque era fácil de ler. Era fácil perceber que ele estava totalmente inebriado por Aurora, mas se forçou a pensar com a clareza que tinha quando era preciso jogar xadrez.
+— Você acha que eu não quero? — A voz saiu mais baixa do que ele pretendia, com aquela densidade rouca que ela tinha quando ele estava muito cansado ou muito emocionado, e que ele odiava porque era fácil de ler. — Eu passei a noite inteira contando as vezes que você girou naquele salão. Se eu te beijar agora, eu não vou saber parar no beijo. Eu me conheço. E você merece que a primeira vez seja de alguém que pode te beijar de dia, na frente do mundo. Não de um rapaz escondido num depósito, debaixo do teto do homem que confiou a filha a ele.
 
-— Se eu fizer isso agora — continuou, com a voz ainda mais baixa —, aqui, deste jeito, no meio de uma festa, com a sua mãe esperando você em casa amanhã e com Erik Mortensen aparecendo na sua sala todas as quartas-feiras, você vai acordar amanhã e vai se odiar. E aí você vai me odiar. E eu vou aceitar isso, porque é justo. Mas eu não consigo. Eu não consigo te dar uma coisa que vai te machucar amanhã.
-
-— Eu não vou me odiar.
-
-— Você não sabe.
-
-— Eu sei.
+— Eu não estou pedindo o mundo.
 
 — Aurora...
 
-— Eu sei. — Outro passo. Ela estava perto o suficiente para Josh sentir o cheiro de jasmim e canela cortado por alguma coisa que era apenas pele e calor. — Há semanas eu sei. Eu venho dormindo todas as noites com a certeza de que eu sei, e o que me destrói não é saber. É não ter dito.
+— Eu sei o que eu quero. — Outro passo. Ela estava perto o suficiente para Josh sentir o cheiro de jasmim e canela cortado por alguma coisa que era apenas pele e calor. — Há semanas eu sei. Eu venho dormindo todas as noites com a certeza de que eu sei, e o que me destrói não é saber. É não ter dito. Eu não estou pedindo o mundo, Josh. Estou pedindo você.
+
+Era a frase contra a qual ele não tinha defesa nenhuma.
 
 A mão dela tocou a mão dele. Os dedos dela frios. As pontas dos dedos dele tremendo um milímetro — ele se odiou por isso. Não eram tremores grandes. Não eram tremores que ela ia ver. Mas existiam, e ele os reconhecia como o tremor que precedia decisões em que ele tinha pouca confiança em si mesmo.
 
-— Aurora — disse ele de novo, e era a terceira vez na conversa, e a terceira vez teve a função das três vezes que se diz o nome de uma pessoa quando se está prestes a fazer ou a não fazer uma coisa importante. — Eu quero. Você sabe que eu quero. Mas eu quero também que isso, se acontecer, seja uma coisa que você possa olhar daqui a dez anos e dizer *sim, foi isso que eu quis*. Não uma coisa que eu te dei porque você pediu numa noite em que tinha bebido ponche numa festa, só para saber como era.
+— Você não sabe o que está me pedindo — disse ele, e já não era argumento. Era quase uma súplica.
 
-— Eu não bebi.
-
-— Você bebeu.
-
-— Um gole. Para experimentar. Você sabe que eu não bebo.
-
-— Eu sei.
-
-— Então você sabe que eu não estou pedindo por causa do ponche.
-
-— Sei.
-
-— Então me beija.
+— Sei. Então me beija.
 
 Ele se inclinou. Era impossível não se inclinar. O corpo dele, depois de oito semanas de regras internas e doze contagens de pés e cinco lições no jardim de Aarav, finalmente respondeu sem pedir licença ao cérebro. Ela ergueu o rosto. Os cabelos dela escorregaram do ombro descoberto para a clavícula descoberta. Ele sentiu, com uma precisão que doía, o ar entre os lábios deles: alguns centímetros, depois menos do que centímetros, depois milímetros, depois quase nada.
 
@@ -272,11 +274,11 @@ Não recuou imediatamente. Mas o corpo dela mudou. Josh sentiu antes de ver. A r
 
 — Josh — disse ela, baixinho.
 
-— Vai.
+— Vai. Ele está te procurando.
 
 — Eu...
 
-— Vai. Eu fico.
+— Pode ir. Eu fico aqui, está tudo bem.
 
 Ela recuou. Um passo. Dois. A faixa de luz prateada da janela passou de novo pelo ombro dela e depois pelas costas e depois pelos cabelos enquanto ela se virava e atravessava o depósito de volta. A mão dela soltou a dele numa lentidão que doeu mais do que devia. Na porta, ela parou. Não olhou para trás.
 
@@ -286,7 +288,7 @@ Ela recuou. Um passo. Dois. A faixa de luz prateada da janela passou de novo pel
 
 — Tem.
 
-— Tudo bem.
+— Tudo bem. Você não tem culpa de nada.
 
 A porta do corredor se abriu e se fechou. O zumbido da festa voltou por um segundo e depois foi cortado. Josh ficou no meio do depósito, com a luz da lua entrando em diagonal pela janela e com a faixa prata agora vazia no chão de pedra, e contou até cem antes de se mexer.
 
@@ -316,7 +318,7 @@ Ele cruzou o salão até Ingrid. Ingrid estava no canto da mesa de pão e queijo
 
 — Eu não chamei Erik. Para constar. Eu não disse a ninguém que ela estaria aqui. Eleonora deve ter mencionado à mãe dele que Aurora ia dormir lá em casa, e Erik fez a aritmética sozinho.
 
-— Eu sei.
+— Eu imaginei.
 
 — Sei que você sabe. Mas eu queria dizer.
 

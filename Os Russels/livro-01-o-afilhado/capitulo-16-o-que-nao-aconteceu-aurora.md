@@ -38,7 +38,7 @@ O tremor dele tinha sido a coisa mais bonita da noite. Mais bonita do que a luz 
 
 Porque o tremor era a prova.
 
-A prova de que ele queria. A prova de que o *não* dele não tinha sido desinteresse. Tinha sido excesso. Excesso de cuidado, de princípio, de respeito por uma coisa que Aurora ainda não sabia direito o nome, uma coisa que ele chamou de *você daqui a dez anos*, uma coisa que ele se recusou a estragar mesmo tendo o consentimento dela na boca aberta e o corpo dela a um milímetro do dele.
+A prova de que ele queria. A prova de que o *não* dele não tinha sido desinteresse. Tinha sido excesso. Excesso de cuidado, de princípio, de respeito por uma coisa que Aurora ainda não sabia direito o nome, uma coisa que ele chamou de *de dia, na frente do mundo*, uma coisa que ele se recusou a estragar mesmo tendo o consentimento dela na boca aberta e o corpo dela a um milímetro do dele.
 
 Aurora abriu os olhos.
 
