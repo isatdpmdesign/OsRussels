@@ -60,6 +60,7 @@
 - **Josh não pode ser monossílabo no áudio** (autora, 13/nov): em momento de
   sentimento, a fala dele ganha meia frase ("Tudo bem. Você não tem culpa de
   nada."), nunca uma palavra solta.
+- **"Aurora" do Josh em momento de intensidade** (aviso, súplica, tensão — autora, 13/nov): usar o take recortado `ref-josh-aurora-intenso.wav` (do "Por favor, Aurora…" aprovado no cap 15). O take de "chamado" (abaixo) fica para quando ele só a chama.
 - **"Aurora" chamado pelo Josh** (aprovado pela autora, 06/nov): usar SEMPRE o
   mesmo take — o do cap 12 quando ela entra no quarto (c057, guardado como
   `josh_aurora.wav`). Não gerar de novo; colar o take.

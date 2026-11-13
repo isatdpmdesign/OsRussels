@@ -248,7 +248,7 @@ E isso era pior. Aurora pedindo um beijo era uma coisa que ele podia recusar por
 
 — Eu não estou pedindo o mundo.
 
-— Aurora...
+— Por favor, Aurora...
 
 — Eu sei o que eu quero. — Outro passo. Ela estava perto o suficiente para Josh sentir o cheiro de jasmim e canela cortado por alguma coisa que era apenas pele e calor. — Há semanas eu sei. Eu venho dormindo todas as noites com a certeza de que eu sei, e o que me destrói não é saber. É não ter dito. Eu não estou pedindo o mundo, Josh. Estou pedindo você.
 
