@@ -75,6 +75,7 @@
 | **Cap 27 Regensen: A CENA** | Consumação no Regensen, com declaração Bridgerton ("queimo por ela há cinco meses"). Aurora pede ("não quero que o velho seja o primeiro"). Josh reluta. Conduzido, com ternura. **Por metáfora, pra arrepiar a leitora.** | jun/2026 |
 | **Vibeke cúmplice consciente revelada no Cap 25** | (Não no Cap 24, como estava na primeira versão.) | jun/2026 |
 | **"Amar" só na declaração** | Antes da declaração do Regensen, Josh não "ama" Aurora: **está apaixonado**. É cedo demais para o termo amar (acabaram de se conhecer). Carta não enviada do cap 11: *"Eu estou apaixonado por ela, mãe"*; as constatações de Aurora no cap 12 e as referências do cap 13 seguem o mesmo termo. Pedido da autora ao ouvir o audiolivro. | nov/2026 |
+| **Josh menos monossílabo** | A autora acha o Josh monossilábico demais ("Sim.", "Vai.", "Eu sei."): o leitor e o ouvinte não sentem o que ele sente. Em momento de sentimento, a fala dele ganha meia frase que mostre a emoção ("Tudo bem. Você não tem culpa de nada."). Vale para a revisão dos capítulos e para o audiolivro. | nov/2026 |
 
 ## Cuidados de revisão (o que já foi flagrado)
 

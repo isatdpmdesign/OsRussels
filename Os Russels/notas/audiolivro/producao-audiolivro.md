@@ -50,6 +50,16 @@
     "Aurôra".
   - Aurora sem esse prefixo em cena tensa sai "animada demais" ou "criança de
     10 anos".
+- **Josh apaixonado — flerte, tensão, cena íntima** (autora, 13/nov): prefixo
+  **"Diga com voz de homem jovem, grave, baixa e aveludada, calma, sem
+  animação:"** (teste "P1 aveludada", aprovado: "perfeita"). O "rouco e
+  contido" (P2) ficou grosso demais: não usar. Em conversa casual (o flerte
+  bem-humorado no caminho da festa) o Josh sem prefixo está bom. Sem prefixo
+  em cena de tensão ele sai "animado", "mecânico", "robótico": é o erro a
+  evitar. O "Aurora" de advertência (não de chamado) também vai com P1.
+- **Josh não pode ser monossílabo no áudio** (autora, 13/nov): em momento de
+  sentimento, a fala dele ganha meia frase ("Tudo bem. Você não tem culpa de
+  nada."), nunca uma palavra solta.
 - **"Aurora" chamado pelo Josh** (aprovado pela autora, 06/nov): usar SEMPRE o
   mesmo take — o do cap 12 quando ela entra no quarto (c057, guardado como
   `josh_aurora.wav`). Não gerar de novo; colar o take.
