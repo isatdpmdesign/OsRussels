@@ -127,6 +127,7 @@ Como passar ao leitor: tell direto, mas em doses. Não despejar as três frentes
 
 ### Hjalmar Eriksen
 - Existe na canon. Filho da senhora Eriksen da Christianshavn. Apresentado na festa clandestina da irmã dele, Lykke (Cap 15).
+- **É gay** (decisão da autora, nov/2026). No portão, olha o Josh de cima a baixo com interesse, sem esconder; Josh percebe e não se incomoda (Cap 15).
 - **NÃO entra em Cap 17/18.** Foi inserido por engano em rascunho e removido. Pode reaparecer em outros eventos sociais futuros sem conflito.
 
 ### Lauritz Brandt

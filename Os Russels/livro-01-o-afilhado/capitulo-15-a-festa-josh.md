@@ -60,7 +60,7 @@ Ingrid passou direto pelo abraço, com aquela eficiência de quem está cumprind
 
 — Existe outra? — disse Aurora.
 
-— Não que eu saiba. Bem-vindos. Ponche é horrível. Cerveja é decente. Comida é melhor do que se imagina porque Lykke fez parte. Lykke está lá dentro, vai dizer alô. Russel — Hjalmar olhou para Josh com aquela avaliação rápida e desinteressada que os homens fazem em três segundos antes de decidir se uma figura nova é ameaça, aliada ou indiferente. Josh viu o veredito chegar no terceiro segundo: indiferente, amistoso, sem agenda. — Russel, prazer. Tem alguém no quintal jogando algo que parece dardos mas é, na verdade, um crime. Se quiser participar.
+— Não que eu saiba. Bem-vindos. Ponche é horrível. Cerveja é decente. Comida é melhor do que se imagina porque Lykke fez parte. Lykke está lá dentro, vai dizer alô. Russel — Hjalmar olhou para Josh de cima a baixo, devagar, sem pressa e sem nenhuma vergonha, com um interesse que não tinha nada de avaliação de rival. Josh percebeu. E percebeu também, com uma surpresa que guardou para si, que não se incomodou: no campo aquilo não se dizia, mas existia, e Hjalmar Eriksen parecia ter decidido, ao menos ali, nos fundos do próprio quintal, não esconder. — Russel, prazer. Muito prazer. Tem alguém no quintal jogando algo que parece dardos mas é, na verdade, um crime. Se quiser participar.
 
 — Talvez mais tarde — disse Josh.
 
@@ -196,7 +196,7 @@ Porque no meio da música Aurora ergueu os olhos. E não desviou. Na luz alaranj
 
 Ele não sabia. Contou, porque contar era o que ele fazia quando não sabia. Um segundo. Dois. Três. No quarto, a mão dela deslizou do ombro para a nuca dele. Um centímetro, talvez dois, como se tivesse escorregado sem querer. Não tinha sido sem querer. Josh soube pelo jeito como ela corou e não tirou a mão.
 
-— Você disse que não pisava nos meus pés — disse ela, baixinho.
+— Você disse que não pisava nos pés de ninguém — disse ela, baixinho.
 
 — Eu menti. — A voz dele saiu mais rouca do que devia. — É que é difícil olhar pro chão com você olhando pra mim desse jeito.
 
@@ -258,7 +258,7 @@ A mão dela tocou a mão dele. Os dedos dela frios. As pontas dos dedos dele tre
 
 — Você não sabe o que está me pedindo — disse ele, e já não era argumento. Era quase uma súplica.
 
-— Sei. Então me beija.
+— Por favor. Estou pedindo. Me beija.
 
 Ele se inclinou. Era impossível não se inclinar. O corpo dele, depois de oito semanas de regras internas e doze contagens de pés e cinco lições no jardim de Aarav, finalmente respondeu sem pedir licença ao cérebro. Ela ergueu o rosto. Os cabelos dela escorregaram do ombro descoberto para a clavícula descoberta. Ele sentiu, com uma precisão que doía, o ar entre os lábios deles: alguns centímetros, depois menos do que centímetros, depois milímetros, depois quase nada.
 
