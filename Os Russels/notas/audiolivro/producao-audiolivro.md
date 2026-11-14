@@ -151,6 +151,7 @@ script tenta de novo com a fala entre aspas.
 - **Cap 13** — fechado (08/nov, correções aprovadas; carta com "pereiras", choro "perdendo a força", "Capítulo dez", boa-noite opção B).
 - **Cap 14** — fechado (11/nov, correções aprovadas; "Te dar cobertura?" opção A aprovada).
 - **Cap 15** — gerado (12/nov), aguardando a escuta da autora. Vozes novas: Iálmar Eriksen (Puck), Lúque Eriksen (Callirrhoe).
+- **Cap 16** — gerado (14/nov), aguardando a escuta da autora.
 
 ## Pendências de correção
 
