@@ -170,7 +170,7 @@ Vibeke parou de comer. Olhou para a tia. Não com indignação. Com uma serenida
 
 — Lauritz não pediu formalmente ainda. Eu sei que pela regra é por isso que ninguém em Viborg considera formalizado. Mas eu estive no celeiro dos Brandt no inverno passado, e na geada de fevereiro, e na primeira ceifa de junho. Eu vi. Está formalizado.
 
-O rosto de Eleonora corou levemente com as descrições feitas pela menina. Só Deus sabia o que Vibeke e Lauritz fizera no celeiro e na primeira ceifa de junho.
+O rosto de Eleonora corou levemente com as descrições feitas pela menina. Só Deus sabia o que Vibeke e Lauritz tinham feito no celeiro e na primeira ceifa de junho.
 
 — Está certo para você? — Indagou Eleonora.
 
@@ -184,7 +184,7 @@ Eleonora sustentou o olhar da sobrinha por mais um segundo. Depois assentiu. Foi
 
 — Ela não está pedindo que troque, querida. Apenas confirme se é isto mesmo que quer.
 
-— Sim, eu entendo. Mamãe me avisou ainda em Viborg que se eu chegasse aqui com Lauritz escrito na testa todo mundo ia querer apagar. Então eu prometi a ela que ia tira-lo testa e deixar dentro do casaco. Mas continua lá.
+— Sim, eu entendo. Mamãe me avisou ainda em Viborg que se eu chegasse aqui com Lauritz escrito na testa todo mundo ia querer apagar. Então eu prometi a ela que ia tirá-lo da testa e deixá-lo dentro do casaco. Mas continua lá.
 
 Raj riu de novo. Mais aberto desta vez. Foi um riso que arrastou Josh junto, e por um segundo os dois homens estavam rindo na mesma cadência, coisa que Josh não se lembrava de ter feito uma vez sequer naquela sala desde março. Aurora, ao lado, ergueu os olhos da sobremesa pela primeira vez desde a sopa, com a boca ainda meio escondida atrás do guardanapo, e olhou para a prima com algo novo no rosto que Josh classificou, com alívio, como reconhecimento.
 
@@ -206,7 +206,7 @@ Era a manobra de Eleonora, e era uma manobra elegante, e Josh não tinha desculp
 
 — Ah, que ótimo! — Vibeke virou-se para Josh com aquele entusiasmo aberto que era. Josh já tinha entendido o estado padrão dela. — Eu não conheço quase ninguém mesmo. A única pessoa que mamãe me indicou em Copenhague é uma senhora Eriksen da Christianshavn, mas ela está em sua casa de campo esta semana e não deve ir ao baile. Você me salvará!
 
-— Faço o que puder. — Respondeu Josh, de forma curta quando notou que as mãos de aurora se recolheram para debaixo da mesa.
+— Faço o que puder. — Respondeu Josh, de forma curta quando notou que as mãos de Aurora se recolheram para debaixo da mesa.
 
 — Você dança?
 
@@ -216,13 +216,13 @@ Era a manobra de Eleonora, e era uma manobra elegante, e Josh não tinha desculp
 
 — Sim... Mas que tipo de pergunta é essa? — Eleonora cerrou os olhos.
 
-— Que ótimo! É só uma forma de já avisar que eu costumo me atrasar. — Vibeke sorriu de maneira impolida. — Uuuhm! essa torta torta tem ameixa de verdade? — Perguntou, mudando de assunto na mesma velocidade que se virava a esquina à bordo de uma carroagem.
+— Que ótimo! É só uma forma de já avisar que eu costumo me atrasar. — Vibeke sorriu de maneira impolida. — Uuuhm! essa torta tem ameixa de verdade? — Perguntou, mudando de assunto na mesma velocidade que se virava a esquina a bordo de uma carruagem.
 
 — Tem. Fru Larsen vai a Frederiksberg comprar as ameixas no fim do verão. É um ritual.
 
 — Eu preciso conhecer a Fru Larsen!
 
-— Mas você mesma disse que já a conhece desde o seis anos.
+— Mas você mesma disse que já a conhece desde os sete anos.
 
 — Eu preciso conhecer *de verdade*. Preciso vê-la preparar a comida. Sentir o cheiro! Provar do fruto direto da árvore!
 
@@ -306,7 +306,7 @@ Aurora considerou aquilo. Olhou de novo para a escada.
 
 — Eu vi.
 
-Ela ficou na soleira mais um segundo. Depois subiu de novo, para o quarto onde Vibeke a esperava com cinco vestidos ainda na mala e cinco histórias acumuladas, e onde, Josh imaginava, em algum momento das próximas hora, que o nome de Lauritz Brandt seria pronunciado uma vez a mais do que o estritamente necessário.
+Ela ficou na soleira mais um segundo. Depois subiu de novo, para o quarto onde Vibeke a esperava com cinco vestidos ainda na mala e cinco histórias acumuladas, e onde, Josh imaginava, em algum momento das próximas horas, o nome de Lauritz Brandt seria pronunciado uma vez a mais do que o estritamente necessário.
 
 Josh ficou na sala de estar. Reabriu o livro, mas não leu.
 
