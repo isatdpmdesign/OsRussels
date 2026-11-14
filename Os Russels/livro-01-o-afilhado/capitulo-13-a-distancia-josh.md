@@ -52,7 +52,7 @@ A pergunta foi direta. Sem preâmbulo. Sem rodeio. Josh sentiu o sangue gelar e 
 
 — Não minta para mim, rapaz. Não nesta sala. Esta sala é o único lugar nesta casa onde eu exijo verdade absoluta, e você sabe disso.
 
-Josh olhou para Raj. Para o homem que o acolhera, que o ensinara, que o tratava como (e Josh engolia a palavra cada vez que ela subia, mas ela subia) filho. Para o homem cuja filha Josh amava e cuja confiança Josh estava, neste exato momento, traindo por omissão.
+Josh olhou para Raj. Para o homem que o acolhera, que o ensinara, que o tratava como (e Josh engolia a palavra cada vez que ela subia, mas ela subia) filho. Para o homem por cuja filha Josh estava apaixonado e cuja confiança Josh estava, neste exato momento, traindo por omissão.
 
 — Tivemos um... desentendimento — disse Josh, escolhendo a palavra com o cuidado de quem manuseia explosivo. — Algo que eu fiz a incomodou. Ela pediu distância. Eu estou respeitando.
 
@@ -114,7 +114,7 @@ Josh quase sorriu. Quase. Porque a mensagem, fosse de Helle, de Fru Larsen, de K
 
 *
 
-No sexto dia, Josh escreveu a Casandra. A carta real. A que enviaria.
+No sexto dia, Josh escreveu Casandra. A carta real. A que enviaria.
 
 *Querida mãe,*
 
@@ -134,15 +134,15 @@ No sexto dia, Josh escreveu a Casandra. A carta real. A que enviaria.
 
 *Josh*
 
-Selou. Pôs na pilha. Entregou a Helle na sexta.
+Selou. Pôs na pilha. Entregou Helle na sexta.
 
 E esperou.
 
 *
 
-No oitavo dia, algo mudou.
+No décimo dia, algo mudou.
 
-Josh estava no escritório com Raj (tarde de terça, discussão sobre a teoria do Estado em Hegel, que Josh achava brilhante e impenetrável em partes iguais) quando ouviu algo vindo do jardim. Não um som preocupante. Um som... musical. Não música de instrumento. Voz.
+Josh estava no escritório com Raj (tarde de quinta, discussão sobre a teoria do Estado em Hegel, que Josh achava brilhante e impenetrável em partes iguais) quando ouviu algo vindo do jardim. Não um som preocupante. Um som... musical. Não música de instrumento. Voz.
 
 Aurora estava cantando.
 
@@ -158,6 +158,8 @@ Raj estava sorrindo. Um sorriso pequeno. Tão pequeno que talvez não fosse um s
 
 — Ela não cantava desde que Aarav partiu — disse Raj, quase para si mesmo. Quase. Mas Josh ouviu.
 
+— Hoje seria o aniversário dele. — Raj não tirou os olhos da janela. — Aarav faria vinte e dois anos. Ela deve estar cantando para o irmão.
+
 Ficaram em silêncio. A voz de Aurora no jardim continuou: subindo, descendo, murmurando uma melodia que Josh não conhecia mas que gravou nota por nota no lugar onde guardava as coisas que importavam. E Raj ficou olhando para a janela com o sorriso mínimo e os olhos úmidos e o livro de Hegel esquecido no colo, e Josh ficou olhando para Raj e pensando que a capacidade de Aurora de fazer as pessoas ao redor dela sentirem coisas (coisas enormes, coisas que não cabem em palavras, coisas que saem pelos olhos quando a boca não consegue expressar) era ao mesmo tempo a coisa mais bela e mais aterrorizante que Josh já encontrara.
 
 A música parou. O jardim ficou em silêncio. Raj colocou os óculos. Abriu o livro.
@@ -168,11 +170,11 @@ Josh continuou. Mas a melodia ficou nele. Grudada como pólen. Como o cheiro de 
 
 *
 
-No décimo dia, a distância rachou.
+Naquela mesma noite, a distância rachou.
 
 Não por decisão. Não por plano. Por acidente, ou pelo que parecia acidente, embora Josh, com o tempo, viesse a desconfiar de que o universo tem opiniões sobre o que deve e o que não deve acontecer.
 
-Era noite. Tarde. Passava da meia-noite. Josh estava acordado: porque o sono se tornara um luxo que ele não podia mais pagar, porque as noites eram longas e o dossel era estúpido e o silêncio do quarto era o tipo de silêncio que amplifica pensamentos em vez de abafá-los.
+Era noite. Tarde. Perto da meia-noite. Josh estava acordado: porque o sono se tornara um luxo que ele não podia mais pagar, porque as noites eram longas e o dossel era estúpido e o silêncio do quarto era o tipo de silêncio que amplifica pensamentos em vez de abafá-los.
 
 Desceu para a cozinha. Não para encontrar Aurora. Aurora estaria dormindo a essa hora, e a cozinha de madrugada era território neutro, sem pertencer a nenhum dos dois. Desceu porque precisava de água. De movimento. De algo que não fosse o teto e o dossel e o cheiro fantasma de jasmim.
 
@@ -236,7 +238,7 @@ Aurora se virou. Olhou para ele pela primeira vez em dez dias. E os olhos de mel
 
 *Como você sabe?*
 
-— Raj mencionou a data uma vez — disse Josh. — No escritório. Quando falávamos sobre a expedição. Eu guardei.
+— Raj comentou hoje à tarde — disse Josh. — No escritório, enquanto você cantava no jardim. Eu guardei.
 
 *Eu guardei.* Duas palavras. O resumo de quem Josh era. O rapaz que guardava tudo. Que guardava a data do aniversário de um morto que nunca conhecera porque o morto era importante para alguém que era importante para ele.
 
@@ -248,7 +250,7 @@ Era apenas uma garota e um rapaz sentados no chão de uma despensa no meio da no
 
 — Não precisa agradecer.
 
-— Preciso sim. Porque você podia ter ficado no quarto. Eu pedi distância. Você estava obedecendo. E mesmo assim desceu. E sentou. E ficou.
+— Preciso sim. Porque eu pedi distância, e você estava obedecendo. Mas quando me viu chorando, resolveu chegar perto para me confortar.
 
 — Eu ouvi você chorando. — Josh disse a frase como se ela explicasse tudo. E explicava. — Distância não é abandono, Aurora. Eu posso te dar espaço e ainda estar aqui quando você precisa. As duas coisas existem ao mesmo tempo.
 
@@ -278,13 +280,13 @@ Ela entrou no quarto. A porta se fechou. O clique suave.
 
 Josh ficou no corredor. Por um segundo. Dois. Depois caminhou até o quarto leste. Entrou. Fechou a porta.
 
-Não se deitou. Foi até a escrivaninha. Abriu a gaveta. Pegou a carta não enviada, a carta em que escrevera *eu amo ela, mãe*, e olhou para as palavras à luz mínima da noite de julho que entrava pela janela.
+Não se deitou. Foi até a escrivaninha. Abriu a gaveta. Pegou a carta não enviada, a carta em que escrevera *eu estou apaixonado por ela, mãe*, e olhou para as palavras à luz mínima da noite de julho que entrava pela janela.
 
 Não rasgou a carta. Não a jogou fora. Pôs de volta na gaveta.
 
 Mas abriu outra folha. Pegou a pena.
 
-E não escreveu a Casandra.
+E não escreveu Casandra.
 
 Escreveu uma única frase. No centro da folha. Sem endereçamento. Sem assinatura. Uma frase que era para si mesmo e para mais ninguém.
 

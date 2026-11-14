@@ -68,7 +68,7 @@ O nome saiu pequeno. Quase sussurrado. Como uma confissão num confessionário �
 
 Ingrid não reagiu imediatamente. Ficou parada com aquela imobilidade calculada que era marca registrada dela: a imobilidade de quem processa informação antes de responder, como uma máquina que recebe dados e precisa de um momento para computar.
 
-— Josh — repetiu Ingrid. — O afilhado do teu pai. Que mora na tua casa. O rapaz do campo com cara de deus nórdico que todas as moças de Copenhague querem e que tu finges que não notas.
+— Josh — repetiu Ingrid. — O afilhado do seu pai. Que mora na sua casa. O rapaz do campo com cara de deus nórdico que todas as moças de Copenhague querem e que você finge que não nota.
 
 — Eu não finjo que não noto.
 
@@ -76,7 +76,7 @@ Ingrid não reagiu imediatamente. Ficou parada com aquela imobilidade calculada 
 
 Aurora contou.
 
-Não tudo — não a cozinha às seis da manhã, não a caneca fria, não o *"fez falta"*, não o *"não confio em mim perto de você"*. Essas coisas eram dela e de Josh e não pertenciam a mais ninguém, nem mesmo a Ingrid. Mas contou sobre as aulas. Sobre o sorriso, o olhar, o toque, a pergunta. Sobre o jardim. Sobre os conselhos que Josh dava antes de cada encontro com pretendentes.
+Não tudo — não a cozinha às seis da manhã, não a caneca fria, não o *"fez falta"*, não o *"não confio em mim perto de você"*. Essas coisas eram dela e de Josh e não pertenciam a mais ninguém, nem mesmo Ingrid. Mas contou sobre as aulas. Sobre o sorriso, o olhar, o toque, a pergunta. Sobre o jardim. Sobre os conselhos que Josh dava antes de cada encontro com pretendentes.
 
 Ingrid ouviu em silêncio. Sem interromper. Sem comentar. Com aquela atenção feroz que transformava o simples ato de ouvir numa forma de raio-X.
 
@@ -138,11 +138,11 @@ Ciúme disfarçado de sabedoria. Sabotagem vestida de conselho. Manipulação em
 
 E a raiva, uma raiva que Aurora não sentia desde o dia em que o pai anunciara a chegada de Josh, uma raiva que era lava e não gelo, que queimava em vez de congelar, subia pelo corpo como febre.
 
-Não por ele ter sentido ciúme. Ciúme ela entendia. Ciúme era humano. Ciúme era, se fosse honesta consigo mesma, até compreensível: porque ela sabia o que havia entre eles, sabia do *"fez falta"* e do *"não confio em mim"*, sabia que Josh a amava sem que nenhum dos dois tivesse usado a palavra.
+Não por ele ter sentido ciúme. Ciúme ela entendia. Ciúme era humano. Ciúme era, se fosse honesta consigo mesma, até compreensível: porque ela sabia o que havia entre eles, sabia do *"fez falta"* e do *"não confio em mim"*, sabia que Josh estava apaixonado por ela sem que nenhum dos dois tivesse usado a palavra.
 
 A raiva era pela traição de confiança.
 
-Aurora confiara em Josh. Confiara nele de um modo que não confiava em mais ninguém: não na mãe, que a amava mas não a entendia; não no pai, que a entendia mas não a alcançava; não em Ingrid, que a via mas não a segurava. Josh era o único que fazia as três coisas. Que a amava e a entendia e a alcançava e a via e a segurava, tudo ao mesmo tempo, com as mesmas mãos calejadas que envernizavam bancos e escoravam pérgolas e seguravam canecas lascadas na cozinha às seis da manhã.
+Aurora confiara em Josh. Confiara nele de um modo que não confiava em mais ninguém: não na mãe, que a amava mas não a entendia; não no pai, que a entendia mas não a alcançava; não em Ingrid, que a via mas não a segurava. Josh era o único que fazia as três coisas. Que estava apaixonado por ela e a entendia e a alcançava e a via e a segurava, tudo ao mesmo tempo, com as mesmas mãos calejadas que envernizavam bancos e escoravam pérgolas e seguravam canecas lascadas na cozinha às seis da manhã.
 
 E ele usara esse acesso, esse acesso que ela dera porque confiava, porque permitiu, porque abriu portas que estavam soldadas, para manipulá-la.
 
@@ -194,7 +194,7 @@ Josh recebeu a palavra como quem recebe um soco. O corpo inteiro reagiu: um recu
 
 Cada frase era um corte. Preciso. Limpo. Sem tremor. Aurora Svensson não tremia quando estava com raiva. Ficava mais firme. Mais presente. Mais ela.
 
-Josh não se defendeu. Não ofereceu explicações. Não disse *eu amo você* como se isso pudesse funcionar como desculpa, embora as palavras estivessem ali, prontas, queimando a garganta com a urgência de algo que precisa ser dito e que ele não se permitiria dizer. Não agora. Não neste contexto. Dizer *eu amo você* agora seria usar a verdade como escudo, e Josh — que estava sendo acusado de manipulação — se recusava a ser manipulador de novo. Mesmo com a verdade.
+Josh não se defendeu. Não ofereceu explicações. Não disse *estou apaixonado por você* como se isso pudesse funcionar como desculpa, embora as palavras estivessem ali, prontas, queimando a garganta com a urgência de algo que precisa ser dito e que ele não se permitiria dizer. Não agora. Não neste contexto. Dizer *estou apaixonado por você* agora seria usar a verdade como escudo, e Josh — que estava sendo acusado de manipulação — se recusava a ser manipulador de novo. Mesmo com a verdade.
 
 — O que você quer que eu faça? — perguntou ele.
 
@@ -206,7 +206,7 @@ Aurora ouviu. Cada palavra. Cada pausa. Cada engolir em seco.
 
 E sentiu, debaixo da raiva, debaixo da lava, debaixo de todas as camadas de indignação legítima e traição real, algo que não queria sentir. Algo que complicava tudo. Algo que tornava impossível simplesmente odiá-lo e ir embora e fechar a porta e nunca mais descer para a cozinha às seis da manhã.
 
-Porque Josh tinha dito a verdade. Toda a verdade. Sem se esconder. Sem se justificar. Sem usar o amor como desculpa. Tinha ficado de pé, olhado nos olhos dela, e dito *eu fui covarde e egoísta e o que fiz é imperdoável*.
+Porque Josh tinha dito a verdade. Toda a verdade. Sem se esconder. Sem se justificar. Sem usar a paixão como desculpa. Tinha ficado de pé, olhado nos olhos dela, e dito *eu fui covarde e egoísta e o que fiz é imperdoável*.
 
 E essa honestidade, brutal, completa, sem rede, era exatamente o que Aurora mais admirava nele. Sempre admirara. Desde o primeiro dia, desde o primeiro conselho sobre as roseiras, desde o *"o corte está um pouco alto"* que a irritara e que ela seguira e que salvara as roseiras de Aarav.
 
@@ -222,11 +222,11 @@ Era o silêncio que vem depois de uma explosão. Quando a poeira ainda está no 
 
 A palavra — *distância* — era a mesma que Josh usara na manhã depois do sarau. Aurora a devolveu de propósito. Com o mesmo peso. Com a mesma lâmina.
 
-Josh assentiu. Não disse nada. Não pediu perdão. Não implorou. Não disse *eu amo você*. Ficou de pé, com os braços ao lado do corpo e as mãos abertas (não fechadas, abertas, como quem mostra que não carrega arma) e a deixou ir.
+Josh assentiu. Não disse nada. Não pediu perdão. Não implorou. Não disse *estou apaixonado por você*. Ficou de pé, com os braços ao lado do corpo e as mãos abertas (não fechadas, abertas, como quem mostra que não carrega arma) e a deixou ir.
 
 Aurora abriu a porta. Saiu. Fechou atrás de si.
 
-No corredor, encostou-se na parede. O coração batia tão forte que ela sentia nas têmporas. As mãos tremiam. As mãos que não tremiam, que seguravam tesouras de poda e canecas de chá e a postura de dezesseis anos de armadura com firmeza inabalável, tremiam.
+No corredor, encostou-se na parede. O coração batia tão forte que ela sentia nas têmporas. As mãos tremiam. As mãos que não tremiam, que seguravam tesouras de poda e canecas de chá e a postura de dezessete anos de armadura com firmeza inabalável, tremiam.
 
 Caminhou até o quarto. Entrou. Fechou a porta. Não encostou as costas na madeira. Desta vez não. Desta vez foi até a janela. Abriu. O ar de julho, quente, perfumado, carregado do cheiro das roseiras e das glicínias e da cidade e do verão, entrou como uma onda.
 
@@ -234,11 +234,11 @@ Aurora respirou.
 
 E percebeu, com a clareza devastadora que só vem depois que a raiva queima e sobra apenas o que é verdade, que a coisa que mais doía não era a manipulação. Não era a traição. Não era a sabotagem.
 
-A coisa que mais doía era que Josh fizera tudo aquilo porque a amava. E que ela sabia disso. E que saber disso tornava impossível transformar a raiva em ódio, porque ódio exige que não se entenda o outro, e Aurora entendia Josh com a mesma completude com que entendia a si mesma.
+A coisa que mais doía era que Josh fizera tudo aquilo porque estava apaixonado por ela. E que ela sabia disso. E que saber disso tornava impossível transformar a raiva em ódio, porque ódio exige que não se entenda o outro, e Aurora entendia Josh com a mesma completude com que entendia a si mesma.
 
 Ele fora covarde. Sim. Ele a manipulara. Sim. Ele traíra a confiança dela. Sim.
 
-Mas ele a amava. E o amor (o maldito, inconveniente, irracional, vulgar, indisciplinado, impossível amor) não era uma desculpa. Mas era uma explicação. E explicações, ao contrário de desculpas, não podem ser recusadas. Apenas compreendidas.
+Mas ele estava apaixonado por ela. E a paixão (a maldita, inconveniente, irracional, vulgar, indisciplinada, impossível paixão) não era uma desculpa. Mas era uma explicação. E explicações, ao contrário de desculpas, não podem ser recusadas. Apenas compreendidas.
 
 Aurora fechou a janela. Sentou-se na cama. Pegou o livro de Lamartine que ainda estava na mesa de cabeceira. Abriu na mesma página de sempre.
 

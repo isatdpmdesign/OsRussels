@@ -12,7 +12,7 @@ Josh escrevia à mãe todas as noites.
 
 Não porque Casandra exigisse. Casandra Russel não exigia nada por escrito, porque tudo o que exigia estava impresso na forma como criara os filhos, costurado nos ossos, entranhado no sangue como o sal está entranhado no mar. Escrevia porque, nas horas entre o jantar e o sono, quando a casa dos Svensson mergulhava naquele silêncio de paredes grossas e cortinas pesadas que era tão diferente do silêncio do campo (lá o silêncio era vivo, feito de grilos e vento e o respirar dos animais no celeiro; aqui era morto, embalsamado, um silêncio de museu), Josh sentia uma necessidade quase física de falar com alguém que o conhecia inteiro.
 
-Não a versão de Copenhague. Não o rapaz de casaco azul-marinho que segurava xícaras de porcelana e respondia com educação calculada às perguntas de senhoras perfumadas. O Josh de verdade. O que acordava antes do sol. O que sabia pelo cheiro da terra se ia chover. O que carregava lenha nos ombros e rachava troncos com três golpes de machado e voltava para casa com as mãos dormentes de frio e o corpo tão exausto que dormia antes de a cabeça tocar o travesseiro.
+Não a versão de Copenhague. Não o rapaz de casaco azul-marinho que segurava xícaras de porcelana e respondia com educação calculada às perguntas de senhoras perfumadas. Josh de verdade. O que acordava antes do sol. O que sabia pelo cheiro da terra se ia chover. O que carregava lenha nos ombros e rachava troncos com três golpes de machado e voltava para casa com as mãos dormentes de frio e o corpo tão exausto que dormia antes de a cabeça tocar o travesseiro.
 
 Esse Josh estava ficando embaçado. Como uma imagem refletida em água que alguém perturbou com uma pedra.
 
@@ -48,7 +48,7 @@ Escreveu:
 
 *Josh*
 
-Dobrou. Selou. Acrescentou à pilha de cartas que entregava a Helle toda sexta-feira para que fossem enviadas pelo correio. Helle as recebia com aquele rubor constante que Josh já desistira de tentar evitar (olhar para o chão não adiantava, olhar para o lado não adiantava, basicamente existir na mesma sala que Helle não adiantava) e levava as cartas com uma reverência excessiva que fazia Josh sentir-se simultaneamente culpado e exasperado.
+Dobrou. Selou. Acrescentou à pilha de cartas que entregava Helle toda sexta-feira para que fossem enviadas pelo correio. Helle as recebia com aquele rubor constante que Josh já desistira de tentar evitar (olhar para o chão não adiantava, olhar para o lado não adiantava, basicamente existir na mesma sala que Helle não adiantava) e levava as cartas com uma reverência excessiva que fazia Josh sentir-se simultaneamente culpado e exasperado.
 
 Apagou a vela. Deitou-se. Ficou olhando para o dossel da cama, uma peça de tecido pesado e inútil que bloqueava a visão do teto e não servia para absolutamente nada além de fazer Josh se sentir como se estivesse dormindo dentro de uma tenda de campanha desnecessariamente elegante.
 
@@ -80,7 +80,7 @@ A caligrafia de Casandra era firme, inclinada para a direita, com letras que se 
 
 *Fico contente que esteja bem e que Raj esteja cuidando da sua educação. Não me surpreende. Raj sempre foi homem de palavra, mesmo quando a palavra custa caro.*
 
-*Joseph está bem. O joelho melhorou mas ele não descansa, porque descansar para o Joseph é o mesmo que morrer devagar. Já disse isso a ele quinhentas vezes. Vai ser a quinhentos e uma.*
+*Joseph está bem. O joelho melhorou mas ele não descansa, porque descansar para Joseph é o mesmo que morrer devagar. Já disse isso a ele quinhentas vezes. Vai ser a quinhentos e uma.*
 
 *Dylan consertou a cerca. Depois derrubou. Depois consertou de novo. Seu irmão tem uma relação com cercas que eu não pretendo entender.*
 
@@ -190,7 +190,7 @@ Exceto que os cabelos estavam colados à testa de suor. A camisa estava úmida e
 
 Ele levantou os olhos.
 
-— A pérgola tinha uma viga comprometida — disse, como se estivesse comentando sobre o tempo. — Escorei por agora, mas vai precisar de um carpinteiro para trocar a peça. Se quiser, posso falar com o Raj.
+— A pérgola tinha uma viga comprometida — disse, como se estivesse comentando sobre o tempo. — Escorei por agora, mas vai precisar de um carpinteiro para trocar a peça. Se quiser, posso falar com Raj.
 
 Aurora olhou para a pérgola. Para as escoras. Para as glicínias reorganizadas. Para o cinto sacrificado. Para os arranhões nas mãos dele. Para os pés descalços sujos de terra.
 
