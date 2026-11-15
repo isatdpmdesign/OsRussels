@@ -167,8 +167,8 @@ SEG = [
  ('h107', 'AU', AI+'Pelo menos. Ela falou do baile dos Lundgren, lá no quarto.', 0.2),
  ('h108', 'JOSH', 'E o que ela disse?', 0.2),
  ('h109', 'AU', AI+'Disse que estava animada pra você acompanhar ela. Que vocês combinam, porque os dois vieram do interior, da fazenda, e que nas fazendas o jeito de dançar é mais solto. Sem coreografia.', 0.2),
- ('h110', 'N', 'E baixou o tom, como quem conta um segredo:', 0.2),
- ('h111', 'AU', AI+'Como na festa do celeiro?', 0.2),
+ ('h110', 'N', 'E se inclinou um pouco na direção dele, como quem vai contar um segredo:', 0.2),
+ ('h111', 'AU', 'Diga em português do Brasil, com sotaque brasileiro, num cochicho, como quem conta um segredo: Como na festa do celeiro?', 0.2),
  ('h112', 'JOSH', P1+'Sim. É como na festa do celeiro.', 0.2),
  ('h113', 'AU', AI+'Então as pessoas são mais felizes no interior?', 0.2),
  ('h114', 'JOSH', P1+'Mais felizes, eu não sei. Mas mais livres, eu acho que sim.', 0.4),
@@ -205,7 +205,7 @@ SEG = [
  ('h145', 'N', 'Largou o livro. Levantou. Foi até a janela. Lá fora, o sol de agosto continuava como sempre: alto, longo, paciente. Depois subiu para o quarto, fechou a porta, sentou à escrivaninha, e escreveu, pela primeira vez em três semanas, uma carta para a mãe sem riscar nenhuma frase:', 0.4),
  ('h146', 'JOSH', 'Querida mãe. A prima da Aurora chegou. Vibêke. Vai ficar dois meses. A mãe da Aurora tem ideias sobre ela e sobre mim que a Vibêke, em quinze minutos de almoço, desmontou sem perceber que estava desmontando. Eu já gosto dela. A Aurora também, eu acho. Estou bem. Nem tanto. Mas bem.', 0.4),
  ('h147', 'JOSH', 'Diz pro Matias que eu mando lembranças. Diz pro rabugento do Joseph escrever mandando notícias. Diz pra Meridiana que as roseiras que eu cuidei por aqui estão floridas, e que eu sinto saudade dos cravos que ela colocava de enfeite. E diz pro pestinha do Dylan que eu sinto falta das implicâncias dele. Com amor, Josh.', 0.5),
- ('h148', 'N', 'Selou. Pôs na pilha. E desceu para o jantar pensando que a vida, às vezes, mandava diversão na forma de moças loiras de Viborg, que riam alto e não tinham aprendido a esconder ninguém na manga do casaco.', 0.0),
+ ('h148', 'N', 'Fechou a carta com o lacre. Pôs na pilha. E desceu para o jantar pensando que a vida, às vezes, mandava diversão na forma de moças loiras de Viborg, que riam alto e não tinham aprendido a esconder ninguém na manga do casaco.', 0.0),
 ]
 
 if __name__ == "__main__":
