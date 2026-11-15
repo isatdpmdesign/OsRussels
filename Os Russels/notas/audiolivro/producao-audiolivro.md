@@ -150,7 +150,7 @@ script tenta de novo com a fala entre aspas.
 - **Caps 6–12** — fechados (11 e 12 em 12/nov, após a rodada 2).
 - **Cap 13** — fechado (08/nov, correções aprovadas; carta com "pereiras", choro "perdendo a força", "Capítulo dez", boa-noite opção B).
 - **Cap 14** — fechado (11/nov, correções aprovadas; "Te dar cobertura?" opção A aprovada).
-- **Cap 15** — gerado (12/nov), aguardando a escuta da autora. Vozes novas: Iálmar Eriksen (Puck), Lúque Eriksen (Callirrhoe).
+- **Cap 15** — fechado (15/nov; dança e recusa reescritas, Josh na voz aveludada, "Aurora" intenso). Vozes novas: Iálmar Eriksen (Puck), Lúque Eriksen (Zephyr).
 - **Cap 16** — fechado (14/nov, correções aprovadas).
 - **Cap 17** — fechado (15/nov, correções aprovadas).
 - **Cap 18** — em geração (15/nov). Voz nova: Sra. Lundgren (Sulafat + prefixo de senhora madura). Voz nova: Vibeke (Laomedeia, prefixo "com alegria espontânea"; nome escrito "Vibêke").
