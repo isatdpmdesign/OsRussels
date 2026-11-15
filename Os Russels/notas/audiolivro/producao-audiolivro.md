@@ -153,7 +153,7 @@ script tenta de novo com a fala entre aspas.
 - **Cap 15** — fechado (15/nov; dança e recusa reescritas, Josh na voz aveludada, "Aurora" intenso). Vozes novas: Iálmar Eriksen (Puck), Lúque Eriksen (Zephyr).
 - **Cap 16** — fechado (14/nov, correções aprovadas).
 - **Cap 17** — fechado (15/nov, correções aprovadas).
-- **Cap 18** — em geração (15/nov). Voz nova: Sra. Lundgren (Sulafat + prefixo de senhora madura). Voz nova: Vibeke (Laomedeia, prefixo "com alegria espontânea"; nome escrito "Vibêke").
+- **Cap 18** — gerado (15/nov), aguardando a escuta da autora. Voz nova: Sra. Lundgren (Sulafat + prefixo de senhora madura). Voz nova: Vibeke (Laomedeia, prefixo "com alegria espontânea"; nome escrito "Vibêke").
 
 ## Pendências de correção
 
