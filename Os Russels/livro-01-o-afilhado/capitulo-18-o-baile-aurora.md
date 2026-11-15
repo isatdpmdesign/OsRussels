@@ -56,7 +56,7 @@ A mão direita de Josh estava no colo, em cima do sobretudo dobrado. Aurora viu 
 
 Olhou para o queixo dele. Josh estava com o rosto virado para a outra janela. O queixo dele tinha um ângulo, um pouco quadrado mas não muito, que pegava a luz da lanterna no segundo abaixo do osso e fazia uma sombra fina que descia até o pescoço. Aurora seguiu a sombra com os olhos por dois segundos. Voltou para o colo.
 
-— Os Lundgren — Eleonora estava dizendo Vibeke — são boa gente. A senhora Lundgren foi colega de infância da minha mãe. O salão deles é o segundo maior de Copenhague, depois do Teatro Real. Não fique impressionada.
+— Os Lundgren — Eleonora estava dizendo a Vibeke — são boa gente. A senhora Lundgren foi colega de infância da minha mãe. O salão deles é o segundo maior de Copenhague, depois do Teatro Real. Não fique impressionada.
 
 — Eu vou ficar impressionada.
 
@@ -80,7 +80,7 @@ A senhora Lundgren recebeu-os na entrada com a deferência cordial das anfitriã
 
 E quando chegou em Vibeke, olhou para Eleonora.
 
-— Então está é a sobrinha de Viborg.
+— Então esta é a sobrinha de Viborg.
 
 — Vibeke Bjerg. A filha da Karoline. — Eleonora a apresentou.
 
@@ -96,7 +96,7 @@ E quando chegou em Vibeke, olhou para Eleonora.
 
 Vibeke já tinha o braço transpassado no de Josh. Aurora viu o gesto. Foi natural, sem peso, do tipo que sua prima executava com a mesma despreocupação com que tinha trançado o braço nele para subir a escada na chegada à Bredgade. Com dois irmãos maiores, Aurora supôs que Vibeke entrelaçava o braço em braços de homens a vida inteira sem dar a aquilo nenhum significado especial.
 
-Mas Aurora viu o braço de Josh. O bíceps se contraindo dentro da camisa, na curva do antebraço.Viu o jeito dele oferecer o cotovelo, levemente para fora, com a mão fechada no punho — era uma postura que ele tinha aprendido nos últimos meses, ensinada por Eleonora, e que ele já executava com a indiferença prática de quem internalizou um gesto que não era seu mas que tinha virado seu. Aurora viu, e o registro foi físico: o ombro de Josh, a linha do braço de Josh, a leveza com que ele recebeu a mão da Vibeke ali.
+Mas Aurora viu o braço de Josh. O bíceps se contraindo dentro da camisa, na curva do antebraço. Viu o jeito dele oferecer o cotovelo, levemente para fora, com a mão fechada no punho — era uma postura que ele tinha aprendido nos últimos meses, ensinada por Eleonora, e que ele já executava com a indiferença prática de quem internalizou um gesto que não era seu mas que tinha virado seu. Aurora viu, e o registro foi físico: o ombro de Josh, a linha do braço de Josh, a leveza com que ele recebeu a mão da Vibeke ali.
 
 Aurora respirou pelo nariz uma vez. Olhou para a senhora Lundgren. Sorriu o sorriso medido. Avançou para o salão atrás dos dois.
 
@@ -128,7 +128,7 @@ Mas o aperto não pediu autorização para existir.
 
 A mão dela fechou no leque. O calor subiu pelo pescoço, encostou na orelha. Aurora abriu o leque. Ventilou o rosto duas vezes. Olhou para o chão.
 
-Aquele riso de Josh, ele nunca tinha soltado com ela. Josh nunca rira abertamente daquela forma em nenhuma intereção entre eles, ela percebeu pela segunda vez, com uma honestidade desconfortável. Até então, pensara que não era do feitio dele gargalhar. Mas era. Pelo menos fora há 2 minutos atrás com Vibeke. Ele se soltara, mas não com ela, não com Aurora.
+Aquele riso de Josh, ele nunca tinha soltado com ela. Josh nunca rira abertamente daquela forma em nenhuma interação entre eles, ela percebeu pela segunda vez, com uma honestidade desconfortável. Até então, pensara que não era do feitio dele gargalhar. Mas era. Pelo menos fora há 2 minutos atrás com Vibeke. Ele se soltara, mas não com ela, não com Aurora.
 
 *
 
@@ -248,7 +248,7 @@ E quando chegou onde Aurora estava, parou ao lado dela. Não muito perto. A dist
 
 — Tudo bem.
 
-— Antes da valça, sua mãe perguntou se eu queria ir buscar uma taça de água para você.
+— Antes da valsa, sua mãe perguntou se eu queria ir buscar uma taça de água para você.
 
 — Minha mãe te mandou aqui?
 
@@ -278,7 +278,7 @@ Mas Josh não saiu. Ficou ali, ao lado dela, segurando a taça de água que ele 
 
 — Eu não sei se ela percebe o que está fazendo.
 
-— Não percebe. — Aurora respondia monosilabicamente.
+— Não percebe. — Aurora respondia monossilabicamente.
 
 — Bom, é o que parece.
 
