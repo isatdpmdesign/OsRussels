@@ -85,21 +85,74 @@ sabe a que está respondendo e sai robótica ou "simpática" fora de hora.
 
 ## Pronúncia (escrever como se fala)
 
-| Palavra | Grafia no áudio |
+Mapa completo do que foi usado nos capítulos 1 a 19. A coluna da esquerda é como
+está no livro; a do meio é como se escreve no roteiro de áudio.
+
+### Nomes de pessoas
+
+| No livro | No áudio | Observação |
+|---|---|---|
+| Raj | **Ráge** | "Raj"/"Ráje" saía "rais", "raigue". Na narração, preferir "o pai" / "o padrinho" |
+| Aarav | **Aráve** | "Arav" saía "Arrav"; "Aarav" saía embolado |
+| Aurora (dita pelo Josh, dentro da frase) | **Aurôra** | sozinha saía "auraa", "aurowruwa"; na narração, se embolar, também "Aurôra" |
+| Aurora, como chamado isolado do Josh | colar o take `josh_aurora.wav` ou `ref-josh-aurora-intenso.wav` | não gerar |
+| Russel / Russels | **Rássel / Rássels** | na boca da Lúque, trocado por "Rapaz" |
+| Vibeke | **Vibêke** | |
+| Bjerg | **Bierg** | |
+| Erik | **Érik** | |
+| Eriksen | **Ériksen** | |
+| Hjalmar | **Iálmar** | |
+| Lykke | **Lúque** | |
+| Oehlenschläger | **Ólenchlêguer** | nunca sozinho numa fala ("Isso é Ólenchlêguer.") |
+| Montesquieu | **Montesquiê** | |
+| Kongen (o gato) | **Kóngen** | |
+| Christian VI | **Cristiano Sexto** | |
+
+### Lugares
+
+| No livro | No áudio |
 |---|---|
-| Raj | Ráge |
-| Aarav | Aráve (sai "Arrav" com "Arav") |
-| Aurora (na fala do Josh) | Aurôra |
-| Bredgade | Brédigueide |
-| Russel | Rássel |
-| Vibeke | Vibêke |
-| Oehlenschläger | Ólenchlêguer |
-| Eriksen | Ériksen |
-| Hjalmar / Lykke | Iálmar / Lúque |
-| Sorø | Sorô |
-| Kongen | Kóngen |
-| robe, igreja, cor, cerca | róbe, igrêja, cór, cêrca |
-| certamente | Sertamenti |
+| Bredgade | **Brédigueide** |
+| Sorø | **Sorô** |
+| Christianshavn | **Kristiánshaun** |
+| Kastellet | **Kástelet** |
+| Aalborg | **Ólborg** |
+| Aarhus | **Órus** |
+
+### Palavras comuns
+
+| Palavra | No áudio | Por quê |
+|---|---|---|
+| certamente | **Sertamenti** | saía "tchertamente" |
+| naturalmente | trocar por **certamente** (Sertamenti) | L espanhol |
+| rápido | trocar por **depressa** / **ágil** | saía "rapto" |
+| desceram | **desseram** | |
+| pelos (do corpo) | **pêlos** | saía "pélos" |
+| robe | **róbe** | |
+| igreja | **igrêja** | |
+| cor | **cór** | |
+| cerca | **cêrca** | |
+| seca (adjetivo) | **sêca** | |
+| buffet | **bufê** | |
+| Sirva / "Servi" (fala curta) | **Sérvi** | |
+| "Josh emendou" | **"Josh consertou"** | "emendou" e "corrigiu" embolavam |
+| "vou ser direta" | **"eu vou ser direta"** | saía "vousê" |
+| madrugadora | evitar ("que também acordava muito cedo") | saía "madrigadora" |
+| "dar cobertura" | **"Te dar cobertura?"** | saía com sotaque espanhol |
+| "Está verde" | **"Seu rosto está meio verde"** | frase curta falhava |
+| "Para." (Aurora) | **"Para, Aurora."** | sozinha saía "parami" |
+| "Útil por quê?" | **"E por que seria útil?"** | "útil" sozinho embolava |
+
+### Regras gerais de pronúncia
+
+- Fala de uma palavra só falha (finishReason OTHER) ou sai embolada: alongar com
+  meia frase ("Josh." → "Josh. Olha pra mim."; "Sim." → "Sim, Josh.").
+- Nome estrangeiro nunca sozinho numa fala curta: sempre dentro de uma frase.
+- Se a narração disser "baixou o tom" / "baixinho", a narradora cochicha: reescrever
+  a atribuição ("disse, sem levantar a voz").
+- "Josh" na narração às vezes sai errado: usar "ele" ou "o afilhado".
+- Depois de gerar, transcrever e procurar o nome: se o nome não aparece na
+  transcrição, quase sempre saiu errado (foi assim que se achou o "aurara" e o "Arrav").
 
 ## Conferência
 
