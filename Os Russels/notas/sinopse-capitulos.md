@@ -6,7 +6,7 @@ Resumo cronológico de cada capítulo com eventos, detalhes canônicos e ganchos
 
 ## Cap 1 — O lugar que ficou vazio (Aurora)
 
-*Março de 1830.* Aurora, 17 anos, no luto pelo Aarav (morto na expedição ao Ceilão). Casa em silêncio, cadeira vazia à mesa de jantar. Raj anuncia que **Casandra Russel** escreveu pedindo que ele receba o filho dela, **Joshua, 21 anos, do interior da Zelândia**, para estudos em Copenhague. Raj é padrinho do Josh. Quinze dias até a chegada. Aurora vai ao jardim falar com o irmão (vento, roseiras).
+*Março de 1830.* Aurora, 18 anos, no luto pelo Aarav (morto na expedição ao Ceilão). Casa em silêncio, cadeira vazia à mesa de jantar. Raj anuncia que **Casandra Russel** escreveu pedindo que ele receba o filho dela, **Joshua, 21 anos, do interior da Zelândia**, para estudos em Copenhague. Raj é padrinho do Josh. Quinze dias até a chegada. Aurora vai ao jardim falar com o irmão (vento, roseiras).
 
 **Detalhes canônicos:** Raj é Kapoor, indiano, veio aos 14 anos. Casado com Eleonora Bjerg. Casandra é viúva há quatro anos. Josh (21) tem três irmãos (Matias 13, Joseph 24, Dylan 19) e uma irmã (Meridiana 20).
 
@@ -46,7 +46,7 @@ Junho. **Baile de abertura dos Frederiksen.** Debut da Aurora aos 16. Vestido ve
 
 ## Cap 7 — O que não se diz no café da manhã (Josh)
 
-Manhã seguinte ao baile. Josh lê sem ler. Pensa na expressão da Aurora no hall. Aurora vista como **menina de dezesseis anos**. Josh vê que a sociedade trata Aurora como complicação por causa da mestiçagem. (**Errata aplicada:** ajuste de "dois anos de bailes e chás" para "dois anos de chás e jantares" — o baile dos Frederiksen foi o primeiro dela.)
+Manhã seguinte ao baile. Josh lê sem ler. Pensa na expressão da Aurora no hall. Aurora vista como **menina de dezoito anos**. Josh vê que a sociedade trata Aurora como complicação por causa da mestiçagem. (**Errata aplicada:** ajuste de "dois anos de bailes e chás" para "dois anos de chás e jantares" — o baile dos Frederiksen foi o primeiro dela.)
 
 ---
 
@@ -100,7 +100,7 @@ Aurora chora na **despensa**, sentada no chão de pedra entre sacos de farinha e
 
 ## Cap 16 — O que não aconteceu (Aurora)
 
-**Quatro dias depois da festa.** Aurora processa três sentimentos sobre o Erik (irritação, ternura, gratidão) e conclui que não corresponde a ele. **Mas não há rompimento nem afastamento — Erik continua pretendente ativo e segue visitando às quartas (confirmado Cap 17:313).** Cinco e quarenta e cinco da manhã, ela desce para a cozinha esperando encontrar Josh — Josh não aparece. Jantar de quarta. Eleonora anuncia a chegada da **Vibeke Bjerg**, sobrinha (filha da Karoline), **dezessete anos, quase dezoito**. Vai chegar na quarta seguinte. Eleonora começa a tecer a manobra Josh-Vibeke. *(Errata aplicada:* Cap 16 revisado com correção de português.*)*
+**Quatro dias depois da festa.** Aurora processa três sentimentos sobre o Erik (irritação, ternura, gratidão) e conclui que não corresponde a ele. **Mas não há rompimento nem afastamento — Erik continua pretendente ativo e segue visitando às quartas (confirmado Cap 17:313).** Cinco e quarenta e cinco da manhã, ela desce para a cozinha esperando encontrar Josh — Josh não aparece. Jantar de quarta. Eleonora anuncia a chegada da **Vibeke Bjerg**, sobrinha (filha da Karoline), **dezenove anos, quase vinte**. Vai chegar na quarta seguinte. Eleonora começa a tecer a manobra Josh-Vibeke. *(Errata aplicada:* Cap 16 revisado com correção de português.*)*
 
 ---
 

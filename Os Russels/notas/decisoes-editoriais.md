@@ -86,3 +86,5 @@
 ---
 
 *Última atualização: junho de 2026, após Cap 30 escrito (redesenho do Ato 3 em 10 capítulos: 30-39).*
+
+| 18/11/2026 | **Idade da Aurora: 18 anos, quase 19** (antes 17, quase 18). Decisão da autora, para diminuir a distância de idade com o Josh (21). Faz 19 pouco depois do Regensen (cap 29). Vibeke passa a 19, quase 20, para manter "um ano mais velha". Na fala da Casandra (cap 23), "igual a sua prima ali em cima" virou "menos do que você tem agora". Feito no branch `claude/aurora-18-anos-LnfjM`; áudios que citam a idade ainda por refazer. | autora |
