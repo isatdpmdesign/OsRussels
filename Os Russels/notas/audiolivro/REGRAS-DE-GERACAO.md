@@ -170,6 +170,37 @@ Exemplos que funcionaram (cap 18):
 - **Ingrid, Erik:** `BR`.
 - **Sra. Mikkelsen:** ElevenLabs (no Gemini ficava igual à Aurora).
 
+## Efeitos sonoros
+
+**Situação:** só um efeito foi feito até agora, a ambiência da festa no celeiro
+(cap 15). A amostra foi **aprovada pela autora** ("tá legal"), mas tem só 2 segundos
+e **ainda não foi encaixada** no capítulo 15. Arquivo: `efeitos/celeiro-amostra.mp3`.
+
+- **Motor:** ElevenLabs, efeito sonoro (`eleven_text_to_sound_v2`). O Gemini não
+  gera efeito.
+- **Prompt em inglês**, descrevendo época, lugar, fontes de som e o que evitar.
+  O do celeiro, aprovado:
+  > 1830s Danish barn party ambience heard from inside: lively folk fiddle and
+  > accordion playing a fast country dance, boots stomping on wooden floor, crowd
+  > chatter and laughter, warm and festive, no modern sounds
+- **Sempre** terminar o prompt com "no modern sounds" (é 1830).
+- **Para ambiência**, gerar com duração de ~30 s e em loop (`loop: true`); a
+  amostra de 2 s não serve de fundo.
+- **Efeito é ambiência, não protagonista:** entra por baixo da cena, nunca por
+  cima de fala. Só em cena que pede lugar (festa, baile, carruagem, chuva), não
+  em todo capítulo.
+
+**Como encaixar (planejado, ainda não testado com a autora):**
+- mixar por baixo da narração e das falas da cena, em volume baixo (cerca de
+  -20 dB abaixo da voz), em loop pela duração da cena;
+- entrada e saída em fade (2 a 3 s), sem corte seco;
+- primeiro mandar só a cena com o efeito, para a autora aprovar o volume, antes de
+  aplicar no capítulo inteiro.
+
+**Ideias levantadas e ainda não feitas:** ambiência do baile dos Lundgren (cap 18:
+orquestra de salão, conversa, taças), carruagem na pedra da Brédigueide, e o
+degrau que range (cap 19).
+
 ## Ciclo de correção com a autora
 
 1. Gerar o capítulo, conferir (transcrição + tom do Josh), refazer o que falhou.
