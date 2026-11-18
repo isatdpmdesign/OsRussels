@@ -7,24 +7,40 @@ completo das decisões está em `producao-audiolivro.md` (nesta mesma pasta).
 
 - **Gemini 2.5 Flash TTS** (`gemini-2.5-flash-preview-tts`). Cota Tier 1: 100
   requisições/dia por projeto, renova às 05h00 de Brasília.
-- Elenco (vozes pré-prontas do Gemini):
+- Elenco completo usado nos capítulos 1 a 19 (vozes pré-prontas do Gemini, salvo indicação).
+  A chave é o código usado nos scripts `gerar-capNN.py`.
 
-| Personagem | Voz | Observação |
-|---|---|---|
-| Narradora | Vindemiatrix + tom baixado (`asetrate=24000*0.88,aresample=24000,atempo=1.1364`) | |
-| Aurora | Leda | sempre com prefixo de português do Brasil |
-| Josh | Zubenelgenubi | ver regras abaixo |
-| Eleonora | Gacrux | "senhora madura, grave e contida" |
-| Raj | Algieba | |
-| Vibêke | Laomedeia | "com alegria espontânea" |
-| Sra. Lundgren | Sulafat | "senhora madura" |
-| Helle | Achernar | |
-| Fru Larsen | Kore | |
-| Erik | Iapetus | |
-| Ingrid | Aoede | |
-| Iálmar | Puck | |
-| Lúque | Zephyr | |
-| Arav (memória) | narradora + filtro `highpass=f=240,lowpass=f=3200,aecho=0.8:0.6:55:0.3,volume=0.72` | |
+| Chave | Personagem | Voz | Caps | Prefixo / observação |
+|---|---|---|---|---|
+| `N` | Narradora | Vindemiatrix | 1–19 | sempre com o filtro de tom grave: `asetrate=24000*0.88,aresample=24000,atempo=1.1364` |
+| `NM` | Memórias (Aarav, falas lembradas) | Vindemiatrix | 6, 10, 16, 19 | narradora + filtro de memória `highpass=f=240,lowpass=f=3200,aecho=0.8:0.6:55:0.3,volume=0.72` |
+| `AU` | Aurora | Leda | 1–19 | sempre `BR` ("Diga em português do Brasil, com sotaque brasileiro:"); em tensão/intimidade `AI` ("…num tom sincero e contido, sem animação:") |
+| `JOSH` | Josh | Zubenelgenubi | 2–19 | sem prefixo na conversa casual; em tensão `P1` ("Diga com voz de homem jovem, grave, baixa e aveludada, calma, sem animação:"). O antigo `J` ("voz masculina grave e firme…") dos primeiros capítulos foi abandonado: deixava grosso |
+| `JOSHW` | Josh em voz baixa/rouca | Zubenelgenubi | 6 | instrução de tom no próprio texto |
+| `EL` | Eleonora (mãe) | Gacrux | 1–18 | `ELP` ("Diga com voz de senhora madura, grave e contida:") |
+| `RAJ` | Raj (pai) | Algieba | 1–17 | nome falado "Ráge" |
+| `DYLAN` | Dylan (irmão do Josh) | Achird | 2 | irônico, seco |
+| `HELLE` | Helle (criada) | Achernar | 3, 13 | |
+| `LARSEN` | Fru Larsen (cozinheira) | Kore | 3, 13 | |
+| `MIK` | Sra. Mikkelsen | Sulafat no script; no áudio final, **ElevenLabs** (voz salva "Eleonora - Os Russels", eleven_v3) | 4 | no Gemini ficava igual à Aurora |
+| `FRED` | Frederikke Mikkelsen | Autonoe | 4, 9 | |
+| `LOV` | Lovise Mikkelsen | Laomedeia | 4 | |
+| `CAS` | Casandra (cartas) | Pulcherrima | 5 | |
+| `SOL` | Madame Solberg (modista) | Despina | 6, 14 | |
+| `ING` | Ingrid Mortensen | Aoede | 6, 12, 14–16 | `BR` |
+| `ERIK` | Erik Mortensen | Iapetus | 10, 15, 16 | `BR` |
+| `HJ` | Hjalmar Eriksen ("Iálmar") | Puck | 15 | |
+| `LYK` | Lykke Eriksen ("Lúque") | Zephyr | 15 | |
+| `VIB` | Vibeke ("Vibêke") | Laomedeia | 17, 18 | `VB` ("…com alegria espontânea:") |
+| `LUN` | Sra. Lundgren | Sulafat | 18 | `ELP` |
+| `CR1`–`CR3` | vozes de reserva (Erinome, Callirrhoe, Zephyr) | — | — | declaradas, nunca usadas |
+
+- **Takes fixos** (colar o arquivo, não gerar de novo), em `audio-ref/` ou nesta pasta:
+  `josh_aurora.wav` ("Aurora" de chamado), `ref-josh-aurora-intenso.wav` ("Aurora" de
+  intensidade), `ref-josh-voz-certa.wav` (timbre aprovado do Josh), `ref-josh-tom-intimo.wav`
+  e `ref-aurora-tom-intimo.wav` (tom íntimo aprovado dos dois).
+- **No diálogo contínuo** (multi-speaker), as vozes são as mesmas da tabela; o prefixo
+  vira a direção de cena no começo do texto.
 
 ## NOVA REGRA (18/11) — diálogo contínuo
 
