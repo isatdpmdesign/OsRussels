@@ -66,3 +66,4 @@ substituida_por: —
 | 0006 | Diagramadora e narradora saem da Fase 1 | produto | aceita |
 | 0007 | Comentário do tipo regra vira lei do sistema | processo | aceita |
 | 0008 | A usuária nunca escolhe modelo | produto | aceita |
+| 0009 | No áudio, diálogo se gera em bloco contínuo, não fala por fala | produto | aceita |

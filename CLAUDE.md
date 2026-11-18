@@ -21,8 +21,8 @@ livro** mora no projeto. Entre os dois há um contrato.
 
 ```
 .claude/
-  skills/        16 skills de motor — não sabem quem é Josh ou Aurora
-  agents/         5 subagentes (todos somente leitura)
+  skills/        19 skills de motor — não sabem quem é Josh ou Aurora
+  agents/         6 subagentes (todos somente leitura)
   tools/          lint.py · estado.py  — determinístico, custo zero
 
 Os Russels/
