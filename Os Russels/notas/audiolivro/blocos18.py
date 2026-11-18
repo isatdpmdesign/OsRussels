@@ -3,11 +3,11 @@ multi-speaker, e recorta cada fala de volta para o seu {slug}.seg.wav."""
 import json, base64, subprocess, os, sys, re, difflib, unicodedata, time
 import numpy as np, soundfile as sf
 
-BASE = "/tmp/claude-0/-home-user/02172d33-003a-562c-8c14-54fc7ca69dd4/scratchpad/gtts18"
+BASE = os.environ.get("GTTS_BASE", "/tmp/gtts") + "/gtts18"
 OUT = BASE + "/blocos"; os.makedirs(OUT, exist_ok=True)
 URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent"
 SR = 24000
-VOZ = {"Aurora": "Leda", "Vibêke": "Laomedeia", "Eleonora": "Gacrux", "Senhora Lundgren": "Sulafat"}
+VOZ = {"Aurora": "Leda", "Vibêke": "Laomedeia", "Eleonora": "Gacrux", "Senhora Lundgren": "Sulafat", "Josh": "Zubenelgenubi"}
 GERAL = ("Leia em português do Brasil, com sotaque brasileiro, como uma cena de audiolivro de romance de época, "
          "interpretada por duas atrizes, com naturalidade, como conversa de verdade, sem ler. ")
 BLOCOS = {
@@ -47,6 +47,34 @@ BLOCOS = {
          ("i067","Vibêke","Eu não tinha pensado nisso."),("i068","Aurora","Eu sei que não."),
          ("i069","Vibêke","E agora, você está sendo prima ou conselheira?"),("i070","Aurora","As duas coisas."),
          ("i072","Vibêke","Você é boa, sabia?")]),
+ "B6a": ("Perto da janela de um salão de baile cheio, num intervalo entre danças; os dois falam num tom mais baixo, sem sussurrar, para ninguém ouvir. Josh tem vinte e um anos: voz de homem jovem, masculina, grave, baixa e aveludada, contida. Ele está apaixonado por ela e não pode dizer; cada frase carrega tensão e desejo segurado, ele respira antes de falar, faz pequenas pausas. Nunca animado, nunca simpático, nunca leve, nunca recitando. Aurora tem dezoito anos: voz suave e firme, sem nenhuma infantilidade; está com ciúme e finge que não, responde seca, às vezes com afronta, às vezes insegura.",
+        [("i076","Josh","Aurôra. Tudo bem?"),("i077","Aurora","Tudo bem, Josh."),
+         ("i078","Josh","Antes da valsa, a sua mãe me pediu pra trazer uma taça de água pra você."),
+         ("i079","Aurora","A minha mãe te mandou aqui?"),("i080","Josh","Mandou, sim. Foi ela quem pediu."),
+         ("i081","Aurora","E por que ela faria isso?"),
+         ("i083","Josh","Eu não sei. Talvez porque ela viu você sozinha na janela."),
+         ("i084","Aurora","Eu estou bem sozinha na janela."),("i085","Josh","Eu sei que está."),
+         ("i086","Aurora","Você pode dizer a ela que cumpriu o recado."),
+         ("i087","Josh","Tudo bem. Mas você não vai querer a água?"),
+         ("i088","Aurora","Não, Josh. Eu mesma posso me servir, se eu quiser. Obrigada."),
+         ("i090","Josh","A Vibêke me contou que falou do Lauritz pra meia cidade em uma hora."),
+         ("i091","Aurora","Ela acabou de me contar a mesma coisa."),
+         ("i092","Josh","Eu não sei se ela percebe o que está fazendo."),
+         ("i094","Aurora","Não percebe, não."),("i095","Josh","Bom. É o que parece."),
+         ("i096","Aurora","Bom pra você, então.")]),
+ "B6b": ("Perto da janela de um salão de baile cheio, num intervalo entre danças; os dois falam num tom mais baixo, sem sussurrar, para ninguém ouvir. Josh tem vinte e um anos: voz de homem jovem, masculina, grave, baixa e aveludada, contida. Ele está apaixonado por ela e não pode dizer; cada frase carrega tensão e desejo segurado, ele respira antes de falar, faz pequenas pausas. Nunca animado, nunca simpático, nunca leve, nunca recitando. Aurora tem dezoito anos: voz suave e firme, sem nenhuma infantilidade; está com ciúme e finge que não, responde seca, às vezes com afronta, às vezes insegura. Agora ele baixa a guarda e pergunta o que está por trás do silêncio dela; a voz dele fica mais lenta e mais próxima.",
+        [("i099","Aurora","Sim, Josh?"),("i100","Josh","Tem alguma coisa te incomodando?"),
+         ("i102","Aurora","Não. Nada."),("i103","Josh","Isso não é verdade."),("i104","Aurora","Não é mentira."),
+         ("i105","Josh","Eu acho que é, sim."),("i106","Aurora","Eu sei que você acha. Mas você acha errado."),
+         ("i108","Aurora","Não tem motivo, Josh."),("i109","Josh","Eu sei que não tem."),
+         ("i110","Aurora","Ela é uma boa pessoa."),("i112","Josh","Tenho certeza disso."),
+         ("i113","Aurora","E ela é apaixonada pelo Lauritz."),("i114","Josh","É, sim. Muito."),
+         ("i115","Aurora","Então não tem motivo."),
+         ("i116","Josh","Aurôra. Você ter motivo, ou não ter motivo, não muda o que você está sentindo."),
+         ("i118","Aurora","Eu vou voltar pro meu lugar."),("i119","Josh","Eu sei. Pode ir."),
+         ("i120","Aurora","Você vai dançar com a Vibêke?"),("i121","Josh","Provavelmente, sim."),
+         ("i122","Aurora","Boa noite, Josh."),("i123","Josh","A noite ainda não acabou."),
+         ("i124","Aurora","Eu sei que não.")]),
 }
 
 def gera(bid):
@@ -79,7 +107,8 @@ def recorta(bid, a):
     from faster_whisper import WhisperModel
     if _m is None: _m = WhisperModel("small", device="cpu", compute_type="int8")
     _, linhas = BLOCOS[bid]
-    segs, _ = _m.transcribe(a, language="pt", beam_size=5, word_timestamps=True)
+    a16 = np.interp(np.arange(0, len(a), SR / 16000), np.arange(len(a)), a).astype(np.float32)
+    segs, _ = _m.transcribe(a16, language="pt", beam_size=5, word_timestamps=True)
     hw = [(w.word, w.start, w.end) for s in segs for w in s.words]
     hyp = [];
     for w, s, e in hw:
@@ -104,7 +133,8 @@ def recorta(bid, a):
     return True
 
 if __name__ == "__main__":
-    for bid in (sys.argv[1:] or BLOCOS):
-        a = gera(bid)
+    so_recorte = "--recortar" in sys.argv
+    for bid in ([x for x in sys.argv[1:] if not x.startswith("--")] or BLOCOS):
+        a = sf.read(f"{OUT}/{bid}.wav", dtype="float32")[0] if so_recorte else gera(bid)
         if a is None: print("ABORT", bid); break
         recorta(bid, a)

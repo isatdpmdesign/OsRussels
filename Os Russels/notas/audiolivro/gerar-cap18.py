@@ -1,7 +1,7 @@
 import json, base64, subprocess, os, wave, time, numpy as np, soundfile as sf
 
-BASE = "/tmp/claude-0/-home-user/02172d33-003a-562c-8c14-54fc7ca69dd4/scratchpad/gtts18"
-SCR = "/tmp/claude-0/-home-user/02172d33-003a-562c-8c14-54fc7ca69dd4/scratchpad"
+BASE = os.environ.get("GTTS_BASE", "/tmp/gtts") + "/gtts18"
+SCR = os.environ.get("GTTS_BASE", "/tmp/gtts")
 URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent"
 SR = 24000
 # NOVAS vozes: Josh (Achird, jovem/caloroso), Dylan (Zubenelgenubi, casual/seco) — a AUDITAR com a autora
@@ -204,6 +204,9 @@ if __name__ == "__main__":
     parts = []
     for slug, vk, text, gap in SEG:
         seg_f = f"{BASE}/{slug}.seg.wav"; pf = f"{BASE}/{slug}_p.wav"
+        if text.startswith("CLIP:"):
+            ref = os.path.join(os.path.dirname(os.path.abspath(__file__)), {"josh_aurora_intenso": "ref-josh-aurora-intenso.wav", "josh_aurora": "josh_aurora.wav"}[text[5:]])
+            subprocess.run(["ffmpeg","-y","-i",ref,"-ac","1","-ar",str(SR),seg_f,"-loglevel","error"],check=True)
         if os.path.exists(seg_f):
             a = load(seg_f); src="cache"
         elif vk == "N" and os.path.exists(pf):

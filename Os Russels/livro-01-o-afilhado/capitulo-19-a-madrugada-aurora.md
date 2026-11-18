@@ -158,37 +158,33 @@ Josh não se moveu. A resposta tinha sido dita, e só Deus sabia o quanto ele te
 
 — Por quê? — Aurora soltou um riso curto, sarcástico. — Realmente não aprecia minha companhia, não é? Naquela noite no celeiro, em que eu... — Aurora parou. Não soube como mencionar que tinha pedido um beijo. — Enfim. Você também fugiu.
 
-— Não fugi. Erik chegou.
+— Não fugi. O Erik chegou.
 
 — Mas fugiria, não é?
 
 Josh desistiu de se levantar. Virou o corpo em direção Aurora e a encarou. Podia ver nos olhos dela a dúvida e o medo do que ele poderia responder, percorrendo a pupila cor de mel.
 
-— Sim, eu fugiria. Sempre vou fugir. Agora mesmo estou fugindo, e é o melhor que eu consigo fazer. — Ele se pôs agachado na ponta dos pés, já pronto para levantar, mas foi interrompido.
+— Fugiria, sim. — Ele se pôs agachado na ponta dos pés, pronto para levantar. — Estou fugindo agora. É o melhor que eu consigo fazer por você.
 
-— Porque? Qual é o problema? Diga! Eu preciso saber. — Aurora ordenou com angustia transparecendo em cada palavra.
+— Por quê? Qual é o problema? Diga! Eu preciso saber. — Aurora ordenou, com a angústia transparecendo em cada palavra.
 
-— Vou subir agora, porque eu não confio em mim com você quando a casa está dormindo.
+Josh parou no meio do movimento. Quando respondeu, não olhou para ela. Olhou para a vela.
+
+— Porque a casa inteira está dormindo, e eu... — Respirou. — Eu não confio em mim perto de você, Aurora. Não assim.
 
 A frase pousou na sala como uma vela trocada. Aurora sentiu o calor subir pela nuca — não pelo pescoço dessa vez, pela nuca, naquele ponto onde o cabelo encontrava a pele e onde tudo que ela sentia geralmente acontecia antes de a cabeça dela ter autorizado. Apertou o xale.
 
-— Você já pensou nisso antes? — perguntou.
+— Desde quando você pensa nisso?
 
-— O tempo todo, todo dia, há dois meses.
+O maxilar dele se mexeu antes da boca.
 
-— Por que está me dizendo agora?
+— Todo dia. Há dois meses, todo santo dia.
 
-— Porque você acabou de me implorar para dizer.
-
-— Eu pergunto há semanas. Você não responde.
-
-— Eu sei.
-
-— Então o que mudou?
+— E por que está me dizendo agora? Eu pergunto há semanas, e você nunca responde.
 
 Josh olhou pra ela direto pela primeira vez desde que tinha entrado. Não o relance de antes. Olhou com a postura de quem ia pagar o preço de olhar.
 
-— A forma como você perguntou.
+— Porque você nunca tinha me perguntado desse jeito. Olhando pra mim desse jeito.
 
 *
 
@@ -198,75 +194,45 @@ Não pousou rápido. Pousou com a deliberação consciente de quem está liberan
 
 Josh viu o gesto. Não comentou. Continuou no chão, com as pernas dobradas, mas o corpo dele tinha mudado de postura na hora em que o livro saiu do colo dela — Aurora viu o ombro dele tensionar um milímetro, viu o antebraço dele firmar no joelho. Era a postura de quem está se preparando para uma coisa que sabe que não vai conseguir evitar.
 
-— Aurora.
+— Aurora. Antes de você dizer qualquer coisa... — Ele parou. Recomeçou, mais baixo. — Tem três coisas que você precisa ouvir. Eu repeti isso tantas vezes sozinho no quarto que...
 
-— Sim.
-
-— Antes de você dizer o que você vai dizer, eu preciso te dizer uma coisa. Três coisas, na verdade. Eu preciso que você saiba das três antes de qualquer outra coisa acontecer nesta sala.
-
-Aurora ficou em silêncio. Era a frase mais longa que Josh tinha pronunciado em meses, e tinha o tom de quem estava entrando numa conversa que ele tinha repetido dentro da própria cabeça centenas de vezes mas que nunca tinha falado em voz alta para mais ninguém.
-
-— Está bem — disse ela. — Diz.
+Não terminou. Aurora não disse nada. Esperou.
 
 Josh respirou fundo. A respiração saiu pela boca dele pela primeira vez naquela noite, e Aurora viu o peito subir, segurar dois segundos, descer. A camisa aberta no primeiro botão deixava ver a base do pescoço, e a clavícula dele aparecia e desaparecia conforme o tórax se mexia. Aurora seguiu o movimento. Não desviou.
 
-— A primeira — começou Josh, e a voz dele saiu rouca, como se tivesse passado dias sem usar. — Eu sou afilhado do seu pai.
+— Eu sou o afilhado do seu pai. — A voz saiu rouca, como se ele não a usasse havia dias. — Ele me trouxe pra cá, me deu o quarto leste, a mesa dele, os livros dele. Pra essa cidade, Aurora, eu sou quase seu irmão. E ele confia em mim. É isso que eu... — Engoliu. — É isso que eu estaria traindo.
 
-— Eu sei.
+Aurora abriu a boca. Fechou. Esperou.
 
-— Aurora, eu sei que você sabe. Mas saber e dizer em voz alta não são a mesma coisa. Eu nunca disse em voz alta. Estou dizendo agora. Eu sou afilhado do Raj. Ele me trouxe pra essa cidade. Me deu o quarto leste. Me empresta os livros da biblioteca com a mão dele. Eu durmo numa cama que ele pagou, como na mesa dele, leio à luz das velas dele. E você é a única filha dele. — Josh pausou um instante. Aurora viu o canto da boca dele tremer. — Eu não consigo ser o homem que recebe tudo isso e que em troca leva a filha dele numa madrugada qualquer pra sala de estar. Não consigo. Esse homem não é honesto. Os Russels não são desonestos. Eu não posso ser o primeiro.
+— E eu não tenho um tostão. — Agora a voz vinha mais firme, como se a primeira tivesse aberto caminho para as outras. — Você sabe de onde eu venho. Uma fazenda em Sorø, uma mãe viúva, cinco filhos. Eu vim pra Copenhague estudar justamente pra tentar ser alguém. Hoje eu não tenho nada pra te oferecer. Não tenho como te dar a vida que você tem.
 
-Aurora abriu a boca. Não disse nada. Fechou. Esperou.
+— Eu nunca te pedi a vida que eu tenho.
 
-— A segunda — Josh continuou, e a voz dele estava um pouco mais firme agora, como se o ato de pronunciar a primeira tivesse dado licença pras outras saírem. — Você é Svensson. Eu sou Russel. Aurora, essas duas palavras não pesam o mesmo nessa cidade, e você sabe disso melhor do que eu. Você é herdeira da Bredgade, do nome, da fortuna marítima que o seu pai construiu com a vida inteira dele. Eu sou o segundo filho de uma viúva da Zelândia que cuida sozinha de terras suficientes pra alimentar a família mas não suficientes pra te alimentar do jeito que você é alimentada. Se a gente fosse... — ele tropeçou na palavra, recuperou. — Se isso fosse uma coisa pra valer, você desceria. Socialmente. Materialmente. Aos olhos da sua mãe. Aos olhos dessa cidade. E a sua mãe veria primeiro. Eu não consigo te pedir pra descer.
-
-— Eu desço se eu quiser descer.
-
-— Você acha que quer. Mas você ainda tem dezoito anos, Aurora.
-
-— Dezoito anos não me tornam burra.
-
-— Eu sei. Eu não estou dizendo isso. — Josh estendeu a mão no ar, como quem tenta parar uma carruagem em movimento sem encostar. — Eu estou dizendo que descer é uma decisão que precisa ser tomada com a vida inteira na frente, e a sua vida inteira ainda não tem nem o nome dos próximos cinco anos.
+— Não. Mas ela é sua. E eu não sei... — a voz falhou — eu não sei te pedir pra abrir mão dela.
 
 Aurora ficou em silêncio. A vela pulsou. A chama nervosa deu um daqueles tremores curtos que precedem o pavio começar a apagar. Faltava menos tempo na vela do que ela tinha calculado.
 
-— Tem mais? — disse ela, baixo.
-
-— Tem.
-
-— Então diga de uma vez.
+— E a terceira? — perguntou ela, baixo.
 
 Josh respirou. Olhou pro chão. Olhou pra ela. Olhou pra própria mão direita, pousada no joelho dobrado, com o calo da pena visível no segundo abaixo do nó do dedo médio. Quando voltou a falar, a voz dele estava mais baixa do que as duas anteriores.
 
-— A terceira é a que me mata. — Pausa. — Eu te quero feliz, Aurora. Eu te quero casada com alguém que te leve pra um lugar que honre o que Aarav deixou de herdar. Que honre a vida que o seu pai construiu pra você. Que honre o que a sua mãe quer pra você, mesmo que ela não saiba dizer o que quer com clareza. Eu fiz essa conta vinte vezes no quarto leste nestes cinco meses, e a conta nunca fecha do meu lado. Você merece subir. Comigo você desce. — Os olhos dele estavam marejados — não chorando, mas com a pele de cima do choro, daquela parte que ainda dá pra conter se a pessoa segurar firme. — Eu não posso ser o homem que pede pra você descer. Não consigo me olhar no espelho sendo esse homem.
+— A terceira é a que eu não aguento. — Pausa. — Se descobrirem, ninguém vai achar que a gente se apaixonou, que é uma linda história de amor. Vai ser um escândalo. E quem vai ser prejudicada é você, não eu. É a sua reputação que está em jogo, Aurora. O seu nome. — Os olhos dele estavam marejados — não chorando, mas com a pele de cima do choro, daquela parte que ainda dá pra conter se a pessoa segurar firme. — Eu prefiro te querer de longe a ser o motivo de falarem de você assim.
 
 Aurora ficou em silêncio mais um tempo.
 
 A sala estava muito quieta. Era a quietude específica de madrugada na Bredgade — quando os passos de quem trabalhava dentro da casa já tinham acabado, e os passos de quem trabalhava fora da casa ainda não tinham começado, e o que sobrava era o assoalho assentando e a vela queimando e a respiração dos dois ocupantes do cômodo. Aurora ouviu o próprio coração na altura da garganta. Não estava acelerado. Estava forte.
 
-— Você terminou? — perguntou ela.
-
-— Terminei.
-
-— São três paredes.
+— São três paredes — disse ela.
 
 — São.
 
-— Você ensaiou.
+— E você ensaiou isso sozinho.
 
-— Centenas de vezes.
-
-— Sozinho.
-
-— Sozinho.
+Ele não respondeu. Não precisou: o queixo baixou meio centímetro, e Aurora entendeu que sim. Sozinho. Centenas de vezes.
 
 Aurora respirou fundo. Não foi um suspiro. Foi a respiração de quem está colocando alguma coisa no lugar dentro do peito antes de se mexer.
 
-— Josh.
-
-— Sim.
-
-— Eu vou responder. Mas eu não vou responder no chão.
+— Eu vou te responder, Josh. Mas não no chão.
 
 E levantou.
 
@@ -280,23 +246,23 @@ Josh continuou no chão por dois segundos. Depois levantou também.
 
 A distância entre os dois era de dois passos. Aurora calculou. Não foi um cálculo de matemática — foi um cálculo de corpo, do tipo que sabe a quantos centímetros está outro corpo antes de qualquer medida formal. Dois passos. Talvez menos.
 
-— Eu não tenho resposta pras três paredes — disse Aurora, e a voz dela saiu mais firme do que ela esperava, porque a voz, ela já estava descobrindo, ficava firme quando o resto do corpo estava decidido. — Eu não posso te garantir que o papai vai aceitar. Não posso te garantir que a mamãe vai aceitar. Não posso te garantir que essa cidade vai aceitar. Eu não tenho garantia nenhuma de nada pra te dar, Josh. Eu tenho dezoito anos e a única coisa que eu sei com certeza no mundo nesse momento é o que está dentro desse cômodo.
+— Eu não tenho resposta pras três — disse Aurora, e a voz dela saiu mais firme do que ela esperava, porque a voz, ela já estava descobrindo, ficava firme quando o resto do corpo estava decidido. — Não posso te garantir que o papai vai aceitar. Nem a mamãe, nem essa cidade. Eu tenho dezoito anos, Josh. A única coisa de que eu tenho certeza agora é o que está nesta sala.
 
 Josh não respondeu.
 
-— Você quer que eu finja que eu não te quero — continuou Aurora — porque você acha que fingindo me poupa. Mas não me poupa. Me deixa pior. Você não está sendo justo com a sua segunda parede, porque a sua segunda parede só funciona se eu não souber o que estou escolhendo. Eu sei. E eu não estou escolhendo descer. Eu estou escolhendo você. Não é a mesma coisa.
+— Você diz que pra cidade é quase meu irmão — continuou Aurora. — Pode ser. Mas eu nunca te olhei como irmão. Nem uma vez, desde o primeiro jantar. E o que você deve ao papai é verdade, eu sei o tamanho disso. Só que isso é entre você e ele. Um dia você vai ter que falar com ele. Não hoje. Eu não vou te pedir isso hoje.
 
-— Aurora.
+Josh fechou os olhos por um segundo. Quando abriu, estavam mais úmidos.
+
+— Quanto ao dinheiro... — Aurora quase riu, sem graça nenhuma. — Você acha que eu não sei o que estaria escolhendo? Eu sei. Eu não estou escolhendo ser pobre, Josh. Eu estou escolhendo você.
+
+— Aurora...
 
 — Não terminei.
 
 Josh fechou a boca.
 
-— A primeira parede é a que eu mais respeito — disse ela. — A lealdade ao papai. Eu sei o que o papai fez por você e eu sei o tamanho do que ele te deu. Eu não vou te dizer que isso não importa. Importa. Mas a primeira parede não é uma parede entre nós dois. É uma parede entre você e ele. E você vai ter que conversar com ele em algum momento. Não hoje. Eu não vou te pedir hoje. Mas em algum momento.
-
-Josh fechou os olhos por um segundo. Quando abriu, estavam mais úmidos.
-
-— E a terceira — disse Aurora, e a voz dela ficou mais baixa, porque a terceira era a que tinha doído nela também. — A terceira é mentira. Não é mentira sua. É mentira do mundo. Você não tem o direito de decidir o que honra Aarav. Quem decide o que honra Aarav sou eu. E eu te digo agora: Aarav teria gostado de você. Ele teria te levado pro jardim e te dado um galho de roseira pra plantar. Ele teria escrito poesia sobre o seu modo de cuidar das coisas. Você não rebaixa a memória dele. Você é o que a memória dele queria pra mim, mesmo que o mundo não tenha vocabulário pra entender isso ainda.
+— E a reputação é minha. — A voz dela ficou mais baixa, porque essa era a que tinha doído nela também. — Você não pode decidir sozinho o que eu aguento perder. Se alguém vai arriscar o meu nome, que seja eu.
 
 A vela tremeu de novo. Faltava muito pouco.
 
@@ -304,25 +270,17 @@ Aurora deu um passo.
 
 Josh não recuou.
 
-— Aurora — disse ele, e a voz tinha rachado um pouquinho na primeira sílaba. — Se você der mais um passo eu não consigo recuar.
+— Aurora. — A voz dele rachou na primeira sílaba. — Se você der mais um passo, eu não... — Parou. Respirou. — Eu não vou conseguir recuar.
 
 — Eu sei.
 
-— Eu já não estou conseguindo recuar.
+Ele soltou um riso baixo, sem humor nenhum, que saiu mais parecido com um gemido.
 
-— Eu sei.
+— As paredes continuam de pé, você entende? Eu continuo achando tudo o que eu disse. Mas eu te quero há cinco meses, Aurora, e o meu corpo já não... — Engoliu o resto. — Isso não resolve nada.
 
-— Você precisa entender que eu não estou conseguindo recuar não porque eu desisti das paredes. As paredes continuam de pé. Eu continuo achando o que eu acho. Mas eu sou um homem, Aurora, e eu te quero há cinco meses, e tem coisas que o corpo não consegue mais segurar mesmo quando a cabeça ainda está segurando.
+— Eu sei. Mas vai acontecer.
 
-— Eu sei, Josh.
-
-— Então fica claro que se você não se afastar, o que vai acontecer agora, entre nós dois, não resolve nada.
-
-— Fica claro.
-
-— Mas vai acontecer.
-
-— Vai.
+Ele não negou.
 
 Aurora deu o segundo passo.
 
@@ -334,13 +292,9 @@ Sentiu o calor do corpo dele antes do toque — não tinha encostado ainda, e j�
 
 A mão dela subiu sozinha.
 
-Encostou primeiro nos dedos dele. Só os dedos, palma contra palma, sem fechar — porque Aurora queria saber a textura primeiro, sem o peso da decisão por cima. Foi nesse segundo, palma contra palma, sem tecido nenhum entre eles, que ela sentiu o calo na lateral do dedo médio dele. Era mais áspero do que ela tinha imaginado em todas as vezes que tinha imaginado em silêncio nos últimos meses. Era um pedacinho de pele endurecida pelo trabalho de escrever, e Aurora sentiu — com uma clareza um pouco desconcertante — que aquele calo a fazia querer chorar e querer rir ao mesmo tempo, porque era uma prova física de que ele existia, de que tinha um corpo, de que esse corpo tinha hábitos e tempo de duração e que a vida dele estava acontecendo ao lado da vida dela há cinco meses inteiros.
+Encostou primeiro nos dedos dele, palma contra palma, sem fechar, e sentiu o calo na lateral do dedo médio, mais áspero do que tinha imaginado: cinco meses de pena e papel, ali, na mesma casa que ela.
 
-Josh fechou os olhos.
-
-— Aurora.
-
-— Eu sei.
+Josh fechou os olhos e disse o nome dela, quase sem voz.
 
 A mão dele virou. Os dedos dela escorregaram entre os dedos dele e fecharam. Foi a primeira vez que as mãos dos dois se prenderam — não cortesia, não condução de dança. Prenderam. Aurora sentiu o aperto firme dos dedos dele nas costas dos dela. Sentiu o polegar dele subir até a base do pulso dela e parar ali, no ponto onde o pulso batia. Josh ficou com o polegar ali por meio segundo, sentindo a batida. Aurora soube porque viu o queixo dele se afrouxar de leve quando ele encontrou o ritmo do pulso dela.
 
@@ -348,29 +302,27 @@ A outra mão dela subiu pela camisa dele, no peito, sem pousar — só seguindo 
 
 Josh abriu os olhos.
 
-— Aurora.
+— Aurora... eu...
 
 — Beija.
 
 *
 
-Ele baixou a cabeça primeiro.
+Ele baixou a cabeça devagar, como quem ainda dá a ela tempo de desistir.
 
-A boca dele encostou na dela com o tipo de cuidado que era também impaciência — a impaciência de quem tinha esperado tempo demais para o primeiro contato e que precisava, agora, não estragar o primeiro contato. Foi um beijo curto. Lábios contra lábios. Sem língua. Por uns dois segundos. Aurora sentiu os lábios dele mais cheios do que tinha imaginado, ligeiramente rachados na lateral direita, do tipo de rachadura que homens que esquecem de beber água têm no fim do verão dinamarquês.
+O primeiro beijo foi contido. Lábios contra lábios, quase parados, por dois segundos inteiros. Aurora sentiu a boca dele mais cheia e mais quente do que tinha imaginado, ligeiramente rachada na lateral direita, e sentiu que ele tremia — não as mãos: a respiração, presa no peito, saindo pelo nariz em fios curtos contra a bochecha dela.
 
-Depois Josh recuou meio centímetro, sem soltar a mão dela, e olhou nos olhos dela.
+Josh recuou meio centímetro, sem soltar a mão dela. A voz saiu tão perto que ela sentiu as palavras na própria boca.
 
-— Tem certeza.
-
-— Eu já disse que tenho.
-
-— Eu precisava ouvir de novo.
+— Você tem certeza?
 
 — Tenho. — Aurora abaixou a voz. — Beija de novo.
 
-A segunda vez a boca dele desceu mais firme.
+Da segunda vez, ele não pediu licença.
 
-Aurora abriu os lábios por reflexo, sem ter decidido, e a língua dele encontrou a dela no exato instante em que ela soltou o ar que estava prendendo havia uns dez segundos. O suspiro saiu entre os lábios de Josh e o calor do ar dela voltou pra boca dele e Aurora sentiu, com uma clareza que nunca tinha tido sobre o próprio corpo, que a coisa entre as costelas e a base do pescoço que ela não sabia nomear acabava de receber um nome.
+A boca dele voltou mais firme, e a dela se abriu sem que ela tivesse decidido. A língua dele encontrou a dela devagar — primeiro só um toque, como quem pergunta; depois inteira — e as duas se buscaram, se enroscaram, num ritmo que Aurora não sabia que conhecia. Ele tinha um gosto morno, limpo, de alguém que ela ia reconhecer no escuro. Prendeu o lábio de baixo dela entre os dentes, de leve, e soltou, e o som que escapou da garganta dela foi um suspiro que ela nunca tinha ouvido sair de si mesma. Josh respondeu com um ruído baixo, rouco, no fundo do peito, e a beijou mais fundo.
+
+O beijo ficou molhado, lento, sem nenhuma pressa de acabar. Aurora respirava quando ele deixava — pelo nariz, pelo canto da boca, encostada na bochecha dele — e o ar dela voltava pra boca dele, e o dele voltava pra dela.
 
 A mão dele soltou a dela e foi pra cintura. Pousou no lado direito do corpo dela, com a mão aberta inteira contra o tecido da camisola. Aurora sentiu a pressão firme, larga, com formato — sentiu o peso da mão dele através do algodão de um jeito que ela nunca tinha pensado que se pudesse sentir um peso através de algodão. A mão dele era maior do que ela tinha imaginado. Cobria a lateral inteira da cintura dela. Os dedos abertos quase encontravam as costas; o polegar pressionava o lugar logo abaixo da costela.
 
@@ -378,7 +330,7 @@ A outra mão dele subiu pra nuca dela.
 
 Era a mão direita. A do calo. Aurora sentiu os dedos dele entrarem por baixo do cabelo solto, separarem os fios, fecharem no lugar onde o cabelo encontrava o couro cabeludo. Não fechou forte. Fechou o suficiente para Aurora reconhecer que ele estava ali, que estava prendendo, que não ia soltar tão cedo. As unhas dele encostaram na pele da nuca dela. Aurora fechou os olhos sem ter decidido fechar. A pele inteira das costas reagiu como se tivesse sido tocada de uma vez só, de cima a baixo, sem aviso, e o calor passou pela cintura onde a outra mão dele estava, e voltou.
 
-Aurora ouviu o próprio suspiro. Foi um som que escapou entre os lábios dela sem permissão, baixo, do tipo que ela não sabia que sabia fazer. Josh ouviu também. Aurora sentiu o peito dele responder ao som dela — uma respiração mais funda, mais rápida, contra o peito dela.
+Aurora sentiu o peito dele subir contra o dela, mais depressa, mais fundo, como se ele também estivesse esquecendo de respirar.
 
 A mão dela subiu pro cabelo dele.
 
@@ -386,7 +338,7 @@ Era a primeira vez. Aurora tinha imaginado o cabelo dele um número de vezes que
 
 A boca dele desceu pro canto da boca dela. Depois pra linha do queixo. Depois pra base do pescoço, onde o xale tinha estado antes de cair. Aurora sentiu os lábios dele encostarem na clavícula dela e o calor que subiu não foi pela nuca, não foi pelo pescoço, foi por baixo da pele inteira ao mesmo tempo — uma onda que ela nunca tinha sentido na vida e que ela soube, no segundo em que sentiu, que ia dividir o tempo dela em antes e depois.
 
-Aurora segurou a cabeça dele com as duas mãos. Trouxe de volta pra boca dela.
+Quando ele voltou pra boca dela, Aurora já não tinha fôlego. Os joelhos tinham ficado moles, e o mundo inteiro cabia na distância entre a boca dele e a dela. Segurou o rosto dele com as duas mãos e trouxe de volta.
 
 E desta vez ela beijou primeiro.
 
@@ -398,51 +350,27 @@ Aurora não soube quanto tempo tinha passado. Podia ter sido dois minutos, podia
 
 Josh tinha a testa encostada na testa dela. Os dois respirando. A respiração dele estava mais alta do que a dela — não muito mais, mas o suficiente pra Aurora perceber e o suficiente pra a vaidade pequena e meio absurda dela registrar.
 
-— Aurora.
+— Aurora... — Ele ainda estava sem fôlego. — Eu não sei voltar disso. Nem quero. Mas eu tenho que subir.
 
-— Sim.
-
-— Eu não consigo voltar disso.
-
-— Eu sei, nem eu.
-
-— Eu também não quero voltar disso. Eu preciso te dizer isso antes de subir.
-
-— Está dito.
-
-— Mas eu vou subir.
-
-— Eu sei.
+— Eu sei. Nem eu.
 
 Ele afastou a testa. Olhou pra ela. Tinha os olhos marejados de uma forma que Aurora nunca tinha visto antes — não era choro, era o que vem antes do choro, a parte que ainda dá pra conter. Aurora levantou a mão. Tocou o canto do olho direito dele com o polegar. Não enxugou nada, porque não tinha lágrima pra enxugar. Só pousou ali, como quem deixa um selo.
 
-— Amanhã — disse Josh.
+— Amanhã não vai ser fácil — disse Josh. — Eu vou acordar, o seu pai vai estar tomando café com o jornal, e eu vou ter que olhar pra ele sabendo o que eu fiz. Eu não sei se eu consigo.
 
-— Amanhã o quê.
-
-— Amanhã não vai ser fácil.
-
-— Eu sei.
-
-— Eu não sei o que vou fazer amanhã, Aurora. Eu vou acordar e a casa vai estar como sempre, e o seu pai vai estar tomando café com o jornal, e a sua mãe vai estar com Vibeke na sala de costura, e eu vou ter que olhar pro seu pai sabendo o que eu fiz, e eu não sei se eu consigo.
-
-— Você consegue.
+— Consegue.
 
 — Como?
 
-— Porque a única coisa pior do que olhar pro meu pai sabendo o que você fez é olhar pra mim fingindo que não fez. E eu sei que você não vai me fazer isso. Eu sei que você não vai voltar a me tratar como você me trata desde a festa do celeiro. Esse é o único jeito que eu sei que você consegue.
+— Porque pior do que olhar pro papai sabendo o que você fez é olhar pra mim fingindo que não fez. E você não vai me fazer isso de novo. Não como desde a festa do celeiro.
 
 Josh ficou um segundo sem responder. Depois assentiu. Um movimento muito pequeno do queixo. Aurora viu.
 
 Ele afastou-se devagar. Recuou um passo. Os dedos dele soltaram o cabelo dela com a mesma lentidão com que tinham entrado. A mão da cintura dela saiu por último. Aurora sentiu o frio voltar onde a mão dele tinha estado, do mesmo jeito que tinha sentido o calor antes do toque.
 
-— Josh.
+— Boa noite, Josh.
 
-— Sim.
-
-— Boa noite.
-
-— Boa noite, Aurora.
+— Boa noite... Aurora.
 
 Ele pegou a vela apagada da mesa lateral. Não acendeu — ia conhecer o caminho de volta de cor. Olhou pra ela mais uma vez. Não disse nada. Saiu da sala de estar descalço pelo corredor, e Aurora ouviu o décimo segundo degrau ranger de novo, mais devagar dessa vez, com aquele tipo de ranger que um homem produz quando está subindo uma escada sem pressa porque não quer chegar ao quarto.
 

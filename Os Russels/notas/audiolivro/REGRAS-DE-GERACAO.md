@@ -98,6 +98,24 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
 - **Conferir o recorte:** transcrever cada pedaço. Se uma fala sair embolada,
   troca-se a frase e regera-se **o bloco inteiro** (não a fala solta).
 
+### Atualizações de 18/11 (retomada pelo cap 18)
+
+- **Bug corrigido no recorte:** o `blocos18.py` passava ao faster-whisper o áudio de
+  24 kHz como se fosse de 16 kHz, e as marcações de tempo saíam 1,5× deslocadas
+  (os recortes caíam no lugar errado). Agora o áudio é reamostrado para 16 kHz
+  antes de transcrever. `--recortar` refaz só o recorte, sem gastar cota.
+- **Cap 18:** a cena da janela (Josh e Aurora, `i076`–`i124`) saiu da geração fala
+  por fala e entrou em dois blocos contínuos (`B6a`, `B6b`), com direção de cena
+  de tensão e ciúme. O "Aurora" de intensidade (`i098`) continua sendo o take colado.
+- **Cap 19:** `blocos19.py` monta os blocos direto do `gerar-cap19.py` (faixas
+  `A1a`…`S5`, cada uma com a direção do momento emocional). `--takes N` gera N
+  versões de cada bloco para a autora escolher.
+- **Caminhos:** os scripts gravam em `$GTTS_BASE` (padrão `/tmp/gtts`), não mais
+  num scratchpad fixo de outra sessão.
+- **Cota esgotada:** o gerador para com `COTA_ESGOTADA` e a continuação fica
+  agendada para depois das 05h00 de Brasília. **Não trocar de chave/projeto para
+  furar a cota** (ver `producao-audiolivro.md`, decisão de motor).
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:
