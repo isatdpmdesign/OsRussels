@@ -10,7 +10,7 @@
 | Papel | Voz | ID ElevenLabs | Observação |
 |---|---|---|---|
 | **Narradora** | narradora sintética ElevenLabs v3 (a escolher: narr-1/2/3) | a salvar | **DECIDIDO: não é mais a Kokoro.** A Kokoro soou mecânica; a narração precisa da mesma emoção v3 das falas |
-| **Aurora** | Aurora – Os Russels | `6eGtBXZMHHv8fKtkcMol` | 16 anos; contida, afiada, luto por baixo |
+| **Aurora** | Aurora – Os Russels | `6eGtBXZMHHv8fKtkcMol` | 18 anos; contida, afiada, luto por baixo |
 | **Eleonora** | Eleonora – Os Russels | `X8aTW3lPzhPDbbM4lmko` | mãe; precisão nórdica, límpida, sem crueldade |
 | **Raj** | **a desenhar** | — | pai; 52, indo-dinamarquês, barítono medido, sem sotaque, propósito contido |
 | **Aarav** (memória) | Aarav – Os Russels | `b7Gtpz8G4BMXBeI4yDwe` | **morto há 18 meses**; só em lembrança, tratamento "memória" (ver regra 3) |

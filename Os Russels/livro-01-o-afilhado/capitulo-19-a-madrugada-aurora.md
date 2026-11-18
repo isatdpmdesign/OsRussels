@@ -222,9 +222,9 @@ Aurora abriu a boca. Não disse nada. Fechou. Esperou.
 
 — Eu desço se eu quiser descer.
 
-— Você acha que quer. Mas você ainda tem dezessete anos, Aurora.
+— Você acha que quer. Mas você ainda tem dezoito anos, Aurora.
 
-— Dezesseis anos não me tornam burra.
+— Dezoito anos não me tornam burra.
 
 — Eu sei. Eu não estou dizendo isso. — Josh estendeu a mão no ar, como quem tenta parar uma carruagem em movimento sem encostar. — Eu estou dizendo que descer é uma decisão que precisa ser tomada com a vida inteira na frente, e a sua vida inteira ainda não tem nem o nome dos próximos cinco anos.
 
@@ -280,7 +280,7 @@ Josh continuou no chão por dois segundos. Depois levantou também.
 
 A distância entre os dois era de dois passos. Aurora calculou. Não foi um cálculo de matemática — foi um cálculo de corpo, do tipo que sabe a quantos centímetros está outro corpo antes de qualquer medida formal. Dois passos. Talvez menos.
 
-— Eu não tenho resposta pras três paredes — disse Aurora, e a voz dela saiu mais firme do que ela esperava, porque a voz, ela já estava descobrindo, ficava firme quando o resto do corpo estava decidido. — Eu não posso te garantir que o papai vai aceitar. Não posso te garantir que a mamãe vai aceitar. Não posso te garantir que essa cidade vai aceitar. Eu não tenho garantia nenhuma de nada pra te dar, Josh. Eu tenho dezessete anos e a única coisa que eu sei com certeza no mundo nesse momento é o que está dentro desse cômodo.
+— Eu não tenho resposta pras três paredes — disse Aurora, e a voz dela saiu mais firme do que ela esperava, porque a voz, ela já estava descobrindo, ficava firme quando o resto do corpo estava decidido. — Eu não posso te garantir que o papai vai aceitar. Não posso te garantir que a mamãe vai aceitar. Não posso te garantir que essa cidade vai aceitar. Eu não tenho garantia nenhuma de nada pra te dar, Josh. Eu tenho dezoito anos e a única coisa que eu sei com certeza no mundo nesse momento é o que está dentro desse cômodo.
 
 Josh não respondeu.
 

@@ -674,8 +674,8 @@ portão. Virou na direção do Bairro Latino.
 Andou.
 
 Era a primeira vez que ela andava sozinha nas ruas
-de Copenhague à noite. Tinha dezessete anos e onze
-meses, quase dezoito, e em todos os dezessete
+de Copenhague à noite. Tinha dezoito anos e onze
+meses, quase dezenove, e em todos os dezoito
 anos da vida dela nunca tinha posto o pé numa rua
 sem alguém do lado (o pai, a mãe, Vibeke, Ingrid,
 o Josh, uma carruagem, alguém). O coração dela

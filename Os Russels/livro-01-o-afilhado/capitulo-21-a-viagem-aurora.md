@@ -94,7 +94,7 @@ Vibeke entrou no quarto de Aurora vinte minutos depois sem bater. Com os olhos b
 
 — Sério, Vibeke.
 
-Vibeke deu um pulinho. Literalmente um pulinho (Aurora viu os dois pés saírem do chão e voltarem ao chão), num gesto que numa moça de quase dezoito anos seria considerado infantil em qualquer sala respeitável de Copenhague mas que em Vibeke era, simplesmente, Vibeke.
+Vibeke deu um pulinho. Literalmente um pulinho (Aurora viu os dois pés saírem do chão e voltarem ao chão), num gesto que numa moça de quase vinte anos seria considerado infantil em qualquer sala respeitável de Copenhague mas que em Vibeke era, simplesmente, Vibeke.
 
 — Mas duas semanas? Numa fazenda de verdade? Com vacas?
 
@@ -358,7 +358,7 @@ Aurora notou pelo som primeiro. O paralelepípedo da cidade era uma coisa; o cas
 
 Aurora descobriu, ali, que tinha esquecido como soava a Dinamarca fora de Copenhague.
 
-Vibeke, na metade da segunda hora, dormiu. Foi de repente, do jeito que jovens de dezoito anos dormem: uma frase começada e não terminada, a cabeça caindo de leve pro lado, e pronto, dormiu. Encostou no ombro de Aurora. Aurora deixou.
+Vibeke, na metade da segunda hora, dormiu. Foi de repente, do jeito que jovens de dezenove anos dormem: uma frase começada e não terminada, a cabeça caindo de leve pro lado, e pronto, dormiu. Encostou no ombro de Aurora. Aurora deixou.
 
 E aí ficou só Aurora e Josh.
 
