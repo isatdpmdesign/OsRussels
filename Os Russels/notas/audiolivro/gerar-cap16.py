@@ -128,7 +128,7 @@ SEG = [
  ('g070', 'N', 'Aurora não respondeu. Não havia o que responder. Cada uma das duas frases era uma verdade que ela tinha conseguido manter debaixo da língua até aquele momento. Ouvir as duas ditas por outra pessoa, numa cozinha bagunçada de uma casa sem adultos, na luz cinzenta de uma manhã que se recusava a virar dia, era uma espécie de violência leve. Ingrid continuou comendo o pão. Depois de um tempo, disse:', 0.2),
  ('g071', 'ING', BR+'Você não precisa decidir nada hoje. Esse é o ponto. As pessoas acham que essas coisas exigem decisão na hora. Não exigem. Exigem tempo. E você tem tempo.', 0.2),
  ('g072', 'AU', AI+'Eu tenho?', 0.2),
- ('g073', 'ING', BR+'Tem. Você tem dezessete anos. Tem dois pais que te adoram. Tem uma temporada inteira pela frente. Tem um pretendente que dança valsa, e o afilhado do seu pai. Nenhum dos dois vai fugir da Dinamarca esta semana.', 0.4),
+ ('g073', 'ING', BR+'Tem. Você tem dezoito anos. Tem dois pais que te adoram. Tem uma temporada inteira pela frente. Tem um pretendente que dança valsa, e o afilhado do seu pai. Nenhum dos dois vai fugir da Dinamarca esta semana.', 0.4),
  ('g074', 'N', 'Aurora ergueu os olhos para a amiga. Ingrid sustentou o olhar com a calma sólida que era a marca dela.', 0.2),
  ('g075', 'AU', AI+'Obrigada, Ingrid.', 0.2),
  ('g076', 'ING', BR+'Não me agradeça. Eu sou parcial.', 0.2),

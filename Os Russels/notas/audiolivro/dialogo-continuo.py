@@ -4,7 +4,7 @@ URL=f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateCo
 DIR=("Leia em português do Brasil, com sotaque brasileiro, como uma cena de audiolivro de romance, interpretada por dois atores. "
 "É madrugada, numa sala escura, e os dois falam baixo para não acordar a casa. "
 "Josh tem vinte e um anos: voz de homem, grave, baixa, aveludada, quase rouca, carregada de desejo e de tensão. Ele está no limite, tentando se segurar, e não consegue. Nunca animado, nunca simpático, nunca leve. Ele respira entre as frases. "
-"Aurora tem dezessete anos: voz suave, firme, às vezes desafiadora, às vezes insegura, sem nenhuma infantilidade.\n\n")
+"Aurora tem dezoito anos: voz suave, firme, às vezes desafiadora, às vezes insegura, sem nenhuma infantilidade.\n\n")
 TXT="""Josh: É melhor eu subir.
 Aurora: Por quê? Me fala. Qual é o problema?
 Josh: Porque eu não confio em mim com você... quando a casa inteira está dormindo.
