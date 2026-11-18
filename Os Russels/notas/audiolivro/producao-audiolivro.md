@@ -154,6 +154,7 @@ script tenta de novo com a fala entre aspas.
 - **Cap 16** — fechado (14/nov, correções aprovadas).
 - **Cap 17** — fechado (15/nov, correções aprovadas).
 - **Cap 18** — gerado (15/nov), aguardando a escuta da autora. Voz nova: Sra. Lundgren (Sulafat + prefixo de senhora madura). Voz nova: Vibeke (Laomedeia, prefixo "com alegria espontânea"; nome escrito "Vibêke").
+- **Cap 19** — gerado (18/nov), aguardando a escuta da autora. Verso do Oehlenschläger só em português ("O que é viver, senão arder"): na memória, com filtro de eco; no fim, na voz da Aurora.
 
 ## Pendências de correção
 
