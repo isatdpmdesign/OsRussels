@@ -42,46 +42,142 @@ completo das decisões está em `producao-audiolivro.md` (nesta mesma pasta).
 - **No diálogo contínuo** (multi-speaker), as vozes são as mesmas da tabela; o prefixo
   vira a direção de cena no começo do texto.
 
-## NOVA REGRA (18/11) — diálogo contínuo
+## Roteiro: como o texto vira áudio
+
+- **Não é leitura literal.** É adaptação estilo Audible: narradora + vozes de
+  personagem. Pode cortar enchimento; **não muda trama nem fala**.
+- **Ler é diferente de ouvir: mastigar o contexto.** Quem ouve não volta a página.
+  - **Vinheta** em todo capítulo: "Você está ouvindo O Afilhado. Uma produção
+    Romance no Bolso. Capítulo N: título." Sem "fim do capítulo" no encerramento.
+  - **Abertura:** de quem é o POV, onde está e o que aconteceu antes que importa
+    ("Este capítulo volta aos olhos de Aurora. No capítulo anterior…").
+  - **Primeira aparição** de cada pessoa no capítulo: quem é ("Helle, a criada";
+    "Kóngen, o gato de Fru Larsen").
+  - **Referência a cena anterior:** dizer qual foi ("na volta do chá, no vidro da
+    carruagem").
+  - **Troca de POV** no meio do capítulo: anunciar ("Agora, do outro lado da casa…").
+  - **Objeto ou lugar** que o ouvinte não visualiza: descrever uma vez (a pérgola).
+  - **Cartas:** dizer quem escreve e dar a voz de quem escreveu.
+  - Todo contexto acrescentado é **conferido no texto dos capítulos** antes de entrar.
+- **Toda fala é atribuída pela narração** ("Aurora respondeu, a voz fria:"). O
+  ouvinte nunca fica sem saber quem fala e com que emoção.
+- **A emoção vai na atribuição da narradora**, não em instrução dentro da fala.
+  Instrução longa dentro da fala vaza e é lida em voz alta.
+- **Fala repetida** por um personagem ("Meu problema?") vai na voz dele, num
+  trecho próprio, nunca dentro da narração.
+- **Mortos e memórias** (Aarav; falas lembradas): na narradora, com moldura ("ele
+  costumava dizer:") e o filtro de memória (`NM`).
+- **Pausas** (o número no fim de cada linha do roteiro, em segundos):
+  - 0,2 entre falas;
+  - 0,3 a 0,5 no fim de uma troca ou antes de uma frase que pesa;
+  - 1,0 a 1,2 na troca de cena e depois da vinheta;
+  - 0,05 entre pedaços do mesmo bloco de diálogo contínuo.
+  Silêncio tem peso: não encher.
+
+## Diálogo contínuo (regra de 18/11)
 
 **Diálogo entre dois personagens se gera numa chamada só**, com os dois falantes
 (modo multi-speaker do Gemini), e não fala por fala. Gerada isolada, a fala não
-sabe a que está respondendo e sai robótica ou "simpática" fora de hora.
+sabe a que está respondendo e sai robótica, ou "simpática" fora de hora. É por
+isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
 
-- Script: `dialogo-continuo.py`. Uso:
-  `GKEY=sua_chave python3 dialogo-continuo.py gemini-2.5-flash-preview-tts saida`
-- O texto da chamada tem duas partes:
-  1. **Direção de cena** (um parágrafo): onde, que horas, como falam, o estado de
-     cada um. Ex.: "É madrugada, numa sala escura, os dois falam baixo para não
-     acordar a casa. Josh: voz grave, baixa, aveludada, contida; nunca animado,
-     nunca simpático. Aurora: suave, firme, às vezes desafiadora, sem
-     infantilidade."
-  2. As falas, uma por linha: `Josh: ...` / `Aurora: ...`
-- Teste aprovado: **opção A (Flash)**. O Pro saiu "debate", não tensão.
-- **A narração continua separada** (voz da narradora), entre os blocos de diálogo.
-- Bloco de diálogo ideal: uma troca inteira (6 a 15 falas). Narração curta que
-  cai no meio (ex.: "Ele hesitou.") pode virar uma pausa no bloco.
+- **Motor:** `gemini-2.5-flash-preview-tts` (opção A, aprovada). O Pro
+  (`gemini-2.5-pro-preview-tts`) saiu "debate", não tensão. Não usar.
+- **Scripts:** `dialogo-continuo.py` (teste de um bloco) e `blocos18.py` (capítulo
+  inteiro: gera cada bloco, transcreve com marcação de tempo, recorta cada fala
+  de volta para o seu `{slug}.seg.wav`, e o `gerar-capNN.py` costura com a
+  narração no meio).
+- **Máximo de dois falantes por bloco.** Cena com três (ex.: Lundgren, Eleonora e
+  Vibêke) vira dois blocos, separados pela narração.
+- **O nome do falante** nas linhas tem que ser exatamente o configurado na
+  chamada (`Josh:`, `Aurora:`, `Vibêke:`, `Senhora Lundgren:`).
+- **Tamanho:** uma troca inteira, de 2 a 15 falas. Narração curta no meio ("Ele
+  hesitou.") continua separada, entre dois pedaços do bloco.
+- **As falas vão limpas**, sem prefixo "Diga…": o tom inteiro vai na direção de cena.
+- **Pronúncia** segue o mapa abaixo também dentro do bloco (Rássel, Vibêke…).
+- **Conferir o recorte:** transcrever cada pedaço. Se uma fala sair embolada,
+  troca-se a frase e regera-se **o bloco inteiro** (não a fala solta).
 
-## Regras de voz que continuam valendo
+### Como escrever a direção de cena
 
-- **Josh**: voz de homem jovem, masculina, nunca fanha, afeminada ou animada.
-  Em cena de tensão, prefixo/direção: "voz de homem jovem, grave, baixa e
-  aveludada, calma, sem animação". Nunca o "rouco e contido" (fica grosso demais).
-- **Josh não é monossílabo**: em momento de sentimento, a fala ganha meia frase.
-- **Aurora** em cena tensa: "num tom sincero e contido, sem animação". Sem isso
-  sai infantil.
-- **"Aurora" dito pelo Josh**: de chamado → take `audio-ref/josh_aurora.wav`;
-  de intensidade → take `audio-ref/ref-josh-aurora-intenso.wav`.
-- "Baixo" não é "sussurro": se a narração diz "baixou o tom", a narradora
-  cochicha. Reescrever a atribuição.
-- A emoção vai na atribuição da narradora, não em instrução dentro da fala
-  (instrução vaza e é lida em voz alta).
-- Falas de uma palavra só falham (finishReason OTHER) ou saem emboladas:
-  alongar um pouco.
-- Vinheta de abertura: "Você está ouvindo O Afilhado. Uma produção Romance no
-  Bolso. Capítulo N: título." Sem "fim do capítulo".
-- Abertura de capítulo com contexto ("Este capítulo volta aos olhos de…"),
-  primeira aparição de cada pessoa explicada, cartas na voz de quem escreve.
+Um parágrafo antes das falas, sempre com estas peças:
+
+1. **Abertura fixa:** "Leia em português do Brasil, com sotaque brasileiro, como
+   uma cena de audiolivro de romance de época, interpretada por [dois atores /
+   duas atrizes / um ator e uma atriz], com naturalidade, como conversa de
+   verdade, sem ler."
+2. **Onde e quando:** "Fim de tarde, no quarto de Aurora." / "Dentro da carruagem,
+   a caminho do baile." / "Madrugada, numa sala escura."
+3. **Volume:** "falam num tom mais baixo, sem sussurrar" (sala cheia, para não
+   ser ouvida), ou "falam baixo para não acordar a casa" (madrugada). Nunca só
+   "baixo": vira cochicho.
+4. **Cada personagem: idade, voz e estado naquela cena.** Ex.: "Vibêke, a prima de
+   dezenove anos, alegre, espontânea, fala com entusiasmo. Aurora responde seca,
+   rápida, mas com carinho escondido."
+5. **O que NÃO fazer**, quando há risco conhecido: "nunca animado, nunca
+   simpático, nunca leve" (Josh em tensão); "sem nenhuma infantilidade" (Aurora).
+6. **Um detalhe de corpo**, se ajudar: "ele respira entre as frases".
+
+Exemplos que funcionaram (cap 18):
+- *Família/leve:* "Dentro da carruagem, a caminho do baile. Eleonora, a tia,
+  senhora madura, voz grave e contida, elegante, com humor seco. Vibêke, a
+  sobrinha, alegre e sincera, sem filtro."
+- *Contido/observação:* "No salão, sentadas lado a lado, falando num tom mais
+  baixo, sem sussurrar, para ninguém ouvir. Eleonora, a mãe, grave, contida,
+  observadora, sem olhar para a filha. Aurora, a filha, disfarçando o incômodo,
+  respostas curtas e educadas."
+
+## Tom de cada voz
+
+### Josh
+- Voz de homem jovem, de rapaz, **masculina**. NUNCA fanha, afeminada ou animada.
+  Take de referência do timbre certo: `ref-josh-voz-certa.wav`.
+- **Conversa casual** (flerte bem-humorado, família, irmãos): sem prefixo, está bom.
+- **Tensão, atração, contenção, desejo:** "voz de homem jovem, grave, baixa e
+  aveludada, calma, sem animação" (`P1`). Sem isso ele sai animado, mecânico ou
+  robótico. O "Aurora" de advertência também vai nesse tom.
+- **Não usar:** "rouca e contida" (P2) fica grosso demais; "voz masculina grave e
+  firme, de um homem de vinte e um anos" (`J`, dos primeiros capítulos) também.
+- **Fala baixa/sussurrada:** "Diga em voz baixa e grave, quase num sussurro:"
+  funciona sem vazar (cap 5).
+- **Escorregou para português de Portugal:** prefixo "Diga em português do
+  Brasil, com sotaque brasileiro:" (resolveu no cap 11).
+- **Josh não é monossílabo:** em momento de sentimento, a fala ganha meia frase
+  ("Tudo bem. Você não tem culpa de nada."), nunca uma palavra solta.
+- **"Aurora" dito por ele:** de chamado → colar `josh_aurora.wav`; de intensidade
+  (aviso, súplica) → colar `ref-josh-aurora-intenso.wav`. Não gerar. Dentro de
+  frase, escrever "Aurôra".
+- **Conferir:** tom acima de ~165 Hz pode ser take feminino; ouvir.
+
+### Aurora
+- Sempre "em português do Brasil, com sotaque brasileiro" (`BR`).
+- **Cena tensa ou íntima:** "num tom sincero e contido, sem animação" (`AI`). Sem
+  isso sai "animada demais" ou "criança de dez anos" (ex.: o "Mentira sua" do
+  cap 15 saiu infantil).
+- Tom aprovado: suave, às vezes tensa, com dúvida quando pergunta e com afronta
+  quando questiona. Referência: `ref-aurora-tom-intimo.wav`.
+
+### Narradora
+- Vindemiatrix com o filtro grave, sempre.
+- Narra a emoção na atribuição ("disse, a voz fria:"), e é ela quem dá contexto.
+- Se o texto da narração disser "baixou o tom", "baixinho" ou "sussurrou", **ela**
+  cochicha: reescrever ("disse, sem levantar a voz").
+- "Josh" na narração às vezes sai errado: usar "ele" ou "o afilhado".
+
+### Os outros
+- **Eleonora, Sra. Lundgren:** senhora madura, grave e contida (`ELP`).
+- **Vibêke:** alegria espontânea, sem filtro, entusiasmo (`VB`).
+- **Ingrid, Erik:** `BR`.
+- **Sra. Mikkelsen:** ElevenLabs (no Gemini ficava igual à Aurora).
+
+## Ciclo de correção com a autora
+
+1. Gerar o capítulo, conferir (transcrição + tom do Josh), refazer o que falhou.
+2. Mandar `capNN-completo.mp3` com os **minutos de cada cena**.
+3. A autora ouve e aponta o minuto e o problema.
+4. Regerar **só o trecho** (3 takes, escolher o melhor), mandar em áudio separado.
+5. Com aprovação, encaixar no capítulo e salvar como `capNN-completo-final.mp3`.
+6. Regra nova da autora vira linha neste arquivo e em `producao-audiolivro.md`.
 
 ## Pronúncia (escrever como se fala)
 
