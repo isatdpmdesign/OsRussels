@@ -116,6 +116,12 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
   agendada para depois das 05h00 de Brasília. **Não trocar de chave/projeto para
   furar a cota** (ver `producao-audiolivro.md`, decisão de motor).
 
+- **Volume normal na conversa (autora, 18/11):** a regra é só a fala contínua, não
+  cochicho. Conversa entre Josh e Aurora vai em volume **normal, médio, no mesmo
+  nível dos dois**: "não sussurram, não cochicham, não falam alto". Nada de "voz
+  baixa", "tom mais baixo" ou "para ninguém ouvir" na direção: o Gemini cochicha.
+  Tensão se pede pela emoção, não pelo volume.
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:

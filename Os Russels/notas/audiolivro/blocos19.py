@@ -22,8 +22,8 @@ NOME = {"JOSH": "Josh", "AU": "Aurora"}
 
 GERAL = ("Leia em português do Brasil, com sotaque brasileiro, como uma cena de audiolivro de romance de época, "
          "interpretada por um ator e uma atriz, com naturalidade, como conversa de verdade, sem ler. "
-         "Madrugada, na sala de estar escura de um casarão, à luz de uma vela; os dois falam baixo para não acordar "
-         "a casa, sem sussurrar. Josh tem vinte e um anos: voz de homem jovem, masculina, grave, baixa e aveludada; "
+         "Madrugada, na sala de estar escura de um casarão, à luz de uma vela; os dois conversam em volume normal, médio, "
+         "no mesmo nível um do outro: não sussurram, não cochicham, não falam alto. Josh tem vinte e um anos: voz de homem jovem, masculina, grave e aveludada; "
          "nunca animado, nunca simpático, nunca leve, nunca recitando frases; ele respira antes de falar e as "
          "reticências são hesitações de verdade. Aurora tem dezoito anos: voz suave, sem nenhuma infantilidade. ")
 
@@ -35,21 +35,21 @@ FAIXAS = {
          "ternura contida, escolhendo cada palavra; ela pergunta com dúvida verdadeira, querendo entender."),
  "A2":  ("m033", "m050", "A conversa fica mais íntima. Ele confessa que se importava com ela, com cuidado e um pouco "
          "de vergonha; ela provoca de leve, com meio sorriso, até rir de verdade. Na última pergunta dela a leveza some."),
- "A3":  ("m053", "m069", "A tensão sobe. Ela cobra, com afronta e ciúme mal escondido; ele responde baixo e intenso, "
+ "A3":  ("m053", "m069", "A tensão sobe. Ela cobra, com afronta e ciúme mal escondido; ele responde intenso, "
          "olhando para ela, sem levantar a voz. No fim ela explode, irritada."),
  "S1":  ("r071", "r090", "Briga contida. Ela está ferida, desafiadora, com angústia crescente. Ele está no limite: "
          "quer fugir dali porque a deseja e não pode ficar; cada resposta sai pesada, com o desejo segurado na voz."),
  "S2":  ("r093", "r111", "Ele diz, pela primeira vez em voz alta, as três razões pelas quais não pode ficar com ela. "
-         "Voz rouca, baixa, vulnerável, falhando em algumas palavras, parando no meio da frase. Não é discurso: é um "
+         "Voz rouca, vulnerável, falhando em algumas palavras, parando no meio da frase. Não é discurso: é um "
          "homem confessando o que o machuca. Ela escuta; quando fala, é insegura e suave, e no fim decidida."),
  "S3":  ("r115", "r129", "Agora ela responde de pé, firme, decidida, com uma afronta carinhosa; a voz dela não treme. "
-         "Ele chega ao próprio limite: voz baixa e intensa, quase rachando, carregada de desejo, tentando resistir "
+         "Ele chega ao próprio limite: voz intensa, quase rachando, carregada de desejo, tentando resistir "
          "e já sem conseguir."),
  "S4":  ("r137", "r142", "Os dois estão a um palmo um do outro: o momento antes do primeiro beijo e logo depois dele. "
          "Falam quase encostados, com a respiração curta. Ele: grave, rouco de desejo, hesitante, cheio de necessidade. "
          "Ela: suave, decidida, ofegante."),
  "S5":  ("r151", "r160", "Logo depois do beijo, testa contra testa, os dois sem fôlego. Ele fala com ternura e medo do "
-         "dia seguinte, a voz baixa, emocionada, quase embargada; ela, suave e firme, o acalma. Despedida terna."),
+         "dia seguinte, a voz emocionada, quase embargada; ela, suave e firme, o acalma. Despedida terna."),
 }
 
 _PREF = re.compile(r"^Diga[^:]*:\s*")
