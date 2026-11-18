@@ -74,7 +74,7 @@ número óbvio.
 
 ## Subagentes
 
-Os cinco de `.claude/agents/` **não têm ferramenta de escrita** — o pior
+Os seis de `.claude/agents/` **não têm ferramenta de escrita** — o pior
 que fazem é uma resposta errada, não uma resposta errada gravada. Some-se
 a isso a regra de citação obrigatória e o problema antigo (subagente
 inventando idade, descrição e número de linha) fica contido pelo desenho,
