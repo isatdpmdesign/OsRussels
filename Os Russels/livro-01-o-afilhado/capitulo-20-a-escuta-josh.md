@@ -16,7 +16,7 @@ A cabeça ficou onde tinha estado a noite inteira, em fragmentos que ele não co
 
 Ficou mais meia hora fazendo a única coisa que sabia fazer naquela noite, que era calcular: a frieza contábil que ele herdara da mãe e que normalmente usava para pesar argumentos de filosofia, aplicada agora a si mesmo.
 
-Eram três paredes. Ele as tinha enumerado para Aurora na madrugada, uma por uma. E duas delas continuavam de pé, exatamente onde estavam: a distância entre o que ela era e o que ele era, e o futuro que ele queria para ela e que não podia oferecê-la. Essas duas ele não tinha derrubado. Essas duas eram razões, e razão não se trai, apenas se ignora, e ele não tinha ignorado nenhuma.
+Eram três paredes. Ele as tinha enumerado para Aurora na madrugada, uma por uma. E duas delas continuavam de pé, exatamente onde estavam: a distância entre o que ela era e o que ele era, e o escândalo que cairia sobre o nome dela se alguém descobrisse. Essas duas ele não tinha derrubado. Essas duas eram razões, e razão não se trai, apenas se ignora, e ele não tinha ignorado nenhuma.
 
 A primeira parede era outra coisa.
 

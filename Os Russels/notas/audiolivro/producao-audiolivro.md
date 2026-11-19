@@ -154,7 +154,8 @@ script tenta de novo com a fala entre aspas.
 - **Cap 16** — fechado (14/nov, correções aprovadas).
 - **Cap 17** — fechado (15/nov, correções aprovadas).
 - **Cap 18** — regerado (19/nov): Josh em blocos curtos com "voz de peito", janela reescrita, Vibêke fala por fala como no 17. Correções aprovadas pela autora; versão unificada em escuta final.
-- **Cap 19** — regerado (19/nov) com a cena das paredes e do beijo reescrita; em escuta da autora.
+- **Cap 19** — fechado (19/nov, aprovado pela autora).
+- **Cap 20** — em geração (19/nov). Josh em bloco com Aurora (cozinha) e com Raj (biblioteca); Raj e Eleonora fala por fala; carta do Josh na voz dele, sem prefixo.
 
 ## Pendências de correção
 
