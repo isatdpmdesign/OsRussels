@@ -106,7 +106,7 @@ def gera(bid, sufixo=""):
             time.sleep(10)
     return None
 
-LIMITE_JOSH_HZ = 130  # o Josh fica por volta de 100 Hz; acima de 130 já soa feminino
+LIMITE_JOSH_HZ = 120  # o Josh fica por volta de 100 Hz; acima de 130 já soa feminino
 
 def f0(a, sr=SR):
     fr = []; n = 2048
@@ -116,6 +116,13 @@ def f0(a, sr=SR):
         c = np.correlate(x, x, "full")[n - 1:]; lo, hi = sr // 350, sr // 60
         fr.append(sr / (lo + np.argmax(c[lo:hi])))
     return int(np.median(fr)) if fr else 0
+
+def ouvir(a):
+    global _m
+    from faster_whisper import WhisperModel
+    if _m is None: _m = WhisperModel("small", device="cpu", compute_type="int8")
+    a16 = np.interp(np.arange(0, len(a), SR / 16000), np.arange(len(a)), a).astype(np.float32)
+    return " ".join(x.text for x in _m.transcribe(a16, language="pt")[0])
 
 def norm(t):
     t = unicodedata.normalize("NFKD", t.lower()); t = "".join(c for c in t if not unicodedata.combining(c))
@@ -164,10 +171,15 @@ if __name__ == "__main__":
                 if a is None: a = x
             if takes > 1: sf.write(f"{OUT}/{bid}.wav", a, SR)
         if not recorta(bid, a) or so_recorte: continue
-        for tent in range(2):  # timbre: refaz se alguma fala do Josh subir demais
-            alto = [(sl, f0(sf.read(f"{BASE}/{sl}.seg.wav")[0])) for sl, f, _ in BLOCOS[bid][1] if f == "Josh"]
-            alto = [x for x in alto if x[1] > LIMITE_JOSH_HZ]
-            if not alto: break
-            print("TIMBRE ALTO, refazendo", bid, alto)
+        for tent in range(3):  # timbre e o nome "Aurora": refaz o bloco se falhar
+            prob = []
+            for sl, f, t in BLOCOS[bid][1]:
+                if f != "Josh": continue
+                x = sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0]
+                hz = f0(x)
+                if hz > LIMITE_JOSH_HZ: prob.append((sl, f"{hz} Hz"))
+                if "Aurôra" in t and "aurora" not in norm(ouvir(x)): prob.append((sl, "nome: " + ouvir(x)[:40]))
+            if not prob: break
+            print("REFAZENDO", bid, prob)
             a = gera(bid)
             if a is None or not recorta(bid, a): break

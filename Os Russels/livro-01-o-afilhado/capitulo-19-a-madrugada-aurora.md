@@ -226,9 +226,9 @@ A sala estava muito quieta. Era a quietude específica de madrugada na Bredgade 
 
 — São.
 
-— E você ensaiou isso sozinho.
+— Você planejou me dizer isso.
 
-Ele não respondeu. Não precisou: o queixo baixou meio centímetro, e Aurora entendeu que sim. Sozinho. Centenas de vezes.
+Ele não respondeu. Não precisou: o queixo baixou meio centímetro, e Aurora entendeu que sim. No quarto leste, centenas de vezes.
 
 Aurora respirou fundo. Não foi um suspiro. Foi a respiração de quem está colocando alguma coisa no lugar dentro do peito antes de se mexer.
 
@@ -246,7 +246,7 @@ Josh continuou no chão por dois segundos. Depois levantou também.
 
 A distância entre os dois era de dois passos. Aurora calculou. Não foi um cálculo de matemática — foi um cálculo de corpo, do tipo que sabe a quantos centímetros está outro corpo antes de qualquer medida formal. Dois passos. Talvez menos.
 
-— Eu não tenho resposta pras três — disse Aurora, e a voz dela saiu mais firme do que ela esperava, porque a voz, ela já estava descobrindo, ficava firme quando o resto do corpo estava decidido. — Não posso te garantir que o papai vai aceitar. Nem a mamãe, nem essa cidade. Eu tenho dezoito anos, Josh. A única coisa de que eu tenho certeza agora é o que está nesta sala.
+— Eu não tenho resposta pras três — disse Aurora, e a voz dela saiu mais firme do que ela esperava, porque a voz, ela já estava descobrindo, ficava firme quando o resto do corpo estava decidido. — Não posso te garantir que o papai vai aceitar. Nem a mamãe, nem essa cidade. A única coisa de que eu tenho certeza agora é o que está nesta sala.
 
 Josh não respondeu.
 
@@ -294,7 +294,7 @@ A mão dela subiu sozinha.
 
 Encostou primeiro nos dedos dele, palma contra palma, sem fechar, e sentiu o calo na lateral do dedo médio, mais áspero do que tinha imaginado: cinco meses de pena e papel, ali, na mesma casa que ela.
 
-Josh fechou os olhos e disse o nome dela, quase sem voz.
+Josh fechou os olhos.
 
 A mão dele virou. Os dedos dela escorregaram entre os dedos dele e fecharam. Foi a primeira vez que as mãos dos dois se prenderam — não cortesia, não condução de dança. Prenderam. Aurora sentiu o aperto firme dos dedos dele nas costas dos dela. Sentiu o polegar dele subir até a base do pulso dela e parar ali, no ponto onde o pulso batia. Josh ficou com o polegar ali por meio segundo, sentindo a batida. Aurora soube porque viu o queixo dele se afrouxar de leve quando ele encontrou o ritmo do pulso dela.
 
@@ -302,41 +302,39 @@ A outra mão dela subiu pela camisa dele, no peito, sem pousar — só seguindo 
 
 Josh abriu os olhos.
 
-— Aurora... eu...
+— Aurora, eu... eu... — A voz dele falhou. — Por favor, para.
 
-— Beija.
+Aurora não parou. Respondeu baixo, contida, com a boca já perto da dele:
+
+— Por favor, me beija, Josh.
 
 *
 
 Ele baixou a cabeça devagar, como quem ainda dá a ela tempo de desistir.
 
-O primeiro beijo foi contido. Lábios contra lábios, quase parados, por dois segundos inteiros. Aurora sentiu a boca dele mais cheia e mais quente do que tinha imaginado, ligeiramente rachada na lateral direita, e sentiu que ele tremia — não as mãos: a respiração, presa no peito, saindo pelo nariz em fios curtos contra a bochecha dela.
+Josh encostou os lábios suavemente nos dela. Parados. Por dois segundos. Aurora sentiu a boca dele mais cheia e mais quente do que tinha imaginado, ligeiramente rachada na lateral direita, e sentiu que ele tremia — não as mãos: a respiração, presa no peito, saindo pelo nariz em fios curtos contra a bochecha dela.
 
 Josh recuou meio centímetro, sem soltar a mão dela. A voz saiu tão perto que ela sentiu as palavras na própria boca.
 
 — Você tem certeza?
 
-— Tenho. — Aurora abaixou a voz. — Beija de novo.
+— Tenho. — Aurora abaixou a voz. — Me beija de verdade.
 
-Da segunda vez, ele não pediu licença.
+E Josh cedeu.
 
 A boca dele voltou mais firme, e a dela se abriu sem que ela tivesse decidido. A língua dele encontrou a dela devagar — primeiro só um toque, como quem pergunta; depois inteira — e as duas se buscaram, se enroscaram, num ritmo que Aurora não sabia que conhecia. Ele tinha um gosto morno, limpo, de alguém que ela ia reconhecer no escuro. Prendeu o lábio de baixo dela entre os dentes, de leve, e soltou, e o som que escapou da garganta dela foi um suspiro que ela nunca tinha ouvido sair de si mesma. Josh respondeu com um ruído baixo, rouco, no fundo do peito, e a beijou mais fundo.
 
 O beijo ficou molhado, lento, sem nenhuma pressa de acabar. Aurora respirava quando ele deixava — pelo nariz, pelo canto da boca, encostada na bochecha dele — e o ar dela voltava pra boca dele, e o dele voltava pra dela.
 
-A mão dele soltou a dela e foi pra cintura. Pousou no lado direito do corpo dela, com a mão aberta inteira contra o tecido da camisola. Aurora sentiu a pressão firme, larga, com formato — sentiu o peso da mão dele através do algodão de um jeito que ela nunca tinha pensado que se pudesse sentir um peso através de algodão. A mão dele era maior do que ela tinha imaginado. Cobria a lateral inteira da cintura dela. Os dedos abertos quase encontravam as costas; o polegar pressionava o lugar logo abaixo da costela.
+A mão dele soltou a dela e foi pra cintura. Pousou aberta, inteira, contra o tecido da camisola, e puxou. Aurora sentiu o corpo inteiro dela encontrar o dele de uma vez — o peito, a barriga, os quadris — prensada contra ele, sem espaço nenhum entre os dois. A mão dele era maior do que ela tinha imaginado. Cobria a lateral inteira da cintura; o polegar apertava o lugar logo abaixo da costela.
 
-A outra mão dele subiu pra nuca dela.
+A outra mão dele subiu pela nuca dela. Era a mão direita, a do calo. Os dedos entraram por baixo do cabelo solto, separaram os fios e fecharam onde o cabelo encontrava a pele. Não fechou forte. Fechou o suficiente para Aurora entender que ele estava ali, que estava segurando, que não ia soltar tão cedo. A pele inteira das costas dela reagiu de uma vez, de cima a baixo, sem aviso.
 
-Era a mão direita. A do calo. Aurora sentiu os dedos dele entrarem por baixo do cabelo solto, separarem os fios, fecharem no lugar onde o cabelo encontrava o couro cabeludo. Não fechou forte. Fechou o suficiente para Aurora reconhecer que ele estava ali, que estava prendendo, que não ia soltar tão cedo. As unhas dele encostaram na pele da nuca dela. Aurora fechou os olhos sem ter decidido fechar. A pele inteira das costas reagiu como se tivesse sido tocada de uma vez só, de cima a baixo, sem aviso, e o calor passou pela cintura onde a outra mão dele estava, e voltou.
+E ele avançou. Um passo, depois outro, o corpo dele empurrando o dela, conduzindo, sem tirar a boca da sua, até as costas de Aurora encontrarem a estante de livros no fundo da sala. A madeira bateu nas omoplatas dela. A estante balançou. Lá em cima, um livro escorregou da prateleira e caiu no assoalho com um baque surdo. Nenhum dos dois olhou.
 
-Aurora sentiu o peito dele subir contra o dela, mais depressa, mais fundo, como se ele também estivesse esquecendo de respirar.
+A mão dela subiu pela nuca dele. Os dedos entraram no cabelo dele, mais grosso e mais quente do que ela tinha imaginado, e fecharam ali, com a mesma força que ele tinha usado nela — a força que não era pra machucar, mas pra dizer *eu estou aqui, eu não vou sair*.
 
-A mão dela subiu pro cabelo dele.
-
-Era a primeira vez. Aurora tinha imaginado o cabelo dele um número de vezes que ela teria recusado admitir até o segundo anterior. Era mais grosso do que ela tinha imaginado. Mais quente. Os dedos dela entraram por trás da orelha dele, subiram, fecharam na nuca dele. Não com força. Com a mesma força que ele tinha usado nela — a força que não era pra machucar mas era pra dizer *eu estou aqui, eu não vou sair*.
-
-A boca dele desceu pro canto da boca dela. Depois pra linha do queixo. Depois pra base do pescoço, onde o xale tinha estado antes de cair. Aurora sentiu os lábios dele encostarem na clavícula dela e o calor que subiu não foi pela nuca, não foi pelo pescoço, foi por baixo da pele inteira ao mesmo tempo — uma onda que ela nunca tinha sentido na vida e que ela soube, no segundo em que sentiu, que ia dividir o tempo dela em antes e depois.
+A boca dele se soltou da dela e desceu. O canto da boca. A linha do queixo. O pescoço, onde o xale tinha estado antes de cair. Quando Aurora sentiu os lábios dele na clavícula, tombou a cabeça para trás, contra os livros, e o calor que subiu não foi pela nuca nem pelo pescoço: foi por baixo da pele inteira ao mesmo tempo, uma onda que ela soube, no segundo em que sentiu, que ia dividir o tempo dela em antes e depois.
 
 Quando ele voltou pra boca dela, Aurora já não tinha fôlego. Os joelhos tinham ficado moles, e o mundo inteiro cabia na distância entre a boca dele e a dela. Segurou o rosto dele com as duas mãos e trouxe de volta.
 
@@ -346,11 +344,11 @@ E desta vez ela beijou primeiro.
 
 Em algum momento eles pararam.
 
-Aurora não soube quanto tempo tinha passado. Podia ter sido dois minutos, podia ter sido dez. A vela ainda estava acesa. A chama nervosa continuava nervosa. O livro do Aarav estava no chão, fechado pela própria gravidade quando ela o tinha pousado. O xale dela estava no chão também, completamente caído. A camisola estava em ordem — ele não tinha tocado o que não devia. Tinha tocado a cintura, a nuca, o cabelo, o pescoço, a clavícula. Nada mais. Aurora reconheceu, com uma honestidade que ela quase achou engraçado registrar, que ele tinha feito o cálculo até no meio do beijo.
+Aurora não soube quanto tempo tinha passado. Podia ter sido dois minutos, podia ter sido dez. A vela ainda estava acesa. A chama nervosa continuava nervosa. O livro do Aarav estava no chão, fechado pela própria gravidade quando ela o tinha pousado. O xale dela estava no chão também, completamente caído. Um livro estava caído ao pé da estante. A camisola estava em ordem — ele não tinha tocado o que não devia. Tinha tocado a cintura, a nuca, o cabelo, o pescoço, a clavícula. Nada mais. Aurora reconheceu, com uma honestidade que ela quase achou engraçado registrar, que ele tinha feito o cálculo até no meio do beijo.
 
 Josh tinha a testa encostada na testa dela. Os dois respirando. A respiração dele estava mais alta do que a dela — não muito mais, mas o suficiente pra Aurora perceber e o suficiente pra a vaidade pequena e meio absurda dela registrar.
 
-— Aurora... — Ele ainda estava sem fôlego. — Eu não sei voltar disso. Nem quero. Mas eu tenho que subir.
+— Deus do céu, Aurora... — Ele ainda estava sem fôlego. — Você não sabe o que faz comigo. Eu não sei voltar disso. Nem quero. Mas eu preciso parar aqui. Eu preciso subir.
 
 — Eu sei. Nem eu.
 
@@ -370,7 +368,9 @@ Ele afastou-se devagar. Recuou um passo. Os dedos dele soltaram o cabelo dela co
 
 — Boa noite, Josh.
 
-— Boa noite... Aurora.
+— Boa noite, Aurora.
+
+Ele passou a mão pelos cabelos, desconcertado, e prendeu um canto do lábio entre os dentes. Aurora viu o que ele não disse. Que ele não queria parar. Que, se ela desse mais um passo, ele esqueceria o homem correto, respeitoso, que tinha decidido ser, e a puxaria de novo contra a estante. Ele não deu o passo. Ela também não.
 
 Ele pegou a vela apagada da mesa lateral. Não acendeu — ia conhecer o caminho de volta de cor. Olhou pra ela mais uma vez. Não disse nada. Saiu da sala de estar descalço pelo corredor, e Aurora ouviu o décimo segundo degrau ranger de novo, mais devagar dessa vez, com aquele tipo de ranger que um homem produz quando está subindo uma escada sem pressa porque não quer chegar ao quarto.
 

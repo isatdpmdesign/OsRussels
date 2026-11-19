@@ -155,6 +155,11 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
   outras conversas (Vibêke, Eleonora, senhoras) são fala por fala, com prefixo:
   assim os timbres não mudam e os erros diminuem.
 
+- **"Aurora" do Josh volta para dentro da fala (autora, 19/11):** o take colado
+  garante a pronúncia mas não tem sentimento. O nome vai no bloco, escrito
+  "Aurôra", e o `blocos19.py` transcreve a fala: se não sair "aurora", refaz o
+  bloco. Limite de tom do Josh baixou para 120 Hz (acima disso já soa fanho).
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:
