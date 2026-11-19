@@ -292,7 +292,7 @@ está no livro; a do meio é como se escreve no roteiro de áudio.
 | Eriksen | **Ériksen** | |
 | Hjalmar | **Iálmar** | |
 | Lykke | **Lúque** | |
-| Oehlenschläger | **Ólenchlêguer** | nunca sozinho numa fala ("Isso é Ólenchlêguer.") |
+| Oehlenschläger | **Oxêlenguer** | "Ólenchlêguer" saía diferente a cada vez (autora, 19/11) |
 | Montesquieu | **Montesquiê** | |
 | Kongen (o gato) | **Kóngen** | |
 | Christian VI | **Cristiano Sexto** | |
@@ -321,6 +321,8 @@ está no livro; a do meio é como se escreve no roteiro de áudio.
 | igreja | **igrêja** | |
 | cor | **cór** | |
 | cerca | **cêrca** | |
+| biblioteca | **bibliotéca** | saía "bibiloteca" |
+| de cor (de memória) | **de cór** | |
 | seca (adjetivo) | **sêca** | |
 | buffet | **bufê** | |
 | Sirva / "Servi" (fala curta) | **Sérvi** | |
