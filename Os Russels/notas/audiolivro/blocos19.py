@@ -95,6 +95,9 @@ def gera(bid, sufixo=""):
         try:
             pcm = base64.b64decode(d["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
             a = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768
+            chars = sum(len(t) for _, _, t in linhas)
+            if len(a) / SR > chars / 6 + 8:  # o modelo "embalou" (cap 19, S3.3 saiu com 8 min): refaz
+                print("LONGO DEMAIS", bid, round(len(a) / SR), "s para", chars, "caracteres"); continue
             sf.write(f"{OUT}/{bid}{sufixo}.wav", a, SR); return a
         except Exception:
             dump = json.dumps(d)
