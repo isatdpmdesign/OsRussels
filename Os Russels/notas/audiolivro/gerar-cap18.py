@@ -196,6 +196,7 @@ SEG = [
  ('i134', 'N', 'Ela atravessou o corredor e entrou na sala de estar. Pousou a vela na mesinha lateral. Sentou no chão, ao lado da poltrona, com o xale nos ombros e o livro aberto no colo, na página da fita azul. E ficou ali. Sozinha. Lendo. À luz de uma vela só. Às doze e dez da noite.', 0.0),
 ]
 
+RITMO_DIALOGO = 0.92
 import blocos18 as _B
 _P = {sl for _,(_,L) in _B.BLOCOS.items() for sl,_,_ in L}
 _order=[x[0] for x in SEG]
@@ -211,6 +212,8 @@ if __name__ == "__main__":
             subprocess.run(["ffmpeg","-y","-i",ref,"-ac","1","-ar",str(SR),seg_f,"-loglevel","error"],check=True)
         if os.path.exists(seg_f):
             a = load(seg_f); src="cache"
+            if slug in _P:  # fala de bloco: o diálogo contínuo sai depressa demais (autora, 19/11)
+                a = apply_af(a, slug + "_lento", "atempo=" + str(RITMO_DIALOGO))
         elif vk == "N" and os.path.exists(pf):
             a = load(pf); src="cache_p"
         else:
