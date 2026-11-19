@@ -77,7 +77,7 @@ SEG = [
  ('m016', 'JOSH', P1+'Eu sei. Eu sei que era.', 0.2),
  ('m017', 'AU', AI+'Como é que você sabe?', 0.2),
  ('m018', 'N', 'Josh ficou em silêncio por um segundo. Aurora viu o canto da boca dele subir, só um pouco, antes de responder, com a cautela de quem oferece uma informação que pode magoar.', 0.2),
- ('m019', 'JOSH', P1+'O Aráve lia Oxêlenguer no jardim. O seu pai me contou, uma noite, no começo. Disse que era o poeta preferido do filho. Me emprestou um volume do escritório, pra eu ler. Eu gostei. Quando devolvi, ele me disse que outro volume do mesmo poeta tinha sumido da estante duas semanas depois que a notícia do navio chegou. Não disse quem ele achava que tinha levado.', 0.3),
+ ('m019', 'JOSH', P1+'O Aráve lia o Oxêlenguer no jardim. O seu pai me contou, uma noite, no começo. Disse que era o poeta preferido do filho. Me emprestou um volume do escritório, pra eu ler. Eu gostei. Quando devolvi, ele me disse que outro volume do mesmo poeta tinha sumido da estante duas semanas depois que a notícia do navio chegou. Não disse quem ele achava que tinha levado.', 0.3),
  ('m020', 'N', 'Josh olhou para o livro no colo dela, e completou:', 0.2),
  ('m021', 'JOSH', P1+'Acho que esse é o que sumiu.', 0.4),
  ('m022', 'N', 'Aurora não respondeu logo. A vela tremeu uma vez. Ela passou o polegar pela mancha de tinta na primeira página, devagar, sem pensar. E então disse, mudando de assunto sem aviso:', 0.2),

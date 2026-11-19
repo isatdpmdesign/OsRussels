@@ -151,7 +151,10 @@ def recorta(bid, a):
             print("ALINHAMENTO FALHOU", bid, linhas[i][0]); return False
         cuts.append((last[i - 1] + first[i]) / 2)
     cuts.append(len(a) / SR)
+    os.makedirs(f"{BASE}/anteriores", exist_ok=True)
     for i, (slug, _, _) in enumerate(linhas):
+        if os.path.exists(f"{BASE}/{slug}.seg.wav") and not os.path.exists(f"{BASE}/anteriores/{slug}.seg.wav"):
+            os.replace(f"{BASE}/{slug}.seg.wav", f"{BASE}/anteriores/{slug}.seg.wav")
         sf.write(f"{BASE}/{slug}.seg.wav", a[int(cuts[i] * SR):int(cuts[i + 1] * SR)], SR)
     print("ok", bid, [round(float(c), 1) for c in cuts])
     return True
@@ -175,7 +178,10 @@ if __name__ == "__main__":
         for tent in range(4):  # timbre e o nome "Aurora": refaz o bloco se falhar
             prob = []
             for sl, f, t in BLOCOS[bid][1]:
-                if f != "Josh": continue
+                if f == "Aurora":  # falante trocado: a fala da Aurora saiu na voz do Josh
+                    hz = f0(sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0])
+                    if 0 < hz < 150: prob.append((sl, f"Aurora com {hz} Hz"))
+                    continue
                 x = sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0]
                 hz = f0(x)
                 if hz > LIMITE_JOSH_HZ or 0 < hz < PISO_JOSH_HZ: prob.append((sl, f"{hz} Hz"))

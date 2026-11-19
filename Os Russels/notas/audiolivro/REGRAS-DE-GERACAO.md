@@ -160,6 +160,13 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
   "Aurôra", e o `blocos19.py` transcreve a fala: se não sair "aurora", refaz o
   bloco. Limite de tom do Josh baixou para 120 Hz (acima disso já soa fanho).
 
+- **Falante trocado no bloco (cap 19, 19/11):** o Gemini às vezes troca as vozes no
+  meio do bloco (falas da Aurora saíram na voz do Josh). O `blocos19.py` refaz o
+  bloco se uma fala da Aurora sair abaixo de 150 Hz, e guarda a versão anterior
+  de cada fala em `gtts19/anteriores/` antes de sobrescrever.
+- **Nome estrangeiro colado no verbo:** "lia Oxêlenguer" saiu "liauóxelenger";
+  com artigo ("lia o Oxêlenguer") separa.
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:
