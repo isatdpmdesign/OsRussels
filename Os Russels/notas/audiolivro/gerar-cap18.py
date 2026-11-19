@@ -180,6 +180,8 @@ SEG = [
 ]
 
 RITMO_DIALOGO = 0.92
+# pausa interna de fala de bloco: no máximo ~0,4 s (o "Por quê?" do i079 veio depois de um silêncio enorme)
+SILENCIO_MAX = "silenceremove=stop_periods=-1:stop_duration=0.45:stop_threshold=-40dB:stop_silence=0.4"
 import blocos18 as _B
 # Vibêke e as senhoras voltam ao método do cap 17 (fala por fala, com prefixo): no bloco a voz da
 # Vibêke ficava igual à da Aurora (autora, 19/11). Diálogo contínuo só nas cenas do Josh.
@@ -199,7 +201,7 @@ if __name__ == "__main__":
         if os.path.exists(seg_f):
             a = load(seg_f); src="cache"
             if slug in _P:  # fala de bloco: o diálogo contínuo sai depressa demais (autora, 19/11)
-                a = apply_af(a, slug + "_lento", "atempo=" + str(RITMO_DIALOGO))
+                a = apply_af(a, slug + "_lento", SILENCIO_MAX + ",atempo=" + str(RITMO_DIALOGO))
         elif vk == "N" and os.path.exists(pf):
             a = load(pf); src="cache_p"
         else:

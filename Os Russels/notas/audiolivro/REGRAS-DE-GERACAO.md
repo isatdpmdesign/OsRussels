@@ -142,6 +142,14 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
 - **Take de outra geração pode ser colado** quando a autora aprovar a fala (ex.:
   `take-cap18-i077-aurora.wav`, entra como `CLIP:take-cap18-i077-aurora`).
 
+- **Josh sem "grave" afina (autora, 19/11):** tirar "grave e aveludada" da direção
+  (para corrigir o cochicho) fez o Josh afinar fala a fala até soar feminino. A
+  direção dele leva sempre: "grave e aveludada, voz de peito, a mesma do começo ao
+  fim, nunca fina, nunca fanha, nunca feminina" + volume normal. A checagem de Hz
+  não pega fanho: só a escuta pega.
+- **Pausa interna longa:** fala de bloco passa por `silenceremove` (pausa interna
+  no máximo ~0,4 s). O "Por quê?" do cap 18 veio depois de um silêncio enorme.
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:

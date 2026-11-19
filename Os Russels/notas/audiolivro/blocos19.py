@@ -23,7 +23,7 @@ NOME = {"JOSH": "Josh", "AU": "Aurora"}
 GERAL = ("Leia em português do Brasil, com sotaque brasileiro, como uma cena de audiolivro de romance de época, "
          "interpretada por um ator e uma atriz, com naturalidade, como conversa de verdade, sem ler, em ritmo calmo, com pausas entre as falas. "
          "Madrugada, na sala de estar escura de um casarão, à luz de uma vela; os dois conversam em volume normal, médio, "
-         "no mesmo nível um do outro: não sussurram, não cochicham, não falam alto. Josh tem vinte e um anos: voz de homem jovem, masculina, grave e aveludada; "
+         "no mesmo nível um do outro: não sussurram, não cochicham, não falam alto. Josh tem vinte e um anos: voz de homem jovem, masculina, grave e aveludada, voz de peito, a mesma do começo ao fim, nunca fina, nunca fanha, nunca feminina; "
          "nunca animado, nunca simpático, nunca leve, nunca recitando frases; ele respira antes de falar e as "
          "reticências são hesitações de verdade. Aurora tem dezoito anos: voz suave, sem nenhuma infantilidade. ")
 

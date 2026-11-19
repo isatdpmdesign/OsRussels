@@ -251,7 +251,7 @@ if __name__ == "__main__":
         if os.path.exists(seg_f):
             a = load(seg_f); src="cache"
             if slug in _P:  # fala de bloco: o diálogo contínuo sai depressa demais (autora, 19/11)
-                a = apply_af(a, slug + "_lento", "atempo=0.92")
+                a = apply_af(a, slug + "_lento", "silenceremove=stop_periods=-1:stop_duration=0.45:stop_threshold=-40dB:stop_silence=0.4,atempo=0.92")
         elif vk == "N" and os.path.exists(pf):
             a = load(pf); src="cache_p"
         else:
