@@ -240,109 +240,67 @@ Veio em diagonal. Não correu. Atravessou.
 
 E quando chegou onde Aurora estava, parou ao lado dela. Não muito perto. A distância correta. Aurora sentiu, antes de olhar, o cheiro do salão grudado no casaco dele: cera de candelabro, perfume das outras moças com quem ele tinha passado nas trocas de par, e por baixo de tudo o sabão da Bredgade, que Aurora reconhecia porque era o sabão que Helle usava para a roupa dele e que Aurora cheirava todas as semanas sem querer cheirar quando a lavanderia ficava com a porta aberta.
 
-— Aurora.
+— Aurora. Tudo bem?
 
-— Josh.
+— Tudo bem, Josh.
 
-— Tudo bem?
+— A sua mãe me pediu pra trazer uma água pra você. Antes da valsa.
 
-— Tudo bem.
-
-— Antes da valsa, sua mãe perguntou se eu queria ir buscar uma taça de água para você.
-
-— Minha mãe te mandou aqui?
-
-— Mandou.
-
-— Por que ela faria isso?
+— A minha mãe te mandou aqui? Por quê?
 
 Josh hesitou. Olhou de relance para o canto onde Eleonora estava, conversando com a senhora Lundgren, sem olhar para eles, mas com o ângulo do corpo que dizia que estava prestando atenção em outra direção.
 
-— Eu não sei — respondeu Josh. — Talvez porque ela viu que você estava sozinha na janela.
+— Acho que ela te viu sozinha nessa janela e ficou preocupada — respondeu Josh.
 
-— Estou bem sozinha na janela.
+— Pode dizer a ela que eu estou ótima sozinha. E que você cumpriu o recado.
 
-— Eu sei.
+— E a água? Você não vai querer?
 
-— Você pode dizer a ela que cumpriu o recado.
-
-— Tudo bem, mas você não vai querer a água?
-
-— Não Josh, eu mesma posso me servir se quiser. Obrigada.
+— Não, Josh. Se eu quiser, eu mesma busco. Obrigada.
 
 Mas Josh não saiu. Ficou ali, ao lado dela, segurando a taça de água que ele tinha trazido sem que ela tivesse pedido. Aurora notou as mãos dele na taça. A mão direita segurando o copo. A mão esquerda no bolso do casaco. As duas mãos paradas com a precisão de quem está controlando uma respiração.
 
-— Vibeke me contou que falou do Lauritz para meia Copenhague em uma hora — disse Josh.
+— A Vibeke contou do Lauritz pra meia Copenhague em uma hora — disse Josh.
 
-— Ela acabou de me contar a mesma coisa.
+— Pra mim também. Ela fala dele quando fica nervosa.
 
-— Eu não sei se ela percebe o que está fazendo.
+— Então ela passou a valsa inteira nervosa. Não falou de outra coisa.
 
-— Não percebe. — Aurora respondia monossilabicamente.
-
-— Bom, é o que parece.
-
-— Bom para você.
+— Vocês, pelo visto, conversaram bastante durante a valsa.
 
 Josh olhou para Aurora. Não desviou os olhos imediatamente.
 
-— Aurora.
-
-— Sim.
-
-— Tem algo te incomodando?
+— Aurora... tem alguma coisa te incomodando?
 
 A pergunta veio sem aviso. Aurora não estava preparada. Olhou para Josh. Josh estava olhando para ela. Tinha feito a pergunta como quem pergunta sobre o clima.
 
-— Não — respondeu Aurora.
+— Não. Não tem nada.
 
-— Mentira.
-
-— Não é mentira
-
-— Acho que é sim.
-
-— Eu sei que você acha, mas acha errado.
+— Você passou a valsa inteira olhando pro relógio. Eu vi.
 
 Aurora respirou fundo. Olhou para a taça de limonada que continuava intocada na mão dela. Pousou a taça no parapeito da janela.
 
-— Não tem motivo, Josh.
+— Eu não tenho motivo nenhum pra estar incomodada, Josh. A Vibeke é uma boa pessoa. E ela é apaixonada pelo Lauritz.
 
-— Eu sei que não tem.
+— Eu nunca disse que você tinha motivo. — Josh balançou a cabeça e um fio se soltou dos cabelos presos com pomada, caindo sobre a testa.
 
-— Ela é boa pessoa.
+— Então pronto.
 
-— Tenho certeza disso. — Josh balançou a cabeça e um fio se soltou dos cabelos presos com pomada, caindo sobre a testa.
-
-— E está apaixonada pelo Lauritz. — Continuou Aurora.
-
-— Está. — Ele concordou.
-
-— Então não tem motivo.
-
-— Aurora.
-
-— Sim.
-
-— Você ter motivo ou não ter motivo não muda o que você está sentindo.
+— Aurora... ter motivo ou não ter motivo não muda o que você está sentindo.
 
 Aurora ficou em silêncio. Não conseguiu olhar para Josh.
 
 A orquestra começou a se reposicionar para a próxima dança. A senhora Lundgren bateu palmas duas vezes pedindo atenção para anunciar o nome do compositor da peça seguinte. Os casais começaram a voltar para a pista.
 
-— Eu vou voltar para o meu lugar — disse Aurora.
+— Eu vou voltar pro meu lugar — disse Aurora. — Você vai dançar com ela de novo?
 
-— Eu sei.
-
-— Você vai dançar com Vibeke?
-
-— Provavelmente.
+— Vou. A sua mãe me pediu pra acompanhar a Vibeke a noite toda.
 
 — Boa noite, Josh.
 
 — A noite ainda não acabou.
 
-— Eu sei.
+— Eu sei que não.
 
 Aurora atravessou o salão de volta para a cadeira ao lado de Eleonora. Sentou-se. Pegou o leque do colo.
 
