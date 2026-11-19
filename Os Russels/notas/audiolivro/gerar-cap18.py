@@ -199,7 +199,7 @@ SEG = [
 import blocos18 as _B
 _P = {sl for _,(_,L) in _B.BLOCOS.items() for sl,_,_ in L}
 _order=[x[0] for x in SEG]
-SEG=[(sl,v,t,(0.05 if sl in _P and _order.index(sl)+1<len(_order) and _order[_order.index(sl)+1] in _P else g)) for sl,v,t,g in SEG]
+# pausas do roteiro mantidas também entre falas de bloco (antes 0,05 s: diálogo atropelado — autora, 19/11)
 
 if __name__ == "__main__":
     os.makedirs(BASE, exist_ok=True)
