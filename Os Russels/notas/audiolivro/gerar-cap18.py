@@ -66,7 +66,7 @@ SEG = [
  ('i006', 'VIB', VB+'Pra mim. Pro baile.', 0.3),
  ('i007', 'N', 'Aurora olhou os dois vestidos. O verde era escuro, sério, de uma elegância que pedia salão grande e atenção contida. O lilás era mais claro, de manga curta, de um tom que ficava bonito em moças loiras de pele clara, e que ia chamar a atenção do tipo de homem que olha o vestido antes de olhar o rosto. Ela respondeu, sem pensar:', 0.2),
  ('i008', 'AU', BR+'O verde, com certeza.', 0.2),
- ('i009', 'VIB', VB+'Por quê? Me conta tudo.', 0.2),
+ ('i009', 'VIB', VB+'Por quê? Por que o verde?', 0.2),
  ('i010', 'AU', BR+'Porque o lilás é... é um vestido que pede que olhem pra você. E você já vai chamar atenção sem ele.', 0.3),
  ('i011', 'N', 'Vibêke pensou. Olhou os dois vestidos no braço. Olhou para a prima:', 0.2),
  ('i012', 'VIB', VB+'Você está dizendo isso como prima ou como conselheira?', 0.2),
@@ -120,7 +120,7 @@ SEG = [
  ('i060', 'AU', BR+'Foi assim no almoço também?', 0.2),
  ('i061', 'VIB', VB+'No almoço foi pior. Eu falei do Lauritz três vezes pra mãe de uma moça que eu nem sei o nome. Pra moça eu já contei. Pro senhor Holst também. Acho que eu estou nervosa. Quando eu fico nervosa, eu falo do Lauritz. É um vício.', 0.2),
  ('i062', 'AU', BR+'É um vício útil.', 0.2),
- ('i063', 'VIB', VB+'Útil por quê, Aurora?', 0.2),
+ ('i063', 'VIB', VB+'Útil por quê?', 0.2),
  ('i064', 'N', 'Aurora hesitou. Olhou para a prima, que esperava a resposta com aquele olhar de criança grande, sem segunda intenção. E disse, baixo:', 0.2),
  ('i065', 'AU', AI+'Porque metade do salão já sabe que você tem dono. E isso vai te poupar de um monte de conversa boba.', 0.3),
  ('i066', 'N', 'Vibêke pensou. Olhou para o próprio leque. E sorriu:', 0.2),
@@ -129,7 +129,7 @@ SEG = [
  ('i069', 'VIB', VB+'E agora, você está sendo prima ou conselheira?', 0.2),
  ('i070', 'AU', BR+'As duas coisas.', 0.2),
  ('i071', 'N', 'Vibêke apertou de leve o braço de Aurora:', 0.2),
- ('i072', 'VIB', AI+'Você é boa, sabia?', 0.4),
+ ('i072', 'VIB', VB+'Você é boa, sabia?', 0.4),
  ('i073', 'N', 'E saiu para a próxima dança, onde Josh já esperava com a mão estendida, e onde mais três casais se posicionavam para uma valsa lenta que Aurora ia ter de assistir inteira.', 1.0),
  ('i074', 'N', 'A valsa durou seis minutos. Aurora contou. Não porque quisesse. Os olhos dela continuavam achando o relógio no canto do salão, sem que ela tivesse dado permissão ao próprio cérebro. Seis minutos. Em algum momento, ele olhou na direção dela. Um olhar de relance, do tipo que quem dança lança quando passa pelo ponto de onde se vê o canto em que a outra pessoa está. Não foi um olhar carregado. Foi um registro: você ainda está aí. Aurora, de propósito, não retribuiu. Continuou olhando o relógio.', 0.4),
  ('i075', 'N', 'Quando a valsa acabou, ele agradeceu a Vibêke com a mesura curta que a mãe dela tinha ensinado, e a prima respondeu com a reverência da Karoline. Vibêke foi para um grupo de moças. E Josh atravessou o salão. Em diagonal. Sem correr. E parou ao lado de Aurora, na distância correta. Antes de olhar, ela sentiu o cheiro do salão no casaco dele: cera de vela, perfume das moças com quem ele cruzou nas trocas de par, e, por baixo de tudo, o sabão da casa, o que Helle usava na roupa dele, e que Aurora cheirava toda semana sem querer cheirar, quando a lavanderia ficava de porta aberta. Ele disse:', 0.2),
@@ -185,7 +185,8 @@ SILENCIO_MAX = "silenceremove=stop_periods=-1:stop_duration=0.45:stop_threshold=
 import blocos18 as _B
 # Vibêke e as senhoras voltam ao método do cap 17 (fala por fala, com prefixo): no bloco a voz da
 # Vibêke ficava igual à da Aurora (autora, 19/11). Diálogo contínuo só nas cenas do Josh.
-BLOCOS_USADOS = [k for k in _B.BLOCOS if k.startswith('B6') or k=='B4']
+# só as falas do Josh vão em bloco (autora, 19/11): Eleonora/Aurora voltam a fala por fala
+BLOCOS_USADOS = [k for k in _B.BLOCOS if k.startswith('B6')]
 _P = {sl for k in BLOCOS_USADOS for sl,_,_ in _B.BLOCOS[k][1]}
 _order=[x[0] for x in SEG]
 # pausas do roteiro mantidas também entre falas de bloco (antes 0,05 s: diálogo atropelado — autora, 19/11)

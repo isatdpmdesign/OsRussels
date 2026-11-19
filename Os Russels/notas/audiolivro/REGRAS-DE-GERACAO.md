@@ -150,6 +150,11 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
 - **Pausa interna longa:** fala de bloco passa por `silenceremove` (pausa interna
   no máximo ~0,4 s). O "Por quê?" do cap 18 veio depois de um silêncio enorme.
 
+- **Só o Josh vai em bloco (autora, 19/11), em qualquer capítulo.** O diálogo
+  contínuo é para as cenas em que o Josh fala (Josh + o outro personagem). Todas as
+  outras conversas (Vibêke, Eleonora, senhoras) são fala por fala, com prefixo:
+  assim os timbres não mudam e os erros diminuem.
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:
