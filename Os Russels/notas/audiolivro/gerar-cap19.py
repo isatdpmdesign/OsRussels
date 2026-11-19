@@ -93,7 +93,7 @@ SEG = [
  ('m032', 'N', 'Josh começou e parou. A boca se mexeu antes de a voz sair.', 0.2),
  ('m033', 'JOSH', P1+'Porque me importava saber se você pegaria o livro que eu indiquei.', 0.2),
  ('m034', 'AU', AI+'É? E por que importava eu me interessar pelo livro que você indicou?', 0.2),
- ('m035', 'JOSH', P1+'Eu gosto de cuidar das pessoas, Aurôra. Sempre cuidei. E te ver chorando me deu vontade de te ajudar. Mas você quase não me olhava naquela época. O livro foi o jeito que eu achei.', 0.2),
+ ('m035', 'JOSH', P1+'Eu gosto de cuidar das pessoas. Sempre cuidei. E te ver chorando me deu vontade de te ajudar. Mas você quase não me olhava naquela época. O livro foi o jeito que eu achei.', 0.2),
  ('m036', 'N', 'Ele fez uma pausa, e continuou:', 0.2),
  ('m037', 'JOSH', P1+'Se você pegasse, significaria que eu, de algum jeito, era importante pra você.', 0.3),
  ('m038', 'N', 'Aurora não disse nada. Esperou. Depois perguntou:', 0.2),
@@ -117,7 +117,8 @@ SEG = [
  ('m056', 'JOSH', P1+'Você sabe por quê.', 0.2),
  ('m057', 'AU', AI+'Eu quero te ouvir dizer.', 0.3),
  ('m058', 'N', 'Aurora não tinha pensado na frase antes de dizer. Saiu como se estivesse pronta havia semanas, esperando o gatilho. Josh olhou para o chão entre os dois. O assoalho era de madeira clara, com uma emenda na altura da poltrona que sempre tinha incomodado a mãe dela e que ninguém nunca tinha consertado direito. Josh ficou olhando para a emenda como se fosse a coisa mais importante do cômodo. Quando falou, a voz dele saiu mais grave do que até ali:', 0.2),
- ('m059', 'JOSH', P1+'Aurôra, eu vi você na cadeira a noite inteira.', 0.2),
+ ('m059c', 'JOSH', 'CLIP:josh_aurora', 0.15),
+ ('m059', 'JOSH', P1+'Eu vi você na cadeira a noite inteira.', 0.2),
  ('m060', 'AU', AI+'Você estava dançando.', 0.2),
  ('m061', 'JOSH', P1+'Estava. Estava dançando e olhando.', 0.2),
  ('m062', 'AU', AI+'Eu não vi você olhando.', 0.2),
@@ -141,7 +142,7 @@ SEG = [
  ('r080', 'N', 'Ele se pôs de cócoras, pronto para levantar. Mas Aurora o interrompeu, com angústia em cada palavra:', 0.2),
  ('r081', 'AU', AI+'Por quê? Qual é o problema? Diga! Eu preciso saber.', 0.2),
  ('r082', 'N', 'Josh parou no meio do movimento. Quando respondeu, não olhou para ela. Olhou para a vela.', 0.2),
- ('r083', 'JOSH', P1+'Porque a casa inteira está dormindo, e eu... Eu não confio em mim perto de você, Aurôra. Não assim.', 0.5),
+ ('r083', 'JOSH', P1+'Porque a casa inteira está dormindo, e eu... Eu não confio em mim perto de você. Não assim.', 0.5),
  ('r084', 'N', 'A frase pousou na sala como uma vela trocada. Aurora sentiu o calor subir pela nuca, naquele ponto onde o cabelo encontrava a pele e onde tudo o que ela sentia acontecia antes que a cabeça autorizasse. Apertou o xale. E perguntou:', 0.2),
  ('r085', 'AU', AI+'Desde quando você pensa nisso?', 0.2),
  ('r086', 'N', 'O maxilar dele se mexeu antes da boca.', 0.2),
@@ -151,9 +152,10 @@ SEG = [
  ('r090', 'JOSH', P1+'Porque você nunca tinha me perguntado desse jeito. Olhando pra mim desse jeito.', 0.6),
  ('r091', 'N', 'Aurora pousou o livro de Aráve no chão, ao lado da poltrona. Não pousou depressa. Pousou com a calma de quem está liberando as duas mãos para uma coisa que ainda não tinha nome, mas que já estava decidida. O xale escorregou um pouco do ombro esquerdo, e ela não puxou de volta. Sentiu o ar frio encostar na pele descoberta, entre a manga da camisola e a queda do xale. Um frio de pele, não de corpo. Um frio que sabia muito bem que o resto dela estava em outra temperatura.', 0.3),
  ('r092', 'N', 'Josh viu o gesto. Não comentou. Continuou no chão, mas o corpo dele mudou de postura na hora em que o livro saiu do colo dela. Aurora viu o ombro dele se tensionar um milímetro, o antebraço firmar no joelho. Era a postura de quem se prepara para uma coisa que sabe que não vai conseguir evitar. Foi ele quem falou primeiro:', 0.2),
- ('r093', 'JOSH', P1+'Aurôra. Antes de você dizer qualquer coisa... Tem três coisas que você precisa ouvir. Eu repeti isso tantas vezes, sozinho no quarto, que...', 0.2),
+ ('r093c', 'JOSH', 'CLIP:josh_aurora_intenso', 0.25),
+ ('r093', 'JOSH', P1+'Antes de você dizer qualquer coisa... Tem três coisas que você precisa ouvir. Eu repeti isso tantas vezes, sozinho no quarto, que...', 0.2),
  ('r094', 'N', 'Não terminou. Aurora não disse nada. Esperou. Josh respirou fundo. Aurora viu o peito dele subir, segurar dois segundos, descer. A camisa aberta deixava ver a base do pescoço, e a clavícula aparecia e sumia conforme ele respirava. Aurora seguiu o movimento. Não desviou. Quando ele recomeçou, a voz saiu rouca, como se ele tivesse passado dias sem usá-la:', 0.2),
- ('r095', 'JOSH', P1+'Eu sou o afilhado do seu pai. Ele me trouxe pra cá, me deu o quarto leste, a mesa dele, os livros dele. Pra essa cidade, Aurôra, eu sou quase seu irmão. E ele confia em mim. É isso que eu... É isso que eu estaria traindo.', 0.2),
+ ('r095', 'JOSH', P1+'Eu sou o afilhado do seu pai. Ele me trouxe pra cá, me deu o quarto leste, a mesa dele, os livros dele. Pra essa cidade, eu sou quase seu irmão. E ele confia em mim. É isso que eu... É isso que eu estaria traindo.', 0.2),
  ('r096', 'N', 'Aurora abriu a boca. Fechou. Esperou. Josh continuou, a voz mais firme agora, como se a primeira tivesse aberto caminho para as outras:', 0.2),
  ('r097', 'JOSH', P1+'E eu não tenho um tostão. Você sabe de onde eu venho. Uma fazenda em Sorô, uma mãe viúva, cinco filhos. Eu vim pra Copenhague estudar justamente pra tentar ser alguém. Hoje eu não tenho nada pra te oferecer. Não tenho como te dar a vida que você tem.', 0.2),
  ('r098', 'AU', AI+'Eu nunca te pedi a vida que eu tenho.', 0.2),
@@ -161,12 +163,12 @@ SEG = [
  ('r100', 'N', 'Aurora ficou em silêncio. A vela pulsou. A chama nervosa deu um daqueles tremores curtos que vêm antes de o pavio começar a apagar. Faltava menos vela do que ela tinha calculado. Ela perguntou, sem levantar a voz:', 0.2),
  ('r101', 'AU', AI+'E a terceira?', 0.2),
  ('r102', 'N', 'Josh respirou. Olhou para o chão. Olhou para ela. Olhou para a própria mão direita, pousada no joelho, com o calo da pena visível no dedo médio. Quando voltou a falar, a voz estava mais grave que nas duas anteriores.', 0.2),
- ('r103', 'JOSH', P1+'A terceira é a que eu não aguento. Se descobrirem, ninguém vai achar que a gente se apaixonou, que é uma linda história de amor. Vai ser um escândalo. E quem vai ser prejudicada é você, não eu. É a sua reputação que está em jogo, Aurôra. O seu nome.', 0.2),
+ ('r103', 'JOSH', P1+'A terceira é a que eu não aguento. Se descobrirem, ninguém vai achar que a gente se apaixonou, que é uma linda história de amor. Vai ser um escândalo. E quem vai ser prejudicada é você, não eu. É a sua reputação que está em jogo. O seu nome.', 0.2),
  ('r104', 'N', 'Os olhos dele estavam marejados. Não chorando, mas naquela parte de cima do choro, a que ainda dá para conter se a pessoa segurar firme. E terminou:', 0.2),
  ('r105', 'JOSH', P1+'Eu prefiro te querer de longe a ser o motivo de falarem de você assim.', 0.6),
  ('r106', 'N', 'Aurora ficou em silêncio mais um tempo. A sala estava muito quieta. Era a quietude da madrugada na Brédigueide: quando os passos de quem trabalhava dentro da casa já tinham acabado, os de quem trabalhava fora ainda não tinham começado, e o que sobrava era o assoalho assentando, a vela queimando e a respiração dos dois. Aurora ouviu o próprio coração na altura da garganta. Não estava acelerado. Estava forte. Por fim, ela disse:', 0.2),
  ('r107', 'AU', AI+'São três paredes.', 0.2),
- ('r108', 'JOSH', P1+'São, Aurôra. São três.', 0.2),
+ ('r108', 'JOSH', P1+'São três, sim. As três.', 0.2),
  ('r109', 'AU', AI+'E você ensaiou isso sozinho.', 0.2),
  ('r110', 'N', 'Ele não respondeu. Não precisou: o queixo baixou meio centímetro, e Aurora entendeu que sim. Sozinho. Centenas de vezes. Aurora respirou fundo. Não foi um suspiro. Foi a respiração de quem põe alguma coisa no lugar dentro do peito antes de se mexer.', 0.2),
  ('r111', 'AU', AI+'Eu vou te responder, Josh. Mas não no chão.', 0.3),
@@ -178,15 +180,17 @@ SEG = [
  ('r117', 'AU', AI+'Você diz que pra cidade é quase meu irmão. Pode ser. Mas eu nunca te olhei como irmão. Nem uma vez, desde o primeiro jantar. E o que você deve ao papai é verdade, eu sei o tamanho disso. Só que isso é entre você e ele. Um dia você vai ter que falar com ele. Não hoje. Eu não vou te pedir isso hoje.', 0.2),
  ('r118', 'N', 'Josh fechou os olhos por um segundo. Quando abriu, estavam mais úmidos. Aurora quase riu, sem graça nenhuma:', 0.2),
  ('r119', 'AU', AI+'Quanto ao dinheiro... Você acha que eu não sei o que estaria escolhendo? Eu sei. Eu não estou escolhendo ser pobre, Josh. Eu estou escolhendo você.', 0.2),
- ('r120', 'JOSH', P1+'Aurôra... escuta...', 0.1),
+ ('r120c', 'JOSH', 'CLIP:josh_aurora_intenso', 0.1),
+ ('r120', 'JOSH', P1+'Escuta...', 0.1),
  ('r121', 'AU', AI+'Não terminei.', 0.2),
  ('r122', 'N', 'Josh fechou a boca. E a voz dela ficou mais grave, porque essa era a que tinha doído nela também:', 0.2),
  ('r123', 'AU', AI+'E a reputação é minha. Você não pode decidir sozinho o que eu aguento perder. Se alguém vai arriscar o meu nome, que seja eu.', 0.4),
  ('r124', 'N', 'A vela tremeu de novo. Faltava muito pouco. Aurora deu um passo. Josh não recuou. A voz dele rachou um pouquinho na primeira sílaba:', 0.2),
- ('r125', 'JOSH', P1+'Aurôra. Se você der mais um passo, eu não... Eu não vou conseguir recuar.', 0.2),
+ ('r125c', 'JOSH', 'CLIP:josh_aurora_intenso', 0.25),
+ ('r125', 'JOSH', P1+'Se você der mais um passo, eu não... Eu não vou conseguir recuar.', 0.2),
  ('r126', 'AU', AI+'Eu sei.', 0.2),
  ('r127', 'N', 'Ele soltou um riso curto, sem humor nenhum, que saiu mais parecido com um gemido.', 0.2),
- ('r128', 'JOSH', P1+'As paredes continuam de pé, você entende? Eu continuo achando tudo o que eu disse. Mas eu te quero há cinco meses, Aurôra, e o meu corpo já não... Isso não resolve nada.', 0.2),
+ ('r128', 'JOSH', P1+'As paredes continuam de pé, você entende? Eu continuo achando tudo o que eu disse. Mas eu te quero há cinco meses, e o meu corpo já não... Isso não resolve nada.', 0.2),
  ('r129', 'AU', AI+'Eu sei. Mas vai acontecer.', 0.3),
  ('r130', 'N', 'Ele não negou. Aurora deu o segundo passo.', 1.0),
  ('r132', 'N', 'Estava a um palmo dele. Sentiu o calor do corpo dele antes do toque. Não tinha encostado ainda, e já sentia a temperatura. O cheiro do sabão da casa misturado com alguma coisa mais quente, de corpo, vindo da base do pescoço, onde a camisa estava aberta. Aurora levantou os olhos. O queixo dele estava ali, um pouco quadrado, com a sombra fina descendo até a clavícula. Ela seguiu a sombra até onde ela morria. Voltou os olhos para o rosto dele.', 0.3),
@@ -194,7 +198,8 @@ SEG = [
  ('r134', 'JOSH', 'CLIP:josh_aurora_intenso', 0.3),
  ('r135', 'N', 'A mão dele virou. Os dedos dela escorregaram entre os dedos dele, e fecharam. Foi a primeira vez que as mãos dos dois se prenderam. Não cortesia. Não condução de dança. Prenderam. Aurora sentiu o aperto firme dos dedos dele nas costas dos dela. Sentiu o polegar dele subir até a base do pulso, e parar ali, onde o pulso batia. Ele ficou com o polegar ali por meio segundo, sentindo a batida. Aurora soube, porque viu o queixo dele se afrouxar de leve quando ele encontrou o ritmo.', 0.2),
  ('r136', 'N', 'A outra mão dela subiu pela camisa dele, no peito, sem pousar. Só seguiu o caminho do tecido até a base do pescoço, onde o botão estava aberto, e parou ali, com a ponta dos dedos no osso da clavícula. Era pele, desta vez. Não tecido. Pele quente, mais quente do que a do braço dela, com aquela diferença de temperatura que ela nunca tinha tido a chance de comprovar. Josh abriu os olhos.', 0.2),
- ('r137', 'JOSH', P1+'Aurôra... eu...', 0.1),
+ ('r137c', 'JOSH', 'CLIP:josh_aurora_intenso', 0.2),
+ ('r137', 'JOSH', P1+'Eu... eu...', 0.1),
  ('r138', 'AU', AI+'Beija.', 0.6),
  ('r139', 'N', 'Ele baixou a cabeça devagar, como quem ainda dá a ela tempo de desistir. O primeiro beijo foi contido. Lábios contra lábios, quase parados, por dois segundos inteiros. Aurora sentiu a boca dele mais cheia e mais quente do que tinha imaginado, levemente rachada de um lado. E sentiu que ele tremia. Não as mãos: a respiração, presa no peito, saindo pelo nariz em fios curtos contra a bochecha dela.', 0.3),
  ('r140', 'N', 'Josh recuou meio centímetro, sem soltar a mão dela. A voz saiu tão perto que ela sentiu as palavras na própria boca.', 0.2),
@@ -208,7 +213,8 @@ SEG = [
  ('r148', 'N', 'A boca dele desceu para o canto da boca dela. Depois para a linha do queixo. Depois para a base do pescoço, onde o xale tinha estado antes de cair. Aurora sentiu os lábios dele na clavícula, e o calor que subiu não foi pela nuca, nem pelo pescoço. Foi por baixo da pele inteira, ao mesmo tempo. Uma onda que ela nunca tinha sentido na vida, e que ela soube, no segundo em que sentiu, que ia dividir o tempo dela em antes e depois. Quando ele voltou para a boca dela, Aurora já não tinha fôlego. Os joelhos tinham ficado moles, e o mundo inteiro cabia na distância entre a boca dele e a dela. Segurou o rosto dele com as duas mãos, e trouxe de volta. E desta vez, foi ela quem beijou primeiro.', 1.2),
  ('r149', 'N', 'Em algum momento, eles pararam. Aurora não soube quanto tempo tinha passado. Podiam ter sido dois minutos, podiam ter sido dez. A vela ainda estava acesa, a chama ainda nervosa. O livro de Aráve estava no chão. O xale também. A camisola estava em ordem: ele não tinha tocado o que não devia. A cintura, a nuca, o cabelo, o pescoço, a clavícula. Nada mais. Aurora reconheceu, com uma honestidade que quase achou engraçada, que ele tinha feito o cálculo até no meio do beijo.', 0.2),
  ('r150', 'N', 'Josh tinha a testa encostada na dela. Os dois respirando. A respiração dele estava mais alta que a dela. Não muito. Mas o suficiente para Aurora perceber, e para uma vaidade pequena e meio absurda registrar. Ele falou primeiro, ainda sem fôlego:', 0.2),
- ('r151', 'JOSH', P1+'Aurôra... Eu não sei voltar disso. Nem quero. Mas eu tenho que subir.', 0.2),
+ ('r151c', 'JOSH', 'CLIP:josh_aurora_intenso', 0.25),
+ ('r151', 'JOSH', P1+'Eu não sei voltar disso. Nem quero. Mas eu tenho que subir.', 0.2),
  ('r152', 'AU', AI+'Eu sei. Nem eu.', 0.3),
  ('r153', 'N', 'Ele afastou a testa. Olhou para ela. Tinha os olhos marejados de um jeito que Aurora nunca tinha visto. Não era choro. Era o que vem antes do choro, a parte que ainda dá para conter. Aurora levantou a mão. Tocou o canto do olho direito dele com o polegar. Não enxugou nada, porque não havia lágrima para enxugar. Só pousou ali, como quem deixa um selo.', 0.2),
  ('r154', 'JOSH', P1+'Amanhã não vai ser fácil. Eu vou acordar, o seu pai vai estar tomando café com o jornal, e eu vou ter que olhar pra ele sabendo o que eu fiz. Eu não sei se eu consigo.', 0.2),
@@ -217,7 +223,8 @@ SEG = [
  ('r157', 'AU', AI+'Porque pior do que olhar pro papai sabendo o que você fez é olhar pra mim fingindo que não fez. E você não vai me fazer isso de novo. Não como desde a festa do celeiro.', 0.3),
  ('r158', 'N', 'Josh ficou um segundo sem responder. Depois assentiu, com um movimento muito pequeno do queixo. Aurora viu. Ele se afastou devagar. Recuou um passo. Os dedos dele soltaram o cabelo dela com a mesma lentidão com que tinham entrado. A mão da cintura saiu por último. Aurora sentiu o frio voltar onde a mão dele tinha estado, do mesmo jeito que tinha sentido o calor antes do toque.', 0.3),
  ('r159', 'AU', AI+'Boa noite, Josh.', 0.2),
- ('r160', 'JOSH', P1+'Boa noite... Aurôra.', 0.4),
+ ('r160', 'JOSH', P1+'Boa noite...', 0.15),
+ ('r160c', 'JOSH', 'CLIP:josh_aurora', 0.4),
  ('m205', 'N', 'Ele pegou a vela apagada da mesa lateral. Não acendeu: ia fazer o caminho de volta de cor. Olhou para ela mais uma vez. Não disse nada. Saiu descalço pelo corredor. E Aurora ouviu o décimo segundo degrau ranger de novo, mais devagar dessa vez, do jeito que range quando um homem sobe a escada sem pressa, porque não quer chegar ao quarto.', 1.0),
  ('m206', 'N', 'Aurora ficou sozinha. Sentou no chão de novo. Pegou o livro. Pegou o xale. Pôs o xale de volta nos ombros. O xale estava frio. A pele dela estava quente. O contraste foi tão imediato que ela teve que fechar os olhos por dois segundos, para o corpo aceitar que aquela mudança de temperatura era real. A vela continuava na mesa lateral. A chama tinha começado, enfim, a baixar. O pavio se inclinava. Restava talvez um minuto.', 0.2),
  ('m207', 'N', 'Aurora abriu o livro na página trinta e sete. Procurou de novo o verso. E leu, baixo, mas alto o bastante para ouvir o próprio som no cômodo vazio. Não com a voz de Aráve. Com a voz dela.', 0.3),
@@ -226,15 +233,25 @@ SEG = [
  ('m210', 'N', 'Fechou o livro. Apagou a vela. Subiu descalça pela escada que conhecia tão bem que sabia em que degrau pisar com mais peso para não fazer barulho. Pulou o décimo segundo. Entrou no quarto. Fechou a porta sem barulho. Deitou. E ficou de olhos abertos, no escuro, com a mão direita pousada na cintura, onde a mão dele ainda parecia estar, e a mão esquerda pousada nos lábios, onde os dele tinham estado havia pouco.', 0.0),
 ]
 
+def _falas_de_bloco():
+    import importlib.util
+    sp = importlib.util.spec_from_file_location("b19", os.path.join(os.path.dirname(os.path.abspath(__file__)), "blocos19.py"))
+    b = importlib.util.module_from_spec(sp); sp.loader.exec_module(b)
+    return {sl for _, (_, L) in b.BLOCOS.items() for sl, _, _ in L}
+
 if __name__ == "__main__":
+    _P = _falas_de_bloco()
     os.makedirs(BASE, exist_ok=True)
     parts = []
     for slug, vk, text, gap in SEG:
         seg_f = f"{BASE}/{slug}.seg.wav"; pf = f"{BASE}/{slug}_p.wav"
         if text.startswith("CLIP:"):
-            subprocess.run(["ffmpeg","-y","-i",INT,"-ac","1","-ar",str(SR),seg_f,"-loglevel","error"],check=True)
+            ref = INT if text[5:] == "josh_aurora_intenso" else os.path.join(os.path.dirname(INT), "josh_aurora.wav")
+            subprocess.run(["ffmpeg","-y","-i",ref,"-ac","1","-ar",str(SR),seg_f,"-loglevel","error"],check=True)
         if os.path.exists(seg_f):
             a = load(seg_f); src="cache"
+            if slug in _P:  # fala de bloco: o diálogo contínuo sai depressa demais (autora, 19/11)
+                a = apply_af(a, slug + "_lento", "atempo=0.92")
         elif vk == "N" and os.path.exists(pf):
             a = load(pf); src="cache_p"
         else:

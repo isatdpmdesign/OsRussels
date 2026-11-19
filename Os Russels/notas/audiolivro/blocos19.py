@@ -21,7 +21,7 @@ VOZ = {"Josh": "Zubenelgenubi", "Aurora": "Leda"}
 NOME = {"JOSH": "Josh", "AU": "Aurora"}
 
 GERAL = ("Leia em português do Brasil, com sotaque brasileiro, como uma cena de audiolivro de romance de época, "
-         "interpretada por um ator e uma atriz, com naturalidade, como conversa de verdade, sem ler. "
+         "interpretada por um ator e uma atriz, com naturalidade, como conversa de verdade, sem ler, em ritmo calmo, com pausas entre as falas. "
          "Madrugada, na sala de estar escura de um casarão, à luz de uma vela; os dois conversam em volume normal, médio, "
          "no mesmo nível um do outro: não sussurram, não cochicham, não falam alto. Josh tem vinte e um anos: voz de homem jovem, masculina, grave e aveludada; "
          "nunca animado, nunca simpático, nunca leve, nunca recitando frases; ele respira antes de falar e as "
@@ -60,12 +60,23 @@ def montar():
     por = {s[0]: s for s in G.SEG}
     blocos = {}
     for bid, (a, b, direc) in FAIXAS.items():
-        linhas = []
+        # corta no take colado e em pedaços de no máximo 8 falas (autora, 19/11: bloco longo
+        # faz o Josh derivar para voz de moça)
+        pedacos = [[]]
         for sl in ordem[ordem.index(a):ordem.index(b) + 1]:
             _, vk, t, _ = por[sl]
-            if vk in NOME and not t.startswith("CLIP:"):
-                linhas.append((sl, NOME[vk], _limpa(t)))
-        blocos[bid] = (direc, linhas)
+            if t.startswith("CLIP:"):
+                pedacos.append([])
+            elif vk in NOME:
+                pedacos[-1].append((sl, NOME[vk], _limpa(t)))
+        finais = []
+        for pc in pedacos:
+            if not pc: continue
+            n = -(-len(pc) // 7)
+            tam = -(-len(pc) // n)
+            finais += [pc[i:i + tam] for i in range(0, len(pc), tam)]
+        for i, pc in enumerate(finais):
+            blocos[bid if len(finais) == 1 else f"{bid}.{i + 1}"] = (direc, pc)
     return blocos
 
 BLOCOS = montar()
@@ -91,6 +102,17 @@ def gera(bid, sufixo=""):
             if "RESOURCE_EXHAUSTED" in dump: print("COTA_ESGOTADA"); sys.exit(3)
             time.sleep(10)
     return None
+
+LIMITE_JOSH_HZ = 130  # o Josh fica por volta de 100 Hz; acima de 130 já soa feminino
+
+def f0(a, sr=SR):
+    fr = []; n = 2048
+    for i in range(0, len(a) - n, 1024):
+        x = a[i:i + n]
+        if np.sqrt((x ** 2).mean()) < 0.03: continue
+        c = np.correlate(x, x, "full")[n - 1:]; lo, hi = sr // 350, sr // 60
+        fr.append(sr / (lo + np.argmax(c[lo:hi])))
+    return int(np.median(fr)) if fr else 0
 
 def norm(t):
     t = unicodedata.normalize("NFKD", t.lower()); t = "".join(c for c in t if not unicodedata.combining(c))
@@ -127,7 +149,7 @@ if __name__ == "__main__":
     args = sys.argv[1:]
     takes = int(args[args.index("--takes") + 1]) if "--takes" in args else 1
     so_recorte = "--recortar" in args
-    alvo = [x for x in args if x in BLOCOS] or list(BLOCOS)
+    alvo = [k for x in args for k in BLOCOS if k == x or k.startswith(x + ".")] or list(BLOCOS)
     for bid in alvo:
         if so_recorte:
             a = sf.read(f"{OUT}/{bid}.wav", dtype="float32")[0]
@@ -138,4 +160,11 @@ if __name__ == "__main__":
                 if x is None: print("ABORT", bid); sys.exit(1)
                 if a is None: a = x
             if takes > 1: sf.write(f"{OUT}/{bid}.wav", a, SR)
-        recorta(bid, a)
+        if not recorta(bid, a) or so_recorte: continue
+        for tent in range(2):  # timbre: refaz se alguma fala do Josh subir demais
+            alto = [(sl, f0(sf.read(f"{BASE}/{sl}.seg.wav")[0])) for sl, f, _ in BLOCOS[bid][1] if f == "Josh"]
+            alto = [x for x in alto if x[1] > LIMITE_JOSH_HZ]
+            if not alto: break
+            print("TIMBRE ALTO, refazendo", bid, alto)
+            a = gera(bid)
+            if a is None or not recorta(bid, a): break

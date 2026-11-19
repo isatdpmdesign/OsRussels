@@ -129,6 +129,14 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
   "orora" e "oraurora". A fala vira take colado (`josh_aurora.wav` ou
   `ref-josh-aurora-intenso.wav`) + o resto da frase no bloco.
 
+- **Vibêke e as senhoras ficam fora do diálogo contínuo (autora, 19/11):** no
+  bloco a Vibêke perdeu o prefixo "com alegria espontânea" e ficou igual à
+  Aurora, e diferente do cap 17. Elas voltam ao método do cap 17: fala por fala,
+  com prefixo. O diálogo contínuo fica nas cenas do Josh.
+- **Ritmo:** falas de bloco entram a 0,92 da velocidade (`atempo=0.92`) e com
+  as pausas do roteiro; a direção de cena pede "ritmo calmo, com pausas entre as
+  falas".
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:

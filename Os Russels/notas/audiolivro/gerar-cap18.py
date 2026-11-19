@@ -198,7 +198,10 @@ SEG = [
 
 RITMO_DIALOGO = 0.92
 import blocos18 as _B
-_P = {sl for _,(_,L) in _B.BLOCOS.items() for sl,_,_ in L}
+# Vibêke e as senhoras voltam ao método do cap 17 (fala por fala, com prefixo): no bloco a voz da
+# Vibêke ficava igual à da Aurora (autora, 19/11). Diálogo contínuo só nas cenas do Josh.
+BLOCOS_USADOS = [k for k in _B.BLOCOS if k.startswith('B6') or k=='B4']
+_P = {sl for k in BLOCOS_USADOS for sl,_,_ in _B.BLOCOS[k][1]}
 _order=[x[0] for x in SEG]
 # pausas do roteiro mantidas também entre falas de bloco (antes 0,05 s: diálogo atropelado — autora, 19/11)
 
