@@ -122,6 +122,13 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
   baixa", "tom mais baixo" ou "para ninguém ouvir" na direção: o Gemini cochicha.
   Tensão se pede pela emoção, não pelo volume.
 
+- **Blocos curtos (autora, 19/11):** de 4 a 8 falas. Bloco longo faz o Gemini
+  "derivar": o Josh vira voz de moça no meio. O `blocos18.py` mede o tom de cada
+  fala do Josh e **refaz o bloco sozinho** se passar de 130 Hz (ele fica em ~100).
+- **"Aurora" na boca do Josh nunca é gerado, nem dentro do bloco:** no bloco saiu
+  "orora" e "oraurora". A fala vira take colado (`josh_aurora.wav` ou
+  `ref-josh-aurora-intenso.wav`) + o resto da frase no bloco.
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:
