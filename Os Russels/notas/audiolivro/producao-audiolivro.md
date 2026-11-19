@@ -153,8 +153,8 @@ script tenta de novo com a fala entre aspas.
 - **Cap 15** — fechado (15/nov; dança e recusa reescritas, Josh na voz aveludada, "Aurora" intenso). Vozes novas: Iálmar Eriksen (Puck), Lúque Eriksen (Zephyr).
 - **Cap 16** — fechado (14/nov, correções aprovadas).
 - **Cap 17** — fechado (15/nov, correções aprovadas).
-- **Cap 18** — gerado (15/nov), aguardando a escuta da autora. Voz nova: Sra. Lundgren (Sulafat + prefixo de senhora madura). Voz nova: Vibeke (Laomedeia, prefixo "com alegria espontânea"; nome escrito "Vibêke").
-- **Cap 19** — gerado (18/nov), aguardando a escuta da autora. Verso do Oehlenschläger só em português ("O que é viver, senão arder"): na memória, com filtro de eco; no fim, na voz da Aurora.
+- **Cap 18** — regerado (19/nov): Josh em blocos curtos com "voz de peito", janela reescrita, Vibêke fala por fala como no 17. Correções aprovadas pela autora; versão unificada em escuta final.
+- **Cap 19** — regerado (19/nov) com a cena das paredes e do beijo reescrita; em escuta da autora.
 
 ## Pendências de correção
 
