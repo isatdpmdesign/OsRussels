@@ -185,6 +185,7 @@ if __name__ == "__main__":
                     hz = f0(sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0])
                     if 0 < hz < 150: prob.append((sl, f"Aurora com {hz} Hz"))
                     continue
+                if f != "Josh": continue  # Raj e outros não passam pela régua do Josh
                 x = sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0]
                 hz = f0(x)
                 if hz > LIMITE_JOSH_HZ or 0 < hz < PISO_JOSH_HZ: prob.append((sl, f"{hz} Hz"))
