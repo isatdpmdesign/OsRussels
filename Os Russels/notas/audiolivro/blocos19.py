@@ -35,12 +35,12 @@ FAIXAS = {
          "ternura contida, escolhendo cada palavra; ela pergunta com dúvida verdadeira, querendo entender."),
  "A2":  ("m033", "m050", "A conversa fica mais íntima. Ele confessa que se importava com ela, com cuidado e um pouco "
          "de vergonha; ela provoca de leve, com meio sorriso, até rir de verdade. Na última pergunta dela a leveza some."),
- "A3":  ("m053", "m069", "A tensão sobe. Ela cobra, com afronta e ciúme mal escondido; ele responde intenso, "
+ "A3":  ("m053", "m069", "A tensão sobe. Josh na mesma voz jovem das falas anteriores, nunca mais velho nem mais grosso. Ela cobra, com afronta e ciúme mal escondido; ele responde intenso, "
          "olhando para ela, sem levantar a voz. No fim ela explode, irritada."),
  "S1":  ("r071", "r090", "Briga contida. Ela está ferida, desafiadora, com angústia crescente. Ele está no limite: "
          "quer fugir dali porque a deseja e não pode ficar; cada resposta sai pesada, com o desejo segurado na voz."),
  "S2":  ("r093", "r111", "Ele diz, pela primeira vez em voz alta, as três razões pelas quais não pode ficar com ela. "
-         "Voz rouca, vulnerável, falhando em algumas palavras, parando no meio da frase. Não é discurso: é um "
+         "Volume normal, sem cochichar, na mesma voz grave das falas anteriores; vulnerável, falhando em algumas palavras, parando no meio da frase. Não é discurso: é um "
          "homem confessando o que o machuca. Ela escuta; quando fala, é insegura e suave, e no fim decidida."),
  "S3":  ("r115", "r129", "Agora ela responde de pé, firme, decidida, com uma afronta carinhosa; a voz dela não treme. "
          "Ele chega ao próprio limite: voz intensa, quase rachando, carregada de desejo, tentando resistir "
@@ -106,7 +106,8 @@ def gera(bid, sufixo=""):
             time.sleep(10)
     return None
 
-LIMITE_JOSH_HZ = 120  # o Josh fica por volta de 100 Hz; acima de 130 já soa feminino
+LIMITE_JOSH_HZ = 120
+PISO_JOSH_HZ = 85  # abaixo disso ele soa grosso, mais velho (cap 19, 'Não. Não consegui.')  # o Josh fica por volta de 100 Hz; acima de 130 já soa feminino
 
 def f0(a, sr=SR):
     fr = []; n = 2048
@@ -177,7 +178,8 @@ if __name__ == "__main__":
                 if f != "Josh": continue
                 x = sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0]
                 hz = f0(x)
-                if hz > LIMITE_JOSH_HZ: prob.append((sl, f"{hz} Hz"))
+                if hz > LIMITE_JOSH_HZ or 0 < hz < PISO_JOSH_HZ: prob.append((sl, f"{hz} Hz"))
+                if "bibliotéca" in t and "biblioteca" not in norm(ouvir(x)): prob.append((sl, "biblioteca"))
                 if "Aurôra" in t and "aurora" not in norm(ouvir(x)): prob.append((sl, "nome: " + ouvir(x)[:40]))
             if not prob: break
             if tent == 3: print("AINDA COM PROBLEMA (ouvir)", bid, prob); break
