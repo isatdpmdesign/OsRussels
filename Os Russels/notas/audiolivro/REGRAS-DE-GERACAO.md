@@ -137,6 +137,11 @@ isso que a narradora, gerada em blocos longos, sempre teve mais interpretação.
   as pausas do roteiro; a direção de cena pede "ritmo calmo, com pausas entre as
   falas".
 
+- **"Aurora" do Josh = só o chamado padrão `josh_aurora.wav` (autora, 19/11).** O
+  take `ref-josh-aurora-intenso.wav` saiu "oraroura" na escuta do cap 18: não usar.
+- **Take de outra geração pode ser colado** quando a autora aprovar a fala (ex.:
+  `take-cap18-i077-aurora.wav`, entra como `CLIP:take-cap18-i077-aurora`).
+
 ### Como escrever a direção de cena
 
 Um parágrafo antes das falas, sempre com estas peças:

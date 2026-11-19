@@ -135,7 +135,7 @@ SEG = [
  ('i075', 'N', 'Quando a valsa acabou, ele agradeceu a Vibêke com a mesura curta que a mãe dela tinha ensinado, e a prima respondeu com a reverência da Karoline. Vibêke foi para um grupo de moças. E Josh atravessou o salão. Em diagonal. Sem correr. E parou ao lado de Aurora, na distância correta. Antes de olhar, ela sentiu o cheiro do salão no casaco dele: cera de vela, perfume das moças com quem ele cruzou nas trocas de par, e, por baixo de tudo, o sabão da casa, o que Helle usava na roupa dele, e que Aurora cheirava toda semana sem querer cheirar, quando a lavanderia ficava de porta aberta. Ele disse:', 0.2),
  ('i076', 'JOSH', 'CLIP:josh_aurora', 0.15),
  ('i076b', 'JOSH', P1+'Tudo bem?', 0.2),
- ('i077', 'AU', AI+'Tudo bem, Josh.', 0.3),
+ ('i077', 'AU', 'CLIP:take-cap18-i077-aurora', 0.3),  # take da geração v2, aprovado pela autora (19/11)
  ('i078', 'JOSH', P1+'Antes da valsa, a sua mãe me pediu pra trazer uma taça de água pra você.', 0.2),
  ('i079', 'AU', AI+'A minha mãe te mandou aqui?', 0.2),
  ('i080', 'JOSH', P1+'Mandou, sim. Foi ela quem pediu.', 0.2),
@@ -156,7 +156,7 @@ SEG = [
  ('i095', 'JOSH', P1+'Bom. É o que parece.', 0.2),
  ('i096', 'AU', AI+'Bom pra você, então.', 0.4),
  ('i097', 'N', 'Ele olhou para ela. E não desviou os olhos logo:', 0.2),
- ('i098', 'JOSH', 'CLIP:josh_aurora_intenso', 0.2),
+ ('i098', 'JOSH', 'CLIP:josh_aurora', 0.2),
  ('i099', 'AU', AI+'Sim, Josh?', 0.2),
  ('i100', 'JOSH', P1+'Tem alguma coisa te incomodando?', 0.4),
  ('i101', 'N', 'A pergunta veio sem aviso. Aurora não estava preparada. Olhou para ele. Ele olhava para ela, e tinha perguntado como quem pergunta do tempo. Ela respondeu:', 0.2),
@@ -174,7 +174,7 @@ SEG = [
  ('i113', 'AU', AI+'E ela é apaixonada pelo Lauritz.', 0.2),
  ('i114', 'JOSH', P1+'É, sim. Muito.', 0.2),
  ('i115', 'AU', AI+'Então não tem motivo.', 0.3),
- ('i116', 'JOSH', 'CLIP:josh_aurora_intenso', 0.25),
+ ('i116', 'JOSH', 'CLIP:josh_aurora', 0.25),
  ('i116b', 'JOSH', P1+'Você ter motivo, ou não ter motivo, não muda o que você está sentindo.', 0.6),
  ('i117', 'N', 'Aurora ficou em silêncio. Não conseguiu olhar para ele. A orquestra começou a se reposicionar para a dança seguinte. A senhora Lundgren bateu palmas duas vezes, pedindo atenção para anunciar o compositor da próxima peça. Os casais voltavam para a pista. Ela disse:', 0.2),
  ('i118', 'AU', AI+'Eu vou voltar pro meu lugar.', 0.2),
@@ -211,7 +211,7 @@ if __name__ == "__main__":
     for slug, vk, text, gap in SEG:
         seg_f = f"{BASE}/{slug}.seg.wav"; pf = f"{BASE}/{slug}_p.wav"
         if text.startswith("CLIP:"):
-            ref = os.path.join(os.path.dirname(os.path.abspath(__file__)), {"josh_aurora_intenso": "ref-josh-aurora-intenso.wav", "josh_aurora": "josh_aurora.wav"}[text[5:]])
+            ref = os.path.join(os.path.dirname(os.path.abspath(__file__)), {"josh_aurora_intenso": "ref-josh-aurora-intenso.wav", "josh_aurora": "josh_aurora.wav"}.get(text[5:], text[5:] + ".wav"))
             subprocess.run(["ffmpeg","-y","-i",ref,"-ac","1","-ar",str(SR),seg_f,"-loglevel","error"],check=True)
         if os.path.exists(seg_f):
             a = load(seg_f); src="cache"
