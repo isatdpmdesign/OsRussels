@@ -264,6 +264,6 @@ if __name__ == "__main__":
     if pk>0.97: mix *= 0.97/pk
     sf.write(f"{SCR}/cap19-completo.wav", mix, SR)
     subprocess.run(["ffmpeg","-y","-i",f"{SCR}/cap19-completo.wav","-af",
-        "loudnorm=I=-16:TP=-1.5:LRA=11","-codec:a","libmp3lame","-q:a","2",
+        "loudnorm=I=-16:TP=-1.5:LRA=11","-ar","44100","-codec:a","libmp3lame","-b:a","192k",
         f"{SCR}/cap19-completo.mp3","-loglevel","error"],check=True)
     print("TOTAL", f"{len(mix)/SR:.1f}s")

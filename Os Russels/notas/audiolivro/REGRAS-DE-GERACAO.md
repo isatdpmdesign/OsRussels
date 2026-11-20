@@ -352,6 +352,12 @@ está no livro; a do meio é como se escreve no roteiro de áudio.
 - Depois de gerar, transcrever e procurar o nome: se o nome não aparece na
   transcrição, quase sempre saiu errado (foi assim que se achou o "aurara" e o "Arrav").
 
+## Formato de entrega (Spotify)
+
+- **MP3 CBR 192 kbps, 44,1 kHz, mono**, a partir do `capNN-completo.wav` (nunca
+  recomprimir um MP3). O Spotify recusa abaixo de 128 kbps; o `-q:a 2` antigo dava
+  ~96 kbps em mono. Os `gerar-capNN.py` (18 em diante) já saem assim.
+
 ## Conferência
 
 Antes de mandar, transcrever com faster-whisper (modelo small, int8) e comparar
