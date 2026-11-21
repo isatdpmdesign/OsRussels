@@ -19,6 +19,7 @@ URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-
 SR = 24000
 VOZ = {"Josh": "Zubenelgenubi", "Aurora": "Leda", "Raj": "Algieba"}
 NOME = {"JOSH": "Josh", "AU": "Aurora", "RAJ": "Raj"}
+FORA_DO_BLOCO = {"RAJ"}  # (autora, 21/11) no bloco, falas do Raj saíram na voz do Josh: Raj fica fala por fala
 
 GERAL = ("Leia em português do Brasil, com sotaque brasileiro, como uma cena de audiolivro de romance de época, "
          "interpretada por dois atores, com naturalidade, como conversa de verdade, sem ler, em ritmo calmo, com pausas entre as falas. "
@@ -33,11 +34,11 @@ RAJ = "Raj é o padrinho de Josh, homem maduro: barítono contido, sério, autor
 FAIXAS = {
  "K1": ("j015", "j038", "Cozinha de um casarão, de madrugada, antes do dia; os dois tomam café, sozinhos, horas depois do primeiro beijo. " + AU +
         "Ela está curiosa e mais aberta do que nunca, faz perguntas de verdade; ele responde com calma, sincero, um pouco desarmado, "
-        "e se emociona quando ela fala em coragem."),
+        "e se emociona quando ela fala em coragem: o obrigado dele sai rouco, grave, emocionado."),
  "K2": ("j041", "j075", "Cozinha, de madrugada, café. " + AU + "Ela quer conhecê-lo e pede que ele fale da família; ele conta dos irmãos "
         "e da mãe com carinho e humor leve, rindo pelo nariz às vezes; ela ri baixo, e fica tocada quando o assunto chega ao irmão dela."),
  "K3": ("j077", "j096", "Cozinha, de madrugada. " + AU + "Ela conta da morte do irmão com a voz firme, sem chorar; ele responde com "
-        "ternura e luto próprio. Depois ela diz, decidida, que não se arrepende do beijo; ele responde inteiro, com desejo contido e dor, "
+        "ternura e luto próprio. Depois ela diz que não se arrepende do beijo, com cuidado, séria, sem alegria nenhuma; ele responde inteiro, com desejo contido e dor, "
         "sem drama. No fim, a despedida é rápida, porque a criada vai chegar."),
  "R1": ("j154", "j187", "Biblioteca de manhã. " + RAJ + "Josh acaba de ser pego ouvindo uma conversa particular: está de pé, "
         "respeitoso, firme, assumindo a culpa sem se encolher, com culpa contida por outra coisa que o padrinho não sabe."),
@@ -128,6 +129,26 @@ def ouvir(a):
     a16 = np.interp(np.arange(0, len(a), SR / 16000), np.arange(len(a)), a).astype(np.float32)
     return " ".join(x.text for x in _m.transcribe(a16, language="pt")[0])
 
+_enc = None
+REF_JOSH = None
+LIMITE_TIMBRE = 0.86  # semelhança com as falas do Josh aprovadas pela autora (cap 20: mãe, Berta, Matias, Casandra...)
+
+def timbre(a):
+    """Semelhança (0–1) do timbre desta fala com o Josh aprovado."""
+    global _enc, REF_JOSH
+    from resemblyzer import VoiceEncoder, preprocess_wav
+    if _enc is None:
+        _enc = VoiceEncoder("cpu", verbose=False)
+        REF_JOSH = np.load(os.path.join(os.path.dirname(os.path.abspath(__file__)), "ref-josh-timbre.npy"))
+    a16 = np.interp(np.arange(0, len(a), SR / 16000), np.arange(len(a)), a).astype(np.float32)
+    return float(_enc.embed_utterance(preprocess_wav(a16, 16000)) @ REF_JOSH)
+
+def bate_texto(t, a):
+    """Proporção do texto que a transcrição confirma (pega trecho inventado, duplicado ou cortado)."""
+    h = norm(ouvir(a)); e = norm(t)
+    r = difflib.SequenceMatcher(None, e, h, autojunk=False).ratio()
+    return r
+
 def norm(t):
     t = unicodedata.normalize("NFKD", t.lower()); t = "".join(c for c in t if not unicodedata.combining(c))
     return re.sub(r"[^a-z0-9 ]", " ", t).split()
@@ -178,21 +199,23 @@ if __name__ == "__main__":
                 if a is None: a = x
             if takes > 1: sf.write(f"{OUT}/{bid}.wav", a, SR)
         if not recorta(bid, a) or so_recorte: continue
-        for tent in range(4):  # timbre e o nome "Aurora": refaz o bloco se falhar
+        for tent in range(6):  # timbre e o nome "Aurora": refaz o bloco se falhar
             prob = []
             for sl, f, t in BLOCOS[bid][1]:
+                x = sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0]
+                if bate_texto(t, x) < 0.75: prob.append((sl, "texto não bate: " + ouvir(x)[:50]))
                 if f == "Aurora":  # falante trocado: a fala da Aurora saiu na voz do Josh
-                    hz = f0(sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0])
+                    hz = f0(x)
                     if 0 < hz < 150: prob.append((sl, f"Aurora com {hz} Hz"))
                     continue
                 if f != "Josh": continue  # Raj e outros não passam pela régua do Josh
-                x = sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0]
                 hz = f0(x)
                 if hz > LIMITE_JOSH_HZ or 0 < hz < PISO_JOSH_HZ: prob.append((sl, f"{hz} Hz"))
-                if "bibliotéca" in t and "biblioteca" not in norm(ouvir(x)): prob.append((sl, "biblioteca"))
+                tb = timbre(x)
+                if tb < LIMITE_TIMBRE: prob.append((sl, f"timbre {tb:.2f}"))
                 if "Aurôra" in t and "aurora" not in norm(ouvir(x)): prob.append((sl, "nome: " + ouvir(x)[:40]))
             if not prob: break
-            if tent == 3: print("AINDA COM PROBLEMA (ouvir)", bid, prob); break
+            if tent == 5: print("AINDA COM PROBLEMA (ouvir)", bid, prob); break
             print("REFAZENDO", bid, prob)
             a = gera(bid)
             if a is None or not recorta(bid, a): break

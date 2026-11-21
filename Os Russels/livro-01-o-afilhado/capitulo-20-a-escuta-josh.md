@@ -246,9 +246,9 @@ Por um instante nenhum dos dois se mexeu. A vela estava quase no fim, e a cozinh
 
 A porta da frente abriu às seis e dezessete. Helle. Os dois ouviram o ruído. Aurora levantou-se primeiro, pegou a caneca, lavou no balde, virou de boca para baixo no escorredor. Josh fez o mesmo.
 
-— Vou subir — disse Aurora. — Antes de Helle chegar na cozinha.
+— Vou subir antes de Helle chegar na cozinha — disse Aurora.
 
-— Vai.
+— Tudo bem. Eu vou depois de você. E... obrigado, Aurora. Por ter dividido tanto comigo, e por ter me escutado.
 
 Ela passou perto dele na saída.
 
@@ -480,7 +480,7 @@ Josh sentiu o sangue subir no rosto. Não era vergonha, era tarde demais para ve
 
 — Padrinho, dizer a verdade ali não teve mérito. Foi só o que dava pra fazer.
 
-— Tem gente que não acha que dá. — Raj levantou-se. Estendeu a mão. — Por isso eu reparei.
+— Muita gente, no seu lugar, teria mentido. — Raj levantou-se. Estendeu a mão. — Por isso eu reparei.
 
 Josh apertou a mão do padrinho.
 
@@ -532,7 +532,7 @@ Fechou a janela. Sentou-se à escrivaninha. Abriu o Grotius na primeira página 
 
 Não brigou com a cabeça. Fechou o livro. Olhou para o teto.
 
-E ficou ali, na cadeira da escrivaninha do quarto leste, com o cheiro vago de cera de vela ainda nos dedos e a tarde inteira pela frente, pensando que se duas semanas era pouco e era muito ao mesmo tempo, ele ainda preferia ter as duas semanas a não ter nada.
+E ficou ali, na cadeira da escrivaninha do quarto leste, com o cheiro vago de cera de vela ainda nos dedos e a tarde inteira pela frente, pensando que duas semanas eram pouco e eram muito ao mesmo tempo. E que ele preferia ter essas duas semanas a não ter nada.
 
 ---
 
