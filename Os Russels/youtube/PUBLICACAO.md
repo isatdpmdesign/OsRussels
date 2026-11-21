@@ -13,4 +13,6 @@ Canal: Romance no bolso. Playlist **O Afilhado** (podcast): `PLMzOeRZnDZOg`.
 - Caps 1–3: a autora subiu manualmente.
 - Cap 4: publicado 21/11 — https://www.youtube.com/watch?v=DE9zqrxmdx4 (na playlist)
 - Cap 5: publicado 21/11 — https://www.youtube.com/watch?v=z0fiYUIBIgg (na playlist)
-- Próximo: cap 6. Ritmo de publicação: a definir.
+- Cap 6: publicado 21/11 — https://www.youtube.com/watch?v=D0l_NUrR-IA (na playlist)
+- Cap 7: agendado 21/11 18:07 (playlist pendente)
+- Próximo: cap 8. Ritmo de publicação: a definir.
