@@ -219,6 +219,26 @@ def r_formulas(cfg, cap, linhas, paras, achados):
                         f"{total} fórmulas (teto absoluto: {teto_abs})"))
 
 
+def r_tiques(cfg, cap, linhas, paras, achados):
+    """Expressão boa que virou tique de tanto repetir entre capítulos.
+
+    Cada tique tem cota por capítulo (em geral 1). Passou da cota, aponta
+    todas as ocorrências e as saídas sugeridas — primeiro mudar a frase ou
+    o contexto; o sinônimo é o último recurso.
+    """
+    for item in cfg["revisao"].get("tiques", []):
+        rx = re.compile(item["termo"], re.IGNORECASE)
+        ocorr = [(ini, m) for ini, texto in paras for m in rx.finditer(texto)]
+        cota = item.get("cota", 1)
+        if len(ocorr) <= cota:
+            continue
+        saida = "; ".join(item.get("trocar_por", [])) or "mudar a frase"
+        achados.append((ocorr[0][0], "tiques",
+                        f"{item['nome']!r} ×{len(ocorr)} (cota {cota}) — saídas: {saida}"))
+        for ini, m in ocorr[1:]:
+            achados.append((ini, "tiques", f"{item['nome']!r} de novo"))
+
+
 def r_autorreferencia(cfg, cap, linhas, paras, achados):
     """O personagem não sabe que está num livro."""
     rx = re.compile(r"\b(?:cap\.?|capítulo)\s*\d+", re.IGNORECASE)
@@ -307,6 +327,7 @@ REGRAS = {
     "travessao-narracao": r_travessao_narracao,
     "blacklist": r_blacklist,
     "formulas": r_formulas,
+    "tiques": r_tiques,
     "autorreferencia": r_autorreferencia,
     "sujeira": r_sujeira,
     "vocativo": r_vocativo,

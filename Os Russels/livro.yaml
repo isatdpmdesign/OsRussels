@@ -103,6 +103,60 @@ revisao:
       motivo: "Régua do Josh sobre o Dylan (cap 20). Cada personagem cria a própria."
       desde: "2026-06"
 
+  # Tiques: expressões que viraram eco no livro (levantamento de 21/11/2026:
+  # "meio segundo" 62×, "fechou os olhos" 50×, "em voz alta" 31×...).
+  # Cota por capítulo. Passou, o lint aponta. Saída preferida: mudar a frase
+  # ou o contexto; o sinônimo é o último recurso (autora, 21/11).
+  tiques:
+    - nome: "meio segundo"
+      termo: 'meio[ -]segundo'
+      cota: 1
+      trocar_por: ["um instante", "um piscar", "por um momento", "mostrar o gesto e cortar"]
+    - nome: "em voz alta"
+      termo: 'em voz alta'
+      cota: 1
+      trocar_por: ["dizer o que de fato é: combinou, admitiu, contou, confessou"]
+    - nome: "fechou os olhos"
+      termo: 'fech(ou|ava|aram) os olhos'
+      cota: 1
+      trocar_por: ["baixou as pálpebras", "outro gesto do corpo: respirou, travou o maxilar"]
+    - nome: "ao mesmo tempo"
+      termo: 'ao mesmo tempo'
+      cota: 1
+      trocar_por: ["junto", "de uma vez", "enquanto"]
+    - nome: "não era X. Era Y."
+      termo: '\bnão era [^.!?]{2,60}[.!?—–] *era\b'
+      cota: 1
+      trocar_por: ["afirmar direto o Y"]
+    - nome: "o canto da boca"
+      termo: 'canto da boca'
+      cota: 1
+      trocar_por: ["meio sorriso", "o sorriso torto", "a boca dele/dela mexeu"]
+    - nome: "ficou em silêncio"
+      termo: 'fic(ou|aram|ava) em silêncio'
+      cota: 1
+      trocar_por: ["não respondeu", "calou", "deixou a frase no ar", "mostrar o que o corpo fez"]
+    - nome: "catalogar"
+      termo: 'catalog'
+      cota: 0
+      trocar_por: ["guardar", "decorar", "aprender", "notar"]
+    - nome: "economia facial/vocal"
+      termo: 'economia (facial|vocal)'
+      cota: 0
+      trocar_por: ["o jeito dela de não mostrar nada", "o rosto fechado"]
+    - nome: "jasmim e canela"
+      termo: 'jasmim e canela'
+      cota: 1
+      trocar_por: ["o cheiro dela", "um detalhe novo do cheiro (do cabelo, da pele, do roupão)"]
+    - nome: "cinco e quarenta e cinco"
+      termo: 'cinco e quarenta e cinco|5h45'
+      cota: 1
+      trocar_por: ["a hora dos dois", "antes de a casa acordar"]
+    - nome: "vela trocada"
+      termo: 'vela trocada'
+      cota: 0
+      trocar_por: ["imagem nova, desta cena"]
+
   # Falas que são pergunta e terminam sem "?" — erro nº 1 do projeto.
   # Aberturas que em PT-BR são quase sempre pergunta. Alta confiança:
   # o que sair daqui sem "?" é erro de verdade na esmagadora maioria.
