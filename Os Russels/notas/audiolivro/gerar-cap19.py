@@ -25,7 +25,12 @@ def tts(slug, voice, text, tries=4):
         except subprocess.SubprocessError:
             if t < tries - 1: time.sleep(5); continue
             print("CURL FALHOU", slug); return None
-        d = json.load(open(outf))
+        try:
+            d = json.load(open(outf))
+        except json.JSONDecodeError:  # o curl --retry às vezes junta duas respostas no mesmo arquivo
+            raw = open(outf).read(); d = {"error": raw[:300]}
+            if "RESOURCE_EXHAUSTED" in raw or '"code": 429' in raw:
+                print("FALHOU", slug, "429 cota esgotada"); return None
         try:
             pcm = base64.b64decode(d["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
             return np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
