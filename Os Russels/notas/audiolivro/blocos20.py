@@ -32,15 +32,19 @@ RAJ = "Raj é o padrinho de Josh, homem maduro: barítono contido, sério, autor
 
 # bloco: (primeira fala, última fala, direção de cena daquele momento)
 FAIXAS = {
- "K1": ("j015", "j038", "Cozinha de um casarão, de madrugada, antes do dia; os dois tomam café, sozinhos, horas depois do primeiro beijo. " + AU +
-        "Ela está curiosa e mais aberta do que nunca, faz perguntas de verdade; ele responde com calma, sincero, um pouco desarmado, "
-        "e se emociona quando ela fala em coragem: o obrigado dele sai rouco, grave, emocionado."),
- "K2": ("j041", "j075", "Cozinha, de madrugada, café. " + AU + "Ela quer conhecê-lo e pede que ele fale da família; ele conta dos irmãos "
-        "e da mãe com carinho e humor leve, rindo pelo nariz às vezes; ela ri baixo, e fica tocada quando o assunto chega ao irmão dela."),
- "K3": ("j077", "j096", "Cozinha, de madrugada. " + AU + "Ela conta da morte do irmão com a voz firme, sem chorar; ele responde com "
-        "ternura e luto próprio. Depois ela diz que não se arrepende do beijo, com cuidado, séria, sem alegria nenhuma; ele responde inteiro, com desejo contido e dor, "
-        "sem drama. No fim, a despedida é rápida, porque a criada vai chegar."),
- "R1": ("j154", "j187", "Biblioteca de manhã. " + RAJ + "Josh acaba de ser pego ouvindo uma conversa particular: está de pé, "
+ "K1": ("p008", "p041", "Cozinha de um casarão, de madrugada, horas depois do primeiro beijo dos dois. " + AU +
+        "Os dois estão sem jeito. Ela puxa conversa e insiste, cobra, provoca, sem desistir; ele recua por honra, firme e "
+        "honesto, até ceder e aceitar ser amigo dela. Depois, com o café ruim, o gelo quebra: ela faz piada, ele ri de "
+        "verdade, e ela confessa, sem drama, que quer o amigo que ri alto."),
+ "K2": ("p042", "p061", "Cozinha, de madrugada, agora como amigos. " + AU + "Ela pergunta por que ele foi estudar; ele explica "
+        "com calma e sinceridade, um pouco desarmado. Quando ela fala em coragem, o obrigado dele sai rouco, grave, emocionado, "
+        "e ele culpa o café; ela ri."),
+ "K3": ("p062", "p102", "Cozinha, de madrugada. " + AU + "Ele fala dos irmãos com carinho e humor, rindo de si mesmo; ela ri alto "
+        "e provoca. Na cadeira vazia do pai dele e do irmão dela, os dois ficam sérios por um momento, e depois voltam a rir."),
+ "K4": ("p103", "p129", "Cozinha, de madrugada, quase amanhecendo. " + AU + "Ele fala da mãe com ternura; os dois contam das mortes "
+        "na família, ela com a voz firme, sem chorar, ele com luto próprio. No fim, se despedem como amigos, mas nenhum dos dois "
+        "acredita: o de nada... amigo dela tem uma pausa, e o dele também."),
+ "R1": ("p179", "p211", "Biblioteca de manhã. " + RAJ + "Josh acaba de ser pego ouvindo uma conversa particular: está de pé, "
         "respeitoso, firme, assumindo a culpa sem se encolher, com culpa contida por outra coisa que o padrinho não sabe."),
 }
 
