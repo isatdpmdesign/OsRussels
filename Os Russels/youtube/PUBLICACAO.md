@@ -11,4 +11,5 @@ Canal: Romance no bolso. Playlist **O Afilhado** (podcast): `PLMzOeRZnDZOg`.
 
 ## Estado
 - Caps 1–3: a autora subiu manualmente.
-- Próximo: cap 4. Ritmo de publicação: a definir (um por dia ou um por semana).
+- Cap 4: publicado 21/11 — https://www.youtube.com/watch?v=DE9zqrxmdx4 (na playlist)
+- Próximo: cap 5. Ritmo de publicação: a definir.
