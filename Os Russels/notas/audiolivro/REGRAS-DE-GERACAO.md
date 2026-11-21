@@ -352,6 +352,18 @@ está no livro; a do meio é como se escreve no roteiro de áudio.
 - Depois de gerar, transcrever e procurar o nome: se o nome não aparece na
   transcrição, quase sempre saiu errado (foi assim que se achou o "aurara" e o "Arrav").
 
+## Régua de timbre do Josh (cap 20, 21/11)
+
+- `ref-josh-timbre.npy`: a "impressão de voz" das falas do Josh que a autora
+  aprovou no cap 20 (mãe, Berta, Matias, Casandra, "Não, ninguém senta").
+  O `blocos20.py` compara cada fala nova (resemblyzer) e refaz abaixo de 0,86
+  (0,70 em fala curta, que sempre marca baixo). Pega o grave; o fino sutil
+  ainda escapa: só a escuta da autora fecha.
+- Toda fala de bloco é transcrita e comparada com o texto (≥ 0,75): pega
+  trecho inventado, fala duplicada e fala cortada.
+- **Raj fica fora do bloco**: as vozes do Raj e do Josh são próximas e o modelo
+  troca os dois.
+
 ## Formato de entrega (Spotify)
 
 - **MP3 CBR 192 kbps, 44,1 kHz, mono**, a partir do `capNN-completo.wav` (nunca
