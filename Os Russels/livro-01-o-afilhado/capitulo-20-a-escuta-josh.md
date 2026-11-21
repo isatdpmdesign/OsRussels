@@ -110,7 +110,7 @@ E Josh riu. Riu de verdade, com o ombro, alto demais para aquela hora, e teve qu
 
 — Ela me contou de um bode que o Lauritz tentou domar. Era impossível não rir.
 
-— Comigo você nunca tinha rido assim. Cinco meses, e nem uma vez. — Ela deu de ombros. Importava. — É isso que eu quero. Se é pra ser amigo, eu quero esse. O que ri com a Vibeke. Sem trava.
+— Você já foi meu professor. Já foi meu conselheiro. Agora eu quero que você seja meu amigo. Como você é amigo da Vibeke. — Ela deu de ombros. Importava. — Eu nunca vi você rir tão alto quanto você ri com ela.
 
 Josh não soube o que responder. Bebeu o café horrível para ter onde pôr a boca.
 

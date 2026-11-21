@@ -292,9 +292,9 @@ Aurora sentiu o calor da palma dele cobrir as costas da mão dela. Os dedos dele
 
 Aurora pôs a mão livre no próprio peito, em cima da camisola, entre os seios. Josh ficou parado.
 
-— Aurora.
+— Aurora... a gente é amigo.
 
-— Encosta o ouvido. Eu quero que você ouça que o coração tá funcionando.
+— Encosta o ouvido. Amigos cuidam uns dos outros. Eu quero que você ouça que o coração tá funcionando.
 
 — Aurora.
 
