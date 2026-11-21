@@ -63,7 +63,9 @@ def cobrir(img, w, h):
 
 
 def montar_fundo(imagem, cap, titulo):
-    base = Image.new("RGBA", (W, H), FUNDO + (255,))
+    # fundo: a própria cena, em tela cheia, desfocada e escurecida
+    fundo = cobrir(Image.open(imagem).convert("RGB"), W, H).filter(ImageFilter.GaussianBlur(16))
+    base = Image.alpha_composite(fundo.convert("RGBA"), Image.new("RGBA", (W, H), FUNDO + (140,)))
     base.alpha_composite(brilho(960, 170, 470, 260, (200, 10, 90), 200, 120))
     base.alpha_composite(brilho(960, 900, 430, 120, (40, 80, 200), 150, 90))
 
