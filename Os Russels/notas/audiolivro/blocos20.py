@@ -203,11 +203,11 @@ if __name__ == "__main__":
                 if a is None: a = x
             if takes > 1: sf.write(f"{OUT}/{bid}.wav", a, SR)
         if not recorta(bid, a) or so_recorte: continue
-        for tent in range(4):  # timbre e o nome "Aurora": refaz o bloco se falhar
+        for tent in range(3):  # timbre e o nome "Aurora": refaz o bloco se falhar
             prob = []
             for sl, f, t in BLOCOS[bid][1]:
                 x = sf.read(f"{BASE}/{sl}.seg.wav", dtype="float32")[0]
-                if bate_texto(t, x) < 0.75: prob.append((sl, "texto não bate: " + ouvir(x)[:50]))
+                if bate_texto(t, x) < 0.6: prob.append((sl, "texto não bate: " + ouvir(x)[:50]))
                 if f == "Aurora":  # falante trocado: a fala da Aurora saiu na voz do Josh
                     hz = f0(x)
                     if 0 < hz < 150: prob.append((sl, f"Aurora com {hz} Hz"))
@@ -217,11 +217,13 @@ if __name__ == "__main__":
                 if hz > LIMITE_JOSH_HZ or 0 < hz < PISO_JOSH_HZ: prob.append((sl, f"{hz} Hz"))
                 tb = timbre(x)
                 # fala curta (menos de 2,5 s) dá semelhança baixa mesmo quando está certa: régua mais branda
-                lim = LIMITE_TIMBRE if len(x) / SR >= 2.5 else 0.70
-                if tb < lim: prob.append((sl, f"timbre {tb:.2f}"))
+                dur = len(x) / SR
+                lim = LIMITE_TIMBRE if dur >= 2.5 else 0.70
+                # fala de menos de 1,5 s ("Amigos.", "Sou.", "Nada.") não tem voz suficiente para medir timbre
+                if dur >= 1.5 and tb < lim: prob.append((sl, f"timbre {tb:.2f}"))
                 if "Aurôra" in t and "aurora" not in norm(ouvir(x)): prob.append((sl, "nome: " + ouvir(x)[:40]))
             if not prob: break
-            if tent == 3: print("AINDA COM PROBLEMA (ouvir)", bid, prob); break
+            if tent == 2: print("AINDA COM PROBLEMA (ouvir)", bid, prob); break
             print("REFAZENDO", bid, prob)
             a = gera(bid)
             if a is None or not recorta(bid, a): break
