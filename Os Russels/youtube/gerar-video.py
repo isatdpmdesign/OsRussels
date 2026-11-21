@@ -192,7 +192,7 @@ def main():
            "-i", a.audio,
            "-filter_complex", f"[0:v][1:v]overlay={ox}:{oy}:shortest=1,format=yuv420p[v]",
            "-map", "[v]", "-map", "2:a",
-           "-c:v", "libx264", "-preset", "veryfast", "-tune", "stillimage", "-crf", "22",
+           "-c:v", "libx264", "-preset", "veryfast", "-tune", "stillimage", "-crf", "28",
            "-g", str(FPS * 4), "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
            "-movflags", "+faststart", "-shortest", a.saida]
     p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
