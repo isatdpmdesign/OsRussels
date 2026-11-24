@@ -14,5 +14,14 @@ Canal: Romance no bolso. Playlist **O Afilhado** (podcast): `PLMzOeRZnDZOg`.
 - Cap 4: publicado 21/11 — https://www.youtube.com/watch?v=DE9zqrxmdx4 (na playlist)
 - Cap 5: publicado 21/11 — https://www.youtube.com/watch?v=z0fiYUIBIgg (na playlist)
 - Cap 6: publicado 21/11 — https://www.youtube.com/watch?v=D0l_NUrR-IA (na playlist)
-- Cap 7: agendado 21/11 18:07 (playlist pendente)
-- Próximo: cap 8. Ritmo de publicação: a definir.
+- Cap 7: publicado 21/11 — https://www.youtube.com/watch?v=HAcKwL9mHpA (na playlist)
+- Cap 8: agendado 24/11 13:16 (imagem gerada pelo Claude no Higgsfield)
+- Próximo: cap 9. Ritmo de publicação: a definir.
+
+## Imagens no Higgsfield (Claude gera direto)
+Modelo `nano_banana_pro`, 4:3, ~2 créditos. Elementos travados (`<<<id>>>` no prompt):
+- Josh rosto oficial `07fcd21e-caf9-455a-b304-813544cd7bf0` · Josh-jardim `e515bff3-…` · Josh_cidade `cbcad873-…` · Josh-noite `5815d835-…` · Josh-festa `cc8e489a-…`
+- Aurora: vestido-amarelo `3d4a2dfb-…` · camisola `a09de102-…` · baile `73ed125e-…` · vestido-azul `822cb596-…` · vestido-bordô `0f48bed4-…` · meio-luto `2d72509b-…`
+- Raj `4d6094ff-…` · Eleonora `2a0e54f4-…` · Cassandra `bb5a228c-…` · Erik Mortensen `380f5cc5-…`
+- Ambientes: Jardim-em-junho `7e840311-…` · Cozinha-Svensson-6h `dbc203b3-…` · Quarto-leste `126847f2-…` · Sala de música dos Holst `5e8749a0-…` · Celeiro em festa `807f7b1e-…` · Depósito com luar `de36eda5-…`
+(IDs completos: elements_search no Higgsfield.)
