@@ -89,6 +89,15 @@
 - **Reciclar fórmulas/observações entre capítulos** — proibido. Cada personagem cria a régua dele agora.
 - **Subagentes alucinam canon** — usar só pra triagem ampla; fato canônico verifica a autora ou eu mesma (grep + leitura).
 
+
+## Divulgação (redes sociais)
+
+- **25/11/2026 — Conteúdo sensual na divulgação liberado (nível "Bridgerton de TV aberta").** A regra anterior ("nada além do beijo") foi revogada pela autora. Pode mostrar beijo, pele, ombros, mãos, boca na clavícula, colo — sempre sugerido, nunca explícito, sem nudez nem cena de despir. Motivo: o público responde a isso. Atenção: impulsionamento na Meta pode reprovar conteúdo sugestivo.
+- **25/11/2026 — Hashtags: no máximo 5 por post.**
+- **25/11/2026 — CTA padrão de todos os posts:** "Audiolivro grátis — comenta QUERO que eu te mando o link."
+- **Nunca citar a idade da Aurora na divulgação** (regra mantida).
+- **Spoiler:** em vídeos de divulgação, evitar revelar o desfecho das cenas-chave.
+
 ---
 
 *Última atualização: junho de 2026, após Cap 30 escrito (redesenho do Ato 3 em 10 capítulos: 30-39).*
