@@ -130,7 +130,7 @@ def quebrar(txt, fonte, larg, d):
     return linhas + [atual]
 
 
-def tela_final(imagem, cap, titulo):
+def tela_final(imagem, cap, titulo, selo="A SEGUIR", botao="OUÇA AGORA", pe="Playlist O Afilhado · Romance no Bolso"):
     """Tela dos últimos 20 s: chama para o próximo capítulo. O lado direito fica livre
     para os elementos da tela final do YouTube (vídeo/playlist e inscrever-se)."""
     base = cobrir(Image.open(imagem).convert("RGB"), W, H).filter(ImageFilter.GaussianBlur(14)).convert("RGBA")
@@ -142,9 +142,9 @@ def tela_final(imagem, cap, titulo):
     base.alpha_composite(logo, (x - 8, 110))
     fsel = ImageFont.truetype(os.path.join(ASSETS, "Montserrat-ExtraBold.ttf"), 26)
     y = 330
-    l, t, r, b = d.textbbox((0, 0), "A SEGUIR", font=fsel)
+    l, t, r, b = d.textbbox((0, 0), selo, font=fsel)
     d.rounded_rectangle((x, y, x + r - l + 40, y + b - t + 22), 24, fill=(255, 8, 100))
-    d.text((x + 20 - l, y + 11 - t), "A SEGUIR", font=fsel, fill=(255, 255, 255))
+    d.text((x + 20 - l, y + 11 - t), selo, font=fsel, fill=(255, 255, 255))
     fcap = ImageFont.truetype(os.path.join(ASSETS, "Urbanist-Light.ttf"), 46)
     d.text((x, y + 80), f"Capítulo {cap}", font=fcap, fill=(240, 236, 240))
     ftit = ImageFont.truetype(os.path.join(ASSETS, "PlayfairDisplay-BlackItalic.ttf"), 84)
@@ -154,7 +154,7 @@ def tela_final(imagem, cap, titulo):
         yy += 96
     fbt = ImageFont.truetype(os.path.join(ASSETS, "Montserrat-ExtraBold.ttf"), 30)
     yy += 30
-    txt = "OUÇA AGORA"
+    txt = botao
     l, t, r, b = d.textbbox((0, 0), txt, font=fbt)
     w = r - l
     d.rounded_rectangle((x, yy, x + w + 100, yy + b - t + 30), 34, fill=(255, 255, 255))
@@ -162,7 +162,7 @@ def tela_final(imagem, cap, titulo):
     cx, cy = x + 28 + w + 30, yy + (b - t + 30) // 2
     d.polygon([(cx - 9, cy - 12), (cx - 9, cy + 12), (cx + 12, cy)], fill=(255, 8, 100))
     fpe = ImageFont.truetype(os.path.join(ASSETS, "Urbanist-Light.ttf"), 30)
-    d.text((x, yy + 110), "Playlist O Afilhado · Romance no Bolso", font=fpe, fill=(210, 205, 212))
+    d.text((x, yy + 110), pe, font=fpe, fill=(210, 205, 212))
     return base
 
 
@@ -219,12 +219,16 @@ def main():
     ap.add_argument("--gancho", help="wav da narradora chamando o próximo capítulo")
     ap.add_argument("--prox-imagem", help="imagem do próximo capítulo (tela final)")
     ap.add_argument("--preview-final", help="salva só a tela final PNG e sai")
+    ap.add_argument("--em-breve", action="store_true", help="tela final 'Em breve' (próximo capítulo ainda não publicado)")
     a = ap.parse_args()
 
     t_final = None
     if a.gancho or a.preview_final:
-        prox = titulo_do_capitulo(a.cap + 1)
-        final = tela_final(a.prox_imagem or a.imagem, a.cap + 1, prox)
+        if a.em_breve:
+            final = tela_final(a.prox_imagem or a.imagem, a.cap + 1, "Em breve.", selo="EM BREVE",
+                               botao="ATIVE O SININHO", pe="Inscreva-se no canal Romance no Bolso")
+        else:
+            final = tela_final(a.prox_imagem or a.imagem, a.cap + 1, titulo_do_capitulo(a.cap + 1))
         if a.preview_final:
             final.save(a.preview_final); print(a.preview_final); return
         dur_main = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",

@@ -38,5 +38,9 @@ for a in sys.argv[1:]:
     n = int(a); prox = titulo(n + 1)
     texto = (f"Diga em português do Brasil, num tom caloroso e convidativo, sem pressa: "
              f"No próximo capítulo de O Afilhado... {prox}. Ouça agora, na playlist do canal Romance no Bolso.")
+    if os.environ.get("EM_BREVE"):
+        texto = ("Diga em português do Brasil, num tom caloroso e convidativo, sem pressa: "
+                 f"O capítulo {n + 1} de O Afilhado chega em breve. Ative o sininho do canal Romance no Bolso, "
+                 "para ouvir assim que sair.")
     out = os.path.join(AQUI, "ganchos", f"cap{n:02d}.wav")
     print(n, prox, tts(texto, out))
