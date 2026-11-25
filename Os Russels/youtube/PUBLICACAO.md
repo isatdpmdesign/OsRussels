@@ -15,8 +15,10 @@ Canal: Romance no bolso. Playlist **O Afilhado** (podcast): `PLMzOeRZnDZOg`.
 - Cap 5: publicado 21/11 — https://www.youtube.com/watch?v=z0fiYUIBIgg (na playlist)
 - Cap 6: publicado 21/11 — https://www.youtube.com/watch?v=D0l_NUrR-IA (na playlist)
 - Cap 7: publicado 21/11 — https://www.youtube.com/watch?v=HAcKwL9mHpA (na playlist)
-- Cap 8: publicado 24/11 — https://www.youtube.com/watch?v=M3RXG9f_NfM (na playlist; miniatura falhou no Metricool, subir à mão)
-- Próximo: cap 9. Ritmo de publicação: a definir.
+- Cap 8: 1ª versão (M3RXG9f_NfM) saiu sem capa → privada; republicado 25/11 19:50 com gancho
+- Caps 9, 10, 11: agendados 25/11 20:10, 20:30, 20:50 (com gancho)
+- A partir do cap 8: gancho final (narradora + tela "A seguir", 20 s). Tela final clicável do YouTube: a autora configura no Studio (importar de vídeo).
+- Próximo: cap 12. Ritmo de publicação: a definir.
 
 ## Imagens no Higgsfield (Claude gera direto)
 Modelo `nano_banana_pro`, 4:3, ~2 créditos. Elementos travados (`<<<id>>>` no prompt):
