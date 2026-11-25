@@ -119,6 +119,53 @@ def montar_fundo(imagem, cap, titulo):
     return base.convert("RGB")
 
 
+def quebrar(txt, fonte, larg, d):
+    linhas, atual = [], ""
+    for w in txt.split():
+        t = (atual + " " + w).strip()
+        if d.textlength(t, font=fonte) <= larg:
+            atual = t
+        else:
+            linhas.append(atual); atual = w
+    return linhas + [atual]
+
+
+def tela_final(imagem, cap, titulo):
+    """Tela dos últimos 20 s: chama para o próximo capítulo. O lado direito fica livre
+    para os elementos da tela final do YouTube (vídeo/playlist e inscrever-se)."""
+    base = cobrir(Image.open(imagem).convert("RGB"), W, H).filter(ImageFilter.GaussianBlur(14)).convert("RGBA")
+    base.alpha_composite(Image.new("RGBA", (W, H), (14, 10, 12, 175)))
+    base.alpha_composite(brilho(500, 140, 520, 260, (200, 10, 90), 170, 130))
+    d = ImageDraw.Draw(base)
+    x = 130
+    logo = Image.open(os.path.join(ASSETS, "logo-romance-no-bolso.png")).convert("RGBA").resize((250, 112), Image.LANCZOS)
+    base.alpha_composite(logo, (x - 8, 110))
+    fsel = ImageFont.truetype(os.path.join(ASSETS, "Montserrat-ExtraBold.ttf"), 26)
+    y = 330
+    l, t, r, b = d.textbbox((0, 0), "A SEGUIR", font=fsel)
+    d.rounded_rectangle((x, y, x + r - l + 40, y + b - t + 22), 24, fill=(255, 8, 100))
+    d.text((x + 20 - l, y + 11 - t), "A SEGUIR", font=fsel, fill=(255, 255, 255))
+    fcap = ImageFont.truetype(os.path.join(ASSETS, "Urbanist-Light.ttf"), 46)
+    d.text((x, y + 80), f"Capítulo {cap}", font=fcap, fill=(240, 236, 240))
+    ftit = ImageFont.truetype(os.path.join(ASSETS, "PlayfairDisplay-BlackItalic.ttf"), 84)
+    yy = y + 150
+    for linha in quebrar(titulo, ftit, 860, d):
+        d.text((x, yy), linha, font=ftit, fill=(255, 255, 255))
+        yy += 96
+    fbt = ImageFont.truetype(os.path.join(ASSETS, "Montserrat-ExtraBold.ttf"), 30)
+    yy += 30
+    txt = "OUÇA AGORA"
+    l, t, r, b = d.textbbox((0, 0), txt, font=fbt)
+    w = r - l
+    d.rounded_rectangle((x, yy, x + w + 100, yy + b - t + 30), 34, fill=(255, 255, 255))
+    d.text((x + 28 - l, yy + 15 - t), txt, font=fbt, fill=(20, 14, 18))
+    cx, cy = x + 28 + w + 30, yy + (b - t + 30) // 2
+    d.polygon([(cx - 9, cy - 12), (cx - 9, cy + 12), (cx + 12, cy)], fill=(255, 8, 100))
+    fpe = ImageFont.truetype(os.path.join(ASSETS, "Urbanist-Light.ttf"), 30)
+    d.text((x, yy + 110), "Playlist O Afilhado · Romance no Bolso", font=fpe, fill=(210, 205, 212))
+    return base
+
+
 def envelope(audio):
     sr = 16000
     raw = subprocess.run(["ffmpeg", "-v", "error", "-i", audio, "-ac", "1", "-ar", str(sr),
@@ -169,7 +216,28 @@ def main():
     ap.add_argument("--audio", required=True)
     ap.add_argument("--saida")
     ap.add_argument("--preview", help="salva só um quadro PNG (t=60s) e sai")
+    ap.add_argument("--gancho", help="wav da narradora chamando o próximo capítulo")
+    ap.add_argument("--prox-imagem", help="imagem do próximo capítulo (tela final)")
+    ap.add_argument("--preview-final", help="salva só a tela final PNG e sai")
     a = ap.parse_args()
+
+    t_final = None
+    if a.gancho or a.preview_final:
+        prox = titulo_do_capitulo(a.cap + 1)
+        final = tela_final(a.prox_imagem or a.imagem, a.cap + 1, prox)
+        if a.preview_final:
+            final.save(a.preview_final); print(a.preview_final); return
+        dur_main = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                         "-of", "csv=p=0", a.audio], capture_output=True, text=True).stdout)
+        junto = (a.saida or "x") + ".audio.wav"
+        # capítulo + 1,2 s + gancho, e a tela final dura 20 s no total
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", a.audio, "-i", a.gancho, "-filter_complex",
+                        "[0:a]aresample=48000,aformat=channel_layouts=mono[a0];"
+                        "[1:a]aresample=48000,aformat=channel_layouts=mono,adelay=1200[a1];"
+                        "[a0][a1]concat=n=2:v=0:a=1,apad=whole_dur=" + f"{dur_main + 20:.2f}" + "[o]",
+                        "-map", "[o]", junto], check=True)
+        a.audio = junto
+        t_final = dur_main + 0.6
 
     titulo = titulo_do_capitulo(a.cap)
     fundo = montar_fundo(a.imagem, a.cap, titulo)
@@ -186,11 +254,19 @@ def main():
 
     fundo_png = a.saida + ".fundo.png"
     fundo.save(fundo_png)
-    cmd = ["ffmpeg", "-y", "-v", "error", "-stats",
-           "-loop", "1", "-framerate", str(FPS), "-i", fundo_png,
-           "-f", "rawvideo", "-pix_fmt", "rgba", "-s", f"{larg}x{alt}", "-r", str(FPS), "-i", "-",
-           "-i", a.audio,
-           "-filter_complex", f"[0:v][1:v]overlay={ox}:{oy}:shortest=1,format=yuv420p[v]",
+    entradas = ["-loop", "1", "-framerate", str(FPS), "-i", fundo_png,
+                "-f", "rawvideo", "-pix_fmt", "rgba", "-s", f"{larg}x{alt}", "-r", str(FPS), "-i", "-",
+                "-i", a.audio]
+    filtro = f"[0:v][1:v]overlay={ox}:{oy}:shortest=1[b]"
+    if t_final is not None:
+        final_png = a.saida + ".final.png"
+        final.save(final_png)
+        entradas += ["-loop", "1", "-framerate", str(FPS), "-i", final_png]
+        filtro += (f";[3:v]format=rgba,fade=t=in:st={t_final:.2f}:d=0.8:alpha=1[f]"
+                   f";[b][f]overlay=0:0:shortest=1:enable='gte(t,{t_final:.2f})'[b]")
+    filtro += ";[b]format=yuv420p[v]"
+    cmd = ["ffmpeg", "-y", "-v", "error", "-stats"] + entradas + [
+           "-filter_complex", filtro,
            "-map", "[v]", "-map", "2:a",
            "-c:v", "libx264", "-preset", "veryfast", "-tune", "stillimage", "-crf", "28",
            "-g", str(FPS * 4), "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
@@ -202,6 +278,9 @@ def main():
     p.stdin.close()
     p.wait()
     os.remove(fundo_png)
+    for extra in (a.saida + ".final.png", a.saida + ".audio.wav"):
+        if os.path.exists(extra):
+            os.remove(extra)
     if p.returncode:
         sys.exit(p.returncode)
     print(a.saida)
