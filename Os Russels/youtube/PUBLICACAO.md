@@ -17,7 +17,8 @@ Canal: Romance no bolso. Playlist **O Afilhado** (podcast): `PLMzOeRZnDZOg`.
 - Cap 7: publicado 21/11 — https://www.youtube.com/watch?v=HAcKwL9mHpA (na playlist)
 - Cap 8: 1ª versão (M3RXG9f_NfM) saiu sem capa → privada; republicado 25/11 19:50 com gancho
 - Cap 8: ss1DIMYhfIM · Cap 9: muw4a7SU_6c · Cap 10: McVvD7y96Uk · Cap 11: 3konzpa2UHY (publicados 25/11, na playlist)
-- Caps 12–19: agendados de hora em hora, 25/11 21:30 → 26/11 04:30 (19 com tela "Em breve")
+- Cap 12: aldbo9u78No · Cap 13: 586NIT-K_oU · Cap 14: 5T0KUMzqTMw · Cap 15: Cg1SLziDDio · Cap 16: NjMvka52OXA (publicados 25–26/11, na playlist)
+- Caps 17, 18, 19: FALHARAM no Metricool ("You have reached your Metricool account limit"). Vídeos prontos em videos/; republicar quando o limite renovar ou subir à mão no Studio.
 - A partir do cap 8: gancho final (narradora + tela "A seguir", 20 s). Tela final clicável do YouTube: a autora configura no Studio (importar de vídeo).
 - Próximo: cap 12. Ritmo de publicação: a definir.
 
